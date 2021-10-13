@@ -6,6 +6,7 @@ Table of Contents:
   - [Abstract Data Type and Data Structure](#abstract-data-type-and-data-structure)
   - [Runtime Notation](#runtime-notation)
   - [Divide and Conquer](#divide-and-conquer)
+  - [Tree Notes](#tree-notes)
 
 ## Abstract Data Type and Data Structure
 - **Abstract Data Type**: is the set of objects together with operations.
@@ -26,4 +27,6 @@ Table of Contents:
     - [Bisect Left](./divide_and_conquer/bisect_left/description.md)
     - [Bisect Right](./divide_and_conquer/bisect_right/description.md)
   
+## Tree Notes
+- [Notes](./tree/notes.md)
 
