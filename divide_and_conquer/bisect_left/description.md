@@ -1,3 +1,6 @@
+## Divide and Conquer
+Click [here](../notes.md) to go back to the notes page.
+
 ## Description
 Given a **sorted** list L and a number a, return the left most insertion
 point of a into L while remaining the sorted property. For example,

@@ -1,3 +1,6 @@
+## Divide and Conquer
+Click [here](../notes.md) to go back to the notes page.
+
 ## Description
 Write an algorithm that takes as input a non-empty **sorted** list L of **natural numbers** with **no repeated** element, two indicies 0 <= b < e <= len(L), and that returns the smallest natural number that **does not** belong to L[b:e]. For example
 - find([0, 1, 4, 7], 0, 4) = 2

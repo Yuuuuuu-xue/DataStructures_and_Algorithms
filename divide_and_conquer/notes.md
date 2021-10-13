@@ -12,8 +12,8 @@ It applies to runtime of divide-and-conquer algorithms when subproblems all have
 ![Master Theorem](../images/master_theorem.jpg)
 
 ## Examples:
-- [Merge Sort](./merge_sort), runtime: O(n log n)
-- [Find Smallest Not Belong To List](./find_smallest_not_belong)
-- [Binary Search](binary_search)
-- [Bisect Left](bisect_left)
-- [Bisect Right](bisect_right)
+- [Merge Sort](./merge_sort/description.md), runtime: O(n log n)
+- [Find Smallest Not Belong To List](./find_smallest_not_belong/description.md)
+- [Binary Search](binary_search/description.md)
+- [Bisect Left](bisect_left/description.md)
+- [Bisect Right](bisect_right/description.md)
