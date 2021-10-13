@@ -10,6 +10,8 @@ Table of Contents:
 - [Min Heap](#min-heap)
 - [Examples:](#examples)
     - [Array Based Implementation](#array-based-implementation)
+    - [Heap Sort](#heap-sort)
+    - [O(n) Build Heap](#on-build-heap)
 
 
 ## Priority Queue ADT
@@ -37,3 +39,5 @@ Table of Contents:
 ## Examples:
 
 #### [Array Based Implementation](implmentation_of_heap/description.md)
+#### [Heap Sort](heap_sort/description.md)
+#### [O(n) Build Heap](build_heap/description.md)

@@ -18,13 +18,13 @@ class MaxHeap:
         else:
             largest = i
         # go to right if right has even smaller value
-        if right <= self.curr_size and self.heap[right] > self.heap[smallest]:
+        if right <= self.curr_size and self.heap[right] > self.heap[largest]:
             largest = right
         # we need to continue min heapify
         if largest != i:
             # swap the two nodes
             self.heap[i], self.heap[largest] = self.heap[largest], self.heap[i]
-            self.min_heapify(largest)
+            self.max_heapify(largest)
 
     def extra_max(self):
         """
