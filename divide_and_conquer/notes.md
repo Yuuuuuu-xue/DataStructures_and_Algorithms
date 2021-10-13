@@ -1,5 +1,10 @@
-# DataStructures_and_Algorithms
+DataStructures_and_Algorithms
 Click [here](../README.md) to main page
+
+Table of Contents:
+- [Divide and Conquer](#divide-and-conquer)
+  - [Master Theorem](#master-theorem)
+- [Examples:](#examples)
 
 ## Divide and Conquer
 - **Divide**: divide the problem into two or more smaller instances of the same problem (subproblems)

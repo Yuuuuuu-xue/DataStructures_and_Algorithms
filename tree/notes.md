@@ -1,5 +1,9 @@
-# DataStructures_and_Algorithms
+DataStructures_and_Algorithms
 Click [here](../README.md) to main page
+
+Table of Contents:
+- [Tree](#tree)
+- [Examples:](#examples)
 
 ## Tree
 - **height** of a tree is the length of the longest path from the root to a child
