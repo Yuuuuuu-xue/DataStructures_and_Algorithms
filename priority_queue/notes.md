@@ -36,4 +36,4 @@ Table of Contents:
 
 ## Examples:
 
-#### [Array Based Implementation](implmentation_of_heap.py/description.md)
+#### [Array Based Implementation](implmentation_of_heap/description.md)

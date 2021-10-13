@@ -9,6 +9,13 @@ Click [here](../notes.md) to go back to the notes page.
   - right child is at 2 * i + 1
   - parent is at floor(i / 2)
 
+
+#### Operation Runtime Complexity Analysis:
+- **Insert(PQ, x, priority)**: O(lg n)
+- **FindMax(PQ)**: O(1)
+- **ExtractMax(PQ)**: O(lg n)
+
+
 #### Implementation of Max Heap
   - [Python Solution](implementation_max_heap.py), in Python, we can
     ```
