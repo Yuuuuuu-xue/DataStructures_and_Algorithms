@@ -3,8 +3,19 @@ Notes from CSC236, 263, 373 and also the LeetCode journey!
 
 Table of Contents:
 - [DataStructures_and_Algorithms](#datastructures_and_algorithms)
+  - [Abstract Data Type and Data Structure](#abstract-data-type-and-data-structure)
+  - [Runtime Notation](#runtime-notation)
   - [Divide and Conquer](#divide-and-conquer)
 
+## Abstract Data Type and Data Structure
+- **Abstract Data Type**: is the set of objects together with operations.
+  - i.e. Stack, Queue, Priority Queue
+- **Data Structure**: is the implementation of an ADT.
+  - i.e. We can use List or LinkedList to implement Queue
+
+## Runtime Notation
+- **Big O**: upper bound, worst case, argue that algorithm executes no more than c * g(n) steps **on every input** of size n.
+- **Big Omega**: lower bound, best case, find **one** input on which algorithm executes at least c * g(n) steps.
 
 ## Divide and Conquer
 - [Notes](./divide_and_conquer/notes.md)
