@@ -11,6 +11,7 @@ Table of Contents:
 - [Hashing](#hashing)
 - [Sorting Algorithms](#sorting-algorithms)
 - [Graphs](#graphs)
+- [Minimum Spanning Tree](#minimum-spanning-tree)
 
 ## Abstract Data Type and Data Structure
 - **Abstract Data Type**: is the set of objects together with operations.
@@ -57,4 +58,11 @@ Table of Contents:
   - [Quick Sort](./sorting/quick_sort/description.md)
 
 ## Graphs
-- [Definitions](./graphs/notes.md)
+- [Notes](./graphs/notes.md)
+- Examples:
+  - [Is Bilateral (BFS)](./graphs/is_bilateral/description.md)
+
+## Minimum Spanning Tree
+- [Notes](./minimum_spanning_tree/notes.md)
+- Examples:
+  - [Prim Algorithm](./minimum_spanning_tree/prim_algorithm/description.md)
