@@ -30,6 +30,12 @@ Table of Contents:
   
 ## Tree
 - [General Notes](./tree/notes.md)
+- [Binary Search Tree Notes](./BST/notes.md) \
+  Examples:
+  - [Implementation](BST/implementation/description.md)
+- [AVL](./AVL/notes.md) \
+  Examples:
+  - [Implementation](AVL/implementation/description.md)
 
 ## Priority Queue
 - [Notes](./priority_queue/notes.md)
