@@ -10,6 +10,7 @@ Table of Contents:
 - [Priority Queue](#priority-queue)
 - [Hashing](#hashing)
 - [Sorting Algorithms](#sorting-algorithms)
+- [Graphs](#graphs)
 
 ## Abstract Data Type and Data Structure
 - **Abstract Data Type**: is the set of objects together with operations.
@@ -54,3 +55,6 @@ Table of Contents:
 - Examples:
   - [Merge Sort](./sorting/merge_sort/description.md)
   - [Quick Sort](./sorting/quick_sort/description.md)
+
+## Graphs
+- [Definitions](./graphs/notes.md)
