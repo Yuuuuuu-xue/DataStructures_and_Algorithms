@@ -8,6 +8,8 @@ Table of Contents:
 - [Divide and Conquer](#divide-and-conquer)
 - [Tree](#tree)
 - [Priority Queue](#priority-queue)
+- [Hashing](#hashing)
+- [Sorting Algorithms](#sorting-algorithms)
 
 ## Abstract Data Type and Data Structure
 - **Abstract Data Type**: is the set of objects together with operations.
@@ -44,4 +46,11 @@ Table of Contents:
   - [Heap Sort](./priority_queue/heap_sort/description.md)
   - [O(n) Build Heap](./priority_queue/build_heap/description.md)
 
+## Hashing
+- [Notes](./hashing/notes.md)
 
+## Sorting Algorithms
+- [Notes](./sorting/notes.md)
+- Examples:
+  - [Merge Sort](./sorting/merge_sort/description.md)
+  - [Quick Sort](./sorting/quick_sort/description.md)
