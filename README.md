@@ -12,6 +12,7 @@ Table of Contents:
 - [Sorting Algorithms](#sorting-algorithms)
 - [Graphs](#graphs)
 - [Minimum Spanning Tree](#minimum-spanning-tree)
+- [Disjoint Set](#disjoint-set)
 
 ## Abstract Data Type and Data Structure
 - **Abstract Data Type**: is the set of objects together with operations.
@@ -66,3 +67,9 @@ Table of Contents:
 - [Notes](./minimum_spanning_tree/notes.md)
 - Examples:
   - [Prim Algorithm](./minimum_spanning_tree/prim_algorithm/description.md)
+  - [Kruskal Algorithm](./minimum_spanning_tree/kruskal_algorithm/description.md)
+
+## Disjoint Set
+- [Notes](./disjoint_set/notes.md)
+- Examples:
+  - [Disjoint Set with Path Compression by Rank Implementation](disjoint_set/implementation/description.md)

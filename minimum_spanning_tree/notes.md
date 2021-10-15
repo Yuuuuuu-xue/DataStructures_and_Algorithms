@@ -6,6 +6,7 @@ Table of Contents:
 - [Minimum Spanning Tree](#minimum-spanning-tree)
 - [Example](#example)
     - [Prim Algorithm](#prim-algorithm)
+    - [Kruskal Algorithm](#kruskal-algorithm)
 
 ## Spanning Tree
 - A tree produced by running DFS or BFS.
@@ -17,3 +18,4 @@ Table of Contents:
 
 ## Example
 #### [Prim Algorithm](prim_algorithm/description.md)
+#### [Kruskal Algorithm](kruskal_algorithm/description.md)
