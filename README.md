@@ -13,6 +13,7 @@ Table of Contents:
 - [Graphs](#graphs)
 - [Minimum Spanning Tree](#minimum-spanning-tree)
 - [Disjoint Set](#disjoint-set)
+- [Greedy Algorithm](#greedy-algorithm)
 
 ## Abstract Data Type and Data Structure
 - **Abstract Data Type**: is the set of objects together with operations.
@@ -73,3 +74,8 @@ Table of Contents:
 - [Notes](./disjoint_set/notes.md)
 - Examples:
   - [Disjoint Set with Path Compression by Rank Implementation](disjoint_set/implementation/description.md)
+
+## Greedy Algorithm
+- [Notes](./greedy/notes.md)
+- Examples:
+  - [Scheduling Intervals](greedy/interval_scheduling/description.md)
