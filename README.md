@@ -79,3 +79,4 @@ Table of Contents:
 - [Notes](./greedy/notes.md)
 - Examples:
   - [Scheduling Intervals](greedy/interval_scheduling/description.md)
+  - [Interval Partitioning](greedy/interval_partitioning/description.md)
