@@ -14,6 +14,7 @@ Table of Contents:
 - [Minimum Spanning Tree](#minimum-spanning-tree)
 - [Disjoint Set](#disjoint-set)
 - [Greedy Algorithm](#greedy-algorithm)
+- [Dynamic Programming](#dynamic-programming)
 
 ## Abstract Data Type and Data Structure
 - **Abstract Data Type**: is the set of objects together with operations.
@@ -80,3 +81,8 @@ Table of Contents:
 - Examples:
   - [Scheduling Intervals](greedy/interval_scheduling/description.md)
   - [Interval Partitioning](greedy/interval_partitioning/description.md)
+
+## Dynamic Programming
+- [Notes](./dynamic_programming/notes.md)
+- Examples:
+  - [Rod Cutting](dynamic_programming/rod_cutting/description.md)
