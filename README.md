@@ -15,6 +15,7 @@ Table of Contents:
 - [Disjoint Set](#disjoint-set)
 - [Greedy Algorithm](#greedy-algorithm)
 - [Dynamic Programming](#dynamic-programming)
+- [Shorest Weight Path (Dijkstra Algorithm)](#shorest-weight-path-dijkstra-algorithm)
 
 ## Abstract Data Type and Data Structure
 - **Abstract Data Type**: is the set of objects together with operations.
@@ -87,4 +88,9 @@ Table of Contents:
 - Examples:
   - [Rod Cutting](dynamic_programming/rod_cutting/description.md)
   - [Subset Sum](dynamic_programming/subset_sum/description.md)
+
+## Shorest Weight Path (Dijkstra Algorithm)
+- [Notes](./shorest_weight_path/notes.md)
+- Examples:
+  - [Dijkstra Algorithm Implementation](./shorest_weight_path/dijkstra_algorithm/description.md)
 
