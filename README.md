@@ -16,6 +16,7 @@ Table of Contents:
 - [Greedy Algorithm](#greedy-algorithm)
 - [Dynamic Programming](#dynamic-programming)
 - [Shorest Weight Path (Dijkstra Algorithm)](#shorest-weight-path-dijkstra-algorithm)
+- [Bitmask](#bitmask)
 
 ## Abstract Data Type and Data Structure
 - **Abstract Data Type**: is the set of objects together with operations.
@@ -93,4 +94,7 @@ Table of Contents:
 - [Notes](./shorest_weight_path/notes.md)
 - Examples:
   - [Dijkstra Algorithm Implementation](./shorest_weight_path/dijkstra_algorithm/description.md)
+
+## Bitmask
+- [Notes](./bitmask/notes.md)
 
