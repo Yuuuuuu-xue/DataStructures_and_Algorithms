@@ -86,3 +86,5 @@ Table of Contents:
 - [Notes](./dynamic_programming/notes.md)
 - Examples:
   - [Rod Cutting](dynamic_programming/rod_cutting/description.md)
+  - [Subset Sum](dynamic_programming/subset_sum/description.md)
+

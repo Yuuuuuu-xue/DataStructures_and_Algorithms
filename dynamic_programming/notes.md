@@ -7,6 +7,7 @@ Table of Contents:
 - [Differece between Brute Force, Dynamic Programming, and Greedy Algorithm](#differece-between-brute-force-dynamic-programming-and-greedy-algorithm)
 - [Examples:](#examples)
     - [Rod Cutting](#rod-cutting)
+    - [Subset Sum](#subset-sum)
 
 ## Dynamic Programming
 - A **dynamic programming algorithm** for an optimization problem is basically a recursive solution that uses **memoization** to solve repeated calls to the same subproblems.
@@ -28,3 +29,4 @@ Table of Contents:
 
 ## Examples:
 #### [Rod Cutting](rod_cutting/description.md)
+#### [Subset Sum](subset_sum/description.md)
