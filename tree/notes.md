@@ -4,6 +4,7 @@ Click [here](../README.md) to main page
 Table of Contents:
 - [Tree](#tree)
 - [Examples:](#examples)
+    - [Is Balanced Binary Tree](#is-balanced-binary-tree)
 
 ## Tree
 - **height** of a tree is the length of the longest path from the root to a child
@@ -21,3 +22,4 @@ Table of Contents:
         full binary tree.
 
 ## Examples:
+#### [Is Balanced Binary Tree](is_balanced_binary_tree/description.md)
