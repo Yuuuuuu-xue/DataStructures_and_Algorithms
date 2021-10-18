@@ -19,6 +19,7 @@ Table of Contents:
 - [Bitmask](#bitmask)
 - [Fenwick Tree (Binary Indexed Tree)](#fenwick-tree-binary-indexed-tree)
 - [Trie](#trie)
+- [Linked List](#linked-list)
 
 ## Abstract Data Type and Data Structure
 - **Abstract Data Type**: is the set of objects together with operations.
@@ -107,3 +108,8 @@ Table of Contents:
 
 ## Trie
 - [Notes](./trie/notes.md)
+
+## Linked List 
+- [Notes](./linked_list/notes.md)
+- Example:
+  - [First Node of a Cycle in Linked List](./linked_list/linked_list_first_node_cycle/description.md)
