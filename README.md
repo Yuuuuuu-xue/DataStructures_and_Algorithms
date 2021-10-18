@@ -118,4 +118,5 @@ Table of Contents:
 
 ## Array
 - Examples:
-  - [maximum Product Subarray](array/maximum_product_subarray/description.md)
+  - [Maximum Product Subarray](array/maximum_product_subarray/description.md)
+  - [Three Sum Equal To 0](array/3_sum_equal_to_0/description.md)
