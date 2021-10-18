@@ -55,6 +55,7 @@ Table of Contents:
   - [Heap Implementation](./priority_queue/implmentation_heap/description.md)
   - [Heap Sort](./priority_queue/heap_sort/description.md)
   - [O(n) Build Heap](./priority_queue/build_heap/description.md)
+  - [Min Heap with Decrease Key](./priority_queue/min_heap_with_decrease_key/description.md)
 
 ## Hashing
 - [Notes](./hashing/notes.md)
