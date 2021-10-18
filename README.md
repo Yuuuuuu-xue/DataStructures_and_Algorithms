@@ -16,7 +16,7 @@ Table of Contents:
 - [Greedy Algorithm](#greedy-algorithm)
 - [Dynamic Programming](#dynamic-programming)
 - [Shorest Weight Path (Dijkstra Algorithm)](#shorest-weight-path-dijkstra-algorithm)
-- [Bitmask](#bitmask)
+- [Bitmask and Bit Manipulation](#bitmask-and-bit-manipulation)
 - [Fenwick Tree (Binary Indexed Tree)](#fenwick-tree-binary-indexed-tree)
 - [Trie](#trie)
 - [Linked List](#linked-list)
@@ -102,8 +102,10 @@ Table of Contents:
 - Examples:
   - [Dijkstra Algorithm Implementation](./shorest_weight_path/dijkstra_algorithm/description.md)
 
-## Bitmask
-- [Notes](./bitmask/notes.md)
+## Bitmask and Bit Manipulation
+- [Notes](./bitmask_and_bit_manipulation/notes.md)
+- Examples:
+  - [Single Number (XOR)](bitmask_and_bit_manipulation/single_number/description.md)
 
 ## Fenwick Tree (Binary Indexed Tree)
 - [Notes](./fenwick_tree/notes.md)

@@ -12,6 +12,8 @@ Table of Contents:
 - [Set a bit to 1](#set-a-bit-to-1)
 - [Set a bit to 0](#set-a-bit-to-0)
 - [Check if a bit is 0 or 1](#check-if-a-bit-is-0-or-1)
+- [Examples:](#examples)
+    - [Single Number (XOR)](#single-number-xor)
 
 ## Bit Manipulation
 #### Bitwise And
@@ -75,3 +77,5 @@ Get a bit, return True iff bit at index k is 1 otherwise False
 return (mask & (1 << k)) != 0
 ```
 
+## Examples:
+#### [Single Number (XOR)](single_number/description.md)
