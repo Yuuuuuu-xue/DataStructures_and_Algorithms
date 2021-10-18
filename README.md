@@ -17,6 +17,8 @@ Table of Contents:
 - [Dynamic Programming](#dynamic-programming)
 - [Shorest Weight Path (Dijkstra Algorithm)](#shorest-weight-path-dijkstra-algorithm)
 - [Bitmask](#bitmask)
+- [Fenwick Tree (Binary Indexed Tree)](#fenwick-tree-binary-indexed-tree)
+- [Trie](#trie)
 
 ## Abstract Data Type and Data Structure
 - **Abstract Data Type**: is the set of objects together with operations.
@@ -98,3 +100,10 @@ Table of Contents:
 ## Bitmask
 - [Notes](./bitmask/notes.md)
 
+## Fenwick Tree (Binary Indexed Tree)
+- [Notes](./fenwick_tree/notes.md)
+- Examples:
+  - [BIT Implementation](fenwick_tree/BIT_implementation/description.md)
+
+## Trie
+- [Notes](./trie/notes.md)
