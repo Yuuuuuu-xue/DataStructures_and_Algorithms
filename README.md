@@ -20,6 +20,7 @@ Table of Contents:
 - [Fenwick Tree (Binary Indexed Tree)](#fenwick-tree-binary-indexed-tree)
 - [Trie](#trie)
 - [Linked List](#linked-list)
+- [Array](#array)
 
 ## Abstract Data Type and Data Structure
 - **Abstract Data Type**: is the set of objects together with operations.
@@ -114,3 +115,7 @@ Table of Contents:
 - [Notes](./linked_list/notes.md)
 - Example:
   - [First Node of a Cycle in Linked List](./linked_list/linked_list_first_node_cycle/description.md)
+
+## Array
+- Examples:
+  - [maximum Product Subarray](array/maximum_product_subarray/description.md)
