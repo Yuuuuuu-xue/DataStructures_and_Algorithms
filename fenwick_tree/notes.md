@@ -9,6 +9,7 @@ Table of Contents:
 - [update](#update)
 - [Runtime Complexity](#runtime-complexity)
 - [Examples:](#examples)
+    - [Fenwick Tree Implementation](#fenwick-tree-implementation)
 
 ## Problem
 We have an array $arr[0 \dots n - 1]$ and we would like to
@@ -58,6 +59,6 @@ To implement uodate(i, x), we will
 Since number of bits of an integer is $\mathcal{O}(\lg n)$, thus we will traverse at most $\mathcal{O}(\lg n)$ nodes in both getSum and update operations.
 
 ## Examples:
-- [Implementation](BIT_implementation/description.md)
+#### [Fenwick Tree Implementation](BIT_implementation/description.md)
 
 
