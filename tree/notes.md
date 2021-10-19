@@ -5,6 +5,7 @@ Table of Contents:
 - [Tree](#tree)
 - [Examples:](#examples)
     - [Is Balanced Binary Tree](#is-balanced-binary-tree)
+    - [Binary Tree Level Order Traversal](#binary-tree-level-order-traversal)
 
 ## Tree
 - **height** of a tree is the length of the longest path from the root to a child
@@ -23,3 +24,4 @@ Table of Contents:
 
 ## Examples:
 #### [Is Balanced Binary Tree](is_balanced_binary_tree/description.md)
+#### [Binary Tree Level Order Traversal](binary_tree_level_order_traversal/description.md)
