@@ -14,6 +14,7 @@ Table of Contents:
 - [Check if a bit is 0 or 1](#check-if-a-bit-is-0-or-1)
 - [Examples:](#examples)
     - [Single Number (XOR)](#single-number-xor)
+    - [Maximum Product of Word Lengths](#maximum-product-of-word-lengths)
 
 ## Bit Manipulation
 #### Bitwise And
@@ -79,3 +80,4 @@ return (mask & (1 << k)) != 0
 
 ## Examples:
 #### [Single Number (XOR)](single_number/description.md)
+#### [Maximum Product of Word Lengths](maximum_product_of_word_lengths/description.md)

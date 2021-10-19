@@ -114,6 +114,7 @@ Table of Contents:
 - [Notes](./bitmask_and_bit_manipulation/notes.md)
 - Examples:
   - [Single Number (XOR)](bitmask_and_bit_manipulation/single_number/description.md)
+  - [Maximum Product of Word Lengths (Bitmaks)](bitmask_and_bit_manipulation/maximum_product_of_word_lengths/description.md)
 
 ## Fenwick Tree (Binary Indexed Tree)
 - [Notes](./fenwick_tree/notes.md)
