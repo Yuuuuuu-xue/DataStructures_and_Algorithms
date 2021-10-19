@@ -10,6 +10,7 @@ Table of Contents:
     - [Binary Search](#binary-search)
     - [Bisect Left](#bisect-left)
     - [Bisect Right](#bisect-right)
+    - [Find Peak Element](#find-peak-element)
 
 ## Divide and Conquer
 - **Divide**: divide the problem into two or more smaller instances of the same problem (subproblems)
@@ -27,3 +28,4 @@ It applies to runtime of divide-and-conquer algorithms when subproblems all have
 #### [Binary Search](binary_search/description.md)
 #### [Bisect Left](bisect_left/description.md)
 #### [Bisect Right](bisect_right/description.md)
+#### [Find Peak Element](find_peak_element/description.md)

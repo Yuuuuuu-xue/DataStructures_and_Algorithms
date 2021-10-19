@@ -40,6 +40,7 @@ Table of Contents:
     - [Binary Search](./divide_and_conquer/binary_search/description.md)
     - [Bisect Left](./divide_and_conquer/bisect_left/description.md)
     - [Bisect Right](./divide_and_conquer/bisect_right/description.md)
+    - [Find Peak Element](./divide_and_conquer/find_peak_element/description.md)
   
 ## Tree
 - [General Notes](./tree/notes.md)
