@@ -105,6 +105,7 @@ Table of Contents:
   - [Rod Cutting](dynamic_programming/rod_cutting/description.md)
   - [Subset Sum](dynamic_programming/subset_sum/description.md)
   - [Longest Palindromic Substring](dynamic_programming/longest_palindromic_substring/description.md)
+  - [Edit Distance](dynamic_programming/edit_distance/description.md)
 
 ## Shorest Weight Path (Dijkstra Algorithm)
 - [Notes](./shorest_weight_path/notes.md)

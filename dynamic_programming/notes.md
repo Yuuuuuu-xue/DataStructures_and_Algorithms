@@ -9,6 +9,7 @@ Table of Contents:
     - [Rod Cutting](#rod-cutting)
     - [Subset Sum](#subset-sum)
     - [Longest Palindromic Substring](#longest-palindromic-substring)
+    - [Edit Distance](#edit-distance)
 
 ## Dynamic Programming
 - A **dynamic programming algorithm** for an optimization problem is basically a recursive solution that uses **memoization** to solve repeated calls to the same subproblems.
@@ -32,3 +33,4 @@ Table of Contents:
 #### [Rod Cutting](rod_cutting/description.md)
 #### [Subset Sum](subset_sum/description.md)
 #### [Longest Palindromic Substring](longest_palindromic_substring/description.md)
+#### [Edit Distance](edit_distance/description.md)
