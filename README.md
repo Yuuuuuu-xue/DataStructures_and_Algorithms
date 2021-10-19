@@ -62,6 +62,10 @@ Table of Contents:
 
 ## Hashing
 - [Notes](./hashing/notes.md)
+- Examples:
+  - [Group Anagrams](hashing/group_anagrams/description.md)
+  - [Four Sum II](hashing/four_sum_II/description.md)
+  - [Diagonal Traverse](hashing/diagonal_traverse/description.md)
 
 ## Sorting Algorithms
 - [Notes](./sorting/notes.md)
