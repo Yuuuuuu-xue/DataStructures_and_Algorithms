@@ -78,6 +78,7 @@ Table of Contents:
 - [Notes](./graphs/notes.md)
 - Examples:
   - [Is Bilateral (BFS)](./graphs/is_bilateral/description.md)
+  - [Jump Game IV (BFS)](./graphs/jump_game_IV/description.md)
 
 ## Minimum Spanning Tree
 - [Notes](./minimum_spanning_tree/notes.md)
