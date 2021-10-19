@@ -4,6 +4,8 @@ Click [here](../README.md) to main page
 Table of Contents:
 - [Trie](#trie)
 - [An example of a Trie](#an-example-of-a-trie)
+- [Example:](#example)
+    - [Trie Implementation](#trie-implementation)
 
 ## Trie
 Trie is basically a tree (not a binary tree) that stores String.
@@ -31,3 +33,5 @@ So keys are
 - geekt
 - geez
 
+## Example:
+#### [Trie Implementation](trie_implementation/description.md)

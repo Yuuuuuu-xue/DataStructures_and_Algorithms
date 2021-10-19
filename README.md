@@ -120,6 +120,8 @@ Table of Contents:
 
 ## Trie
 - [Notes](./trie/notes.md)
+- Examples:
+  - [Trie Implementation](trie/trie_implementation/description.md)
 
 ## Linked List 
 - [Notes](./linked_list/notes.md)
