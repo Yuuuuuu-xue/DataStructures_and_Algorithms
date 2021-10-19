@@ -49,6 +49,7 @@ Table of Contents:
 - [Binary Search Tree Notes](./BST/notes.md) \
   Examples:
   - [Implementation](BST/implementation/description.md)
+  - [Sorted Linked List to Balanced BST](BST/sorted_linked_list_to_balanced_bst/description.md)
 - [AVL](./AVL/notes.md) \
   Examples:
   - [Implementation](AVL/implementation/description.md)
