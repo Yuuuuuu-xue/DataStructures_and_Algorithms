@@ -82,6 +82,7 @@ Table of Contents:
 - Examples:
   - [Is Bilateral (BFS)](./graphs/is_bilateral/description.md)
   - [Jump Game IV (BFS)](./graphs/jump_game_IV/description.md)
+  - [Schedule Course (DFS detects cycle)](./graphs/course_schedule/description.md)
 
 ## Minimum Spanning Tree
 - [Notes](./minimum_spanning_tree/notes.md)
