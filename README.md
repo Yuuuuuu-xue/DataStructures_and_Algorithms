@@ -47,6 +47,7 @@ Table of Contents:
 - Examples:
   - [Is Balanced Binary Tree](./tree/is_balanced_binary_tree/description.md)
   - [Binary Tree Level Order Traversal](./tree/binary_tree_level_order_traversal/description.md)
+  - [BST to Balanced BST](./tree/bst_to_balance_bst/description.md)
 - [Binary Search Tree Notes](./BST/notes.md) \
   Examples:
   - [Implementation](BST/implementation/description.md)
