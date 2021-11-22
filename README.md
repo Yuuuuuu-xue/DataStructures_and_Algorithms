@@ -109,6 +109,7 @@ Table of Contents:
   - [Subset Sum](dynamic_programming/subset_sum/description.md)
   - [Longest Palindromic Substring](dynamic_programming/longest_palindromic_substring/description.md)
   - [Edit Distance](dynamic_programming/edit_distance/description.md)
+  - [Course Schedule IV FloydWarshall](dynamic_programming/course_schedule_IV/description.md)
 
 ## Shorest Weight Path (Dijkstra Algorithm)
 - [Notes](./shorest_weight_path/notes.md)

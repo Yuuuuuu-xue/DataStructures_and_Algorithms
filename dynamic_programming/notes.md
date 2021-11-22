@@ -10,6 +10,7 @@ Table of Contents:
     - [Subset Sum](#subset-sum)
     - [Longest Palindromic Substring](#longest-palindromic-substring)
     - [Edit Distance](#edit-distance)
+    - [Course Schedule IV FloydWarshall](#course-schedule-iv-floydwarshall)
 
 ## Dynamic Programming
 - A **dynamic programming algorithm** for an optimization problem is basically a recursive solution that uses **memoization** to solve repeated calls to the same subproblems.
@@ -34,3 +35,4 @@ Table of Contents:
 #### [Subset Sum](subset_sum/description.md)
 #### [Longest Palindromic Substring](longest_palindromic_substring/description.md)
 #### [Edit Distance](edit_distance/description.md)
+#### [Course Schedule IV FloydWarshall](course_schedule_IV/description.md)
