@@ -9,6 +9,7 @@ Table of Contents:
 - [Examples:](#examples)
     - [Is Bilteral Graph](#is-bilteral-graph)
     - [Jump Game IV](#jump-game-iv)
+    - [Course Schedule](#course-schedule)
 
 ## Definition
 - A **graph** is a tuple of two sets G = (V, E) where V is the set of vertices and E is the set of edges.
@@ -44,3 +45,5 @@ Table of Contents:
 ## Examples:
 #### [Is Bilteral Graph](is_bilateral/description.md)
 #### [Jump Game IV](jump_game_IV/description.md)
+#### [Course Schedule](course_schedule/description.md)
+

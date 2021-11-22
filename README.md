@@ -100,6 +100,7 @@ Table of Contents:
 - Examples:
   - [Scheduling Intervals](greedy/interval_scheduling/description.md)
   - [Interval Partitioning](greedy/interval_partitioning/description.md)
+  - [Schedule Course III (Greedy Algorithm with max heap)](./greedy/course_schedule_III/description.md)
 
 ## Dynamic Programming
 - [Notes](./dynamic_programming/notes.md)

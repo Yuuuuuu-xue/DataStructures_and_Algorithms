@@ -7,6 +7,7 @@ Table of Contents:
 - [Examples:](#examples)
     - [Interval Scheduling](#interval-scheduling)
     - [Interval Partitioning](#interval-partitioning)
+    - [Course Schedule III](#course-schedule-iii)
 
 ## Greedy Algorithm
 A greedy algorithm for an optimization problem is one that makes a **locally optimal choice** (a choice that looks best at the moment) at every step hoping it leads to a **globally optimal solution**.
@@ -17,3 +18,4 @@ A problem exhibits **optimal substructure** if an optimal solution to the proble
 ## Examples:
 #### [Interval Scheduling](interval_scheduling/description.md)
 #### [Interval Partitioning](interval_partitioning/description.md)
+#### [Course Schedule III](course_schedule_III/description.md)
