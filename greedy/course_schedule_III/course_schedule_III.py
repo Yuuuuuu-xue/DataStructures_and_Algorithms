@@ -9,7 +9,7 @@ class Solution:
         for duration, last_day in sorted(courses, key=lambda x: x[1]):
             # add course to our current time
             time += duration
-            heapq.heappush(max_heap, -time)  # Since heapq is implemented for min heap, we use negative values to invert
+            heapq.heappush(max_heap, -duration)  # Since heapq is implemented for min heap, we use negative values to invert
 
             # We remove the previous course that requires the highest duration
             if time > last_day:
@@ -25,4 +25,5 @@ if __name__ == '__main__':
     print(s.scheduleCourse(test_courses) == 1)
     test_courses = [[3,2],[4,3]]
     print(s.scheduleCourse(test_courses) == 0)
+    print(s.scheduleCourse([[7,16],[2,3],[3,12],[3,14],[10,19],[10,16],[6,8],[6,11],[3,13],[6,16]]) == 4)
 
