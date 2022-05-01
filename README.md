@@ -10,6 +10,7 @@ Table of Contents:
 - [Priority Queue](#priority-queue)
 - [Hashing](#hashing)
 - [Sorting Algorithms](#sorting-algorithms)
+- [Stack](#stack)
 - [Graphs](#graphs)
 - [Minimum Spanning Tree](#minimum-spanning-tree)
 - [Disjoint Set](#disjoint-set)
@@ -76,6 +77,11 @@ Table of Contents:
 - Examples:
   - [Merge Sort](./sorting/merge_sort/description.md)
   - [Quick Sort](./sorting/quick_sort/description.md)
+
+## Stack
+- [Notes](./stack/notes.md)
+- Examples:
+  - [Backspace String Compare](./stack/backspace_string_compare/description.md)
 
 ## Graphs
 - [Notes](./graphs/notes.md)
