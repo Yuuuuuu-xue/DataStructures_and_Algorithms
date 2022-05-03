@@ -148,3 +148,4 @@ Table of Contents:
   - [Maximum Product Subarray](array/maximum_product_subarray/description.md)
   - [Three Sum Equal To 0](array/3_sum_equal_to_0/description.md)
   - [Sort Array by Parity](array/sort_array_by_parity/description.md)
+  - [Shortest Unsorted Continuous Subarray](array/shortest_unsorted_continuous_subarray/description.md)
