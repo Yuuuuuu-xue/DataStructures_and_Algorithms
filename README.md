@@ -71,6 +71,7 @@ Table of Contents:
   - [Group Anagrams](hashing/group_anagrams/description.md)
   - [Four Sum II](hashing/four_sum_II/description.md)
   - [Diagonal Traverse](hashing/diagonal_traverse/description.md)
+  - [Max Number of k-sum Pairs](hashing/max_numbers_of_k_sum_pairs/description.md)
 
 ## Sorting Algorithms
 - [Notes](./sorting/notes.md)
@@ -82,6 +83,7 @@ Table of Contents:
 - [Notes](./stack/notes.md)
 - Examples:
   - [Backspace String Compare](./stack/backspace_string_compare/description.md)
+  - [Implement Stack Using Queues](./stack/implement_stack_using_queues/description.md)
 
 ## Graphs
 - [Notes](./graphs/notes.md)

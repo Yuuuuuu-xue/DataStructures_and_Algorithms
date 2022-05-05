@@ -9,6 +9,7 @@ Table of Contents:
     - [Group Anagrams](#group-anagrams)
     - [Four Sum II](#four-sum-ii)
     - [Diagonal Traverse](#diagonal-traverse)
+    - [Max Number of k-sum Pairs](#max-number-of-k-sum-pairs)
 
 ## Hashing
 - **Universe of keys U**: is the set of all possible keys
@@ -35,3 +36,4 @@ For each slot, we have a linked list. So when collision occurs, we just add it t
 #### [Group Anagrams](group_anagrams/description.md)
 #### [Four Sum II](four_sum_II/description.md)
 #### [Diagonal Traverse](diagonal_traverse/description.md)
+#### [Max Number of k-sum Pairs](max_numbers_of_k_sum_pairs/description.md)
