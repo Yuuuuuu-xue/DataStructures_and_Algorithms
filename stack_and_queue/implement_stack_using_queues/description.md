@@ -1,4 +1,4 @@
-## Stack
+## Stack and Queue
 Click [here](../notes.md) to go back to the notes page.
 
 ## Description

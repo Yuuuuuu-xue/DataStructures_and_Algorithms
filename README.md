@@ -10,7 +10,7 @@ Table of Contents:
 - [Priority Queue](#priority-queue)
 - [Hashing](#hashing)
 - [Sorting Algorithms](#sorting-algorithms)
-- [Stack](#stack)
+- [Stack and Queue](#stack-and-queue)
 - [Graphs](#graphs)
 - [Minimum Spanning Tree](#minimum-spanning-tree)
 - [Disjoint Set](#disjoint-set)
@@ -79,11 +79,12 @@ Table of Contents:
   - [Merge Sort](./sorting/merge_sort/description.md)
   - [Quick Sort](./sorting/quick_sort/description.md)
 
-## Stack
-- [Notes](./stack/notes.md)
+## Stack and Queue
+- [Notes](./stack_and_queue/notes.md)
 - Examples:
-  - [Backspace String Compare](./stack/backspace_string_compare/description.md)
-  - [Implement Stack Using Queues](./stack/implement_stack_using_queues/description.md)
+  - [Backspace String Compare](./stack_and_queue/backspace_string_compare/description.md)
+  - [Implement Stack Using Queues](./stack_and_queue/implement_stack_using_queues/description.md)
+  - [Remove All Adjacent Duplicates in String II](./stack_and_queue/remove_all_adjacent_duplicates_in_string_II/description.md)
 
 ## Graphs
 - [Notes](./graphs/notes.md)
