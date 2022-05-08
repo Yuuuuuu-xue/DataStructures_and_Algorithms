@@ -85,6 +85,8 @@ Table of Contents:
   - [Backspace String Compare](./stack_and_queue/backspace_string_compare/description.md)
   - [Implement Stack Using Queues](./stack_and_queue/implement_stack_using_queues/description.md)
   - [Remove All Adjacent Duplicates in String II](./stack_and_queue/remove_all_adjacent_duplicates_in_string_II/description.md)
+  - [132 Pattern](./stack_and_queue/132_pattern/description.md)
+  - [Flatten Nested List Iterator](./stack_and_queue/flatten_nested_list_iterator/description.md)
 
 ## Graphs
 - [Notes](./graphs/notes.md)
