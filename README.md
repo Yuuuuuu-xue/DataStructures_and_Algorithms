@@ -22,6 +22,7 @@ Table of Contents:
 - [Trie](#trie)
 - [Linked List](#linked-list)
 - [Array](#array)
+- [Backtracking](#backtracking)
 
 ## Abstract Data Type and Data Structure
 - **Abstract Data Type**: is the set of objects together with operations.
@@ -154,3 +155,7 @@ Table of Contents:
   - [Three Sum Equal To 0](array/3_sum_equal_to_0/description.md)
   - [Sort Array by Parity](array/sort_array_by_parity/description.md)
   - [Shortest Unsorted Continuous Subarray](array/shortest_unsorted_continuous_subarray/description.md)
+
+## Backtracking
+- Examples:
+  - [Combination Sum III](backtracking/combination_sum_III/description.md)
