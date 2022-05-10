@@ -10,6 +10,7 @@ Table of Contents:
 - [Priority Queue](#priority-queue)
 - [Hashing](#hashing)
 - [Sorting Algorithms](#sorting-algorithms)
+- [Stack and Queue](#stack-and-queue)
 - [Graphs](#graphs)
 - [Minimum Spanning Tree](#minimum-spanning-tree)
 - [Disjoint Set](#disjoint-set)
@@ -70,12 +71,22 @@ Table of Contents:
   - [Group Anagrams](hashing/group_anagrams/description.md)
   - [Four Sum II](hashing/four_sum_II/description.md)
   - [Diagonal Traverse](hashing/diagonal_traverse/description.md)
+  - [Max Number of k-sum Pairs](hashing/max_numbers_of_k_sum_pairs/description.md)
 
 ## Sorting Algorithms
 - [Notes](./sorting/notes.md)
 - Examples:
   - [Merge Sort](./sorting/merge_sort/description.md)
   - [Quick Sort](./sorting/quick_sort/description.md)
+
+## Stack and Queue
+- [Notes](./stack_and_queue/notes.md)
+- Examples:
+  - [Backspace String Compare](./stack_and_queue/backspace_string_compare/description.md)
+  - [Implement Stack Using Queues](./stack_and_queue/implement_stack_using_queues/description.md)
+  - [Remove All Adjacent Duplicates in String II](./stack_and_queue/remove_all_adjacent_duplicates_in_string_II/description.md)
+  - [132 Pattern](./stack_and_queue/132_pattern/description.md)
+  - [Flatten Nested List Iterator](./stack_and_queue/flatten_nested_list_iterator/description.md)
 
 ## Graphs
 - [Notes](./graphs/notes.md)
@@ -141,3 +152,5 @@ Table of Contents:
 - Examples:
   - [Maximum Product Subarray](array/maximum_product_subarray/description.md)
   - [Three Sum Equal To 0](array/3_sum_equal_to_0/description.md)
+  - [Sort Array by Parity](array/sort_array_by_parity/description.md)
+  - [Shortest Unsorted Continuous Subarray](array/shortest_unsorted_continuous_subarray/description.md)
