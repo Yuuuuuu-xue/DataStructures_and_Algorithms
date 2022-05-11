@@ -11,6 +11,7 @@ Table of Contents:
     - [Longest Palindromic Substring](#longest-palindromic-substring)
     - [Edit Distance](#edit-distance)
     - [Course Schedule IV FloydWarshall](#course-schedule-iv-floydwarshall)
+    - [Count Sorted Vowel Strings](#count-sorted-vowel-strings)
 
 ## Dynamic Programming
 - A **dynamic programming algorithm** for an optimization problem is basically a recursive solution that uses **memoization** to solve repeated calls to the same subproblems.
@@ -36,3 +37,4 @@ Table of Contents:
 #### [Longest Palindromic Substring](longest_palindromic_substring/description.md)
 #### [Edit Distance](edit_distance/description.md)
 #### [Course Schedule IV FloydWarshall](course_schedule_IV/description.md)
+#### [Count Sorted Vowel Strings](count_sorted_vowel_strings/description.md)

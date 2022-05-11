@@ -122,6 +122,7 @@ Table of Contents:
   - [Longest Palindromic Substring](dynamic_programming/longest_palindromic_substring/description.md)
   - [Edit Distance](dynamic_programming/edit_distance/description.md)
   - [Course Schedule IV FloydWarshall](dynamic_programming/course_schedule_IV/description.md)
+  - [Count Sorted Vowel Strings](dynamic_programming/count_sorted_vowel_strings/description.md)
 
 ## Shorest Weight Path (Dijkstra Algorithm)
 - [Notes](./shorest_weight_path/notes.md)
