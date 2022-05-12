@@ -160,3 +160,5 @@ Table of Contents:
 ## Backtracking
 - Examples:
   - [Combination Sum III](backtracking/combination_sum_III/description.md)
+  - [Letter Combinations of a Phone Number](backtracking/letter_combinations_of_a_phone_number/description.md)
+  - [Permutations II](backtracking/permutations_II/description.md)

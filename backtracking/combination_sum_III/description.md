@@ -29,4 +29,4 @@ Output: []
 We will use backtracking technique to solve this problem. First of all, initialize a number to 1 and we will take a list lst and a number curr_k, and anther number curr_sum as input parameters. We add that number to the lst and increment curr_k by 1. If curr_k == k and sum of the lst is n, then we add it to our solution. If curr_k == k and that sum is not n, then we stop here. If curr_k < k and sum is < n, we do a recursive call and continue to search. If curr_k < k and sum > n, then we do not stop. At the end, try every number starting from 1 up to min(n, 9 - k).
 
 ## Solution
-- [Java Solution]
+- [Java Solution](combination_sum_III.java)
