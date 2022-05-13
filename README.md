@@ -95,6 +95,7 @@ Table of Contents:
   - [Is Bilateral (BFS)](./graphs/is_bilateral/description.md)
   - [Jump Game IV (BFS)](./graphs/jump_game_IV/description.md)
   - [Schedule Course (DFS detects cycle)](./graphs/course_schedule/description.md)
+  - [Populating Next Right Pointers in Each Node II (BFS)](./graphs/populating_next_right_pointers_in_each_node_II/description.md)
 
 ## Minimum Spanning Tree
 - [Notes](./minimum_spanning_tree/notes.md)
