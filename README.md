@@ -126,9 +126,10 @@ Table of Contents:
   - [Count Sorted Vowel Strings](dynamic_programming/count_sorted_vowel_strings/description.md)
 
 ## Shorest Weight Path (Dijkstra Algorithm)
-- [Notes](./shorest_weight_path/notes.md)
+- [Notes](./shortest_weight_path/notes.md)
 - Examples:
-  - [Dijkstra Algorithm Implementation](./shorest_weight_path/dijkstra_algorithm/description.md)
+  - [Dijkstra Algorithm Implementation](./shortest_weight_path/dijkstra_algorithm/description.md)\
+  - [Network Delay Time](./shortest_weight_path/network_delay_time/description.md)
 
 ## Bitmask and Bit Manipulation
 - [Notes](./bitmask_and_bit_manipulation/notes.md)

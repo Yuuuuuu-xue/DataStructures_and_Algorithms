@@ -1,4 +1,4 @@
-## Shorest Weight Path
+## Shortest Weight Path
 Click [here](../notes.md) to go back to the notes page.
 
 ## Dijkstra Algorithm
