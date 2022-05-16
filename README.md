@@ -97,6 +97,7 @@ Table of Contents:
   - [Schedule Course (DFS detects cycle)](./graphs/course_schedule/description.md)
   - [Populating Next Right Pointers in Each Node II (BFS)](./graphs/populating_next_right_pointers_in_each_node_II/description.md)
   - [Deepest Leaves Sum](graphs/deepest_leaves_sum/description.md)
+  - [Shortest Path in Binary Matrix](grpahs/../shortest_weight_path/network_delay_time/description.md)
 
 ## Minimum Spanning Tree
 - [Notes](./minimum_spanning_tree/notes.md)
