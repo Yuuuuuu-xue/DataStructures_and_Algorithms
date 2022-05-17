@@ -6,6 +6,7 @@ Table of Contents:
 - [Examples:](#examples)
     - [Is Balanced Binary Tree](#is-balanced-binary-tree)
     - [Binary Tree Level Order Traversal](#binary-tree-level-order-traversal)
+    - [Find a Corresponding Node of a Binary Tree in a Clone of that Tree](#find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree)
 
 ## Tree
 - **height** of a tree is the length of the longest path from the root to a child
@@ -25,3 +26,4 @@ Table of Contents:
 ## Examples:
 #### [Is Balanced Binary Tree](is_balanced_binary_tree/description.md)
 #### [Binary Tree Level Order Traversal](binary_tree_level_order_traversal/description.md)
+#### [Find a Corresponding Node of a Binary Tree in a Clone of that Tree](find_a_corresponding_node_of_a_binary_tree_in_a_clone_of%20_that_tree/description.md)
