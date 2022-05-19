@@ -12,6 +12,7 @@ Table of Contents:
     - [Edit Distance](#edit-distance)
     - [Course Schedule IV FloydWarshall](#course-schedule-iv-floydwarshall)
     - [Count Sorted Vowel Strings](#count-sorted-vowel-strings)
+    - [Longest Increasing Path in a Matrix](#longest-increasing-path-in-a-matrix)
 
 ## Dynamic Programming
 - A **dynamic programming algorithm** for an optimization problem is basically a recursive solution that uses **memoization** to solve repeated calls to the same subproblems.
@@ -38,3 +39,4 @@ Table of Contents:
 #### [Edit Distance](edit_distance/description.md)
 #### [Course Schedule IV FloydWarshall](course_schedule_IV/description.md)
 #### [Count Sorted Vowel Strings](count_sorted_vowel_strings/description.md)
+#### [Longest Increasing Path in a Matrix](longest_increasing_path_in_a_matrix/description.md)
