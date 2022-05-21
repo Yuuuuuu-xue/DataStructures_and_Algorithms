@@ -129,6 +129,7 @@ Table of Contents:
   - [Count Sorted Vowel Strings](dynamic_programming/count_sorted_vowel_strings/description.md)
   - [Longest Increasing Path in a Matrix](dynamic_programming/longest_increasing_path_in_a_matrix/description.md)
   - [Unique Paths II](dynamic_programming/unique_paths_II/description.md)
+  - [Coin Change](dynamic_programming/coin_change/description.md)
 
 ## Shorest Weight Path (Dijkstra Algorithm)
 - [Notes](./shortest_weight_path/notes.md)
