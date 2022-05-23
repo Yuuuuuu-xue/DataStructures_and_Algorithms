@@ -131,6 +131,7 @@ Table of Contents:
   - [Unique Paths II](dynamic_programming/unique_paths_II/description.md)
   - [Coin Change](dynamic_programming/coin_change/description.md)
   - [Palindromic Substrings](dynamic_programming/palindromic_substrings/description.md)
+  - [Ones and Zeroes](dynamic_programming/ones_and_zeroes/description.md)
 
 ## Shorest Weight Path (Dijkstra Algorithm)
 - [Notes](./shortest_weight_path/notes.md)

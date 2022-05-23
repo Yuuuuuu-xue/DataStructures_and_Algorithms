@@ -15,6 +15,8 @@ Table of Contents:
     - [Longest Increasing Path in a Matrix](#longest-increasing-path-in-a-matrix)
     - [Unique Paths II](#unique-paths-ii)
     - [Palindromic Substrings](#palindromic-substrings)
+    - [Coin Change](#coin-change)
+    - [Ones and Zeroes](#ones-and-zeroes)
 
 ## Dynamic Programming
 - A **dynamic programming algorithm** for an optimization problem is basically a recursive solution that uses **memoization** to solve repeated calls to the same subproblems.
@@ -44,3 +46,5 @@ Table of Contents:
 #### [Longest Increasing Path in a Matrix](longest_increasing_path_in_a_matrix/description.md)
 #### [Unique Paths II](unique_paths_II/description.md)
 #### [Palindromic Substrings](palindromic_substrings/description.md)
+#### [Coin Change](coin_change/description.md)
+#### [Ones and Zeroes](ones_and_zeroes/description.md)
