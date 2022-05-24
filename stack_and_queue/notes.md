@@ -8,6 +8,7 @@ Table of Contents:
     - [Remove All Adjacent Duplicates in String II](#remove-all-adjacent-duplicates-in-string-ii)
     - [132 Pattern](#132-pattern)
     - [Flatten Nested List Iterator](#flatten-nested-list-iterator)
+    - [Longest Valid Parentheses](#longest-valid-parentheses)
 
 
 ## Examples:
@@ -16,3 +17,4 @@ Table of Contents:
 #### [Remove All Adjacent Duplicates in String II](remove_all_adjacent_duplicates_in_string_II/description.md)
 #### [132 Pattern](132_pattern/description.md)
 #### [Flatten Nested List Iterator](flatten_nested_list_iterator/description.md)
+#### [Longest Valid Parentheses](longest_valid_parentheses/description.md)

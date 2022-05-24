@@ -89,6 +89,7 @@ Table of Contents:
   - [Remove All Adjacent Duplicates in String II](./stack_and_queue/remove_all_adjacent_duplicates_in_string_II/description.md)
   - [132 Pattern](./stack_and_queue/132_pattern/description.md)
   - [Flatten Nested List Iterator](./stack_and_queue/flatten_nested_list_iterator/description.md)
+  - [Longest Valid Parentheses](./stack_and_queue/longest_valid_parentheses/description.md)
 
 ## Graphs
 - [Notes](./graphs/notes.md)
