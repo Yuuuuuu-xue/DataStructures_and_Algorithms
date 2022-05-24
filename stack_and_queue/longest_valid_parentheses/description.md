@@ -1,6 +1,9 @@
 ## Stack and Queue
 Click [here](../notes.md) to go back to the notes page.
 
+## Leetcode Problem
+Hard 32
+
 ## Description
 Given a String containing just the characters '(' and ')', find the length of the longest valid (well-formed) parentheses substring.
 
