@@ -29,3 +29,4 @@ So the key idea is to XOR the item we have visited before. By assumption, every 
 
 ## Solution
 - [Python Solution](single_number.py)
+- [Java Solution](single_number.java)
