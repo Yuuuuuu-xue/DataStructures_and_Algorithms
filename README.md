@@ -168,6 +168,7 @@ Table of Contents:
   - [Sort Array by Parity](array/sort_array_by_parity/description.md)
   - [Shortest Unsorted Continuous Subarray](array/shortest_unsorted_continuous_subarray/description.md)
   - [Sort Colors](array/sort_colors/description.md)
+  - [Merge Intervals](array/merge_intervals/description.md)
 
 ## Backtracking
 - Examples:
