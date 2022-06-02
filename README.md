@@ -171,6 +171,7 @@ Table of Contents:
   - [Sort Colors](array/sort_colors/description.md)
   - [Merge Intervals](array/merge_intervals/description.md)
   - [Check If a String Contains All Binary Codes of Size k](array/check_if_a_string_contains_all_binary_codes_of_size_k/description.md)
+  - [Tranpose Matrix](array/transpose_matrix/description.md)
 
 ## Backtracking
 - Examples:
