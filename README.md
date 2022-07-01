@@ -118,6 +118,7 @@ Table of Contents:
   - [Scheduling Intervals](greedy/interval_scheduling/description.md)
   - [Interval Partitioning](greedy/interval_partitioning/description.md)
   - [Schedule Course III (Greedy Algorithm with max heap)](./greedy/course_schedule_III/description.md)
+  - [Maximum Units on a Truck](./greedy/maximum_units_on_a_truck/description.md)
 
 ## Dynamic Programming
 - [Notes](./dynamic_programming/notes.md)
