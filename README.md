@@ -135,6 +135,7 @@ Table of Contents:
   - [Palindromic Substrings](dynamic_programming/palindromic_substrings/description.md)
   - [Ones and Zeroes](dynamic_programming/ones_and_zeroes/description.md)
   - [Pascal's Triangle II](dynamic_Programming/pascal_triangle_II/description.md)
+  - [Unique Paths](dynamic_programming/unique_paths/description.md)
 
 ## Shorest Weight Path (Dijkstra Algorithm)
 - [Notes](./shortest_weight_path/notes.md)
