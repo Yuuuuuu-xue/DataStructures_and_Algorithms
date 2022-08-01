@@ -18,6 +18,7 @@ Table of Contents:
     - [Coin Change](#coin-change)
     - [Ones and Zeroes](#ones-and-zeroes)
     - [Pascal's Triangle II](#pascals-triangle-ii)
+    - [Unique Paths](#unique-paths)
 
 ## Dynamic Programming
 - A **dynamic programming algorithm** for an optimization problem is basically a recursive solution that uses **memoization** to solve repeated calls to the same subproblems.
@@ -50,3 +51,4 @@ Table of Contents:
 #### [Coin Change](coin_change/description.md)
 #### [Ones and Zeroes](ones_and_zeroes/description.md)
 #### [Pascal's Triangle II](pascal_triangle_II/description.md)
+#### [Unique Paths](unique_paths/description.md)
