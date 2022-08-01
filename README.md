@@ -90,6 +90,7 @@ Table of Contents:
   - [132 Pattern](./stack_and_queue/132_pattern/description.md)
   - [Flatten Nested List Iterator](./stack_and_queue/flatten_nested_list_iterator/description.md)
   - [Longest Valid Parentheses](./stack_and_queue/longest_valid_parentheses/description.md)
+  - [Find Permutation](./stack_and_queue/find_permutation/description.md)
 
 ## Graphs
 - [Notes](./graphs/notes.md)
