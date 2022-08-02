@@ -66,6 +66,7 @@ Table of Contents:
   - [Heap Sort](./priority_queue/heap_sort/description.md)
   - [O(n) Build Heap](./priority_queue/build_heap/description.md)
   - [Min Heap with Decrease Key](./priority_queue/min_heap_with_decrease_key/description.md)
+  - [Kth Smallest Element in a Sorted Matrix](./priority_queue/kth_smallest_element_in_a_sorted_matrix/description.md)
 
 ## Hashing
 - [Notes](./hashing/notes.md)

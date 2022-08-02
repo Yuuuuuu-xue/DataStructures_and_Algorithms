@@ -13,6 +13,7 @@ Table of Contents:
     - [Heap Sort](#heap-sort)
     - [O(n) Build Heap](#on-build-heap)
     - [Min Heap With Decrease Key](#min-heap-with-decrease-key)
+    - [Kth Smallest Element in a Sorted Matrix](#kth-smallest-element-in-a-sorted-matrix)
 
 
 ## Priority Queue ADT
@@ -43,3 +44,4 @@ Table of Contents:
 #### [Heap Sort](heap_sort/description.md)
 #### [O(n) Build Heap](build_heap/description.md)
 #### [Min Heap With Decrease Key](min_heap_with_decrease_key/description.md)
+#### [Kth Smallest Element in a Sorted Matrix](kth_smallest_element_in_a_sorted_matrix/description.md)
