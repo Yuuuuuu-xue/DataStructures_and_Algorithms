@@ -43,6 +43,8 @@ Table of Contents:
     - [Bisect Left](./divide_and_conquer/bisect_left/description.md)
     - [Bisect Right](./divide_and_conquer/bisect_right/description.md)
     - [Find Peak Element](./divide_and_conquer/find_peak_element/description.md)
+    - [Divide Chocolate](./divide_and_conquer/divide_chocolate/description.md)
+    - [Shortest Distance to Target Color](./divide_and_conquer/shortest_distance_to_target_color/description.md)
   
 ## Tree
 - [General Notes](./tree/notes.md)
@@ -176,6 +178,7 @@ Table of Contents:
   - [Merge Intervals](array/merge_intervals/description.md)
   - [Check If a String Contains All Binary Codes of Size k](array/check_if_a_string_contains_all_binary_codes_of_size_k/description.md)
   - [Tranpose Matrix](array/transpose_matrix/description.md)
+  - [My Calendar I](array/my_calendar_I/description.md)
 
 ## Backtracking
 - Examples:

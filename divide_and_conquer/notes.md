@@ -11,11 +11,15 @@ Table of Contents:
     - [Bisect Left](#bisect-left)
     - [Bisect Right](#bisect-right)
     - [Find Peak Element](#find-peak-element)
+    - [Divide Chocolate](#divide-chocolate)
+    - [Shortest Distance to Target Color](#shortest-distance-to-target-color)
 
 ## Divide and Conquer
 - **Divide**: divide the problem into two or more smaller instances of the same problem (subproblems)
 - **Conquer**: if the subproblem is small enough, return the solution directly; otherwise, solve it recursively
 - **Combine**: combine the solutions to the subproblems to solve the original problem
+
+If a question works for condition x, and it implies that it workds for condition x - 1, x - 2, ... 0. Then we can consider to use Divide and Conquer to solve this question because at each iteration, we can find the mid point and vertify if it works for mid, if so, we can get rid of half of the list and move it to the other half.
 
 ### Master Theorem
 It applies to runtime of divide-and-conquer algorithms when subproblems all have the **same** size, roughly.
@@ -29,3 +33,5 @@ It applies to runtime of divide-and-conquer algorithms when subproblems all have
 #### [Bisect Left](bisect_left/description.md)
 #### [Bisect Right](bisect_right/description.md)
 #### [Find Peak Element](find_peak_element/description.md)
+#### [Divide Chocolate](divide_chocolate/description.md)
+#### [Shortest Distance to Target Color](shortest_distance_to_target_color/description.md)
