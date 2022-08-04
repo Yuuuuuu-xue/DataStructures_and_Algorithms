@@ -179,6 +179,8 @@ Table of Contents:
   - [Check If a String Contains All Binary Codes of Size k](array/check_if_a_string_contains_all_binary_codes_of_size_k/description.md)
   - [Tranpose Matrix](array/transpose_matrix/description.md)
   - [My Calendar I](array/my_calendar_I/description.md)
+  - [Meeting Scheduler](array/meeting_scheduler/description.md)
+  - [Find the Duplicate Number (Floyd's algorithm)](array/find_the_duplicate_number/description.md)
 
 ## Backtracking
 - Examples:
