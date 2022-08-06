@@ -183,6 +183,8 @@ Table of Contents:
   - [Meeting Scheduler](array/meeting_scheduler/description.md)
   - [Find the Duplicate Number (Floyd's algorithm)](array/find_the_duplicate_number/description.md)
   - [Product of Two Run-length Encoded Arrays](array/product_of_two_run_length_encoded_arrays/description.md)
+  - [Longest Substring With At Most Two Distinct Characters](array/longest_substring_with_at_most_two_distinct_characters/description.md)
+  - [Longest Substring With At Most k Distinct Characters](array/longest_substring_with_at_most_k_distinct_characters/description.md)
 
 ## Backtracking
 - Examples:
