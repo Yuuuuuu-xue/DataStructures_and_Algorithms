@@ -141,6 +141,7 @@ Table of Contents:
   - [Pascal's Triangle II](dynamic_Programming/pascal_triangle_II/description.md)
   - [Unique Paths](dynamic_programming/unique_paths/description.md)
   - [Combination Sum IV](dynamic_programming/combination_sum_IV/description.md)
+  - [Count Vowels Permutation](dynamic_programming/count_vowels_permutation/description.md)
 
 ## Shorest Weight Path (Dijkstra Algorithm)
 - [Notes](./shortest_weight_path/notes.md)
@@ -185,6 +186,7 @@ Table of Contents:
   - [Product of Two Run-length Encoded Arrays](array/product_of_two_run_length_encoded_arrays/description.md)
   - [Longest Substring With At Most Two Distinct Characters](array/longest_substring_with_at_most_two_distinct_characters/description.md)
   - [Longest Substring With At Most k Distinct Characters](array/longest_substring_with_at_most_k_distinct_characters/description.md)
+  - [Max Consecutive Ones III](array/max_consecutiveones_III/description.md)
 
 ## Backtracking
 - Examples:

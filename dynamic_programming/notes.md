@@ -20,6 +20,7 @@ Table of Contents:
     - [Pascal's Triangle II](#pascals-triangle-ii)
     - [Unique Paths](#unique-paths)
     - [Combination Sum IV](#combination-sum-iv)
+    - [Count Vowels Permutation](#count-vowels-permutation)
 
 ## Dynamic Programming
 - A **dynamic programming algorithm** for an optimization problem is basically a recursive solution that uses **memoization** to solve repeated calls to the same subproblems.
@@ -54,3 +55,4 @@ Table of Contents:
 #### [Pascal's Triangle II](pascal_triangle_II/description.md)
 #### [Unique Paths](unique_paths/description.md)
 #### [Combination Sum IV](combination_sum_IV/description.md)
+#### [Count Vowels Permutation](count_vowels_permutation/description.md)
