@@ -13,6 +13,8 @@ Table of Contents:
     - [Populating Next Right Pointers in Each Node II](#populating-next-right-pointers-in-each-node-ii)
     - [Deepest Leaves Sum](#deepest-leaves-sum)
     - [Shortest Path in Binary Matrix](#shortest-path-in-binary-matrix)
+    - [Walls and Gates](#walls-and-gates)
+    - [Pacific Atlantic Water Flow](#pacific-atlantic-water-flow)
 
 ## Definition
 - A **graph** is a tuple of two sets G = (V, E) where V is the set of vertices and E is the set of edges.
@@ -52,3 +54,5 @@ Table of Contents:
 #### [Populating Next Right Pointers in Each Node II](populating_next_right_pointers_in_each_node_II/description.md)
 #### [Deepest Leaves Sum](deepest_leaves_sum/description.md)
 #### [Shortest Path in Binary Matrix](shortest_path_in_binary_matrix/description.md)
+#### [Walls and Gates](walls_and_gates/description.md)
+#### [Pacific Atlantic Water Flow](pacific_atlantic_water_flow/description.md)

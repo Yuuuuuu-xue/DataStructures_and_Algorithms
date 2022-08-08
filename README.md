@@ -45,6 +45,7 @@ Table of Contents:
     - [Find Peak Element](./divide_and_conquer/find_peak_element/description.md)
     - [Divide Chocolate](./divide_and_conquer/divide_chocolate/description.md)
     - [Shortest Distance to Target Color](./divide_and_conquer/shortest_distance_to_target_color/description.md)
+    - [Longest Increasing Subsequence](./divide_and_conquer/longest_increasing_subsequence/description.md)
   
 ## Tree
 - [General Notes](./tree/notes.md)
@@ -104,6 +105,8 @@ Table of Contents:
   - [Populating Next Right Pointers in Each Node II (BFS)](./graphs/populating_next_right_pointers_in_each_node_II/description.md)
   - [Deepest Leaves Sum](graphs/deepest_leaves_sum/description.md)
   - [Shortest Path in Binary Matrix](grpahs/../shortest_weight_path/network_delay_time/description.md)
+  - [Walls and Gates](graphs/walls_and_gates/description.md)
+  - [Pacific Atlantic Water Flow](graphs/pacific_atlantic_water_flow/description.md)
 
 ## Minimum Spanning Tree
 - [Notes](./minimum_spanning_tree/notes.md)

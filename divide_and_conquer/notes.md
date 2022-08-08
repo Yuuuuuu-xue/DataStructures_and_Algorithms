@@ -13,6 +13,7 @@ Table of Contents:
     - [Find Peak Element](#find-peak-element)
     - [Divide Chocolate](#divide-chocolate)
     - [Shortest Distance to Target Color](#shortest-distance-to-target-color)
+    - [Longest Increasing Subsequence](#longest-increasing-subsequence)
 
 ## Divide and Conquer
 - **Divide**: divide the problem into two or more smaller instances of the same problem (subproblems)
@@ -35,3 +36,4 @@ It applies to runtime of divide-and-conquer algorithms when subproblems all have
 #### [Find Peak Element](find_peak_element/description.md)
 #### [Divide Chocolate](divide_chocolate/description.md)
 #### [Shortest Distance to Target Color](shortest_distance_to_target_color/description.md)
+#### [Longest Increasing Subsequence](longest_increasing_subsequence/description.md)
