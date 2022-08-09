@@ -21,6 +21,7 @@ Table of Contents:
     - [Unique Paths](#unique-paths)
     - [Combination Sum IV](#combination-sum-iv)
     - [Count Vowels Permutation](#count-vowels-permutation)
+    - [Binary Trees With Factor](#binary-trees-with-factor)
 
 ## Dynamic Programming
 - A **dynamic programming algorithm** for an optimization problem is basically a recursive solution that uses **memoization** to solve repeated calls to the same subproblems.
@@ -56,3 +57,4 @@ Table of Contents:
 #### [Unique Paths](unique_paths/description.md)
 #### [Combination Sum IV](combination_sum_IV/description.md)
 #### [Count Vowels Permutation](count_vowels_permutation/description.md)
+#### [Binary Trees With Factor](binary_trees_with_factor/description.md)

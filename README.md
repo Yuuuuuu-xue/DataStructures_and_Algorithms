@@ -54,6 +54,8 @@ Table of Contents:
   - [Binary Tree Level Order Traversal](./tree/binary_tree_level_order_traversal/description.md)
   - [BST to Balanced BST](./tree/bst_to_balance_bst/description.md)
   - [Find a Corresponding Node of a Binary Tree in a Clone of that Tree](./tree/find_a_corresponding_node_of_a_binary_tree_in_a_clone_of%20_that_tree/description.md)
+  - [Find All the Lonely Nodes](./tree/find_all_the_lonely_nodes/descrption.md)
+  - [Kill Process](./tree/kill_process/description.md)
 - [Binary Search Tree Notes](./BST/notes.md) \
   Examples:
   - [Implementation](BST/implementation/description.md)
@@ -145,6 +147,7 @@ Table of Contents:
   - [Unique Paths](dynamic_programming/unique_paths/description.md)
   - [Combination Sum IV](dynamic_programming/combination_sum_IV/description.md)
   - [Count Vowels Permutation](dynamic_programming/count_vowels_permutation/description.md)
+  - [Binary Trees with Factor](dynamic_programming/binary_trees_with_factor/description.md)
 
 ## Shorest Weight Path (Dijkstra Algorithm)
 - [Notes](./shortest_weight_path/notes.md)
