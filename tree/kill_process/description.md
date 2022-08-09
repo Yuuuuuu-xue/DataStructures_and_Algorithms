@@ -2,7 +2,7 @@
 Click [here](../notes.md) to go back to the notes page.
 
 ## LeetCode Problem
-Medium 582
+Medium 582 (Premium)
 
 ## Description
 You have `n` processes forming a rooted tree structure. You are given two itneger arrays `pid` and `ppid`, where `pid[i]` is the ID of the `ith` process and `ppid[i]` is the ID of the `ith` process's parent process.

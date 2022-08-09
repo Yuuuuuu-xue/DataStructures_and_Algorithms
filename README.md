@@ -56,6 +56,7 @@ Table of Contents:
   - [Find a Corresponding Node of a Binary Tree in a Clone of that Tree](./tree/find_a_corresponding_node_of_a_binary_tree_in_a_clone_of%20_that_tree/description.md)
   - [Find All the Lonely Nodes](./tree/find_all_the_lonely_nodes/descrption.md)
   - [Kill Process](./tree/kill_process/description.md)
+  - [Binary Tree Vertical Order Traversal](./tree/binary_tree_vertical_order_traversal/description.md)
 - [Binary Search Tree Notes](./BST/notes.md) \
   Examples:
   - [Implementation](BST/implementation/description.md)

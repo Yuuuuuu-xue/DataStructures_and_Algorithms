@@ -9,6 +9,7 @@ Table of Contents:
     - [Find a Corresponding Node of a Binary Tree in a Clone of that Tree](#find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree)
     - [Find All the Lonely Nodes](#find-all-the-lonely-nodes)
     - [Kill Process](#kill-process)
+    - [Binary Tree Vertical Order Traversal](#binary-tree-vertical-order-traversal)
 
 ## Tree
 - **height** of a tree is the length of the longest path from the root to a child
@@ -31,3 +32,4 @@ Table of Contents:
 #### [Find a Corresponding Node of a Binary Tree in a Clone of that Tree](find_a_corresponding_node_of_a_binary_tree_in_a_clone_of%20_that_tree/description.md)
 #### [Find All the Lonely Nodes](find_all_the_lonely_nodes/descrption.md)
 #### [Kill Process](kill_process/description.md)
+#### [Binary Tree Vertical Order Traversal](binary_tree_vertical_order_traversal/description.md)
