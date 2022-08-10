@@ -15,6 +15,7 @@ Table of Contents:
     - [Shortest Path in Binary Matrix](#shortest-path-in-binary-matrix)
     - [Walls and Gates](#walls-and-gates)
     - [Pacific Atlantic Water Flow](#pacific-atlantic-water-flow)
+    - [Open the Lock](#open-the-lock)
 
 ## Definition
 - A **graph** is a tuple of two sets G = (V, E) where V is the set of vertices and E is the set of edges.
@@ -56,3 +57,4 @@ Table of Contents:
 #### [Shortest Path in Binary Matrix](shortest_path_in_binary_matrix/description.md)
 #### [Walls and Gates](walls_and_gates/description.md)
 #### [Pacific Atlantic Water Flow](pacific_atlantic_water_flow/description.md)
+#### [Open the Lock](open_the_lock/description.md)

@@ -57,10 +57,12 @@ Table of Contents:
   - [Find All the Lonely Nodes](./tree/find_all_the_lonely_nodes/descrption.md)
   - [Kill Process](./tree/kill_process/description.md)
   - [Binary Tree Vertical Order Traversal](./tree/binary_tree_vertical_order_traversal/description.md)
+  - [All Nodes Distance k In Binary Tree](tree/all_nodes_distance_k_in_binary_tree/description.md)
 - [Binary Search Tree Notes](./BST/notes.md) \
   Examples:
   - [Implementation](BST/implementation/description.md)
   - [Sorted Linked List to Balanced BST](BST/sorted_linked_list_to_balanced_bst/description.md)
+  - [Convert Sorted Array to Binary Search Tree](BST/convert_sorted_array_to_binary_search_tree/description.md)
 - [AVL](./AVL/notes.md) \
   Examples:
   - [Implementation](AVL/implementation/description.md)
@@ -110,6 +112,7 @@ Table of Contents:
   - [Shortest Path in Binary Matrix](grpahs/../shortest_weight_path/network_delay_time/description.md)
   - [Walls and Gates](graphs/walls_and_gates/description.md)
   - [Pacific Atlantic Water Flow](graphs/pacific_atlantic_water_flow/description.md)
+  - [Open the Lock](graphs/open_the_lock/description.md)
 
 ## Minimum Spanning Tree
 - [Notes](./minimum_spanning_tree/notes.md)
