@@ -12,6 +12,7 @@ Table of Contents:
 - [Sorting Algorithms](#sorting-algorithms)
 - [Stack and Queue](#stack-and-queue)
 - [Graphs](#graphs)
+- [Dijkstra's Algorithm](#dijkstras-algorithm)
 - [Minimum Spanning Tree](#minimum-spanning-tree)
 - [Disjoint Set](#disjoint-set)
 - [Greedy Algorithm](#greedy-algorithm)
@@ -113,6 +114,12 @@ Table of Contents:
   - [Walls and Gates](graphs/walls_and_gates/description.md)
   - [Pacific Atlantic Water Flow](graphs/pacific_atlantic_water_flow/description.md)
   - [Open the Lock](graphs/open_the_lock/description.md)
+  - [Number of Operations to Make Network Connections](graphs/number_of_operations_to_make_network_connected/description.md)
+
+## Dijkstra's Algorithm
+- [Notes](./dijkstra_algorithm/notes.md)
+- Examples:
+  - [Minimum Costs to Make At Least One Valid Path](dijkstra_algorithm/minimum_costs_to_make_at_least_one_valid_path_in_a_grid/description.md)
 
 ## Minimum Spanning Tree
 - [Notes](./minimum_spanning_tree/notes.md)
