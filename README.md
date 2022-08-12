@@ -204,6 +204,8 @@ Table of Contents:
   - [Longest Substring With At Most Two Distinct Characters](array/longest_substring_with_at_most_two_distinct_characters/description.md)
   - [Longest Substring With At Most k Distinct Characters](array/longest_substring_with_at_most_k_distinct_characters/description.md)
   - [Max Consecutive Ones III](array/max_consecutiveones_III/description.md)
+  - [Factor Combinations](array/factor_combinations/description.md)
+  - [Decode String](array/decode_string/description.md)
 
 ## Backtracking
 - Examples:
