@@ -206,6 +206,9 @@ Table of Contents:
   - [Max Consecutive Ones III](array/max_consecutiveones_III/description.md)
   - [Factor Combinations](array/factor_combinations/description.md)
   - [Decode String](array/decode_string/description.md)
+  - [Substring with Concatenation of All Words](array/substring_with_concatenation_of_all_words/description.md)
+  - [N Queens](array/n_queens/description.md)
+  - [Sudoku Solver](array/sudoku_solver/description.md)
 
 ## Backtracking
 - Examples:
