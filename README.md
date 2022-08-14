@@ -47,6 +47,7 @@ Table of Contents:
     - [Divide Chocolate](./divide_and_conquer/divide_chocolate/description.md)
     - [Shortest Distance to Target Color](./divide_and_conquer/shortest_distance_to_target_color/description.md)
     - [Longest Increasing Subsequence](./divide_and_conquer/longest_increasing_subsequence/description.md)
+    - [Different Ways to Add Parentheses](./divide_and_conquer/different_ways_to_add_parentheses/description.md)
   
 ## Tree
 - [General Notes](./tree/notes.md)
@@ -59,6 +60,7 @@ Table of Contents:
   - [Kill Process](./tree/kill_process/description.md)
   - [Binary Tree Vertical Order Traversal](./tree/binary_tree_vertical_order_traversal/description.md)
   - [All Nodes Distance k In Binary Tree](tree/all_nodes_distance_k_in_binary_tree/description.md)
+  - [Find Leaves of Binary Tree](tree/find_leaves_of_binary_tree/description.md)
 - [Binary Search Tree Notes](./BST/notes.md) \
   Examples:
   - [Implementation](BST/implementation/description.md)
@@ -159,6 +161,7 @@ Table of Contents:
   - [Combination Sum IV](dynamic_programming/combination_sum_IV/description.md)
   - [Count Vowels Permutation](dynamic_programming/count_vowels_permutation/description.md)
   - [Binary Trees with Factor](dynamic_programming/binary_trees_with_factor/description.md)
+  - [Regular Expression Matching](dynamic_programming/regular_expression_matching/description.md)
 
 ## Shorest Weight Path (Dijkstra Algorithm)
 - [Notes](./shortest_weight_path/notes.md)

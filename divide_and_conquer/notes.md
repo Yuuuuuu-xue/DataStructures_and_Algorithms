@@ -14,6 +14,7 @@ Table of Contents:
     - [Divide Chocolate](#divide-chocolate)
     - [Shortest Distance to Target Color](#shortest-distance-to-target-color)
     - [Longest Increasing Subsequence](#longest-increasing-subsequence)
+    - [Different Ways to Add Parentheses](#different-ways-to-add-parentheses)
 
 ## Divide and Conquer
 - **Divide**: divide the problem into two or more smaller instances of the same problem (subproblems)
@@ -37,3 +38,4 @@ It applies to runtime of divide-and-conquer algorithms when subproblems all have
 #### [Divide Chocolate](divide_chocolate/description.md)
 #### [Shortest Distance to Target Color](shortest_distance_to_target_color/description.md)
 #### [Longest Increasing Subsequence](longest_increasing_subsequence/description.md)
+#### [Different Ways to Add Parentheses](different_ways_to_add_parentheses/description.md)
