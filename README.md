@@ -117,6 +117,7 @@ Table of Contents:
   - [Pacific Atlantic Water Flow](graphs/pacific_atlantic_water_flow/description.md)
   - [Open the Lock](graphs/open_the_lock/description.md)
   - [Number of Operations to Make Network Connections](graphs/number_of_operations_to_make_network_connected/description.md)
+  - [Remove Invalid Parentheses](graphs/remove_invalid_parentheses/description.md)
 
 ## Dijkstra's Algorithm
 - [Notes](./dijkstra_algorithm/notes.md)
@@ -212,9 +213,12 @@ Table of Contents:
   - [Substring with Concatenation of All Words](array/substring_with_concatenation_of_all_words/description.md)
   - [N Queens](array/n_queens/description.md)
   - [Sudoku Solver](array/sudoku_solver/description.md)
+  - [Roman to Integer](array/roman_to_integer/description.md)
+  - [Dot Product of Two Sparse Vectors](array/dot_product_of_two_sparse_vectors/description.md)
 
 ## Backtracking
 - Examples:
   - [Combination Sum III](backtracking/combination_sum_III/description.md)
   - [Letter Combinations of a Phone Number](backtracking/letter_combinations_of_a_phone_number/description.md)
   - [Permutations II](backtracking/permutations_II/description.md)
+  - [Robot Room Cleaner](backtracking/robot_room_cleaner/description.md)
