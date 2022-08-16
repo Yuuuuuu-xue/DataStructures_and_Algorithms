@@ -180,6 +180,8 @@ Table of Contents:
 - [Notes](./fenwick_tree/notes.md)
 - Examples:
   - [BIT Implementation](fenwick_tree/BIT_implementation/description.md)
+  - [Range Sum Query Mutable](fenwick_tree/range_sum_query_mutable/description.md)
+  - [Count of Smaller Numbers After Self](fenwick_tree/count_of_smaller_numbers_after_self/description.md)
 
 ## Trie
 - [Notes](./trie/notes.md)
@@ -215,6 +217,8 @@ Table of Contents:
   - [Sudoku Solver](array/sudoku_solver/description.md)
   - [Roman to Integer](array/roman_to_integer/description.md)
   - [Dot Product of Two Sparse Vectors](array/dot_product_of_two_sparse_vectors/description.md)
+  - [First Unique Character in a String](array/first_unique_character_in_a_string/description.md)
+  - [Maximum Subarray](array/maximum_subarray/description.md)
 
 ## Backtracking
 - Examples:

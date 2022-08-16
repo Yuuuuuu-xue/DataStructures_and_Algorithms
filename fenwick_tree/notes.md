@@ -10,6 +10,8 @@ Table of Contents:
 - [Runtime Complexity](#runtime-complexity)
 - [Examples:](#examples)
     - [Fenwick Tree Implementation](#fenwick-tree-implementation)
+    - [Range Sum Query Mutable](#range-sum-query-mutable)
+    - [Count of Smaller Numbers After Self](#count-of-smaller-numbers-after-self)
 
 ## Problem
 We have an array $arr[0 \dots n - 1]$ and we would like to
@@ -30,7 +32,7 @@ Fenwick tree provides both operations in $\mathcal{O}(\lg n)$.
 
 ## Fenwick Tree (Binary Indexed Tree)
 Fenwick Tree, also known as Binary Indexed Tree, is represented as an array. 
-- ach node stores the sum of some elements of the input array
+- Each node stores the sum of some elements of the input array
 - The size of Binary Indexed Tree array is equal to the size of the input array, but **index 1 based**.
 - We will first initialize all the elements of the array to 0.
 
@@ -40,7 +42,7 @@ It's important that we assume update(i, x), **$x \geq 0$**.
 
 ## getSum
 To implement the getSum(i), we will
-1. Initialize otuput sum = 0, current index = i + 1
+1. Initialize output sum = 0, current index = i + 1
 2. Repeat until current index $\leq 0$
    1. Add BITree Array[index] to the output sum
    2. Go the the parent node, by removing the last bit of current index. We can achieve it by **index = index - (index & (-index))**. For example, if i = 10 = 1010b and its parent is 8 = 1000b, so we want to remove the last bit (leftmost) that is equal to 1. Since -i = -10 = 11010b, then 1010b & 10110b = 00010b and 1010 - 00010b = 10 - 8 = 2.
@@ -49,7 +51,7 @@ To implement the getSum(i), we will
 For example, if we have 19 and it can be represented as $16 + 2 + 1 = 2^4 + 2^1 + 2^0$ and its binary representation is 10011b. Then we we will add the value on BITree.array[10011] + BITree.array[10010] + BITree.array[10000]. Each time we set the rightmost bit to 0.
 
 ## update
-To implement uodate(i, x), we will
+To implement update(i, x), we will
 1. Initialize current index to i + 1 
 2. Repeat until current index > n = BITree.array.size
    1. Add x to BITree[index]
@@ -60,5 +62,5 @@ Since number of bits of an integer is $\mathcal{O}(\lg n)$, thus we will travers
 
 ## Examples:
 #### [Fenwick Tree Implementation](BIT_implementation/description.md)
-
-
+#### [Range Sum Query Mutable](range_sum_query_mutable/description.md)
+#### [Count of Smaller Numbers After Self](count_of_smaller_numbers_after_self/description.md)
