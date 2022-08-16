@@ -187,6 +187,9 @@ Table of Contents:
 - [Notes](./trie/notes.md)
 - Examples:
   - [Trie Implementation](trie/trie_implementation/description.md)
+  - [Word Search II](trie/word_search_II/description.md)
+  - [Design Add and Search Words Data Structure](trie/design_add_and_search_words_data_structure/description.md)
+  - [Implement Trie](trie/implement_trie/description.md)
 
 ## Linked List 
 - [Notes](./linked_list/notes.md)

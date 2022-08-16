@@ -6,6 +6,9 @@ Table of Contents:
 - [An example of a Trie](#an-example-of-a-trie)
 - [Example:](#example)
     - [Trie Implementation](#trie-implementation)
+    - [Word Search II](#word-search-ii)
+    - [Design Add and Search Words Data Structure](#design-add-and-search-words-data-structure)
+    - [Implement Trie](#implement-trie)
 
 ## Trie
 Trie is basically a tree (not a binary tree) that stores String.
@@ -35,3 +38,6 @@ So keys are
 
 ## Example:
 #### [Trie Implementation](trie_implementation/description.md)
+#### [Word Search II](word_search_II/description.md)
+#### [Design Add and Search Words Data Structure](design_add_and_search_words_data_structure/description.md)
+#### [Implement Trie](implement_trie/description.md)

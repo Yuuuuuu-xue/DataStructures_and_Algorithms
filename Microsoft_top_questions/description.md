@@ -1,6 +1,3 @@
-## Arrays and Strings
-Microsoft likes to ask simple array questions. Reverse Word in a String is one the popular questions.
-
 ## Examples
 #### [Easy: Two Sum](two_sum/description.md)
 #### [Easy: Valid Palindrome](valid_palindrome/description.md)
