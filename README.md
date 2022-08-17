@@ -163,6 +163,8 @@ Table of Contents:
   - [Count Vowels Permutation](dynamic_programming/count_vowels_permutation/description.md)
   - [Binary Trees with Factor](dynamic_programming/binary_trees_with_factor/description.md)
   - [Regular Expression Matching](dynamic_programming/regular_expression_matching/description.md)
+  - [Best Time to Buy and Sell Stock with Cooldown](dynamic_programming/best_time_to_buy_and_sell_stock_with_cooldown/description.mdd)
+  - [Best Time to Buy and Sell Stock with Transaction Fee](dynamic_programming/best_time_to_buy_and_sell_stock_with_transaction_fee/description.md)
 
 ## Shorest Weight Path (Dijkstra Algorithm)
 - [Notes](./shortest_weight_path/notes.md)
@@ -222,6 +224,7 @@ Table of Contents:
   - [Dot Product of Two Sparse Vectors](array/dot_product_of_two_sparse_vectors/description.md)
   - [First Unique Character in a String](array/first_unique_character_in_a_string/description.md)
   - [Maximum Subarray](array/maximum_subarray/description.md)
+  - [Unique Morse Code Words](array/unique_morse_code_words/description.md)
 
 ## Backtracking
 - Examples:
