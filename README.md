@@ -24,6 +24,7 @@ Table of Contents:
 - [Linked List](#linked-list)
 - [Array](#array)
 - [Backtracking](#backtracking)
+- [Topological Sort](#topological-sort)
 
 ## Abstract Data Type and Data Structure
 - **Abstract Data Type**: is the set of objects together with operations.
@@ -233,3 +234,9 @@ Table of Contents:
   - [Letter Combinations of a Phone Number](backtracking/letter_combinations_of_a_phone_number/description.md)
   - [Permutations II](backtracking/permutations_II/description.md)
   - [Robot Room Cleaner](backtracking/robot_room_cleaner/description.md)
+
+## Topological Sort
+- [Notes](./topological_sort/notes.md)
+- Examples:
+  - [Implementation](topological_sort/implementation/description.md)
+  - [Course Schedule II](topological_sort/course_schedule_II/description.md)
