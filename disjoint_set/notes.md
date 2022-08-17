@@ -5,6 +5,7 @@ Table of Contents:
 - [Disjoint Set ADT](#disjoint-set-adt)
 - [Examples:](#examples)
     - [Disjoint Set Path Compression by Union Implementation](#disjoint-set-path-compression-by-union-implementation)
+    - [Number of Islands](#number-of-islands)
 
 ## Disjoint Set ADT
 We have the following operations:
@@ -15,3 +16,4 @@ We have the following operations:
 
 ## Examples:
 #### [Disjoint Set Path Compression by Union Implementation](./implementation/description.md)
+#### [Number of Islands](number_of_islands/description.md)
