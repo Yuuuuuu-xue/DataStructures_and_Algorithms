@@ -49,6 +49,7 @@ Table of Contents:
     - [Shortest Distance to Target Color](./divide_and_conquer/shortest_distance_to_target_color/description.md)
     - [Longest Increasing Subsequence](./divide_and_conquer/longest_increasing_subsequence/description.md)
     - [Different Ways to Add Parentheses](./divide_and_conquer/different_ways_to_add_parentheses/description.md)
+    - [Split Array Largest Sum](./divide_and_conquer/split_array_largest_sum/description.md)
   
 ## Tree
 - [General Notes](./tree/notes.md)
@@ -62,6 +63,7 @@ Table of Contents:
   - [Binary Tree Vertical Order Traversal](./tree/binary_tree_vertical_order_traversal/description.md)
   - [All Nodes Distance k In Binary Tree](tree/all_nodes_distance_k_in_binary_tree/description.md)
   - [Find Leaves of Binary Tree](tree/find_leaves_of_binary_tree/description.md)
+  - [House Robber III](tree/hourse_robber_III/description.md)
 - [Binary Search Tree Notes](./BST/notes.md) \
   Examples:
   - [Implementation](BST/implementation/description.md)
@@ -144,6 +146,7 @@ Table of Contents:
   - [Interval Partitioning](greedy/interval_partitioning/description.md)
   - [Schedule Course III (Greedy Algorithm with max heap)](./greedy/course_schedule_III/description.md)
   - [Maximum Units on a Truck](./greedy/maximum_units_on_a_truck/description.md)
+  - [Reduce Array Size to the Half](./greedy/reduce_array_size_to_the_half/description.md)
 
 ## Dynamic Programming
 - [Notes](./dynamic_programming/notes.md)
