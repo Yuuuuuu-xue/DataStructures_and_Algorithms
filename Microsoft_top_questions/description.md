@@ -19,7 +19,10 @@
 #### [(Premium) Design Tic-Tac-Toe](design_tic_tac_toe/description.md)
 #### [(Premium) Design Hit Counter](design_hit_counter/description.md)
 #### [String Compression](string_compression/description.md)
+#### [Minimum Moves to Equal Array Elements](minimum_moves_to_equal_array_elements/description.md)
 
 ## Hard Level Examples
 #### [Trapping Rain Water](trapping_rain_water/description.md)
 #### [Wilecard Matching](wildcard_matching/description.md)
+#### [LFU Cache](lfu_cache/description.md)
+#### [Design In-Memory File System](design_in_memory_file_system/description.md)
