@@ -25,6 +25,7 @@ Table of Contents:
     - [Regular Expression Matching](#regular-expression-matching)
     - [Best Time to Buy and Sell Stock with Cooldown](#best-time-to-buy-and-sell-stock-with-cooldown)
     - [Best Time to Buy and Sell Stock with Transaction Fee](#best-time-to-buy-and-sell-stock-with-transaction-fee)
+    - [Maximal Square](#maximal-square)
 
 ## Dynamic Programming
 - A **dynamic programming algorithm** for an optimization problem is basically a recursive solution that uses **memoization** to solve repeated calls to the same subproblems.
@@ -64,3 +65,4 @@ Table of Contents:
 #### [Regular Expression Matching](regular_expression_matching/description.md)
 #### [Best Time to Buy and Sell Stock with Cooldown](best_time_to_buy_and_sell_stock_with_cooldown/description.md)
 #### [Best Time to Buy and Sell Stock with Transaction Fee](best_time_to_buy_and_sell_stock_with_transaction_fee/description.md)
+#### [Maximal Square](maximal_square/description.md)

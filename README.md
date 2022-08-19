@@ -147,6 +147,7 @@ Table of Contents:
   - [Schedule Course III (Greedy Algorithm with max heap)](./greedy/course_schedule_III/description.md)
   - [Maximum Units on a Truck](./greedy/maximum_units_on_a_truck/description.md)
   - [Reduce Array Size to the Half](./greedy/reduce_array_size_to_the_half/description.md)
+  - [Split Array into consecutive Subsequences](greedy/split_array_into_consecutive_subsequences/description.md)
 
 ## Dynamic Programming
 - [Notes](./dynamic_programming/notes.md)
@@ -170,6 +171,7 @@ Table of Contents:
   - [Regular Expression Matching](dynamic_programming/regular_expression_matching/description.md)
   - [Best Time to Buy and Sell Stock with Cooldown](dynamic_programming/best_time_to_buy_and_sell_stock_with_cooldown/description.mdd)
   - [Best Time to Buy and Sell Stock with Transaction Fee](dynamic_programming/best_time_to_buy_and_sell_stock_with_transaction_fee/description.md)
+  - [Maximal Square](dynamic_programming/maximal_square/description.md)
 
 ## Shorest Weight Path (Dijkstra Algorithm)
 - [Notes](./shortest_weight_path/notes.md)
