@@ -129,7 +129,7 @@ Table of Contents:
 
 ## Minimum Spanning Tree
 - [Notes](./minimum_spanning_tree/notes.md)
-- Examples:
+- Examples: 
   - [Prim Algorithm](./minimum_spanning_tree/prim_algorithm/description.md)
   - [Kruskal Algorithm](./minimum_spanning_tree/kruskal_algorithm/description.md)
 
@@ -148,6 +148,7 @@ Table of Contents:
   - [Maximum Units on a Truck](./greedy/maximum_units_on_a_truck/description.md)
   - [Reduce Array Size to the Half](./greedy/reduce_array_size_to_the_half/description.md)
   - [Split Array into consecutive Subsequences](greedy/split_array_into_consecutive_subsequences/description.md)
+  - [Minimum Number of Refueling Stops](greedy/minimum_number_of_refueling_stops/description.md)
 
 ## Dynamic Programming
 - [Notes](./dynamic_programming/notes.md)
@@ -172,6 +173,8 @@ Table of Contents:
   - [Best Time to Buy and Sell Stock with Cooldown](dynamic_programming/best_time_to_buy_and_sell_stock_with_cooldown/description.mdd)
   - [Best Time to Buy and Sell Stock with Transaction Fee](dynamic_programming/best_time_to_buy_and_sell_stock_with_transaction_fee/description.md)
   - [Maximal Square](dynamic_programming/maximal_square/description.md)
+  - [Predict the Winner](dynamic_programming/predict_the_winner/description.md)
+  - [Palindrome Partitioning II](dynamic_programming/palindrome_partitioning_II/description.md)
 
 ## Shorest Weight Path (Dijkstra Algorithm)
 - [Notes](./shortest_weight_path/notes.md)
@@ -239,6 +242,7 @@ Table of Contents:
   - [Letter Combinations of a Phone Number](backtracking/letter_combinations_of_a_phone_number/description.md)
   - [Permutations II](backtracking/permutations_II/description.md)
   - [Robot Room Cleaner](backtracking/robot_room_cleaner/description.md)
+  - [Palindrome Partitioning](backtracking/palindrome_partitioning/description.md)
 
 ## Topological Sort
 - [Notes](./topological_sort/notes.md)
