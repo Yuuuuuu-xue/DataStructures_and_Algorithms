@@ -9,6 +9,7 @@ Table of Contents:
     - [Word Search II](#word-search-ii)
     - [Design Add and Search Words Data Structure](#design-add-and-search-words-data-structure)
     - [Implement Trie](#implement-trie)
+    - [Design Search Autocomplete System (Premium)](#design-search-autocomplete-system-premium)
 
 ## Trie
 Trie is basically a tree (not a binary tree) that stores String.
@@ -41,3 +42,4 @@ So keys are
 #### [Word Search II](word_search_II/description.md)
 #### [Design Add and Search Words Data Structure](design_add_and_search_words_data_structure/description.md)
 #### [Implement Trie](implement_trie/description.md)
+#### [Design Search Autocomplete System (Premium)](design_search_autocomplete_system/description.md)

@@ -20,6 +20,7 @@
 #### [(Premium) Design Hit Counter](design_hit_counter/description.md)
 #### [String Compression](string_compression/description.md)
 #### [Minimum Moves to Equal Array Elements](minimum_moves_to_equal_array_elements/description.md)
+#### [Design Circular Queue](design_circular_queue/description.md)
 
 ## Hard Level Examples
 #### [Trapping Rain Water](trapping_rain_water/description.md)
