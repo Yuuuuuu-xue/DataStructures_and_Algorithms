@@ -189,6 +189,9 @@ Table of Contents:
 - Examples:
   - [Single Number (XOR)](bitmask_and_bit_manipulation/single_number/description.md)
   - [Maximum Product of Word Lengths (Bitmaks)](bitmask_and_bit_manipulation/maximum_product_of_word_lengths/description.md)
+  - [Number of 1 Bits](bitmask_and_bit_manipulation/number_of_1_bits/description.md)
+  - [Maximum Length of a Concatenated String with Unique Characters](bitmask_and_bit_manipulation/maximum_length_of_a_concatenated_string_with_unique_characters/description.md)
+  - [Find Winner on a TicTacToe Game](bitmask_and_bit_manipulation/find_winner_on_a_tictactoe_game/description.md)
 
 ## Fenwick Tree (Binary Indexed Tree)
 - [Notes](./fenwick_tree/notes.md)

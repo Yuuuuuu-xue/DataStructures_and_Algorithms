@@ -4,6 +4,7 @@
 #### [Reverse String](reverse_string/description.md)
 #### [Valid Parentheses](valid_palindrome/description.md)
 #### [(Premium): Logger Rate Limiter](logger_rate_limiter/description.md)
+#### [Find n Unique Integers Sum Up to Zero](find_n_unique_integers_sum_up_to_zero/description.md)
 
 ## Medium Level Examples
 #### [String to Integer (atoi)](string_to_integer/description.md)
@@ -21,9 +22,12 @@
 #### [String Compression](string_compression/description.md)
 #### [Minimum Moves to Equal Array Elements](minimum_moves_to_equal_array_elements/description.md)
 #### [Design Circular Queue](design_circular_queue/description.md)
+#### [Top k Frequent Words](top_k_frequent_words/description.md)
+#### [Maximize Distance to Closest Person](maximize_distance_to_closest_person/description.md)
 
 ## Hard Level Examples
 #### [Trapping Rain Water](trapping_rain_water/description.md)
 #### [Wilecard Matching](wildcard_matching/description.md)
 #### [LFU Cache](lfu_cache/description.md)
 #### [Design In-Memory File System](design_in_memory_file_system/description.md)
+#### [Max Chunks to Make Sorted II](max_chunks_to_make_sorted_II/description.md)
