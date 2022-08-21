@@ -28,6 +28,8 @@ Table of Contents:
     - [Maximal Square](#maximal-square)
     - [Predict the Winner](#predict-the-winner)
     - [Palindrome Partitioning II](#palindrome-partitioning-ii)
+    - [Partition Equal Subset Sum](#partition-equal-subset-sum)
+    - [Minimum Cost for Tickets](#minimum-cost-for-tickets)
 
 ## Dynamic Programming
 - A **dynamic programming algorithm** for an optimization problem is basically a recursive solution that uses **memoization** to solve repeated calls to the same subproblems.
@@ -70,3 +72,5 @@ Table of Contents:
 #### [Maximal Square](maximal_square/description.md)
 #### [Predict the Winner](predict_the_winner/description.md)
 #### [Palindrome Partitioning II](palindrome_partitioning_II/description.md)
+#### [Partition Equal Subset Sum](partition_equal_subset_sum/description.md)
+#### [Minimum Cost for Tickets](minimum_cost_for_tickets/description.md)

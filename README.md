@@ -175,6 +175,8 @@ Table of Contents:
   - [Maximal Square](dynamic_programming/maximal_square/description.md)
   - [Predict the Winner](dynamic_programming/predict_the_winner/description.md)
   - [Palindrome Partitioning II](dynamic_programming/palindrome_partitioning_II/description.md)
+  - [Partition Equal Subset Sum](dynamic_programming/partition_equal_subset_sum/description.md)
+  - [Minimum Cost for Tickets](dynamic_programming/minimum_cost_for_tickets/description.md)
 
 ## Shorest Weight Path (Dijkstra Algorithm)
 - [Notes](./shortest_weight_path/notes.md)
