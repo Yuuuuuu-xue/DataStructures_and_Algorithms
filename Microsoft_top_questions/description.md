@@ -24,6 +24,13 @@
 #### [Design Circular Queue](design_circular_queue/description.md)
 #### [Top k Frequent Words](top_k_frequent_words/description.md)
 #### [Maximize Distance to Closest Person](maximize_distance_to_closest_person/description.md)
+#### [Angle Between Hands of a Clock](angle_between_hands_of_a_clock/description.md)
+#### [Number of Steps to Reduce a Number in Binary Representation to One](number_of_steps_to_reduce_a_number_in_binary_representation_to_one/description.md)
+#### [Longest Happy String](longest_happy_string/description.md)
+#### [Maximal Network Rank](maximal_network_rank/description.md)
+#### [Minimum Deletions to Make Character Frequencies Unique](minimum_deletions_to_make_character_frequencies_unique/description.md)
+#### [Recover Binary Search Tree](recover_binary_search_tree/description.md)
+#### [Binary Tree Ziqzag Level Order Traversal](binary_tree_zigzag_level_order_traversal/description.md)
 
 ## Hard Level Examples
 #### [Trapping Rain Water](trapping_rain_water/description.md)
