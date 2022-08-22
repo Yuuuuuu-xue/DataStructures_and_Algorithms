@@ -64,6 +64,7 @@ Table of Contents:
   - [All Nodes Distance k In Binary Tree](tree/all_nodes_distance_k_in_binary_tree/description.md)
   - [Find Leaves of Binary Tree](tree/find_leaves_of_binary_tree/description.md)
   - [House Robber III](tree/hourse_robber_III/description.md)
+  - [Binary Tree Longest Consecutive Sequence II](tree/binary_tree_longest_consecutive_sequence_II/description.md)
 - [Binary Search Tree Notes](./BST/notes.md) \
   Examples:
   - [Implementation](BST/implementation/description.md)
@@ -177,6 +178,8 @@ Table of Contents:
   - [Palindrome Partitioning II](dynamic_programming/palindrome_partitioning_II/description.md)
   - [Partition Equal Subset Sum](dynamic_programming/partition_equal_subset_sum/description.md)
   - [Minimum Cost for Tickets](dynamic_programming/minimum_cost_for_tickets/description.md)
+  - [Best Time to Buy and Sell Stock III](dynamic_programming/best_time_to_buy_and_sell_stock_III/description.md)
+  - [Dungeon Game](dynamic_programming/dungeon_game/description.md)
 
 ## Shorest Weight Path (Dijkstra Algorithm)
 - [Notes](./shortest_weight_path/notes.md)
@@ -192,6 +195,7 @@ Table of Contents:
   - [Number of 1 Bits](bitmask_and_bit_manipulation/number_of_1_bits/description.md)
   - [Maximum Length of a Concatenated String with Unique Characters](bitmask_and_bit_manipulation/maximum_length_of_a_concatenated_string_with_unique_characters/description.md)
   - [Find Winner on a TicTacToe Game](bitmask_and_bit_manipulation/find_winner_on_a_tictactoe_game/description.md)
+  - [Cinema Seat Allocation](bitmask_and_bit_manipulation/cinema_seat_allocation/description.md)
 
 ## Fenwick Tree (Binary Indexed Tree)
 - [Notes](./fenwick_tree/notes.md)

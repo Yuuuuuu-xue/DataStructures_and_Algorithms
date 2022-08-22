@@ -30,6 +30,8 @@ Table of Contents:
     - [Palindrome Partitioning II](#palindrome-partitioning-ii)
     - [Partition Equal Subset Sum](#partition-equal-subset-sum)
     - [Minimum Cost for Tickets](#minimum-cost-for-tickets)
+    - [Best Time to Buy and SEll Stock III](#best-time-to-buy-and-sell-stock-iii)
+    - [Dungeon Game](#dungeon-game)
 
 ## Dynamic Programming
 - A **dynamic programming algorithm** for an optimization problem is basically a recursive solution that uses **memoization** to solve repeated calls to the same subproblems.
@@ -74,3 +76,5 @@ Table of Contents:
 #### [Palindrome Partitioning II](palindrome_partitioning_II/description.md)
 #### [Partition Equal Subset Sum](partition_equal_subset_sum/description.md)
 #### [Minimum Cost for Tickets](minimum_cost_for_tickets/description.md)
+#### [Best Time to Buy and SEll Stock III](best_time_to_buy_and_sell_stock_III/description.md)
+#### [Dungeon Game](dungeon_game/description.md)

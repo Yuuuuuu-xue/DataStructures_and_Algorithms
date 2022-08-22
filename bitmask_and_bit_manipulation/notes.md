@@ -18,6 +18,7 @@ Table of Contents:
     - [Number of 1 bits](#number-of-1-bits)
     - [Maximum Length of a Concatenated String with Unique Charaters](#maximum-length-of-a-concatenated-string-with-unique-charaters)
     - [Find Winner on a TicTacToe Game](#find-winner-on-a-tictactoe-game)
+    - [Cinema Seat Allocation](#cinema-seat-allocation)
 
 ## Bit Manipulation
 #### Bitwise And
@@ -87,3 +88,4 @@ return (mask & (1 << k)) != 0
 #### [Number of 1 bits](number_of_1_bits/description.md)
 #### [Maximum Length of a Concatenated String with Unique Charaters](maximum_length_of_a_concatenated_string_with_unique_characters/description.md)
 #### [Find Winner on a TicTacToe Game](find_winner_on_a_tictactoe_game/description.md)
+#### [Cinema Seat Allocation](cinema_seat_allocation/description.md)
