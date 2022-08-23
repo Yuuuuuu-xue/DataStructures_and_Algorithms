@@ -217,6 +217,7 @@ Table of Contents:
 - [Notes](./linked_list/notes.md)
 - Example:
   - [First Node of a Cycle in Linked List](./linked_list/linked_list_first_node_cycle/description.md)
+  - [Palindrome Linked List](linked_list/palindrome_linked_list/description.md)
 
 ## Array
 - Examples:

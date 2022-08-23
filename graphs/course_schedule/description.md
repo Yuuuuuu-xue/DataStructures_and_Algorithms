@@ -35,3 +35,4 @@ Then, notice if we have a cycle, then it is not possible to schedule to courses.
 
 ## Solution:
 - [Python Solution](./course_schedule.py)
+- [C++](solution.cpp)

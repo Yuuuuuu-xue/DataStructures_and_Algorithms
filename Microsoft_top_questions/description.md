@@ -5,6 +5,8 @@
 #### [Valid Parentheses](valid_palindrome/description.md)
 #### [(Premium): Logger Rate Limiter](logger_rate_limiter/description.md)
 #### [Find n Unique Integers Sum Up to Zero](find_n_unique_integers_sum_up_to_zero/description.md)
+#### [Sign of the Product of an Array](sign_of_the_product_of_an_array/description.md)
+#### [Remove Digit From Number to Maximize Result](remove_digit_from_number_to_maximize_result/description.md)
 
 ## Medium Level Examples
 #### [String to Integer (atoi)](string_to_integer/description.md)
@@ -31,6 +33,9 @@
 #### [Minimum Deletions to Make Character Frequencies Unique](minimum_deletions_to_make_character_frequencies_unique/description.md)
 #### [Recover Binary Search Tree](recover_binary_search_tree/description.md)
 #### [Binary Tree Ziqzag Level Order Traversal](binary_tree_zigzag_level_order_traversal/description.md)
+#### [Shortest Bridge](shortest_bridge/description.md)
+#### [Minimum Deleteions to Make String Balanced](minimum_deletions_to_make_string_balanced/description.md)
+#### [Equal Sum Arrays with Minimum Number of Operations](equal_sum_arrays_with_minimum_number_of_operations/description.md)
 
 ## Hard Level Examples
 #### [Trapping Rain Water](trapping_rain_water/description.md)
@@ -38,3 +43,5 @@
 #### [LFU Cache](lfu_cache/description.md)
 #### [Design In-Memory File System](design_in_memory_file_system/description.md)
 #### [Max Chunks to Make Sorted II](max_chunks_to_make_sorted_II/description.md)
+#### [Partition Array into Two Arrays to Minimize Sum Difference](partition_array_into_two_arrays_to_minimize_sum_difference/description.md)
+#### [Longest Path with Different Adjacent Characters](longest_path_with_different_adjacent_characters/description.md)
