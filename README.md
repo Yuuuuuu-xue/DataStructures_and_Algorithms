@@ -260,3 +260,6 @@ Table of Contents:
 - Examples:
   - [Implementation](topological_sort/implementation/description.md)
   - [Course Schedule II](topological_sort/course_schedule_II/description.md)
+- [Kahn's Algorithm BFS Implementation](topological_sort/kahn_algorithm/description.md)
+  - [Minimum Height Trees](topological_sort/minimum_height_trees/description.md)
+  - [Longest Increasing Path in a Matrix](topological_sort/longest_increasing_path_in_a_matrix/description.md)

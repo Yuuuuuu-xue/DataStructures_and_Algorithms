@@ -6,6 +6,9 @@ Table of Contents:
 - [Examples](#examples)
     - [Implementation](#implementation)
     - [Course Schedule II](#course-schedule-ii)
+    - [Kahn's Algorithm (BFS Implementation)](#kahns-algorithm-bfs-implementation)
+    - [Minimum Height Trees](#minimum-height-trees)
+    - [Longest Increasing Path in a Matrix](#longest-increasing-path-in-a-matrix)
 
 ## Topological Sort
 A topological sort of a directed graph is a linear ordering of its vertices such that for every directed edge `uv` from vertex `u` to `v`, `u` comes before `v` in the ordering. 
@@ -15,3 +18,6 @@ A topological sort is a graph traversal in which each node `v` is visited only a
 ## Examples
 #### [Implementation](./implementation/description.md)
 #### [Course Schedule II](./course_schedule_II/description.md)
+#### [Kahn's Algorithm (BFS Implementation)](kahn_algorithm/description.md)
+#### [Minimum Height Trees](minimum_height_trees/description.md)
+#### [Longest Increasing Path in a Matrix](longest_increasing_path_in_a_matrix/description.md)
