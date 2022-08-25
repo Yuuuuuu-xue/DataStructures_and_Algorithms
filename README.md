@@ -90,6 +90,7 @@ Table of Contents:
   - [Four Sum II](hashing/four_sum_II/description.md)
   - [Diagonal Traverse](hashing/diagonal_traverse/description.md)
   - [Max Number of k-sum Pairs](hashing/max_numbers_of_k_sum_pairs/description.md)
+  - [Ransom Note](hashing/ransom_note/description.md)
 
 ## Sorting Algorithms
 - [Notes](./sorting/notes.md)
@@ -260,6 +261,8 @@ Table of Contents:
 - Examples:
   - [Implementation](topological_sort/implementation/description.md)
   - [Course Schedule II](topological_sort/course_schedule_II/description.md)
+  - [Alien Dictionary](topological_sort/alien_dictionary/description.md)
 - [Kahn's Algorithm BFS Implementation](topological_sort/kahn_algorithm/description.md)
   - [Minimum Height Trees](topological_sort/minimum_height_trees/description.md)
   - [Longest Increasing Path in a Matrix](topological_sort/longest_increasing_path_in_a_matrix/description.md)
+  - [Parallel Courses](topological_sort/parallel_courses/description.md)
