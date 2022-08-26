@@ -19,6 +19,8 @@ Table of Contents:
     - [Maximum Length of a Concatenated String with Unique Charaters](#maximum-length-of-a-concatenated-string-with-unique-charaters)
     - [Find Winner on a TicTacToe Game](#find-winner-on-a-tictactoe-game)
     - [Cinema Seat Allocation](#cinema-seat-allocation)
+    - [Single Number II (XOR)](#single-number-ii-xor)
+    - [Single Number III (XOR)](#single-number-iii-xor)
 
 ## Bit Manipulation
 #### Bitwise And
@@ -89,3 +91,5 @@ return (mask & (1 << k)) != 0
 #### [Maximum Length of a Concatenated String with Unique Charaters](maximum_length_of_a_concatenated_string_with_unique_characters/description.md)
 #### [Find Winner on a TicTacToe Game](find_winner_on_a_tictactoe_game/description.md)
 #### [Cinema Seat Allocation](cinema_seat_allocation/description.md)
+#### [Single Number II (XOR)](single_number_II/description.md)
+#### [Single Number III (XOR)](single_number_III/description.md)

@@ -97,6 +97,7 @@ Table of Contents:
 - Examples:
   - [Merge Sort](./sorting/merge_sort/description.md)
   - [Quick Sort](./sorting/quick_sort/description.md)
+  - [Reordered Power of 2](./sorting/reordered_power_of_2/description.md)
 
 ## Stack and Queue
 - [Notes](./stack_and_queue/notes.md)
@@ -123,6 +124,7 @@ Table of Contents:
   - [Open the Lock](graphs/open_the_lock/description.md)
   - [Number of Operations to Make Network Connections](graphs/number_of_operations_to_make_network_connected/description.md)
   - [Remove Invalid Parentheses](graphs/remove_invalid_parentheses/description.md)
+  - [Shortest Path to Get All Keys](graphs/shortest_path_to_get_all_keys/description.md0)
 
 ## Dijkstra's Algorithm
 - [Notes](./dijkstra_algorithm/notes.md)
@@ -197,6 +199,8 @@ Table of Contents:
   - [Maximum Length of a Concatenated String with Unique Characters](bitmask_and_bit_manipulation/maximum_length_of_a_concatenated_string_with_unique_characters/description.md)
   - [Find Winner on a TicTacToe Game](bitmask_and_bit_manipulation/find_winner_on_a_tictactoe_game/description.md)
   - [Cinema Seat Allocation](bitmask_and_bit_manipulation/cinema_seat_allocation/description.md)
+  - [Single Number II (XOR)](bitmask_and_bit_manipulation/single_number_II/description.md)
+  - [Single Number III (XOR)](bitmask_and_bit_manipulation/single_number_III/description.md)
 
 ## Fenwick Tree (Binary Indexed Tree)
 - [Notes](./fenwick_tree/notes.md)
