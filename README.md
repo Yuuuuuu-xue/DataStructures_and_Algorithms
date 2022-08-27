@@ -91,6 +91,7 @@ Table of Contents:
   - [Diagonal Traverse](hashing/diagonal_traverse/description.md)
   - [Max Number of k-sum Pairs](hashing/max_numbers_of_k_sum_pairs/description.md)
   - [Ransom Note](hashing/ransom_note/description.md)
+  - [Design Underground System](hashing/design_underground_system/description.md)
 
 ## Sorting Algorithms
 - [Notes](./sorting/notes.md)
