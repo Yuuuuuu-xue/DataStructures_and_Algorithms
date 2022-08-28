@@ -16,6 +16,7 @@ Table of Contents:
     - [Longest Increasing Subsequence](#longest-increasing-subsequence)
     - [Different Ways to Add Parentheses](#different-ways-to-add-parentheses)
     - [Split Array Largest Sum](#split-array-largest-sum)
+    - [Range Module](#range-module)
 
 ## Divide and Conquer
 - **Divide**: divide the problem into two or more smaller instances of the same problem (subproblems)
@@ -41,3 +42,4 @@ It applies to runtime of divide-and-conquer algorithms when subproblems all have
 #### [Longest Increasing Subsequence](longest_increasing_subsequence/description.md)
 #### [Different Ways to Add Parentheses](different_ways_to_add_parentheses/description.md)
 #### [Split Array Largest Sum](split_array_largest_sum/description.md)
+#### [Range Module](range_module/description.md)
