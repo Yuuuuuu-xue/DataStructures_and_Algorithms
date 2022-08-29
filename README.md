@@ -50,6 +50,7 @@ Table of Contents:
     - [Longest Increasing Subsequence](./divide_and_conquer/longest_increasing_subsequence/description.md)
     - [Different Ways to Add Parentheses](./divide_and_conquer/different_ways_to_add_parentheses/description.md)
     - [Split Array Largest Sum](./divide_and_conquer/split_array_largest_sum/description.md)
+    - [Range Module](divide_and_conquer/range_module/description.md)
   
 ## Tree
 - [General Notes](./tree/notes.md)
@@ -126,7 +127,8 @@ Table of Contents:
   - [Open the Lock](graphs/open_the_lock/description.md)
   - [Number of Operations to Make Network Connections](graphs/number_of_operations_to_make_network_connected/description.md)
   - [Remove Invalid Parentheses](graphs/remove_invalid_parentheses/description.md)
-  - [Shortest Path to Get All Keys](graphs/shortest_path_to_get_all_keys/description.md0)
+  - [Shortest Path to Get All Keys](graphs/shortest_path_to_get_all_keys/description.md)
+  - [The Maze II](graphs/the_maze_II/description.md)
 
 ## Dijkstra's Algorithm
 - [Notes](./dijkstra_algorithm/notes.md)
