@@ -76,6 +76,7 @@ Table of Contents:
   - [Find Leaves of Binary Tree](tree/find_leaves_of_binary_tree/description.md)
   - [House Robber III](tree/hourse_robber_III/description.md)
   - [Binary Tree Longest Consecutive Sequence II](tree/binary_tree_longest_consecutive_sequence_II/description.md)
+  - [Average of Leaves in Binary Tree](./tree/average_of_leaves_in_binary_tree/description.md)
 - [Binary Search Tree Notes](./BST/notes.md) \
   Examples:
   - [Implementation](BST/implementation/description.md)
