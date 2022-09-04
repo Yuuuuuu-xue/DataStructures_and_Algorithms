@@ -77,7 +77,8 @@ Table of Contents:
   - [House Robber III](tree/hourse_robber_III/description.md)
   - [Binary Tree Longest Consecutive Sequence II](tree/binary_tree_longest_consecutive_sequence_II/description.md)
   - [Average of Leaves in Binary Tree](./tree/average_of_leaves_in_binary_tree/description.md)
-- [Binary Search Tree Notes](./BST/notes.md) \
+  - [Vertical Order Traversal of a Binary Tree](tree/vertical_order_traversal_of_a_binary_tree/description.md)
+- [Binary Search Tree Notes](./BST/notes.md)
   Examples:
   - [Implementation](BST/implementation/description.md)
   - [Sorted Linked List to Balanced BST](BST/sorted_linked_list_to_balanced_bst/description.md)

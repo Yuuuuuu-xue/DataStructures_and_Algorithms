@@ -13,6 +13,7 @@ Table of Contents:
     - [All Nodes Distance k in Binary Tree](#all-nodes-distance-k-in-binary-tree)
     - [House Robber III](#house-robber-iii)
     - [Binary Tree Longest Consecutive Sequence II](#binary-tree-longest-consecutive-sequence-ii)
+    - [Vertical Order Traversal of a Binary Tree](#vertical-order-traversal-of-a-binary-tree)
 
 ## Tree
 - **height** of a tree is the length of the longest path from the root to a child
@@ -39,3 +40,4 @@ Table of Contents:
 #### [All Nodes Distance k in Binary Tree](all_nodes_distance_k_in_binary_tree/description.md)
 #### [House Robber III](hourse_robber_III/description.md)
 #### [Binary Tree Longest Consecutive Sequence II](binary_tree_longest_consecutive_sequence_II/description.md)
+#### [Vertical Order Traversal of a Binary Tree](vertical_order_traversal_of_a_binary_tree/description.md)
