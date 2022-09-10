@@ -200,6 +200,7 @@ Table of Contents:
   - [Minimum Cost for Tickets](dynamic_programming/minimum_cost_for_tickets/description.md)
   - [Best Time to Buy and Sell Stock III](dynamic_programming/best_time_to_buy_and_sell_stock_III/description.md)
   - [Dungeon Game](dynamic_programming/dungeon_game/description.md)
+  - [Best Time to Buy and Sell Stock IV](./dynamic_programming/best_time_to_buy_and_sell_stock_IV/description.md)
 
 ## Shorest Weight Path (Dijkstra Algorithm)
 - [Notes](./shortest_weight_path/notes.md)
