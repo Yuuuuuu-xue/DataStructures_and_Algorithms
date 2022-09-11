@@ -45,3 +45,4 @@ Table of Contents:
 #### [O(n) Build Heap](build_heap/description.md)
 #### [Min Heap With Decrease Key](min_heap_with_decrease_key/description.md)
 #### [Kth Smallest Element in a Sorted Matrix](kth_smallest_element_in_a_sorted_matrix/description.md)
+#### [Maximum Performance of a Team](./maximum_performance_of_a_team/description.md)
