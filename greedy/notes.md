@@ -27,3 +27,4 @@ A problem exhibits **optimal substructure** if an optimal solution to the proble
 #### [Reduce Array Size to the Half](reduce_array_size_to_the_half/description.md)
 #### [Split Array into Consecutive Subsequences](split_array_into_consecutive_subsequences/description.md)
 #### [Minimum Number of Refueling Stops](minimum_number_of_refueling_stops/description.md)
+#### [Bag of Tokens](./bag_of_tokens/description.md)

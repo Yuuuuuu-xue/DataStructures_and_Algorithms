@@ -171,6 +171,7 @@ Table of Contents:
   - [Reduce Array Size to the Half](./greedy/reduce_array_size_to_the_half/description.md)
   - [Split Array into consecutive Subsequences](greedy/split_array_into_consecutive_subsequences/description.md)
   - [Minimum Number of Refueling Stops](greedy/minimum_number_of_refueling_stops/description.md)
+  - [Bag of Tokens](./greedy/bag_of_tokens/description.md)
 
 ## Dynamic Programming
 - [Notes](./dynamic_programming/notes.md)
