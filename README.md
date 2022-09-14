@@ -279,6 +279,7 @@ Table of Contents:
   - [Permutations II](backtracking/permutations_II/description.md)
   - [Robot Room Cleaner](backtracking/robot_room_cleaner/description.md)
   - [Palindrome Partitioning](backtracking/palindrome_partitioning/description.md)
+  - [Pseudo-Palindromic Paths in a Binary Tree](./backtracking/pseudo-palindromic_paths_in_a_binary_tree/)
 
 ## Topological Sort
 - [Notes](./topological_sort/notes.md)
