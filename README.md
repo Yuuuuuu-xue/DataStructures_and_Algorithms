@@ -271,6 +271,7 @@ Table of Contents:
   - [First Unique Character in a String](array/first_unique_character_in_a_string/description.md)
   - [Maximum Subarray](array/maximum_subarray/description.md)
   - [Unique Morse Code Words](array/unique_morse_code_words/description.md)
+  - [Find Original Array From Doubled Array](./array/find_original_array_from_doubled_array/description.md)
 
 ## Backtracking
 - Examples:
