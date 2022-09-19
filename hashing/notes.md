@@ -39,5 +39,6 @@ For each slot, we have a linked list. So when collision occurs, we just add it t
 #### [Four Sum II](four_sum_II/description.md)
 #### [Diagonal Traverse](diagonal_traverse/description.md)
 #### [Max Number of k-sum Pairs](max_numbers_of_k_sum_pairs/description.md)
-#### [Ransom Note](ransom_note/description.md
+#### [Ransom Note](ransom_note/description.md)
 #### [Design Underground System](design_underground_system/description.md)
+#### [Find Duplicate File in System](./find_duplicate_file_in_system/description.md)
