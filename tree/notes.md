@@ -42,3 +42,4 @@ Table of Contents:
 #### [Binary Tree Longest Consecutive Sequence II](binary_tree_longest_consecutive_sequence_II/description.md)
 #### [Vertical Order Traversal of a Binary Tree](vertical_order_traversal_of_a_binary_tree/description.md)
 #### [N-ary Tree Level Order Traversal](./n_ary_tree_level_order_traversal/description.md)
+#### [Path Sum II](./path_sum_II/description.md)

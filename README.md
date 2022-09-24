@@ -79,6 +79,7 @@ Table of Contents:
   - [Average of Leaves in Binary Tree](./tree/average_of_leaves_in_binary_tree/description.md)
   - [Vertical Order Traversal of a Binary Tree](tree/vertical_order_traversal_of_a_binary_tree/description.md)
   - [N-ary Tree Level Order Traversal](./tree/n_ary_tree_level_order_traversal/description.md)
+  - [Path Sum II](./tree/path_sum_II/description.md)
 - [Binary Search Tree Notes](./BST/notes.md)
   Examples:
   - [Implementation](BST/implementation/description.md)
