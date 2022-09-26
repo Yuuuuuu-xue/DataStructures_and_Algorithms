@@ -22,7 +22,12 @@ Output: 1
 ```
 
 ## Key Idea
-We will use dynamic programming to solve this problem. We will first sort the input array by their width in non-decreasing order, if they have the same width, then sort the height in non-increasing order. For instance, [[3, 4], [3, 6]] will be sorted to [[3, 6], [3, 4]]. Then the width does not matter since it's sorted and we only need to think about the array of height. For isntance, given an array of [0, 3, 1, 6, 2, 2, 7], we want to find a longest increasing subsequence (LeetCode Medium 300). A subsequence is a sequence that can be derived from an array by deleting some or no elements without changing the order of remaining elements. Note if same width, we sort the height in non-decreasing order because if in non-increasing order, then for instance, [[3, 4], [3, 6]], we will have [3, 6] and it will be a subseqeunce of length 2. But if we change the order, [6, 3], then the longest subsequence has a longth of 1 and that's exacly what we want. Now given an array of [0, 3, 1, 6, 2, 2, 7], how do we find the longest increasing subsequence? Let dp[i] be the i_th smallest elements we have seen so far, for an element x, we will perform a binary search (bisect left) of dp to find the index i and set dp[i] to x, it no elements are smaller than the given element x, we increase the subsequence adn update the length. The length will be the final solution.
+Let's sort the input array by its width in non-decreasing order. Then simply loop over the sorted array, we will skip over elements with same width and keep the maximum height. Then this question is exactly same as [Longest Increasing Subsequency](./../longest_increasing_subsequence/description.md).
+
+## Complexity Analysis
+- Runtime Complexity: O(n lg n)
+- Space Complexity: O(n)
 
 ## Solution
-- [Java Solution]
+- [Java Solution](./russian_doll_envelopes.java)
+- [C++](./solution.cpp)
