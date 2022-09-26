@@ -6,6 +6,7 @@ Table of Contents:
 - [Examples:](#examples)
     - [Disjoint Set Path Compression by Union Implementation](#disjoint-set-path-compression-by-union-implementation)
     - [Number of Islands](#number-of-islands)
+    - [Satisfiability of Equality Equations](#satisfiability-of-equality-equations)
 
 ## Disjoint Set ADT
 We have the following operations:
@@ -17,3 +18,4 @@ We have the following operations:
 ## Examples:
 #### [Disjoint Set Path Compression by Union Implementation](./implementation/description.md)
 #### [Number of Islands](number_of_islands/description.md)
+#### [Satisfiability of Equality Equations](./satisfiability_of_equality_equations/description.md)

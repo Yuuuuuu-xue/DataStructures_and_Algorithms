@@ -162,6 +162,7 @@ Table of Contents:
 - Examples:
   - [Disjoint Set with Path Compression by Rank Implementation](disjoint_set/implementation/description.md)
   - [Number of Islands](disjoint_set/number_of_islands/description.md)
+  - [Satisfiability of Equality Equations](disjoint_set/satisfiability_of_equality_equations/description.md)
 
 ## Greedy Algorithm
 - [Notes](./greedy/notes.md)
