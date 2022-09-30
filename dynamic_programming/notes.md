@@ -35,6 +35,9 @@ Table of Contents:
     - [Best Time To Buy and Sell Stock IV](#best-time-to-buy-and-sell-stock-iv)
     - [Fibonacci Number](#fibonacci-number)
     - [Longest Increasing Subsequency](#longest-increasing-subsequency)
+    - [Longest Common Subsequence](#longest-common-subsequence)
+    - [Minimum Insertion Steps to Make a String Palindrome](#minimum-insertion-steps-to-make-a-string-palindrome)
+    - [Longest Palindromic Subsequence](#longest-palindromic-subsequence)
 
 ## Dynamic Programming
 - A **dynamic programming algorithm** for an optimization problem is basically a recursive solution that uses **memoization** to solve repeated calls to the same subproblems.
@@ -84,3 +87,6 @@ Table of Contents:
 #### [Best Time To Buy and Sell Stock IV](./best_time_to_buy_and_sell_stock_IV/description.md)
 #### [Fibonacci Number](./fibonacci_number/description.md)
 #### [Longest Increasing Subsequency](./longest_increasing_subsequence/description.md)
+#### [Longest Common Subsequence](./longest_common_subsequence/description.md)
+#### [Minimum Insertion Steps to Make a String Palindrome](./minimum_insertion_steps_to_make_a_string_palindrome/description.md)
+#### [Longest Palindromic Subsequence](./longest_palindromic_subsequence/description.md)

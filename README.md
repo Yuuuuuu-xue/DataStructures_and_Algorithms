@@ -208,6 +208,9 @@ Table of Contents:
   - [Best Time to Buy and Sell Stock IV](./dynamic_programming/best_time_to_buy_and_sell_stock_IV/description.md)
   - [Fibonacci Number](dynamic_programming/fibonacci_number/description.md)
   - [Longest Increasing Subsequency](dynamic_programming/longest_increasing_subsequence/description.md)
+  - [Longest Common Subsequence](dynamic_programming/longest_common_subsequence/description.md)
+  - [Minimum INsertion Steps to Make a String Palindrome](dynamic_programming/minimum_insertion_steps_to_make_a_string_palindrome/description.md)
+  - [Longest Palindromic Subsequence](dynamic_programming/longest_palindromic_subsequence/description.md)
 
 ## Shorest Weight Path (Dijkstra Algorithm)
 - [Notes](./shortest_weight_path/notes.md)
