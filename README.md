@@ -211,6 +211,7 @@ Table of Contents:
   - [Longest Common Subsequence](dynamic_programming/longest_common_subsequence/description.md)
   - [Minimum INsertion Steps to Make a String Palindrome](dynamic_programming/minimum_insertion_steps_to_make_a_string_palindrome/description.md)
   - [Longest Palindromic Subsequence](dynamic_programming/longest_palindromic_subsequence/description.md)
+  - [Decode Ways](./dynamic_programming/decode_ways/description.md)
 
 ## Shorest Weight Path (Dijkstra Algorithm)
 - [Notes](./shortest_weight_path/notes.md)

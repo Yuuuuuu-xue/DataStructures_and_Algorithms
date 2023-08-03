@@ -90,3 +90,4 @@ Table of Contents:
 #### [Longest Common Subsequence](./longest_common_subsequence/description.md)
 #### [Minimum Insertion Steps to Make a String Palindrome](./minimum_insertion_steps_to_make_a_string_palindrome/description.md)
 #### [Longest Palindromic Subsequence](./longest_palindromic_subsequence/description.md)
+#### [Decode Ways](./decode_ways/description.md)
