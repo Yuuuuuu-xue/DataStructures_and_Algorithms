@@ -28,7 +28,8 @@ Output: ["a", "b", "c"]
 ```
 
 ## Key Idea
-We will first create a hashmap that maps the digit to it's possible character array. Then we can simply loop each digit's character representation and backtracking.
+We will first create a hashmap that maps the digit to it's possible character array. Then we can simply loop each digit's character representation and backtracking. We nuse backtracking to remove the last character and try the next one.
 
 ## Solution
 - [Java Solution](letter_combinations_of_a_phone_number.java)
+- [C++ Solution](./solution.cpp)
