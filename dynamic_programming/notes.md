@@ -38,6 +38,8 @@ Table of Contents:
     - [Longest Common Subsequence](#longest-common-subsequence)
     - [Minimum Insertion Steps to Make a String Palindrome](#minimum-insertion-steps-to-make-a-string-palindrome)
     - [Longest Palindromic Subsequence](#longest-palindromic-subsequence)
+    - [Decode Ways](#decode-ways)
+    - [Word Break](#word-break)
 
 ## Dynamic Programming
 - A **dynamic programming algorithm** for an optimization problem is basically a recursive solution that uses **memoization** to solve repeated calls to the same subproblems.
@@ -91,3 +93,4 @@ Table of Contents:
 #### [Minimum Insertion Steps to Make a String Palindrome](./minimum_insertion_steps_to_make_a_string_palindrome/description.md)
 #### [Longest Palindromic Subsequence](./longest_palindromic_subsequence/description.md)
 #### [Decode Ways](./decode_ways/description.md)
+#### [Word Break](./word_break/description.md)
