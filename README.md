@@ -85,6 +85,7 @@ Table of Contents:
   - [Implementation](BST/implementation/description.md)
   - [Sorted Linked List to Balanced BST](BST/sorted_linked_list_to_balanced_bst/description.md)
   - [Convert Sorted Array to Binary Search Tree](BST/convert_sorted_array_to_binary_search_tree/description.md)
+  - [Unique Binary Search Trees II](/BST/unique_binary_search_trees_II/description.md)
 - [AVL](./AVL/notes.md) \
   Examples:
   - [Implementation](AVL/implementation/description.md)
