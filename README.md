@@ -214,6 +214,7 @@ Table of Contents:
   - [Longest Palindromic Subsequence](dynamic_programming/longest_palindromic_subsequence/description.md)
   - [Decode Ways](./dynamic_programming/decode_ways/description.md)
   - [Word Break](./dynamic_programming/word_break/description.md)
+  - [Number of Music Playlists](./dynamic_programming/number_of_music_playlists/description.md)
 
 ## Shorest Weight Path (Dijkstra Algorithm)
 - [Notes](./shortest_weight_path/notes.md)

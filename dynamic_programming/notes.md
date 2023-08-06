@@ -40,6 +40,7 @@ Table of Contents:
     - [Longest Palindromic Subsequence](#longest-palindromic-subsequence)
     - [Decode Ways](#decode-ways)
     - [Word Break](#word-break)
+    - [Number of Music Playlists](#number-of-music-playlists)
 
 ## Dynamic Programming
 - A **dynamic programming algorithm** for an optimization problem is basically a recursive solution that uses **memoization** to solve repeated calls to the same subproblems.
@@ -94,3 +95,4 @@ Table of Contents:
 #### [Longest Palindromic Subsequence](./longest_palindromic_subsequence/description.md)
 #### [Decode Ways](./decode_ways/description.md)
 #### [Word Break](./word_break/description.md)
+#### [Number of Music Playlists](./number_of_music_playlists/description.md)
