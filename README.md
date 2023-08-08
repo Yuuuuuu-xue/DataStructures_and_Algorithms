@@ -35,6 +35,7 @@ Table of Contents:
     - [Trees](#trees)
     - [Tries](#tries)
     - [Two Pointers](#two-pointers)
+    - [Heap and Priority Queue](#heap-and-priority-queue)
 
 ## Abstract Data Type and Data Structure
 - **Abstract Data Type**: is the set of objects together with operations.
@@ -430,3 +431,10 @@ Table of Contents:
 - [Container with Most Water](neetcode.io/two_pointers/medium_container_with_most_water/description.md)
 - [Three Sums](neetcode.io/two_pointers/medium_three_sums/description.md)
 - [Two Sum II Input Array is Sorted](neetcode.io/two_pointers/medium_two_sum_II_input_array_is_sorted/description.md)
+
+#### Heap and Priority Queue
+- [Kth Largest Element in a Stream](./neetcode.io/heap/easy_kth_largest_element_in_a_stream/description.md)
+- [Last Stone Weight](./neetcode.io/heap/easy_last_stone_weight/description.md)
+- [K Cloest Points to Origin](./neetcode.io/heap/medium_k_cloest_points_to_origin/description.md)
+- [Kth Largest Element in an Array](./neetcode.io/heap/medium_kth_largest_element_in_an_array/description.md)
+- [Task Scheduler](./neetcode.io/heap/medium_task_scheduler/description.md)
