@@ -438,3 +438,5 @@ Table of Contents:
 - [K Cloest Points to Origin](./neetcode.io/heap/medium_k_cloest_points_to_origin/description.md)
 - [Kth Largest Element in an Array](./neetcode.io/heap/medium_kth_largest_element_in_an_array/description.md)
 - [Task Scheduler](./neetcode.io/heap/medium_task_scheduler/description.md)
+- [Design Twitter](./neetcode.io/heap/medium_design_twitter/description.md)
+- [Find Median From Data Stream](./neetcode.io/heap/hard_find_median_from_data_stream/description.md)
