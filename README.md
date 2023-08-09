@@ -62,6 +62,7 @@ Table of Contents:
     - [Different Ways to Add Parentheses](./divide_and_conquer/different_ways_to_add_parentheses/description.md)
     - [Split Array Largest Sum](./divide_and_conquer/split_array_largest_sum/description.md)
     - [Range Module](divide_and_conquer/range_module/description.md)
+    - [Minimize the Maximum Difference of Pairs](./divide_and_conquer/minimize_the_maximum_difference_of_pairs/description.md)
   
 ## Tree
 - [General Notes](./tree/notes.md)

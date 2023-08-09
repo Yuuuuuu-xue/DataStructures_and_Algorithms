@@ -17,6 +17,7 @@ Table of Contents:
     - [Different Ways to Add Parentheses](#different-ways-to-add-parentheses)
     - [Split Array Largest Sum](#split-array-largest-sum)
     - [Range Module](#range-module)
+    - [Minimize the Maximum Difference of Pairs](#minimize-the-maximum-difference-of-pairs)
 
 ## Divide and Conquer
 - **Divide**: divide the problem into two or more smaller instances of the same problem (subproblems)
@@ -43,3 +44,4 @@ It applies to runtime of divide-and-conquer algorithms when subproblems all have
 #### [Different Ways to Add Parentheses](different_ways_to_add_parentheses/description.md)
 #### [Split Array Largest Sum](split_array_largest_sum/description.md)
 #### [Range Module](range_module/description.md)
+#### [Minimize the Maximum Difference of Pairs](./minimize_the_maximum_difference_of_pairs/description.md)
