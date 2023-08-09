@@ -36,6 +36,7 @@ Table of Contents:
     - [Tries](#tries)
     - [Two Pointers](#two-pointers)
     - [Heap and Priority Queue](#heap-and-priority-queue)
+    - [Backtracking](#backtracking-1)
 
 ## Abstract Data Type and Data Structure
 - **Abstract Data Type**: is the set of objects together with operations.
@@ -441,3 +442,14 @@ Table of Contents:
 - [Task Scheduler](./neetcode.io/heap/medium_task_scheduler/description.md)
 - [Design Twitter](./neetcode.io/heap/medium_design_twitter/description.md)
 - [Find Median From Data Stream](./neetcode.io/heap/hard_find_median_from_data_stream/description.md)
+
+#### Backtracking
+- [Subsets](./neetcode.io/backtracking/medium_subsets/description.md)
+- [Combination Sum](./neetcode.io/backtracking/medium_combination_sum/description.md)
+- [Permutations](./neetcode.io/backtracking/medium_permutations/description.md)
+- [Subsets II](./neetcode.io/backtracking/medium_subsets_II/description.md)
+- [Combination Sum II](./neetcode.io/backtracking/medium_combination_sum_II/description.md)
+- [Word Search](./Microsoft_top_questions/word_search/description.md)
+- [Palindrome Partitioning](./backtracking/palindrome_partitioning/description.md)
+- [Letter Combinations of a Phone Number](./backtracking/letter_combinations_of_a_phone_number/description.md)
+- [N Queens](./array/n_queens/description.md)
