@@ -18,6 +18,7 @@ Table of Contents:
     - [Split Array Largest Sum](#split-array-largest-sum)
     - [Range Module](#range-module)
     - [Minimize the Maximum Difference of Pairs](#minimize-the-maximum-difference-of-pairs)
+    - [Search in Rotated Sorted Array II](#search-in-rotated-sorted-array-ii)
 
 ## Divide and Conquer
 - **Divide**: divide the problem into two or more smaller instances of the same problem (subproblems)
@@ -45,3 +46,4 @@ It applies to runtime of divide-and-conquer algorithms when subproblems all have
 #### [Split Array Largest Sum](split_array_largest_sum/description.md)
 #### [Range Module](range_module/description.md)
 #### [Minimize the Maximum Difference of Pairs](./minimize_the_maximum_difference_of_pairs/description.md)
+#### [Search in Rotated Sorted Array II](./search_in_rotated_sorted_array_II/description.md)

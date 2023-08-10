@@ -37,6 +37,7 @@ Table of Contents:
     - [Two Pointers](#two-pointers)
     - [Heap and Priority Queue](#heap-and-priority-queue)
     - [Backtracking](#backtracking-1)
+    - [Graphs](#graphs-1)
 
 ## Abstract Data Type and Data Structure
 - **Abstract Data Type**: is the set of objects together with operations.
@@ -64,6 +65,7 @@ Table of Contents:
     - [Split Array Largest Sum](./divide_and_conquer/split_array_largest_sum/description.md)
     - [Range Module](divide_and_conquer/range_module/description.md)
     - [Minimize the Maximum Difference of Pairs](./divide_and_conquer/minimize_the_maximum_difference_of_pairs/description.md)
+    - [Search in Rotated Sorted Array II](./divide_and_conquer/search_in_rotated_sorted_array_II/description.md)
   
 ## Tree
 - [General Notes](./tree/notes.md)
@@ -453,3 +455,7 @@ Table of Contents:
 - [Palindrome Partitioning](./backtracking/palindrome_partitioning/description.md)
 - [Letter Combinations of a Phone Number](./backtracking/letter_combinations_of_a_phone_number/description.md)
 - [N Queens](./array/n_queens/description.md)
+
+#### Graphs
+- [Number of Islands](./disjoint_set/number_of_islands/description.md)
+- 
