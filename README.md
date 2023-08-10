@@ -458,4 +458,13 @@ Table of Contents:
 
 #### Graphs
 - [Number of Islands](./disjoint_set/number_of_islands/description.md)
-- 
+- [Clone Graph](./neetcode.io/graphs/medium_clone_graph/solution.cpp)
+- [Max Area of Island](./neetcode.io/graphs/medium_max_area_of_island/description.md)
+- [Pacific Atlantic Water Flow](./graphs/pacific_atlantic_water_flow/description.md)
+- [Surrounded Regions](./neetcode.io/graphs/medium_surrounded_regions/description.md)
+- [Rotting Oranges](./neetcode.io/graphs/medium_rotting_oranges/description.md)
+- [Walls and Gates](./graphs/walls_and_gates/description.md)
+- [Course Schedule](./graphs/course_schedule/description.md)
+- [Course Schedule II](./topological_sort/course_schedule_II/description.md)
+- [Redundant Connection](./neetcode.io/graphs/medium_redundant_connection/description.md)
+- [Word Ladder](./neetcode.io/graphs/hard_word_ladder/description.md)
