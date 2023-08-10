@@ -38,6 +38,7 @@ Table of Contents:
     - [Heap and Priority Queue](#heap-and-priority-queue)
     - [Backtracking](#backtracking-1)
     - [Graphs](#graphs-1)
+    - [Advanced Graphs](#advanced-graphs)
 
 ## Abstract Data Type and Data Structure
 - **Abstract Data Type**: is the set of objects together with operations.
@@ -468,3 +469,6 @@ Table of Contents:
 - [Course Schedule II](./topological_sort/course_schedule_II/description.md)
 - [Redundant Connection](./neetcode.io/graphs/medium_redundant_connection/description.md)
 - [Word Ladder](./neetcode.io/graphs/hard_word_ladder/description.md)
+
+#### Advanced Graphs
+- [Reconstruct Itinerary](./neetcode.io/advanced_graphs/hard_reconstruct_itinerary/description.md)
