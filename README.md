@@ -473,3 +473,7 @@ Table of Contents:
 
 #### Advanced Graphs
 - [Reconstruct Itinerary](./neetcode.io/advanced_graphs/hard_reconstruct_itinerary/description.md)
+- [Min Cost to Connect All Points](./neetcode.io/advanced_graphs/medium_min_cost_to_connect_all_points/description.md)
+- [Network Dealy Time](./shortest_weight_path/network_delay_time/description.md)
+- [Swim in Rising Water](./neetcode.io/advanced_graphs/medium_swim_in_rising_water/description.md)
+- [Alien Dictionary](./topological_sort/alien_dictionary/description.md)
