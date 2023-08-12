@@ -477,3 +477,4 @@ Table of Contents:
 - [Network Dealy Time](./shortest_weight_path/network_delay_time/description.md)
 - [Swim in Rising Water](./neetcode.io/advanced_graphs/medium_swim_in_rising_water/description.md)
 - [Alien Dictionary](./topological_sort/alien_dictionary/description.md)
+- [Cheapest Flights Within K Stops](./neetcode.io/advanced_graphs/medium_cheapest_flights_within_k_stops/description.md)
