@@ -42,6 +42,7 @@ Table of Contents:
     - [Word Break](#word-break)
     - [Number of Music Playlists](#number-of-music-playlists)
     - [Coin Change II](#coin-change-ii)
+    - [Check if There is a Valid Partition For The Array](#check-if-there-is-a-valid-partition-for-the-array)
 
 ## Dynamic Programming
 - A **dynamic programming algorithm** for an optimization problem is basically a recursive solution that uses **memoization** to solve repeated calls to the same subproblems.
@@ -98,3 +99,4 @@ Table of Contents:
 #### [Word Break](./word_break/description.md)
 #### [Number of Music Playlists](./number_of_music_playlists/description.md)
 #### [Coin Change II](./coin_change_II/description.md)
+#### [Check if There is a Valid Partition For The Array](./check_if_there_is_a_valid_partition_for_the_array/description.md)

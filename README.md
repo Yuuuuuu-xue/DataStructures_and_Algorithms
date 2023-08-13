@@ -222,6 +222,7 @@ Table of Contents:
   - [Word Break](./dynamic_programming/word_break/description.md)
   - [Number of Music Playlists](./dynamic_programming/number_of_music_playlists/description.md)
   - [Coin Change II](./dynamic_programming/coin_change_II/description.md)
+  - [Check if There is a Valid Partition For The Array](./dynamic_programming/check_if_there_is_a_valid_partition_for_the_array/description.md)
 
 ## Shorest Weight Path (Dijkstra Algorithm)
 - [Notes](./shortest_weight_path/notes.md)
