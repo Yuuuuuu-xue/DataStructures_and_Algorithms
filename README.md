@@ -39,6 +39,7 @@ Table of Contents:
     - [Backtracking](#backtracking-1)
     - [Graphs](#graphs-1)
     - [Advanced Graphs](#advanced-graphs)
+    - [1D Dynamic Programming](#1d-dynamic-programming)
 
 ## Abstract Data Type and Data Structure
 - **Abstract Data Type**: is the set of objects together with operations.
@@ -479,3 +480,17 @@ Table of Contents:
 - [Swim in Rising Water](./neetcode.io/advanced_graphs/medium_swim_in_rising_water/description.md)
 - [Alien Dictionary](./topological_sort/alien_dictionary/description.md)
 - [Cheapest Flights Within K Stops](./neetcode.io/advanced_graphs/medium_cheapest_flights_within_k_stops/description.md)
+
+#### 1D Dynamic Programming
+- [Climbing Stairs](./neetcode.io/1d_dynamic_programming/easy_climbing_stairs/description.md)
+- [Min Cost Climbing Stairs](./neetcode.io/1d_dynamic_programming/easy_min_cost_climbing_stairs/description.md)
+- [House Robber](./neetcode.io/1d_dynamic_programming/medium_house_robber/description.md)
+- [House Robber II](./neetcode.io/1d_dynamic_programming/medium_house_robber_II/description.md)
+- [Longest Palindromic Substring](./dynamic_programming/longest_palindromic_substring/description.md)
+- [Palindromic Substrings](./dynamic_programming/palindromic_substrings/description.md)
+- [Decode Ways](./dynamic_programming/decode_ways/description.md)
+- [Coin Change](./dynamic_programming/coin_change/description.md)
+- [Maximum Product Subarray](./array/maximum_product_subarray/description.md)
+- [Word Break](./dynamic_programming/word_break/description.md)
+- [Longest Increasing Subsequence](./dynamic_programming/longest_increasing_subsequence/description.md)
+- [Partition Equal Subset Sum](./dynamic_programming/partition_equal_subset_sum/description.md)
