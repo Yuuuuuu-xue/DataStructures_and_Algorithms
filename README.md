@@ -40,6 +40,7 @@ Table of Contents:
     - [Graphs](#graphs-1)
     - [Advanced Graphs](#advanced-graphs)
     - [1D Dynamic Programming](#1d-dynamic-programming)
+    - [2D Dynamic Programming](#2d-dynamic-programming)
 
 ## Abstract Data Type and Data Structure
 - **Abstract Data Type**: is the set of objects together with operations.
@@ -264,6 +265,7 @@ Table of Contents:
 - Example:
   - [First Node of a Cycle in Linked List](./linked_list/linked_list_first_node_cycle/description.md)
   - [Palindrome Linked List](linked_list/palindrome_linked_list/description.md)
+  - [Partition List](./linked_list/partition_list/description.md)
 
 ## Array
 - Examples:
@@ -494,3 +496,9 @@ Table of Contents:
 - [Word Break](./dynamic_programming/word_break/description.md)
 - [Longest Increasing Subsequence](./dynamic_programming/longest_increasing_subsequence/description.md)
 - [Partition Equal Subset Sum](./dynamic_programming/partition_equal_subset_sum/description.md)
+
+#### 2D Dynamic Programming
+- [Unique Paths](./dynamic_programming/unique_paths/description.md)
+- [Longest Common Subsequence](./dynamic_programming/longest_common_subsequence/description.md)
+- [Best Time to Buy and Sell Stock with Cooldown](./dynamic_programming/best_time_to_buy_and_sell_stock_with_cooldown/description.md)
+- [Coin Change II](./dynamic_programming/coin_change_II/description.md)
