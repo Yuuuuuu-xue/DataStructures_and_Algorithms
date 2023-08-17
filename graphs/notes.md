@@ -19,6 +19,7 @@ Table of Contents:
     - [Number of Operations to Make Network Connections](#number-of-operations-to-make-network-connections)
     - [Remove Invalid Parentheses](#remove-invalid-parentheses)
     - [The Maze II](#the-maze-ii)
+    - [01 Matrix](#01-matrix)
 
 ## Definition
 - A **graph** is a tuple of two sets G = (V, E) where V is the set of vertices and E is the set of edges.
@@ -64,3 +65,4 @@ Table of Contents:
 #### [Number of Operations to Make Network Connections](number_of_operations_to_make_network_connected/description.md)
 #### [Remove Invalid Parentheses](remove_invalid_parentheses/description.md)
 #### [The Maze II](the_maze_II/description.md)
+#### [01 Matrix](./01_matrix/description.md)
