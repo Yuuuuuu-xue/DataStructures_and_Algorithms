@@ -7,6 +7,7 @@ Table of Contents:
 - [Example](#example)
     - [Prim Algorithm](#prim-algorithm)
     - [Kruskal Algorithm](#kruskal-algorithm)
+    - [Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](#find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree)
 
 ## Spanning Tree
 - A tree produced by running DFS or BFS.
@@ -19,3 +20,4 @@ Table of Contents:
 ## Example
 #### [Prim Algorithm](prim_algorithm/description.md)
 #### [Kruskal Algorithm](kruskal_algorithm/description.md)
+#### [Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](./find_critical_and_pseudo_critical_edges_in_minimum_spanning_tree/description.md)

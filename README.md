@@ -166,6 +166,7 @@ Table of Contents:
 - Examples: 
   - [Prim Algorithm](./minimum_spanning_tree/prim_algorithm/description.md)
   - [Kruskal Algorithm](./minimum_spanning_tree/kruskal_algorithm/description.md)
+  - [Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](./minimum_spanning_tree/find_critical_and_pseudo_critical_edges_in_minimum_spanning_tree/description.md)
 
 ## Disjoint Set
 - [Notes](./disjoint_set/notes.md)
@@ -503,3 +504,4 @@ Table of Contents:
 - [Longest Common Subsequence](./dynamic_programming/longest_common_subsequence/description.md)
 - [Best Time to Buy and Sell Stock with Cooldown](./dynamic_programming/best_time_to_buy_and_sell_stock_with_cooldown/description.md)
 - [Coin Change II](./dynamic_programming/coin_change_II/description.md)
+- [Target Sum](./neetcode.io/2d_dynamic_programming/target_sum/description.md)
