@@ -505,3 +505,5 @@ Table of Contents:
 - [Best Time to Buy and Sell Stock with Cooldown](./dynamic_programming/best_time_to_buy_and_sell_stock_with_cooldown/description.md)
 - [Coin Change II](./dynamic_programming/coin_change_II/description.md)
 - [Target Sum](./neetcode.io/2d_dynamic_programming/target_sum/description.md)
+- [Interleaving String](./neetcode.io/2d_dynamic_programming/interleaving_string/description.md)
+- [Longest Increasing Path in a Matrix](./dynamic_programming/longest_increasing_path_in_a_matrix/description.md)
