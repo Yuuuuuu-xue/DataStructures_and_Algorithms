@@ -107,6 +107,7 @@ Table of Contents:
   - [Min Heap with Decrease Key](./priority_queue/min_heap_with_decrease_key/description.md)
   - [Kth Smallest Element in a Sorted Matrix](./priority_queue/kth_smallest_element_in_a_sorted_matrix/description.md)
   - [Maximum Performance of a Team](./priority_queue/maximum_performance_of_a_team/description.md)
+  - [Reorganize String](./priority_queue/reorganize_string/description.md)
 
 ## Hashing
 - [Notes](./hashing/notes.md)

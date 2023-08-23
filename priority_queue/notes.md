@@ -14,6 +14,8 @@ Table of Contents:
     - [O(n) Build Heap](#on-build-heap)
     - [Min Heap With Decrease Key](#min-heap-with-decrease-key)
     - [Kth Smallest Element in a Sorted Matrix](#kth-smallest-element-in-a-sorted-matrix)
+    - [Maximum Performance of a Team](#maximum-performance-of-a-team)
+    - [Reorganize String](#reorganize-string)
 
 
 ## Priority Queue ADT
@@ -46,3 +48,4 @@ Table of Contents:
 #### [Min Heap With Decrease Key](min_heap_with_decrease_key/description.md)
 #### [Kth Smallest Element in a Sorted Matrix](kth_smallest_element_in_a_sorted_matrix/description.md)
 #### [Maximum Performance of a Team](./maximum_performance_of_a_team/description.md)
+#### [Reorganize String](./reorganize_string/description.md)
