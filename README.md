@@ -187,6 +187,7 @@ Table of Contents:
   - [Split Array into consecutive Subsequences](greedy/split_array_into_consecutive_subsequences/description.md)
   - [Minimum Number of Refueling Stops](greedy/minimum_number_of_refueling_stops/description.md)
   - [Bag of Tokens](./greedy/bag_of_tokens/description.md)
+  - [Text Justification](./greedy/text_justification/description.md)
 
 ## Dynamic Programming
 - [Notes](./dynamic_programming/notes.md)
