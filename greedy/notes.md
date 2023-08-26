@@ -14,6 +14,7 @@ Table of Contents:
     - [Minimum Number of Refueling Stops](#minimum-number-of-refueling-stops)
     - [Bag of Tokens](#bag-of-tokens)
     - [Text Justification](#text-justification)
+    - [Maximum Length of Pair Chain](#maximum-length-of-pair-chain)
 
 ## Greedy Algorithm
 A greedy algorithm for an optimization problem is one that makes a **locally optimal choice** (a choice that looks best at the moment) at every step hoping it leads to a **globally optimal solution**.
@@ -31,3 +32,4 @@ A problem exhibits **optimal substructure** if an optimal solution to the proble
 #### [Minimum Number of Refueling Stops](minimum_number_of_refueling_stops/description.md)
 #### [Bag of Tokens](./bag_of_tokens/description.md)
 #### [Text Justification](./text_justification/description.md)
+#### [Maximum Length of Pair Chain](./maximum_length_of_pair_chain/description.md)

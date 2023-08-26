@@ -188,6 +188,7 @@ Table of Contents:
   - [Minimum Number of Refueling Stops](greedy/minimum_number_of_refueling_stops/description.md)
   - [Bag of Tokens](./greedy/bag_of_tokens/description.md)
   - [Text Justification](./greedy/text_justification/description.md)
+  - [Maximum Length of Pair Chain](./greedy/maximum_length_of_pair_chain/description.md)
 
 ## Dynamic Programming
 - [Notes](./dynamic_programming/notes.md)
