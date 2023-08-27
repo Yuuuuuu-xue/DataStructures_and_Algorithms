@@ -20,6 +20,7 @@ Table of Contents:
     - [Remove Invalid Parentheses](#remove-invalid-parentheses)
     - [The Maze II](#the-maze-ii)
     - [01 Matrix](#01-matrix)
+    - [Frog Jump](#frog-jump)
 
 ## Definition
 - A **graph** is a tuple of two sets G = (V, E) where V is the set of vertices and E is the set of edges.
@@ -66,3 +67,4 @@ Table of Contents:
 #### [Remove Invalid Parentheses](remove_invalid_parentheses/description.md)
 #### [The Maze II](the_maze_II/description.md)
 #### [01 Matrix](./01_matrix/description.md)
+#### [Frog Jump](./frog_jump/description.md)

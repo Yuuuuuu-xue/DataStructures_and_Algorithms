@@ -156,6 +156,7 @@ Table of Contents:
   - [Shortest Path to Get All Keys](graphs/shortest_path_to_get_all_keys/description.md)
   - [The Maze II](graphs/the_maze_II/description.md)
   - [01 Matrix](./graphs/01_matrix/description.md)
+  - [Frog Jump](./graphs/frog_jump/description.md)
 
 ## Dijkstra's Algorithm
 - [Notes](./dijkstra_algorithm/notes.md)
