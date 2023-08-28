@@ -513,3 +513,4 @@ Table of Contents:
 - [Longest Increasing Path in a Matrix](./dynamic_programming/longest_increasing_path_in_a_matrix/description.md)
 - [Distinct Subsequences](./neetcode.io/2d_dynamic_programming/distinct_subsequences/description.md)
 - [Edit Distance](./neetcode.io/2d_dynamic_programming/edit_distance/description.md)
+- [Brust Balloons](./neetcode.io/2d_dynamic_programming/brust_balloons/description.md)
