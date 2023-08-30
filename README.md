@@ -302,6 +302,7 @@ Table of Contents:
   - [Unique Morse Code Words](array/unique_morse_code_words/description.md)
   - [Find Original Array From Doubled Array](./array/find_original_array_from_doubled_array/description.md)
   - [Minimum Penalty for a Shop](./array/minimum_penalty_for_a_shop/description.md)
+  - [Minimum Replacements to Sort the Array](./array/minimum_replacements_to_sort_the_array/description.md)
 
 ## Backtracking
 - Examples:
@@ -311,6 +312,7 @@ Table of Contents:
   - [Robot Room Cleaner](backtracking/robot_room_cleaner/description.md)
   - [Palindrome Partitioning](backtracking/palindrome_partitioning/description.md)
   - [Pseudo-Palindromic Paths in a Binary Tree](./backtracking/pseudo-palindromic_paths_in_a_binary_tree/)
+  - [Combinations](./backtracking/combinations/description.md)
 
 ## Topological Sort
 - [Notes](./topological_sort/notes.md)
