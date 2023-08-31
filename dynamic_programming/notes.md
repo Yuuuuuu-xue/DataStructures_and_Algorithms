@@ -43,6 +43,7 @@ Table of Contents:
     - [Number of Music Playlists](#number-of-music-playlists)
     - [Coin Change II](#coin-change-ii)
     - [Check if There is a Valid Partition For The Array](#check-if-there-is-a-valid-partition-for-the-array)
+    - [Minimum Number of Taps to Open to Water a Garden](#minimum-number-of-taps-to-open-to-water-a-garden)
 
 ## Dynamic Programming
 - A **dynamic programming algorithm** for an optimization problem is basically a recursive solution that uses **memoization** to solve repeated calls to the same subproblems.
@@ -100,3 +101,4 @@ Table of Contents:
 #### [Number of Music Playlists](./number_of_music_playlists/description.md)
 #### [Coin Change II](./coin_change_II/description.md)
 #### [Check if There is a Valid Partition For The Array](./check_if_there_is_a_valid_partition_for_the_array/description.md)
+#### [Minimum Number of Taps to Open to Water a Garden](./minimum_number_of_taps_to_open_to_water_a_garden/description.md)
