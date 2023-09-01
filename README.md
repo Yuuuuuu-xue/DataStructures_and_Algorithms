@@ -232,6 +232,7 @@ Table of Contents:
   - [Coin Change II](./dynamic_programming/coin_change_II/description.md)
   - [Check if There is a Valid Partition For The Array](./dynamic_programming/check_if_there_is_a_valid_partition_for_the_array/description.md)
   - [Minimum Number of Taps to Open to Water a Garden](./dynamic_programming/minimum_number_of_taps_to_open_to_water_a_garden/description.md)
+  - [Counting Bits](./dynamic_programming/counting_bits/description.md)
 
 ## Shorest Weight Path (Dijkstra Algorithm)
 - [Notes](./shortest_weight_path/notes.md)
