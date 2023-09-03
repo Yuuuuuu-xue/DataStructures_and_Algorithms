@@ -41,6 +41,7 @@ Table of Contents:
     - [Advanced Graphs](#advanced-graphs)
     - [1D Dynamic Programming](#1d-dynamic-programming)
     - [2D Dynamic Programming](#2d-dynamic-programming)
+    - [Greedy](#greedy)
 
 ## Abstract Data Type and Data Structure
 - **Abstract Data Type**: is the set of objects together with operations.
@@ -520,3 +521,8 @@ Table of Contents:
 - [Distinct Subsequences](./neetcode.io/2d_dynamic_programming/distinct_subsequences/description.md)
 - [Edit Distance](./neetcode.io/2d_dynamic_programming/edit_distance/description.md)
 - [Brust Balloons](./neetcode.io/2d_dynamic_programming/brust_balloons/description.md)
+- [Regular Expression Matching](./dynamic_programming/regular_expression_matching/description.md)
+
+#### Greedy
+- [Maximum Subarray](./array/maximum_subarray/description.md)
+- [Jump Game](./neetcode.io/greedy/jump_game/description.md)
