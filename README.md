@@ -526,3 +526,4 @@ Table of Contents:
 #### Greedy
 - [Maximum Subarray](./array/maximum_subarray/description.md)
 - [Jump Game](./neetcode.io/greedy/jump_game/description.md)
+- [Jump Game II](./neetcode.io/greedy/jump_game_II/description.md)
