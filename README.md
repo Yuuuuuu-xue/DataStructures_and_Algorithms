@@ -276,6 +276,7 @@ Table of Contents:
   - [First Node of a Cycle in Linked List](./linked_list/linked_list_first_node_cycle/description.md)
   - [Palindrome Linked List](linked_list/palindrome_linked_list/description.md)
   - [Partition List](./linked_list/partition_list/description.md)
+  - [Split Linked List in Parts](./linked_list/split_linked_list_in_parts/description.md)
 
 ## Array
 - Examples:
@@ -527,3 +528,4 @@ Table of Contents:
 - [Maximum Subarray](./array/maximum_subarray/description.md)
 - [Jump Game](./neetcode.io/greedy/jump_game/description.md)
 - [Jump Game II](./neetcode.io/greedy/jump_game_II/description.md)
+- [Gas Station](./neetcode.io/greedy/gas_station/description.md)
