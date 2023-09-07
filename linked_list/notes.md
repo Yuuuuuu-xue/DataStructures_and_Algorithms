@@ -8,7 +8,8 @@ Table of Contents:
     - [First Node of a Cycle in Linked List](#first-node-of-a-cycle-in-linked-list)
     - [Palindrome Linked List](#palindrome-linked-list)
     - [Partition List](#partition-list)
-    - [Split Linked List in Parts](#split-linked-list-in-parts)
+    - [Split Linked List in Parts3](#split-linked-list-in-parts3)
+    - [Reverse Linked List II](#reverse-linked-list-ii)
 
 ## Structure of Linked  List
 ```
@@ -37,4 +38,5 @@ However, **insert** and **delete** operations at the beginning or middle of the 
 #### [First Node of a Cycle in Linked List](linked_list_first_node_cycle/description.md)
 #### [Palindrome Linked List](palindrome_linked_list/description.md)
 #### [Partition List](./partition_list/description.md)
-#### [Split Linked List in Parts](./split_linked_list_in_parts/description.md)
+#### [Split Linked List in Parts](./split_linked_list_in_parts/description.md)3
+#### [Reverse Linked List II](./reverse_linked_list_II/description.md)

@@ -277,6 +277,7 @@ Table of Contents:
   - [Palindrome Linked List](linked_list/palindrome_linked_list/description.md)
   - [Partition List](./linked_list/partition_list/description.md)
   - [Split Linked List in Parts](./linked_list/split_linked_list_in_parts/description.md)
+  - [Reverse Linked List II](./linked_list/reverse_linked_list_II/description.md)
 
 ## Array
 - Examples:
