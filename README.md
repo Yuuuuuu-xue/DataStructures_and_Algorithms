@@ -530,3 +530,4 @@ Table of Contents:
 - [Jump Game](./neetcode.io/greedy/jump_game/description.md)
 - [Jump Game II](./neetcode.io/greedy/jump_game_II/description.md)
 - [Gas Station](./neetcode.io/greedy/gas_station/description.md)
+- [Hand of Straights](./neetcode.io/greedy/hand_of_straights/description.md)
