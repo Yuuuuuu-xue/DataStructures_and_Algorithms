@@ -531,3 +531,4 @@ Table of Contents:
 - [Jump Game II](./neetcode.io/greedy/jump_game_II/description.md)
 - [Gas Station](./neetcode.io/greedy/gas_station/description.md)
 - [Hand of Straights](./neetcode.io/greedy/hand_of_straights/description.md)
+- [Merge Triplets to Form Target Triplet](./neetcode.io/greedy/merge_triplets_to_form_target_triplet/description.md)
