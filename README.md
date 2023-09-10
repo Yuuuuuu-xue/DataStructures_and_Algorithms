@@ -235,6 +235,7 @@ Table of Contents:
   - [Minimum Number of Taps to Open to Water a Garden](./dynamic_programming/minimum_number_of_taps_to_open_to_water_a_garden/description.md)
   - [Counting Bits](./dynamic_programming/counting_bits/description.md)
   - [Extra Characters in a String](./dynamic_programming/extra_characters_in_a_string/description.md)
+  - [Count All Valid Pickup and Delivery Options](./dynamic_programming/count_all_valid_pickup_and_delivery_options/description.md)
 
 ## Shorest Weight Path (Dijkstra Algorithm)
 - [Notes](./shortest_weight_path/notes.md)
