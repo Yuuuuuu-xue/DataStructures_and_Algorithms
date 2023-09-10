@@ -533,3 +533,5 @@ Table of Contents:
 - [Gas Station](./neetcode.io/greedy/gas_station/description.md)
 - [Hand of Straights](./neetcode.io/greedy/hand_of_straights/description.md)
 - [Merge Triplets to Form Target Triplet](./neetcode.io/greedy/merge_triplets_to_form_target_triplet/description.md)
+- [Partition Labels](./neetcode.io/greedy/partition_labels/description.md)
+- [Valid Parenthesis String](./neetcode.io/greedy/valid_parenthesis_string/description.md)
