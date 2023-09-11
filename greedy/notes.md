@@ -15,6 +15,7 @@ Table of Contents:
     - [Bag of Tokens](#bag-of-tokens)
     - [Text Justification](#text-justification)
     - [Maximum Length of Pair Chain](#maximum-length-of-pair-chain)
+    - [Group the People Given the Group Size They Belong To](#group-the-people-given-the-group-size-they-belong-to)
 
 ## Greedy Algorithm
 A greedy algorithm for an optimization problem is one that makes a **locally optimal choice** (a choice that looks best at the moment) at every step hoping it leads to a **globally optimal solution**.
@@ -33,3 +34,4 @@ A problem exhibits **optimal substructure** if an optimal solution to the proble
 #### [Bag of Tokens](./bag_of_tokens/description.md)
 #### [Text Justification](./text_justification/description.md)
 #### [Maximum Length of Pair Chain](./maximum_length_of_pair_chain/description.md)
+#### [Group the People Given the Group Size They Belong To](./group_the_people_given_the_group_size_they_belong_to/description.md)
