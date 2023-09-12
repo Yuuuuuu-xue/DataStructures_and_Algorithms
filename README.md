@@ -42,6 +42,7 @@ Table of Contents:
     - [1D Dynamic Programming](#1d-dynamic-programming)
     - [2D Dynamic Programming](#2d-dynamic-programming)
     - [Greedy](#greedy)
+    - [Intervals](#intervals)
 
 ## Abstract Data Type and Data Structure
 - **Abstract Data Type**: is the set of objects together with operations.
@@ -536,3 +537,7 @@ Table of Contents:
 - [Merge Triplets to Form Target Triplet](./neetcode.io/greedy/merge_triplets_to_form_target_triplet/description.md)
 - [Partition Labels](./neetcode.io/greedy/partition_labels/description.md)
 - [Valid Parenthesis String](./neetcode.io/greedy/valid_parenthesis_string/description.md)
+
+#### Intervals
+- [Insert Interval](./neetcode.io/intervals/insert_interval/description.md)
+
