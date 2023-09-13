@@ -193,6 +193,7 @@ Table of Contents:
   - [Text Justification](./greedy/text_justification/description.md)
   - [Maximum Length of Pair Chain](./greedy/maximum_length_of_pair_chain/description.md)
   - [Group the People Given the Group Size They Belong To](./greedy/group_the_people_given_the_group_size_they_belong_to/description.md)
+  - [Candy](./greedy/candy/description.md)
 
 ## Dynamic Programming
 - [Notes](./dynamic_programming/notes.md)
