@@ -541,4 +541,5 @@ Table of Contents:
 
 #### Intervals
 - [Insert Interval](./neetcode.io/intervals/insert_interval/description.md)
-
+- [Merge Intervals](./array/merge_intervals/description.md)
+- [Non Overlapping Intervals](./neetcode.io/intervals/non_overlapping_intervals/description.md)
