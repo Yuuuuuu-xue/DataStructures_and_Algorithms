@@ -164,6 +164,7 @@ Table of Contents:
 - [Notes](./dijkstra_algorithm/notes.md)
 - Examples:
   - [Minimum Costs to Make At Least One Valid Path](dijkstra_algorithm/minimum_costs_to_make_at_least_one_valid_path_in_a_grid/description.md)
+  - [Path with Minimum Effort](./dijkstra_algorithm/path_with_minimum_effort/description.md)
 
 ## Minimum Spanning Tree
 - [Notes](./minimum_spanning_tree/notes.md)

@@ -1,4 +1,4 @@
-## Breadth First Search
+## Dijkstra Algorithm
 Click [here](../notes.md) to go back to the notes page.
 
 ## LeetCode

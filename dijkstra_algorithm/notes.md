@@ -7,6 +7,7 @@ Table of Contents:
 - [Runtime Complexity](#runtime-complexity)
 - [Examples](#examples)
     - [Minimum Costs to Make At Least One Valid Path](#minimum-costs-to-make-at-least-one-valid-path)
+    - [Path with Minimum Effort](#path-with-minimum-effort)
 
 ## Dijkstra's Algorithm
 Dijkstra's algorithm is an algorithm for finding the shortest weight paths between all the nodes to a given souce node.
@@ -40,3 +41,4 @@ Everything before the while loop is initializing the priority queue, we loop ove
 
 ## Examples
 #### [Minimum Costs to Make At Least One Valid Path](minimum_costs_to_make_at_least_one_valid_path_in_a_grid/description.md)
+#### [Path with Minimum Effort](./path_with_minimum_effort/description.md)
