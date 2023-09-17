@@ -21,6 +21,7 @@ Table of Contents:
     - [The Maze II](#the-maze-ii)
     - [01 Matrix](#01-matrix)
     - [Frog Jump](#frog-jump)
+    - [Shortest Path Visiting All Nodes](#shortest-path-visiting-all-nodes)
 
 ## Definition
 - A **graph** is a tuple of two sets G = (V, E) where V is the set of vertices and E is the set of edges.
@@ -68,3 +69,4 @@ Table of Contents:
 #### [The Maze II](the_maze_II/description.md)
 #### [01 Matrix](./01_matrix/description.md)
 #### [Frog Jump](./frog_jump/description.md)
+#### [Shortest Path Visiting All Nodes](./shortest_path_visiting_all_nodes/description.md)

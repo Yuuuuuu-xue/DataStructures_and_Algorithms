@@ -159,6 +159,7 @@ Table of Contents:
   - [The Maze II](graphs/the_maze_II/description.md)
   - [01 Matrix](./graphs/01_matrix/description.md)
   - [Frog Jump](./graphs/frog_jump/description.md)
+  - [Shortest Path Visiting All Nodes](./graphs/shortest_path_visiting_all_nodes/description.md)
 
 ## Dijkstra's Algorithm
 - [Notes](./dijkstra_algorithm/notes.md)
