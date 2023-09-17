@@ -45,4 +45,5 @@ We may have duplicate pairs visited many times, for this case, we can simply use
 - Space Complexity: O(n * 2 ^ n)
 
 ## Solution
-- [C++](solution.cpp)
+- [C++](./solution.cpp)
+- [Rust](./solution.rs)
