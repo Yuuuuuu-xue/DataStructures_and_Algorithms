@@ -16,6 +16,7 @@ Table of Contents:
     - [Kth Smallest Element in a Sorted Matrix](#kth-smallest-element-in-a-sorted-matrix)
     - [Maximum Performance of a Team](#maximum-performance-of-a-team)
     - [Reorganize String](#reorganize-string)
+    - [The k Weakest Rows in a Matrix](#the-k-weakest-rows-in-a-matrix)
 
 
 ## Priority Queue ADT
@@ -49,3 +50,4 @@ Table of Contents:
 #### [Kth Smallest Element in a Sorted Matrix](kth_smallest_element_in_a_sorted_matrix/description.md)
 #### [Maximum Performance of a Team](./maximum_performance_of_a_team/description.md)
 #### [Reorganize String](./reorganize_string/description.md)
+#### [The k Weakest Rows in a Matrix](./the_k_weakest_rows_in_a_matrix/description.md)
