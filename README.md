@@ -260,6 +260,7 @@ Table of Contents:
   - [Cinema Seat Allocation](bitmask_and_bit_manipulation/cinema_seat_allocation/description.md)
   - [Single Number II (XOR)](bitmask_and_bit_manipulation/single_number_II/description.md)
   - [Single Number III (XOR)](bitmask_and_bit_manipulation/single_number_III/description.md)
+  - [Find the Duplicate Number](./bitmask_and_bit_manipulation/find_the_duplicate_number/description.md)
 
 ## Fenwick Tree (Binary Indexed Tree)
 - [Notes](./fenwick_tree/notes.md)
