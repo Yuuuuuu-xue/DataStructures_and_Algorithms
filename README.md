@@ -317,6 +317,7 @@ Table of Contents:
   - [Find Original Array From Doubled Array](./array/find_original_array_from_doubled_array/description.md)
   - [Minimum Penalty for a Shop](./array/minimum_penalty_for_a_shop/description.md)
   - [Minimum Replacements to Sort the Array](./array/minimum_replacements_to_sort_the_array/description.md)
+  - [Minimum Operations to Reduce X to Zero](./array/minimum_operations_to_reduce_x_to_zero/description.md)
 
 ## Backtracking
 - Examples:
