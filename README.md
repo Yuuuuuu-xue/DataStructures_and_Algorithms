@@ -548,3 +548,4 @@ Table of Contents:
 - [Insert Interval](./neetcode.io/intervals/insert_interval/description.md)
 - [Merge Intervals](./array/merge_intervals/description.md)
 - [Non Overlapping Intervals](./neetcode.io/intervals/non_overlapping_intervals/description.md)
+- [Minimum Interval to Include Each Query](./neetcode.io/intervals/minimum_interval_to_include_each_query/description.md)
