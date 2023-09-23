@@ -47,6 +47,7 @@ Table of Contents:
     - [Counting Bits](#counting-bits)
     - [Extra Characters in a String](#extra-characters-in-a-string)
     - [Count All Valid Pickup and Delivery Options](#count-all-valid-pickup-and-delivery-options)
+    - [Longest String Chain](#longest-string-chain)
 
 ## Dynamic Programming
 - A **dynamic programming algorithm** for an optimization problem is basically a recursive solution that uses **memoization** to solve repeated calls to the same subproblems.
@@ -108,3 +109,4 @@ Table of Contents:
 #### [Counting Bits](./counting_bits/description.md)
 #### [Extra Characters in a String](./extra_characters_in_a_string/description.md)
 #### [Count All Valid Pickup and Delivery Options](./count_all_valid_pickup_and_delivery_options/description.md)
+#### [Longest String Chain](./longest_string_chain/description.md)

@@ -242,6 +242,7 @@ Table of Contents:
   - [Counting Bits](./dynamic_programming/counting_bits/description.md)
   - [Extra Characters in a String](./dynamic_programming/extra_characters_in_a_string/description.md)
   - [Count All Valid Pickup and Delivery Options](./dynamic_programming/count_all_valid_pickup_and_delivery_options/description.md)
+  - [Longest String Chain](./dynamic_programming/longest_string_chain/description.md)
 
 ## Shorest Weight Path (Dijkstra Algorithm)
 - [Notes](./shortest_weight_path/notes.md)
