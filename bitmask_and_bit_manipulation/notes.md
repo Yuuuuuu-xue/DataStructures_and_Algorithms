@@ -22,6 +22,7 @@ Table of Contents:
     - [Single Number II (XOR)](#single-number-ii-xor)
     - [Single Number III (XOR)](#single-number-iii-xor)
     - [Find the Difference](#find-the-difference)
+    - [Remove Duplicate Letters](#remove-duplicate-letters)
 
 ## Bit Manipulation
 #### Bitwise And
@@ -95,3 +96,4 @@ return (mask & (1 << k)) != 0
 #### [Single Number II (XOR)](single_number_II/description.md)
 #### [Single Number III (XOR)](single_number_III/description.md)
 #### [Find the Difference](./find_the_difference/description.md)
+#### [Remove Duplicate Letters](./remove_duplicate_letters/description.md)

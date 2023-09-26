@@ -264,6 +264,7 @@ Table of Contents:
   - [Single Number III (XOR)](bitmask_and_bit_manipulation/single_number_III/description.md)
   - [Find the Duplicate Number](./bitmask_and_bit_manipulation/find_the_duplicate_number/description.md)
   - [Find the Difference](./bitmask_and_bit_manipulation/find_the_difference/description.md)
+  - [Remove Duplicate Letters](./bitmask_and_bit_manipulation/remove_duplicate_letters/description.md)
 
 ## Fenwick Tree (Binary Indexed Tree)
 - [Notes](./fenwick_tree/notes.md)
