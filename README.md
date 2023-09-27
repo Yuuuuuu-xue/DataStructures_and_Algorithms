@@ -323,6 +323,7 @@ Table of Contents:
   - [Minimum Replacements to Sort the Array](./array/minimum_replacements_to_sort_the_array/description.md)
   - [Minimum Operations to Reduce X to Zero](./array/minimum_operations_to_reduce_x_to_zero/description.md)
   - [Is Subsequence](./array/is_subsequence/description.md)
+  - [Decoded String at Index](./array/decoded_string_at_index/description.md)
 
 ## Backtracking
 - Examples:
