@@ -324,6 +324,7 @@ Table of Contents:
   - [Minimum Operations to Reduce X to Zero](./array/minimum_operations_to_reduce_x_to_zero/description.md)
   - [Is Subsequence](./array/is_subsequence/description.md)
   - [Decoded String at Index](./array/decoded_string_at_index/description.md)
+  - [Monotonic Array](./array/monotonic_array/description.md)
 
 ## Backtracking
 - Examples:
