@@ -325,6 +325,7 @@ Table of Contents:
   - [Is Subsequence](./array/is_subsequence/description.md)
   - [Decoded String at Index](./array/decoded_string_at_index/description.md)
   - [Monotonic Array](./array/monotonic_array/description.md)
+  - [132 Pattern](./array/132_pattern/description.md)
 
 ## Backtracking
 - Examples:
