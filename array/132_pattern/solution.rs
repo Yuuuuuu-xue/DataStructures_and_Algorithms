@@ -14,7 +14,7 @@ impl Solution {
       }
 
       while s.len() > 0 && s.last().unwrap() < &nums[i] {
-        curr_k = curr_k.max(nums[i]);
+        curr_k = curr_k.max(*s.last().unwrap());
         s.pop();
       }
 
