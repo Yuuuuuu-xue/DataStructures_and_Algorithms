@@ -326,6 +326,7 @@ Table of Contents:
   - [Decoded String at Index](./array/decoded_string_at_index/description.md)
   - [Monotonic Array](./array/monotonic_array/description.md)
   - [132 Pattern](./array/132_pattern/description.md)
+  - [Reverse Words in a String III](./array/reverse_words_in_a_string_III/description.md)
 
 ## Backtracking
 - Examples:
