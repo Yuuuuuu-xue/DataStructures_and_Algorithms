@@ -328,6 +328,7 @@ Table of Contents:
   - [132 Pattern](./array/132_pattern/description.md)
   - [Reverse Words in a String III](./array/reverse_words_in_a_string_III/description.md)
   - [Remove Colored Pieces if Both Neighbors are the Same Color](./array/remove_colored_pieces_if_both_neighbors_are_the_same_color/description.md)
+  - [Number of Good Pairs](./array/number_of_good_pairs/description.md)
 
 ## Backtracking
 - Examples:
