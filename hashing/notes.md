@@ -10,8 +10,10 @@ Table of Contents:
     - [Four Sum II](#four-sum-ii)
     - [Diagonal Traverse](#diagonal-traverse)
     - [Max Number of k-sum Pairs](#max-number-of-k-sum-pairs)
-    - [[Ransom Note](ransom_note/description.md](#ransom-noteransom_notedescriptionmd)
+    - [Ransom Note](#ransom-note)
     - [Design Underground System](#design-underground-system)
+    - [Find Duplicate File in System](#find-duplicate-file-in-system)
+    - [Design HashMap](#design-hashmap)
 
 ## Hashing
 - **Universe of keys U**: is the set of all possible keys
@@ -42,3 +44,4 @@ For each slot, we have a linked list. So when collision occurs, we just add it t
 #### [Ransom Note](ransom_note/description.md)
 #### [Design Underground System](design_underground_system/description.md)
 #### [Find Duplicate File in System](./find_duplicate_file_in_system/description.md)
+#### [Design HashMap](./design_hashmap/description.md)

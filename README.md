@@ -122,6 +122,7 @@ Table of Contents:
   - [Ransom Note](hashing/ransom_note/description.md)
   - [Design Underground System](hashing/design_underground_system/description.md)
   - [Find Duplicate File in System](./hashing/find_duplicate_file_in_system/description.md)
+  - [Design HashMap](./hashing/design_hashmap/description.md)
 
 ## Sorting Algorithms
 - [Notes](./sorting/notes.md)
