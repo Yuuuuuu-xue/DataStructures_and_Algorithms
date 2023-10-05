@@ -14,6 +14,7 @@ Table of Contents:
     - [Design Underground System](#design-underground-system)
     - [Find Duplicate File in System](#find-duplicate-file-in-system)
     - [Design HashMap](#design-hashmap)
+    - [Majority Element II](#majority-element-ii)
 
 ## Hashing
 - **Universe of keys U**: is the set of all possible keys
@@ -45,3 +46,4 @@ For each slot, we have a linked list. So when collision occurs, we just add it t
 #### [Design Underground System](design_underground_system/description.md)
 #### [Find Duplicate File in System](./find_duplicate_file_in_system/description.md)
 #### [Design HashMap](./design_hashmap/description.md)
+#### [Majority Element II](./majority_element_II/description.md)

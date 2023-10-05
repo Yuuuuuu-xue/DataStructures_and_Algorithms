@@ -123,6 +123,7 @@ Table of Contents:
   - [Design Underground System](hashing/design_underground_system/description.md)
   - [Find Duplicate File in System](./hashing/find_duplicate_file_in_system/description.md)
   - [Design HashMap](./hashing/design_hashmap/description.md)
+  - [Majority Element II](./hashing/majority_element_II/description.md)
 
 ## Sorting Algorithms
 - [Notes](./sorting/notes.md)
