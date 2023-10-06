@@ -246,6 +246,7 @@ Table of Contents:
   - [Count All Valid Pickup and Delivery Options](./dynamic_programming/count_all_valid_pickup_and_delivery_options/description.md)
   - [Longest String Chain](./dynamic_programming/longest_string_chain/description.md)
   - [Champagne Tower](./dynamic_programming/champagne_tower/description.md)
+  - [Integer Break](./dynamic_programming/integer_break/description.md)
 
 ## Shorest Weight Path (Dijkstra Algorithm)
 - [Notes](./shortest_weight_path/notes.md)

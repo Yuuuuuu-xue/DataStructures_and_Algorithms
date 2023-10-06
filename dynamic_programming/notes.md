@@ -49,6 +49,7 @@ Table of Contents:
     - [Count All Valid Pickup and Delivery Options](#count-all-valid-pickup-and-delivery-options)
     - [Longest String Chain](#longest-string-chain)
     - [Champagne Tower](#champagne-tower)
+    - [Integer Break](#integer-break)
 
 ## Dynamic Programming
 - A **dynamic programming algorithm** for an optimization problem is basically a recursive solution that uses **memoization** to solve repeated calls to the same subproblems.
@@ -112,3 +113,4 @@ Table of Contents:
 #### [Count All Valid Pickup and Delivery Options](./count_all_valid_pickup_and_delivery_options/description.md)
 #### [Longest String Chain](./longest_string_chain/description.md)
 #### [Champagne Tower](./champagne_tower/description.md)
+#### [Integer Break](./integer_break/description.md)
