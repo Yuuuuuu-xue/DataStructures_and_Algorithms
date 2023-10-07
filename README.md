@@ -247,6 +247,7 @@ Table of Contents:
   - [Longest String Chain](./dynamic_programming/longest_string_chain/description.md)
   - [Champagne Tower](./dynamic_programming/champagne_tower/description.md)
   - [Integer Break](./dynamic_programming/integer_break/description.md)
+  - [Build Array Where You can Find the Maximum Exactly K Comparisons](./dynamic_programming/build_array_where_you_can_find_the_maximum_exactly_k_comparisons/description.md)
 
 ## Shorest Weight Path (Dijkstra Algorithm)
 - [Notes](./shortest_weight_path/notes.md)

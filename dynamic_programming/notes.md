@@ -50,6 +50,7 @@ Table of Contents:
     - [Longest String Chain](#longest-string-chain)
     - [Champagne Tower](#champagne-tower)
     - [Integer Break](#integer-break)
+    - [Build Array Where You can Find the Maximum Exactly K Comparisons](#build-array-where-you-can-find-the-maximum-exactly-k-comparisons)
 
 ## Dynamic Programming
 - A **dynamic programming algorithm** for an optimization problem is basically a recursive solution that uses **memoization** to solve repeated calls to the same subproblems.
@@ -114,3 +115,4 @@ Table of Contents:
 #### [Longest String Chain](./longest_string_chain/description.md)
 #### [Champagne Tower](./champagne_tower/description.md)
 #### [Integer Break](./integer_break/description.md)
+#### [Build Array Where You can Find the Maximum Exactly K Comparisons](./build_array_where_you_can_find_the_maximum_exactly_k_comparisons/description.md)
