@@ -71,6 +71,7 @@ Table of Contents:
     - [Range Module](divide_and_conquer/range_module/description.md)
     - [Minimize the Maximum Difference of Pairs](./divide_and_conquer/minimize_the_maximum_difference_of_pairs/description.md)
     - [Search in Rotated Sorted Array II](./divide_and_conquer/search_in_rotated_sorted_array_II/description.md)
+    - [Find First and Last Position of Element in Sorted Array](./divide_and_conquer/find_first_and_last_position_of_element_in_sorted_array/description.md)
   
 ## Tree
 - [General Notes](./tree/notes.md)
