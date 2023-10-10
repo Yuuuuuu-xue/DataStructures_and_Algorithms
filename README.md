@@ -335,6 +335,7 @@ Table of Contents:
   - [Reverse Words in a String III](./array/reverse_words_in_a_string_III/description.md)
   - [Remove Colored Pieces if Both Neighbors are the Same Color](./array/remove_colored_pieces_if_both_neighbors_are_the_same_color/description.md)
   - [Number of Good Pairs](./array/number_of_good_pairs/description.md)
+  - [Minimum Number of Operations to Make Array Continuous](./array/minimum_number_of_operations_to_make_array_continuous/description.md)
 
 ## Backtracking
 - Examples:
