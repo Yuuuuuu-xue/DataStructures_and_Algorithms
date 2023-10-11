@@ -17,6 +17,7 @@ Table of Contents:
     - [Maximum Performance of a Team](#maximum-performance-of-a-team)
     - [Reorganize String](#reorganize-string)
     - [The k Weakest Rows in a Matrix](#the-k-weakest-rows-in-a-matrix)
+    - [Number of Flowers in Full Bloom](#number-of-flowers-in-full-bloom)
 
 
 ## Priority Queue ADT
@@ -51,3 +52,4 @@ Table of Contents:
 #### [Maximum Performance of a Team](./maximum_performance_of_a_team/description.md)
 #### [Reorganize String](./reorganize_string/description.md)
 #### [The k Weakest Rows in a Matrix](./the_k_weakest_rows_in_a_matrix/description.md)
+#### [Number of Flowers in Full Bloom](./number_of_followers_in_full_bloom/description.md)
