@@ -20,6 +20,7 @@ Table of Contents:
     - [Minimize the Maximum Difference of Pairs](#minimize-the-maximum-difference-of-pairs)
     - [Search in Rotated Sorted Array II](#search-in-rotated-sorted-array-ii)
     - [Find First and Last Position of Element in Sorted Array](#find-first-and-last-position-of-element-in-sorted-array)
+    - [Find in Mountain Array](#find-in-mountain-array)
 
 ## Divide and Conquer
 - **Divide**: divide the problem into two or more smaller instances of the same problem (subproblems)
@@ -49,3 +50,4 @@ It applies to runtime of divide-and-conquer algorithms when subproblems all have
 #### [Minimize the Maximum Difference of Pairs](./minimize_the_maximum_difference_of_pairs/description.md)
 #### [Search in Rotated Sorted Array II](./search_in_rotated_sorted_array_II/description.md)
 #### [Find First and Last Position of Element in Sorted Array](./find_first_and_last_position_of_element_in_sorted_array/description.md)
+#### [Find in Mountain Array](./find_in_mountain_array/description.md)
