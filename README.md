@@ -252,6 +252,7 @@ Table of Contents:
   - [Integer Break](./dynamic_programming/integer_break/description.md)
   - [Build Array Where You can Find the Maximum Exactly K Comparisons](./dynamic_programming/build_array_where_you_can_find_the_maximum_exactly_k_comparisons/description.md)
   - [Max dot Product of Two Subsequences](./dynamic_programming/max_dot_product_of_two_subsequences/description.md)
+  - [Painting the Walls](./dynamic_programming/painting_the_walls/description.md)
 
 ## Shorest Weight Path (Dijkstra Algorithm)
 - [Notes](./shortest_weight_path/notes.md)
