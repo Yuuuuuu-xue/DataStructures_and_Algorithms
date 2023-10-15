@@ -53,6 +53,7 @@ Table of Contents:
     - [Build Array Where You can Find the Maximum Exactly K Comparisons](#build-array-where-you-can-find-the-maximum-exactly-k-comparisons)
     - [Max Dot Product of Two Subsequences](#max-dot-product-of-two-subsequences)
     - [Painting the Walls](#painting-the-walls)
+    - [Number of Ways to Stay in the Same Place After Some Steps](#number-of-ways-to-stay-in-the-same-place-after-some-steps)
 
 ## Dynamic Programming
 - A **dynamic programming algorithm** for an optimization problem is basically a recursive solution that uses **memoization** to solve repeated calls to the same subproblems.
@@ -120,3 +121,4 @@ Table of Contents:
 #### [Build Array Where You can Find the Maximum Exactly K Comparisons](./build_array_where_you_can_find_the_maximum_exactly_k_comparisons/description.md)
 #### [Max Dot Product of Two Subsequences](./max_dot_product_of_two_subsequences/description.md)
 #### [Painting the Walls](./painting_the_walls/description.md)
+#### [Number of Ways to Stay in the Same Place After Some Steps](./number_of_ways_to_stay_in_the_same_place_after_some_steps/description.md)
