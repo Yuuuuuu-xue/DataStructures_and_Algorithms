@@ -14,3 +14,4 @@ We will use dynamic programming to solve this problem. Let dp initially be [1, 1
 
 ## Solution
 - [Java Solution](pascal_triangle_II.java)
+- [C++](./solution.cpp)
