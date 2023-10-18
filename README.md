@@ -362,6 +362,7 @@ Table of Contents:
   - [Minimum Height Trees](topological_sort/minimum_height_trees/description.md)
   - [Longest Increasing Path in a Matrix](topological_sort/longest_increasing_path_in_a_matrix/description.md)
   - [Parallel Courses](topological_sort/parallel_courses/description.md)
+  - [Parallel Courses III](./topological_sort/parallel_courses_III/description.md)
 
 ## Top Questions from Microsoft
 - Easy Level Examples
