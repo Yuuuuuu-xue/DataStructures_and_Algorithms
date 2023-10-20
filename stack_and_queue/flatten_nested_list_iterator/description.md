@@ -32,3 +32,4 @@ There are basically two ways to solve this problem. First way is to flatten the 
 
 ## Solution
 - [Java Solution](flatten_nested_list_iterator.java)
+- [C++](./solution.cpp)
