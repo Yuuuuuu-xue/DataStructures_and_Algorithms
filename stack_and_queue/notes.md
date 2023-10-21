@@ -9,6 +9,7 @@ Table of Contents:
     - [132 Pattern](#132-pattern)
     - [Flatten Nested List Iterator](#flatten-nested-list-iterator)
     - [Longest Valid Parentheses](#longest-valid-parentheses)
+    - [Constrained Subsequence Sum](#constrained-subsequence-sum)
 
 
 ## Examples:
@@ -18,3 +19,4 @@ Table of Contents:
 #### [132 Pattern](132_pattern/description.md)
 #### [Flatten Nested List Iterator](flatten_nested_list_iterator/description.md)
 #### [Longest Valid Parentheses](longest_valid_parentheses/description.md)
+#### [Constrained Subsequence Sum](./constrained_subsequence_sum/description.md)

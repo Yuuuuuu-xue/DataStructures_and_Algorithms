@@ -146,6 +146,7 @@ Table of Contents:
   - [Flatten Nested List Iterator](./stack_and_queue/flatten_nested_list_iterator/description.md)
   - [Longest Valid Parentheses](./stack_and_queue/longest_valid_parentheses/description.md)
   - [Find Permutation](./stack_and_queue/find_permutation/description.md)
+  - [Constrained Subsequence Sum](./stack_and_queue/constrained_subsequence_sum/description.md)
 
 ## Graphs
 - [Notes](./graphs/notes.md)
