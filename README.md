@@ -342,6 +342,7 @@ Table of Contents:
   - [Remove Colored Pieces if Both Neighbors are the Same Color](./array/remove_colored_pieces_if_both_neighbors_are_the_same_color/description.md)
   - [Number of Good Pairs](./array/number_of_good_pairs/description.md)
   - [Minimum Number of Operations to Make Array Continuous](./array/minimum_number_of_operations_to_make_array_continuous/description.md)
+  - [Maximum Score of a Good Subarray](./array/maximum_score_of_a_good_subarray/description.md)
 
 ## Backtracking
 - Examples:
