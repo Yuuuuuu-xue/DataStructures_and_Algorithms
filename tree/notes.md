@@ -14,6 +14,9 @@ Table of Contents:
     - [House Robber III](#house-robber-iii)
     - [Binary Tree Longest Consecutive Sequence II](#binary-tree-longest-consecutive-sequence-ii)
     - [Vertical Order Traversal of a Binary Tree](#vertical-order-traversal-of-a-binary-tree)
+    - [N-ary Tree Level Order Traversal](#n-ary-tree-level-order-traversal)
+    - [Path Sum II](#path-sum-ii)
+    - [Find Largest Value in Each Tree Row](#find-largest-value-in-each-tree-row)
 
 ## Tree
 - **height** of a tree is the length of the longest path from the root to a child
@@ -43,3 +46,4 @@ Table of Contents:
 #### [Vertical Order Traversal of a Binary Tree](vertical_order_traversal_of_a_binary_tree/description.md)
 #### [N-ary Tree Level Order Traversal](./n_ary_tree_level_order_traversal/description.md)
 #### [Path Sum II](./path_sum_II/description.md)
+#### [Find Largest Value in Each Tree Row](./find_largest_value_in_each_tree_row/description.md)
