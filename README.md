@@ -93,6 +93,7 @@ Table of Contents:
   - [N-ary Tree Level Order Traversal](./tree/n_ary_tree_level_order_traversal/description.md)
   - [Path Sum II](./tree/path_sum_II/description.md)
   - [Find Largest Value in Each Tree Row](./tree/find_largest_value_in_each_tree_row/description.md)
+  - [Kth Symbol in Grammar](./tree/kth_symbol_in_grammar/description.md)
 - [Binary Search Tree Notes](./BST/notes.md)
   Examples:
   - [Implementation](BST/implementation/description.md)
