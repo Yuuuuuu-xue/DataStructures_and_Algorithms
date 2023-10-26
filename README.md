@@ -43,6 +43,7 @@ Table of Contents:
     - [2D Dynamic Programming](#2d-dynamic-programming)
     - [Greedy](#greedy)
     - [Intervals](#intervals)
+    - [Math and Geometry](#math-and-geometry)
 
 ## Abstract Data Type and Data Structure
 - **Abstract Data Type**: is the set of objects together with operations.
@@ -577,3 +578,6 @@ Table of Contents:
 - [Merge Intervals](./array/merge_intervals/description.md)
 - [Non Overlapping Intervals](./neetcode.io/intervals/non_overlapping_intervals/description.md)
 - [Minimum Interval to Include Each Query](./neetcode.io/intervals/minimum_interval_to_include_each_query/description.md)
+
+#### Math and Geometry
+- [Rotate Image](./neetcode.io/math_and_geometry/rotate_image/description.md)
