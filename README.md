@@ -581,3 +581,10 @@ Table of Contents:
 
 #### Math and Geometry
 - [Rotate Image](./neetcode.io/math_and_geometry/rotate_image/description.md)
+- [Spiral Matrix](./Microsoft_top_questions/spiral_matrix/description.md)
+- [Set Matrix Zeroes](./Microsoft_top_questions/set_matrix_zeroes/description.md)
+- [Happy Number](./neetcode.io/math_and_geometry/happy_number/description.md)
+- [Plus One](./neetcode.io/math_and_geometry/plus_one/description.md)
+- [Pow(x, n)](./neetcode.io/math_and_geometry/pow_x_n/description.md)
+- [Multiply Strings](./Microsoft_top_questions/multiply_strings/description.md)
+- [Detect Squares](./neetcode.io/math_and_geometry/detect_squares/description.md)
