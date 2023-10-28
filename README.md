@@ -44,6 +44,7 @@ Table of Contents:
     - [Greedy](#greedy)
     - [Intervals](#intervals)
     - [Math and Geometry](#math-and-geometry)
+    - [Bits Manipulation](#bits-manipulation)
 
 ## Abstract Data Type and Data Structure
 - **Abstract Data Type**: is the set of objects together with operations.
@@ -588,3 +589,11 @@ Table of Contents:
 - [Pow(x, n)](./neetcode.io/math_and_geometry/pow_x_n/description.md)
 - [Multiply Strings](./Microsoft_top_questions/multiply_strings/description.md)
 - [Detect Squares](./neetcode.io/math_and_geometry/detect_squares/description.md)
+
+#### Bits Manipulation
+- [Single Number](./bitmask_and_bit_manipulation/single_number/description.md)
+- [Number of 1 bits](./bitmask_and_bit_manipulation/number_of_1_bits/description.md)
+- [Counting Bits](./dynamic_programming/counting_bits/description.md)
+- [Reverse Bits](./neetcode.io/bits_manipulation/reverse_bits/description.md)
+- [Missing Number](./neetcode.io/bits_manipulation/missing_number/description.md)
+- [Sum of Two Integers](./neetcode.io/bits_manipulation/sum_of_two_integers/description.md)
