@@ -597,3 +597,4 @@ Table of Contents:
 - [Reverse Bits](./neetcode.io/bits_manipulation/reverse_bits/description.md)
 - [Missing Number](./neetcode.io/bits_manipulation/missing_number/description.md)
 - [Sum of Two Integers](./neetcode.io/bits_manipulation/sum_of_two_integers/description.md)
+- [Reverse Integer](./neetcode.io/bits_manipulation/reverse_integer/description.md)
