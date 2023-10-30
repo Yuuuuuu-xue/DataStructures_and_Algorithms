@@ -281,6 +281,7 @@ Table of Contents:
   - [Find the Duplicate Number](./bitmask_and_bit_manipulation/find_the_duplicate_number/description.md)
   - [Find the Difference](./bitmask_and_bit_manipulation/find_the_difference/description.md)
   - [Remove Duplicate Letters](./bitmask_and_bit_manipulation/remove_duplicate_letters/description.md)
+  - [Sort Integers by the Number of 1 Bits](./bitmask_and_bit_manipulation/sort_integers_by_the_number_of_1_bits/description.md)
 
 ## Fenwick Tree (Binary Indexed Tree)
 - [Notes](./fenwick_tree/notes.md)

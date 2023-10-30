@@ -23,6 +23,7 @@ Table of Contents:
     - [Single Number III (XOR)](#single-number-iii-xor)
     - [Find the Difference](#find-the-difference)
     - [Remove Duplicate Letters](#remove-duplicate-letters)
+    - [Sort Integers by the Number of 1 Bits](#sort-integers-by-the-number-of-1-bits)
 
 ## Bit Manipulation
 #### Bitwise And
@@ -97,3 +98,4 @@ return (mask & (1 << k)) != 0
 #### [Single Number III (XOR)](single_number_III/description.md)
 #### [Find the Difference](./find_the_difference/description.md)
 #### [Remove Duplicate Letters](./remove_duplicate_letters/description.md)
+#### [Sort Integers by the Number of 1 Bits](./sort_integers_by_the_number_of_1_bits/description.md)
