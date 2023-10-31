@@ -24,6 +24,7 @@ Table of Contents:
     - [Find the Difference](#find-the-difference)
     - [Remove Duplicate Letters](#remove-duplicate-letters)
     - [Sort Integers by the Number of 1 Bits](#sort-integers-by-the-number-of-1-bits)
+    - [Find the Original Array of Prefix XOR](#find-the-original-array-of-prefix-xor)
 
 ## Bit Manipulation
 #### Bitwise And
@@ -99,3 +100,4 @@ return (mask & (1 << k)) != 0
 #### [Find the Difference](./find_the_difference/description.md)
 #### [Remove Duplicate Letters](./remove_duplicate_letters/description.md)
 #### [Sort Integers by the Number of 1 Bits](./sort_integers_by_the_number_of_1_bits/description.md)
+#### [Find the Original Array of Prefix XOR](./find_the_original_array_of_prefix_xor/description.md)
