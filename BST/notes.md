@@ -7,6 +7,7 @@ Table of Contents:
     - [Sorted Linked List to Balanced BST](#sorted-linked-list-to-balanced-bst)
     - [Convert Sorted Array to Binary Search Tree](#convert-sorted-array-to-binary-search-tree)
     - [Unique Binary Search Trees II](#unique-binary-search-trees-ii)
+    - [Find Model in a Binary Search Tree](#find-model-in-a-binary-search-tree)
 
 ## Binary Search Tree
 Binary tree with **BST ordering**:
@@ -16,3 +17,4 @@ Binary tree with **BST ordering**:
 #### [Sorted Linked List to Balanced BST](sorted_linked_list_to_balanced_bst/description.md)
 #### [Convert Sorted Array to Binary Search Tree](./convert_sorted_array_to_binary_search_tree/description.md)
 #### [Unique Binary Search Trees II](./unique_binary_search_trees_II/description.md)
+#### [Find Model in a Binary Search Tree](./find_model_in_a_binary_search_tree/description.md)
