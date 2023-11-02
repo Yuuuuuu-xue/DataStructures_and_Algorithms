@@ -18,6 +18,7 @@ Table of Contents:
     - [Path Sum II](#path-sum-ii)
     - [Find Largest Value in Each Tree Row](#find-largest-value-in-each-tree-row)
     - [Kth Symbol in Grammar](#kth-symbol-in-grammar)
+    - [Count Nodes Equal to Average of Subtree](#count-nodes-equal-to-average-of-subtree)
 
 ## Tree
 - **height** of a tree is the length of the longest path from the root to a child
@@ -49,3 +50,4 @@ Table of Contents:
 #### [Path Sum II](./path_sum_II/description.md)
 #### [Find Largest Value in Each Tree Row](./find_largest_value_in_each_tree_row/description.md)
 #### [Kth Symbol in Grammar](./kth_symbol_in_grammar/description.md)
+#### [Count Nodes Equal to Average of Subtree](./count_nodes_equal_to_average_of_subtree/description.md)

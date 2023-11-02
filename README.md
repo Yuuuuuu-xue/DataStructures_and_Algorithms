@@ -96,6 +96,7 @@ Table of Contents:
   - [Path Sum II](./tree/path_sum_II/description.md)
   - [Find Largest Value in Each Tree Row](./tree/find_largest_value_in_each_tree_row/description.md)
   - [Kth Symbol in Grammar](./tree/kth_symbol_in_grammar/description.md)
+  - [Count Nodes Equal to Average of Subtree](./tree/count_nodes_equal_to_average_of_subtree/description.md)
 - [Binary Search Tree Notes](./BST/notes.md)
   Examples:
   - [Implementation](BST/implementation/description.md)
