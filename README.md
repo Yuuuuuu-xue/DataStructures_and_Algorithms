@@ -153,6 +153,7 @@ Table of Contents:
   - [Longest Valid Parentheses](./stack_and_queue/longest_valid_parentheses/description.md)
   - [Find Permutation](./stack_and_queue/find_permutation/description.md)
   - [Constrained Subsequence Sum](./stack_and_queue/constrained_subsequence_sum/description.md)
+  - [Build an Array with Stack Operations](./stack_and_queue/build_an_array_with_stack_operations/description.md)
 
 ## Graphs
 - [Notes](./graphs/notes.md)

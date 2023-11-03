@@ -10,6 +10,7 @@ Table of Contents:
     - [Flatten Nested List Iterator](#flatten-nested-list-iterator)
     - [Longest Valid Parentheses](#longest-valid-parentheses)
     - [Constrained Subsequence Sum](#constrained-subsequence-sum)
+    - [Build an Array with Stack Operations](#build-an-array-with-stack-operations)
 
 
 ## Examples:
@@ -20,3 +21,4 @@ Table of Contents:
 #### [Flatten Nested List Iterator](flatten_nested_list_iterator/description.md)
 #### [Longest Valid Parentheses](longest_valid_parentheses/description.md)
 #### [Constrained Subsequence Sum](./constrained_subsequence_sum/description.md)
+#### [Build an Array with Stack Operations](./build_an_array_with_stack_operations/description.md)
