@@ -352,6 +352,7 @@ Table of Contents:
   - [Number of Good Pairs](./array/number_of_good_pairs/description.md)
   - [Minimum Number of Operations to Make Array Continuous](./array/minimum_number_of_operations_to_make_array_continuous/description.md)
   - [Maximum Score of a Good Subarray](./array/maximum_score_of_a_good_subarray/description.md)
+  - [Last Moment Before All Ants Fall Out of a Plank](./array/last_moment_before_all_ants_fall_out_of_a_plank/description.md)
 
 ## Backtracking
 - Examples:
