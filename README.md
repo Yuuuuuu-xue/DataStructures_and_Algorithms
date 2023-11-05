@@ -353,6 +353,7 @@ Table of Contents:
   - [Minimum Number of Operations to Make Array Continuous](./array/minimum_number_of_operations_to_make_array_continuous/description.md)
   - [Maximum Score of a Good Subarray](./array/maximum_score_of_a_good_subarray/description.md)
   - [Last Moment Before All Ants Fall Out of a Plank](./array/last_moment_before_all_ants_fall_out_of_a_plank/description.md)
+  - [Find the Winner of an Array Game](./array/find_the_winner_of_an_array_game/description.md)
 
 ## Backtracking
 - Examples:
