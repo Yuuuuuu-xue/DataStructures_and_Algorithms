@@ -120,6 +120,7 @@ Table of Contents:
   - [Reorganize String](./priority_queue/reorganize_string/description.md)
   - [The k Weakest Rows in a Matrix](./priority_queue/the_k_weakest_rows_in_a_matrix/description.md)
   - [Number of Followers in Full Bloom](./priority_queue/number_of_followers_in_full_bloom/description.md)
+  - [Seat Reservation Manager](./priority_queue/seat_reservation_manager/description.md)
 
 ## Hashing
 - [Notes](./hashing/notes.md)
