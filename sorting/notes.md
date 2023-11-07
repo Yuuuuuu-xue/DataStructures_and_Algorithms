@@ -18,4 +18,4 @@ O(n lg n) sorting algorithms:
 ## Examples
 - [Reordered Power of 2](reordered_power_of_2/description.md)
 - [Sort the Matrix Diagonally](sort_the_matrix_diagonally/description.md)
-
+- [Eliminate Maximum Number of Monsters](./eliminate_maximum_number_of_monsters/description.md)
