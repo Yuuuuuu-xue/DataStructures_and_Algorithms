@@ -213,6 +213,7 @@ Table of Contents:
   - [Maximum Length of Pair Chain](./greedy/maximum_length_of_pair_chain/description.md)
   - [Group the People Given the Group Size They Belong To](./greedy/group_the_people_given_the_group_size_they_belong_to/description.md)
   - [Candy](./greedy/candy/description.md)
+  - [Determine if a Cell is Reachable at a Given Time](./greedy/determine_if_a_cell_is_reachable_at_a_given_time/description.md)
 
 ## Dynamic Programming
 - [Notes](./dynamic_programming/notes.md)
