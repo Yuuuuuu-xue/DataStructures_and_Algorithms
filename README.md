@@ -357,6 +357,7 @@ Table of Contents:
   - [Maximum Score of a Good Subarray](./array/maximum_score_of_a_good_subarray/description.md)
   - [Last Moment Before All Ants Fall Out of a Plank](./array/last_moment_before_all_ants_fall_out_of_a_plank/description.md)
   - [Find the Winner of an Array Game](./array/find_the_winner_of_an_array_game/description.md)
+  - [Count Number of Homogenous Substrings](./array/count_number_of_homogenous_substrings/description.md)
 
 ## Backtracking
 - Examples:
