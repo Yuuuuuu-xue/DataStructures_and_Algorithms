@@ -539,6 +539,7 @@ Table of Contents:
 - [Course Schedule II](./topological_sort/course_schedule_II/description.md)
 - [Redundant Connection](./neetcode.io/graphs/medium_redundant_connection/description.md)
 - [Word Ladder](./neetcode.io/graphs/hard_word_ladder/description.md)
+- [Restore the Array from Adjacent Pairs](./graphs/restore_the_array_from_adjacent_pairs/description.md)
 
 #### Advanced Graphs
 - [Reconstruct Itinerary](./neetcode.io/advanced_graphs/hard_reconstruct_itinerary/description.md)
