@@ -12,6 +12,7 @@ Table of Contents:
 - [Examples:](#examples)
     - [Dijkstra Algorithm Implementation](#dijkstra-algorithm-implementation)
     - [Network Delay Time](#network-delay-time)
+    - [Design Graph with Shortest Path Calculator](#design-graph-with-shortest-path-calculator)
 
 ## Shorest Path Problem
 Given a weighted, directed graph $G = (V, E)$, with weight function $w: E \rightarrow \mathbb{R}$, compute a shorest path (path with minimum total weight) from a source node $s$ to a destination node $t$.
@@ -35,3 +36,4 @@ We want to any above three problems even if the weight can be negative.
 ## Examples:
 #### [Dijkstra Algorithm Implementation](dijkstra_algorithm/description.md)
 #### [Network Delay Time](network_delay_time/description.md)
+#### [Design Graph with Shortest Path Calculator](./design_graph_with_shortest_path_calculator/descritpion.md)

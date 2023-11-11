@@ -272,6 +272,7 @@ Table of Contents:
 - Examples:
   - [Dijkstra Algorithm Implementation](./shortest_weight_path/dijkstra_algorithm/description.md)\
   - [Network Delay Time](./shortest_weight_path/network_delay_time/description.md)
+  - [Design Graph with Shortest Path Calculator](./shortest_weight_path/design_graph_with_shortest_path_calculator/descritpion.md)
 
 ## Bitmask and Bit Manipulation
 - [Notes](./bitmask_and_bit_manipulation/notes.md)
