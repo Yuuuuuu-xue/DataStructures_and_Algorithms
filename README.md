@@ -176,6 +176,7 @@ Table of Contents:
   - [01 Matrix](./graphs/01_matrix/description.md)
   - [Frog Jump](./graphs/frog_jump/description.md)
   - [Shortest Path Visiting All Nodes](./graphs/shortest_path_visiting_all_nodes/description.md)
+  - [Bus Stops](./graphs/bus_routes/description.md)
 
 ## Dijkstra's Algorithm
 - [Notes](./dijkstra_algorithm/notes.md)
