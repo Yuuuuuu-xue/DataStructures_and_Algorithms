@@ -15,6 +15,7 @@ Table of Contents:
     - [Find Duplicate File in System](#find-duplicate-file-in-system)
     - [Design HashMap](#design-hashmap)
     - [Majority Element II](#majority-element-ii)
+    - [Sort Vowels in a String](#sort-vowels-in-a-string)
 
 ## Hashing
 - **Universe of keys U**: is the set of all possible keys
@@ -47,3 +48,4 @@ For each slot, we have a linked list. So when collision occurs, we just add it t
 #### [Find Duplicate File in System](./find_duplicate_file_in_system/description.md)
 #### [Design HashMap](./design_hashmap/description.md)
 #### [Majority Element II](./majority_element_II/description.md)
+#### [Sort Vowels in a String](./sort_vowels_in_a_string/description.md)
