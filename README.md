@@ -292,6 +292,7 @@ Table of Contents:
   - [Remove Duplicate Letters](./bitmask_and_bit_manipulation/remove_duplicate_letters/description.md)
   - [Sort Integers by the Number of 1 Bits](./bitmask_and_bit_manipulation/sort_integers_by_the_number_of_1_bits/description.md)
   - [Find the Original Array of Prefix XOR](./bitmask_and_bit_manipulation/find_the_original_array_of_prefix_xor/description.md)
+  - [Unique Length-3 Palindromic Subsequences](./bitmask_and_bit_manipulation/unique_length_3_palindromic_subsequences/description.md)
 
 ## Fenwick Tree (Binary Indexed Tree)
 - [Notes](./fenwick_tree/notes.md)
