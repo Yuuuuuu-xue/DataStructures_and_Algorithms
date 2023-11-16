@@ -363,6 +363,7 @@ Table of Contents:
   - [Last Moment Before All Ants Fall Out of a Plank](./array/last_moment_before_all_ants_fall_out_of_a_plank/description.md)
   - [Find the Winner of an Array Game](./array/find_the_winner_of_an_array_game/description.md)
   - [Count Number of Homogenous Substrings](./array/count_number_of_homogenous_substrings/description.md)
+  - [Find Unique Binary String](./array/find_unique_binary_string/description.md)
 
 ## Backtracking
 - Examples:
