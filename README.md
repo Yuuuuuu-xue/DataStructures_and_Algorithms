@@ -144,6 +144,7 @@ Table of Contents:
   - [Reordered Power of 2](./sorting/reordered_power_of_2/description.md)
   - [Sort the Matrix Diagonally](sorting/sort_the_matrix_diagonally/description.md)
   - [Eliminate Maximum Number of Monsters](./sorting/eliminate_maximum_number_of_monsters/description.md)
+  - [Minimize Maximum Pair Sum in Array](./sorting/minimize_maximum_pair_sum_in_array/description.md)
 
 ## Stack and Queue
 - [Notes](./stack_and_queue/notes.md)
