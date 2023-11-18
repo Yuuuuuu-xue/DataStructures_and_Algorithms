@@ -365,6 +365,7 @@ Table of Contents:
   - [Find the Winner of an Array Game](./array/find_the_winner_of_an_array_game/description.md)
   - [Count Number of Homogenous Substrings](./array/count_number_of_homogenous_substrings/description.md)
   - [Find Unique Binary String](./array/find_unique_binary_string/description.md)
+  - [Frequency of the Most Frequent Element](./array/frequency_of_the_most_frequent_element/description.md)
 
 ## Backtracking
 - Examples:
