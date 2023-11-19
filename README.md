@@ -145,6 +145,7 @@ Table of Contents:
   - [Sort the Matrix Diagonally](sorting/sort_the_matrix_diagonally/description.md)
   - [Eliminate Maximum Number of Monsters](./sorting/eliminate_maximum_number_of_monsters/description.md)
   - [Minimize Maximum Pair Sum in Array](./sorting/minimize_maximum_pair_sum_in_array/description.md)
+  - [Reduction Operations to Make the Array Elements Equal](./sorting/reduction_operations_to_make_the_array_elements_equal/description.md)
 
 ## Stack and Queue
 - [Notes](./stack_and_queue/notes.md)
