@@ -367,6 +367,7 @@ Table of Contents:
   - [Count Number of Homogenous Substrings](./array/count_number_of_homogenous_substrings/description.md)
   - [Find Unique Binary String](./array/find_unique_binary_string/description.md)
   - [Frequency of the Most Frequent Element](./array/frequency_of_the_most_frequent_element/description.md)
+  - [Minimum Amount of Time to Collect Garbage](./array/minimum_amount_of_time_to_collect_garbage/description.md)
 
 ## Backtracking
 - Examples:
