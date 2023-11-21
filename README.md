@@ -135,6 +135,7 @@ Table of Contents:
   - [Design HashMap](./hashing/design_hashmap/description.md)
   - [Majority Element II](./hashing/majority_element_II/description.md)
   - [Sort Vowels in a String](./hashing/sort_vowels_in_a_string/description.md)
+  - [Count Nice Pairs in an Array](./hashing/count_nice_pairs_in_an_array/description.md)
 
 ## Sorting Algorithms
 - [Notes](./sorting/notes.md)

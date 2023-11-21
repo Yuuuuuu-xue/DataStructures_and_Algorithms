@@ -16,6 +16,7 @@ Table of Contents:
     - [Design HashMap](#design-hashmap)
     - [Majority Element II](#majority-element-ii)
     - [Sort Vowels in a String](#sort-vowels-in-a-string)
+    - [Count Nice Pairs in an Array](#count-nice-pairs-in-an-array)
 
 ## Hashing
 - **Universe of keys U**: is the set of all possible keys
@@ -49,3 +50,4 @@ For each slot, we have a linked list. So when collision occurs, we just add it t
 #### [Design HashMap](./design_hashmap/description.md)
 #### [Majority Element II](./majority_element_II/description.md)
 #### [Sort Vowels in a String](./sort_vowels_in_a_string/description.md)
+#### [Count Nice Pairs in an Array](./count_nice_pairs_in_an_array/description.md)
