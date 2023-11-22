@@ -369,6 +369,7 @@ Table of Contents:
   - [Find Unique Binary String](./array/find_unique_binary_string/description.md)
   - [Frequency of the Most Frequent Element](./array/frequency_of_the_most_frequent_element/description.md)
   - [Minimum Amount of Time to Collect Garbage](./array/minimum_amount_of_time_to_collect_garbage/description.md)
+  - [Diagonal Traverse II](./array/diagonal_traverse_II/description.md)
 
 ## Backtracking
 - Examples:
