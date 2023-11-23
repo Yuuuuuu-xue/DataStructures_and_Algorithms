@@ -370,6 +370,7 @@ Table of Contents:
   - [Frequency of the Most Frequent Element](./array/frequency_of_the_most_frequent_element/description.md)
   - [Minimum Amount of Time to Collect Garbage](./array/minimum_amount_of_time_to_collect_garbage/description.md)
   - [Diagonal Traverse II](./array/diagonal_traverse_II/description.md)
+  - [Arithmetic Subarrays](./array/arithmetic_subarrays/description.md)
 
 ## Backtracking
 - Examples:
