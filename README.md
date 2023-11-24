@@ -220,6 +220,7 @@ Table of Contents:
   - [Candy](./greedy/candy/description.md)
   - [Determine if a Cell is Reachable at a Given Time](./greedy/determine_if_a_cell_is_reachable_at_a_given_time/description.md)
   - [Maximum Element After Decreasing and Rearranging](./greedy/maximum_element_after_decreasing_and_rearranging/description.md)
+  - [Maximum Number of Coins You Can Get](./greedy/maximum_number_of_coins_you_can_get/description.md)
 
 ## Dynamic Programming
 - [Notes](./dynamic_programming/notes.md)

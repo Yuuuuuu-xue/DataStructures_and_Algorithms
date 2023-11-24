@@ -19,6 +19,7 @@ Table of Contents:
     - [Candy](#candy)
     - [Determine if a Cell is Reachable at a Given Time](#determine-if-a-cell-is-reachable-at-a-given-time)
     - [Maximum Element After Decreasing and Rearranging](#maximum-element-after-decreasing-and-rearranging)
+    - [Maximum Number of Coins You Can Get](#maximum-number-of-coins-you-can-get)
 
 ## Greedy Algorithm
 A greedy algorithm for an optimization problem is one that makes a **locally optimal choice** (a choice that looks best at the moment) at every step hoping it leads to a **globally optimal solution**.
@@ -41,3 +42,4 @@ A problem exhibits **optimal substructure** if an optimal solution to the proble
 #### [Candy](./candy/description.md)
 #### [Determine if a Cell is Reachable at a Given Time](./determine_if_a_cell_is_reachable_at_a_given_time/description.md)
 #### [Maximum Element After Decreasing and Rearranging](./maximum_element_after_decreasing_and_rearranging/description.md)
+#### [Maximum Number of Coins You Can Get](./maximum_number_of_coins_you_can_get/description.md)
