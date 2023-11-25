@@ -372,6 +372,7 @@ Table of Contents:
   - [Minimum Amount of Time to Collect Garbage](./array/minimum_amount_of_time_to_collect_garbage/description.md)
   - [Diagonal Traverse II](./array/diagonal_traverse_II/description.md)
   - [Arithmetic Subarrays](./array/arithmetic_subarrays/description.md)
+  - [Sum of Absolute Differences in a Sorted Array](./array/sum_of_absolute_differences_in_a_sorted_array/description.md)
 
 ## Backtracking
 - Examples:
