@@ -273,6 +273,7 @@ Table of Contents:
   - [Max dot Product of Two Subsequences](./dynamic_programming/max_dot_product_of_two_subsequences/description.md)
   - [Painting the Walls](./dynamic_programming/painting_the_walls/description.md)
   - [Number of Ways to Stay in the Same Place After Some Steps](./dynamic_programming/number_of_ways_to_stay_in_the_same_place_after_some_steps/description.md)
+  - [Knight Dialer](./dynamic_programming/knight_dialer/description.md)
 
 ## Shorest Weight Path (Dijkstra Algorithm)
 - [Notes](./shortest_weight_path/notes.md)
