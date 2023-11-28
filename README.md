@@ -221,6 +221,7 @@ Table of Contents:
   - [Determine if a Cell is Reachable at a Given Time](./greedy/determine_if_a_cell_is_reachable_at_a_given_time/description.md)
   - [Maximum Element After Decreasing and Rearranging](./greedy/maximum_element_after_decreasing_and_rearranging/description.md)
   - [Maximum Number of Coins You Can Get](./greedy/maximum_number_of_coins_you_can_get/description.md)
+  - [Number of Ways to Divide a Long Corridor](./greedy/number_of_ways_to_divide_a_long_corridor/description.md)
 
 ## Dynamic Programming
 - [Notes](./dynamic_programming/notes.md)
