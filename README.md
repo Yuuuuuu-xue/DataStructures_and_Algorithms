@@ -375,6 +375,7 @@ Table of Contents:
   - [Diagonal Traverse II](./array/diagonal_traverse_II/description.md)
   - [Arithmetic Subarrays](./array/arithmetic_subarrays/description.md)
   - [Sum of Absolute Differences in a Sorted Array](./array/sum_of_absolute_differences_in_a_sorted_array/description.md)
+  - [Check If Two String Arrays are Equivalent](./array/check_if_two_string_arrays_are_equivalent/description.md)
 
 ## Backtracking
 - Examples:
