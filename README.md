@@ -136,6 +136,7 @@ Table of Contents:
   - [Majority Element II](./hashing/majority_element_II/description.md)
   - [Sort Vowels in a String](./hashing/sort_vowels_in_a_string/description.md)
   - [Count Nice Pairs in an Array](./hashing/count_nice_pairs_in_an_array/description.md)
+  - [Find Words That Can Be Formed by Characters](./hashing/find_words_that_can_be_formed_by_characters/description.md)
 
 ## Sorting Algorithms
 - [Notes](./sorting/notes.md)
