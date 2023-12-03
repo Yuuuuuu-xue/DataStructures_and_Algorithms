@@ -20,7 +20,8 @@ Table of Contents:
     - [Determine if a Cell is Reachable at a Given Time](#determine-if-a-cell-is-reachable-at-a-given-time)
     - [Maximum Element After Decreasing and Rearranging](#maximum-element-after-decreasing-and-rearranging)
     - [Maximum Number of Coins You Can Get](#maximum-number-of-coins-you-can-get)
-    - [\[Number of Ways to Divide a Long Corridor\]](#number-of-ways-to-divide-a-long-corridor)
+    - [Number of Ways to Divide a Long Corridor](#number-of-ways-to-divide-a-long-corridor)
+    - [Minimum Time Visiting All Points](#minimum-time-visiting-all-points)
 
 ## Greedy Algorithm
 A greedy algorithm for an optimization problem is one that makes a **locally optimal choice** (a choice that looks best at the moment) at every step hoping it leads to a **globally optimal solution**.
@@ -44,4 +45,5 @@ A problem exhibits **optimal substructure** if an optimal solution to the proble
 #### [Determine if a Cell is Reachable at a Given Time](./determine_if_a_cell_is_reachable_at_a_given_time/description.md)
 #### [Maximum Element After Decreasing and Rearranging](./maximum_element_after_decreasing_and_rearranging/description.md)
 #### [Maximum Number of Coins You Can Get](./maximum_number_of_coins_you_can_get/description.md)
-#### [Number of Ways to Divide a Long Corridor]
+#### [Number of Ways to Divide a Long Corridor](./number_of_ways_to_divide_a_long_corridor/description.md)
+#### [Minimum Time Visiting All Points](./minimum_time_visiting_all_points/description.md)
