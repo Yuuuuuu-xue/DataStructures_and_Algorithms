@@ -379,6 +379,7 @@ Table of Contents:
   - [Sum of Absolute Differences in a Sorted Array](./array/sum_of_absolute_differences_in_a_sorted_array/description.md)
   - [Check If Two String Arrays are Equivalent](./array/check_if_two_string_arrays_are_equivalent/description.md)
   - [Largest 3-Same-Digit Number in String](./array/largest_3_same_digit_number_in_string/description.md)
+  - [Count of Matches in Tournament](./array/count_of_matches_in_tournament/description.md)
 
 ## Backtracking
 - Examples:
