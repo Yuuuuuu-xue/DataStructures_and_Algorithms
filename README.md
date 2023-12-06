@@ -380,6 +380,7 @@ Table of Contents:
   - [Check If Two String Arrays are Equivalent](./array/check_if_two_string_arrays_are_equivalent/description.md)
   - [Largest 3-Same-Digit Number in String](./array/largest_3_same_digit_number_in_string/description.md)
   - [Count of Matches in Tournament](./array/count_of_matches_in_tournament/description.md)
+  - [Calculate Money in Leetcode Bank](./array/calculate_money_in_leetcode_bank/description.md)
 
 ## Backtracking
 - Examples:
