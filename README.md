@@ -381,6 +381,7 @@ Table of Contents:
   - [Largest 3-Same-Digit Number in String](./array/largest_3_same_digit_number_in_string/description.md)
   - [Count of Matches in Tournament](./array/count_of_matches_in_tournament/description.md)
   - [Calculate Money in Leetcode Bank](./array/calculate_money_in_leetcode_bank/description.md)
+  - [Largest Odd Number in String](./array/largest_odd_number_in_string/description.md)
 
 ## Backtracking
 - Examples:
