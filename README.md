@@ -98,6 +98,7 @@ Table of Contents:
   - [Kth Symbol in Grammar](./tree/kth_symbol_in_grammar/description.md)
   - [Count Nodes Equal to Average of Subtree](./tree/count_nodes_equal_to_average_of_subtree/description.md)
   - [Construct String from Binary Tree](./tree/construct_string_from_binary_tree/descritpion.md)
+  - [Binary Tree Inorder Traversal](./tree/binary_tree_inorder_traversal/description.md)
 - [Binary Search Tree Notes](./BST/notes.md)
   Examples:
   - [Implementation](BST/implementation/description.md)
