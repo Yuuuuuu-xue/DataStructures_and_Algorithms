@@ -32,3 +32,4 @@ Given a matrix of m * n, simply define a dp n * m matrix and loop over matrix[i]
 
 ## Solution
 - [Java Solution](transpose_matrix.java)
+- [C++](./solution.cpp)
