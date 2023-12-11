@@ -384,6 +384,7 @@ Table of Contents:
   - [Count of Matches in Tournament](./array/count_of_matches_in_tournament/description.md)
   - [Calculate Money in Leetcode Bank](./array/calculate_money_in_leetcode_bank/description.md)
   - [Largest Odd Number in String](./array/largest_odd_number_in_string/description.md)
+  - [Element Appearing More Than 25% In Sorted Array](./array/element_appearing_more_than_25%25_in_sorted_array/description.md)
 
 ## Backtracking
 - Examples:
