@@ -386,6 +386,7 @@ Table of Contents:
   - [Largest Odd Number in String](./array/largest_odd_number_in_string/description.md)
   - [Element Appearing More Than 25% In Sorted Array](./array/element_appearing_more_than_25%25_in_sorted_array/description.md)
   - [Maximum Product of Two Elements in an Array](./array/maximum_product_of_two_elements_in_an_array/description.md)
+  - [Special Positions in a Binary Matrix](./array/special_positions_in_a_binary_matrix/description.md)
 
 ## Backtracking
 - Examples:
