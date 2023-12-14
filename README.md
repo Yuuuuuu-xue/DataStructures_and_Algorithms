@@ -387,6 +387,7 @@ Table of Contents:
   - [Element Appearing More Than 25% In Sorted Array](./array/element_appearing_more_than_25%25_in_sorted_array/description.md)
   - [Maximum Product of Two Elements in an Array](./array/maximum_product_of_two_elements_in_an_array/description.md)
   - [Special Positions in a Binary Matrix](./array/special_positions_in_a_binary_matrix/description.md)
+  - [Difference Between Ones and Zeros in Row and Column](./array/difference_between_ones_and_zeros_in_row_and_column/description.md)
 
 ## Backtracking
 - Examples:
