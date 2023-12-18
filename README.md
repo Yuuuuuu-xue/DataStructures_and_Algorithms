@@ -390,6 +390,7 @@ Table of Contents:
   - [Maximum Product of Two Elements in an Array](./array/maximum_product_of_two_elements_in_an_array/description.md)
   - [Special Positions in a Binary Matrix](./array/special_positions_in_a_binary_matrix/description.md)
   - [Difference Between Ones and Zeros in Row and Column](./array/difference_between_ones_and_zeros_in_row_and_column/description.md)
+  - [Maximum Product Difference Between Two Pairs](./array/maximum_product_difference_between_two_pairs/description.md)
 
 ## Backtracking
 - Examples:
