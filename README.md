@@ -391,6 +391,7 @@ Table of Contents:
   - [Special Positions in a Binary Matrix](./array/special_positions_in_a_binary_matrix/description.md)
   - [Difference Between Ones and Zeros in Row and Column](./array/difference_between_ones_and_zeros_in_row_and_column/description.md)
   - [Maximum Product Difference Between Two Pairs](./array/maximum_product_difference_between_two_pairs/description.md)
+  - [Image Smoother](./array/image_smoother/description.md)
 
 ## Backtracking
 - Examples:
