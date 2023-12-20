@@ -228,6 +228,7 @@ Table of Contents:
   - [Maximum Number of Coins You Can Get](./greedy/maximum_number_of_coins_you_can_get/description.md)
   - [Number of Ways to Divide a Long Corridor](./greedy/number_of_ways_to_divide_a_long_corridor/description.md)
   - [Minimum Time Visiting All Points](./greedy/minimum_time_visiting_all_points/description.md)
+  - [Buy Two Cholocates](./greedy/buy_two_chololates/description.md)
 
 ## Dynamic Programming
 - [Notes](./dynamic_programming/notes.md)

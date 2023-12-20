@@ -22,6 +22,7 @@ Table of Contents:
     - [Maximum Number of Coins You Can Get](#maximum-number-of-coins-you-can-get)
     - [Number of Ways to Divide a Long Corridor](#number-of-ways-to-divide-a-long-corridor)
     - [Minimum Time Visiting All Points](#minimum-time-visiting-all-points)
+    - [Buy Two Cholocates](#buy-two-cholocates)
 
 ## Greedy Algorithm
 A greedy algorithm for an optimization problem is one that makes a **locally optimal choice** (a choice that looks best at the moment) at every step hoping it leads to a **globally optimal solution**.
@@ -47,3 +48,4 @@ A problem exhibits **optimal substructure** if an optimal solution to the proble
 #### [Maximum Number of Coins You Can Get](./maximum_number_of_coins_you_can_get/description.md)
 #### [Number of Ways to Divide a Long Corridor](./number_of_ways_to_divide_a_long_corridor/description.md)
 #### [Minimum Time Visiting All Points](./minimum_time_visiting_all_points/description.md)
+#### [Buy Two Cholocates](./buy_two_chololates/description.md)
