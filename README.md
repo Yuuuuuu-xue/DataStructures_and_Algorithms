@@ -394,6 +394,7 @@ Table of Contents:
   - [Maximum Product Difference Between Two Pairs](./array/maximum_product_difference_between_two_pairs/description.md)
   - [Image Smoother](./array/image_smoother/description.md)
   - [Widest Vertical Area Between Two Points Containing No Points](./array/widest_vertical_area_between_two_points_containing_no_points/desciption.md)
+  - [Maximum Score After Splitting a String](./array/maximum_score_after_splitting_a_string/descritpion.md)
 
 ## Backtracking
 - Examples:
