@@ -396,6 +396,7 @@ Table of Contents:
   - [Widest Vertical Area Between Two Points Containing No Points](./array/widest_vertical_area_between_two_points_containing_no_points/desciption.md)
   - [Maximum Score After Splitting a String](./array/maximum_score_after_splitting_a_string/descritpion.md)
   - [Path Crossing](./array/path_crossing/descritpion.md)
+  - [Minimum Changes To Make Alternating Binary String](./array/minimum_changes_to_make_alternating_binary_string/description.md)
 
 ## Backtracking
 - Examples:
