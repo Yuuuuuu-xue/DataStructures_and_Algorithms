@@ -284,6 +284,7 @@ Table of Contents:
   - [Number of Ways to Stay in the Same Place After Some Steps](./dynamic_programming/number_of_ways_to_stay_in_the_same_place_after_some_steps/description.md)
   - [Knight Dialer](./dynamic_programming/knight_dialer/description.md)
   - [Number of Dice Rolls with Target Sum](./dynamic_programming/number_of_dice_rolls_with_target_sum/description.md)
+  - [String Compression II](./dynamic_programming/string_compression_II/description.md)
 
 ## Shorest Weight Path (Dijkstra Algorithm)
 - [Notes](./shortest_weight_path/notes.md)

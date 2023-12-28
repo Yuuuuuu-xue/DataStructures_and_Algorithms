@@ -56,6 +56,7 @@ Table of Contents:
     - [Number of Ways to Stay in the Same Place After Some Steps](#number-of-ways-to-stay-in-the-same-place-after-some-steps)
     - [Knight Dialer](#knight-dialer)
     - [Number of Dice Rolls with Target Sum](#number-of-dice-rolls-with-target-sum)
+    - [String Compression II](#string-compression-ii)
 
 ## Dynamic Programming
 - A **dynamic programming algorithm** for an optimization problem is basically a recursive solution that uses **memoization** to solve repeated calls to the same subproblems.
@@ -126,3 +127,4 @@ Table of Contents:
 #### [Number of Ways to Stay in the Same Place After Some Steps](./number_of_ways_to_stay_in_the_same_place_after_some_steps/description.md)
 #### [Knight Dialer](./knight_dialer/description.md)
 #### [Number of Dice Rolls with Target Sum](./number_of_dice_rolls_with_target_sum/description.md)
+#### [String Compression II](./string_compression_II/description.md)
