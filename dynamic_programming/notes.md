@@ -57,6 +57,7 @@ Table of Contents:
     - [Knight Dialer](#knight-dialer)
     - [Number of Dice Rolls with Target Sum](#number-of-dice-rolls-with-target-sum)
     - [String Compression II](#string-compression-ii)
+    - [Minimum Difficulty of a Job Schedule](#minimum-difficulty-of-a-job-schedule)
 
 ## Dynamic Programming
 - A **dynamic programming algorithm** for an optimization problem is basically a recursive solution that uses **memoization** to solve repeated calls to the same subproblems.
@@ -128,3 +129,4 @@ Table of Contents:
 #### [Knight Dialer](./knight_dialer/description.md)
 #### [Number of Dice Rolls with Target Sum](./number_of_dice_rolls_with_target_sum/description.md)
 #### [String Compression II](./string_compression_II/description.md)
+#### [Minimum Difficulty of a Job Schedule](./minimum_difficulty_of_a_job_schedule/description.md)

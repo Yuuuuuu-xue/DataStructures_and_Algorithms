@@ -285,6 +285,7 @@ Table of Contents:
   - [Knight Dialer](./dynamic_programming/knight_dialer/description.md)
   - [Number of Dice Rolls with Target Sum](./dynamic_programming/number_of_dice_rolls_with_target_sum/description.md)
   - [String Compression II](./dynamic_programming/string_compression_II/description.md)
+  - [Minimum Difficulty of a Job Schedule](./dynamic_programming/minimum_difficulty_of_a_job_schedule/description.md)
 
 ## Shorest Weight Path (Dijkstra Algorithm)
 - [Notes](./shortest_weight_path/notes.md)
