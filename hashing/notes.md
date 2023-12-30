@@ -19,6 +19,7 @@ Table of Contents:
     - [Count Nice Pairs in an Array](#count-nice-pairs-in-an-array)
     - [Find Words That Can Be Formed by Characters](#find-words-that-can-be-formed-by-characters)
     - [Destination City](#destination-city)
+    - [Redistribute Characters to Make All Strings Equal](#redistribute-characters-to-make-all-strings-equal)
 
 ## Hashing
 - **Universe of keys U**: is the set of all possible keys
@@ -55,3 +56,4 @@ For each slot, we have a linked list. So when collision occurs, we just add it t
 #### [Count Nice Pairs in an Array](./count_nice_pairs_in_an_array/description.md)
 #### [Find Words That Can Be Formed by Characters](./find_words_that_can_be_formed_by_characters/description.md)
 #### [Destination City](./destination_city/description.md)
+#### [Redistribute Characters to Make All Strings Equal](./redistribute_characters_to_make_all_strings_equal/description.md)
