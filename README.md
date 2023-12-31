@@ -142,6 +142,7 @@ Table of Contents:
   - [Find Words That Can Be Formed by Characters](./hashing/find_words_that_can_be_formed_by_characters/description.md)
   - [Destination City](./hashing/destination_city/description.md)
   - [Redistribute Characters to Make All Strings Equal](./hashing/redistribute_characters_to_make_all_strings_equal/description.md)
+  - [Largest Substring Between Two Equal Characters](./hashing/largest_substring_between_two_equal_characters/descritpion.md)
 
 ## Sorting Algorithms
 - [Notes](./sorting/notes.md)
