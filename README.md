@@ -232,6 +232,7 @@ Table of Contents:
   - [Minimum Time Visiting All Points](./greedy/minimum_time_visiting_all_points/description.md)
   - [Buy Two Cholocates](./greedy/buy_two_chololates/description.md)
   - [Minimum Time to Make Rope Colorful](./greedy/minimum_time_to_make_rope_colorful/description.md)
+  - [Assign Cookies](./greedy/assign_cookies/description.md)
 
 ## Dynamic Programming
 - [Notes](./dynamic_programming/notes.md)
