@@ -26,6 +26,7 @@ Table of Contents:
     - [Minimum Time to Make Rope Colorful](#minimum-time-to-make-rope-colorful)
     - [Assign Cookies](#assign-cookies)
     - [Convert an Array Into a 2D Array With Conditions](#convert-an-array-into-a-2d-array-with-conditions)
+    - [Minimum Number of Operations to Make Array Empty](#minimum-number-of-operations-to-make-array-empty)
 
 ## Greedy Algorithm
 A greedy algorithm for an optimization problem is one that makes a **locally optimal choice** (a choice that looks best at the moment) at every step hoping it leads to a **globally optimal solution**.
@@ -55,3 +56,4 @@ A problem exhibits **optimal substructure** if an optimal solution to the proble
 #### [Minimum Time to Make Rope Colorful](./minimum_time_to_make_rope_colorful/description.md)
 #### [Assign Cookies](./assign_cookies/description.md)
 #### [Convert an Array Into a 2D Array With Conditions](./convert_an_array_into_a_2d_array_with_conditions/description.md)
+#### [Minimum Number of Operations to Make Array Empty](./minimum_number_of_operations_to_make_array_empty/description.md)

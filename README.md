@@ -234,6 +234,7 @@ Table of Contents:
   - [Minimum Time to Make Rope Colorful](./greedy/minimum_time_to_make_rope_colorful/description.md)
   - [Assign Cookies](./greedy/assign_cookies/description.md)
   - [Convert an Array Into a 2D Array With Conditions](./greedy/convert_an_array_into_a_2d_array_with_conditions/description.md)
+  - [Minimum Number of Operations to Make Array Empty](./greedy/minimum_number_of_operations_to_make_array_empty/description.md)
 
 ## Dynamic Programming
 - [Notes](./dynamic_programming/notes.md)
