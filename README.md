@@ -292,6 +292,7 @@ Table of Contents:
   - [String Compression II](./dynamic_programming/string_compression_II/description.md)
   - [Minimum Difficulty of a Job Schedule](./dynamic_programming/minimum_difficulty_of_a_job_schedule/description.md)
   - [Maximum Profit in Job Scheduling](./dynamic_programming/maximum_profit_in_job_scheduling/description.md)
+  - [Arithmetic Slices II Subsequence](./dynamic_programming/arithmetic_slices_II_subsequence/description.md)
 
 ## Shorest Weight Path (Dijkstra Algorithm)
 - [Notes](./shortest_weight_path/notes.md)
