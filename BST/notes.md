@@ -9,6 +9,7 @@ Table of Contents:
     - [Unique Binary Search Trees II](#unique-binary-search-trees-ii)
     - [Find Model in a Binary Search Tree](#find-model-in-a-binary-search-tree)
     - [Design a Food Rating System](#design-a-food-rating-system)
+    - [Range Sum of BST](#range-sum-of-bst)
 
 ## Binary Search Tree
 Binary tree with **BST ordering**:
@@ -20,3 +21,4 @@ Binary tree with **BST ordering**:
 #### [Unique Binary Search Trees II](./unique_binary_search_trees_II/description.md)
 #### [Find Model in a Binary Search Tree](./find_model_in_a_binary_search_tree/description.md)
 #### [Design a Food Rating System](./design_a_food_rating_system/descritpion.md)
+#### [Range Sum of BST](./range_sum_of_bst/description.md)

@@ -107,6 +107,7 @@ Table of Contents:
   - [Unique Binary Search Trees II](/BST/unique_binary_search_trees_II/description.md)
   - [Find Model in a Binary Search Tree](./BST/find_model_in_a_binary_search_tree/description.md)
   - [Design a Food Rating System](./BST/design_a_food_rating_system/descritpion.md)
+  - [Range Sum of BST](./BST/range_sum_of_bst/description.md)
 - [AVL](./AVL/notes.md) \
   Examples:
   - [Implementation](AVL/implementation/description.md)
