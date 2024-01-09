@@ -21,6 +21,7 @@ Table of Contents:
     - [Count Nodes Equal to Average of Subtree](#count-nodes-equal-to-average-of-subtree)
     - [Construct String from Binary Tree](#construct-string-from-binary-tree)
     - [Binary Tree Inorder Traversal](#binary-tree-inorder-traversal)
+    - [Leaf Similar Trees](#leaf-similar-trees)
 
 ## Tree
 - **height** of a tree is the length of the longest path from the root to a child
@@ -55,3 +56,4 @@ Table of Contents:
 #### [Count Nodes Equal to Average of Subtree](./count_nodes_equal_to_average_of_subtree/description.md)
 #### [Construct String from Binary Tree](./construct_string_from_binary_tree/descritpion.md)
 #### [Binary Tree Inorder Traversal](./binary_tree_inorder_traversal/description.md)
+#### [Leaf Similar Trees](./leaf_similar_trees/description.md)
