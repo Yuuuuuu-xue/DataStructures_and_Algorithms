@@ -22,6 +22,7 @@ Table of Contents:
     - [Construct String from Binary Tree](#construct-string-from-binary-tree)
     - [Binary Tree Inorder Traversal](#binary-tree-inorder-traversal)
     - [Leaf Similar Trees](#leaf-similar-trees)
+    - [Amount of Time For Binary Tree to be Infected](#amount-of-time-for-binary-tree-to-be-infected)
 
 ## Tree
 - **height** of a tree is the length of the longest path from the root to a child
@@ -57,3 +58,4 @@ Table of Contents:
 #### [Construct String from Binary Tree](./construct_string_from_binary_tree/descritpion.md)
 #### [Binary Tree Inorder Traversal](./binary_tree_inorder_traversal/description.md)
 #### [Leaf Similar Trees](./leaf_similar_trees/description.md)
+#### [Amount of Time For Binary Tree to be Infected](./amount_of_time_for_binary_tree_to_be_infected/description.md)

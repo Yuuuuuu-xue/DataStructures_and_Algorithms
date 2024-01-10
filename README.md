@@ -100,6 +100,7 @@ Table of Contents:
   - [Construct String from Binary Tree](./tree/construct_string_from_binary_tree/descritpion.md)
   - [Binary Tree Inorder Traversal](./tree/binary_tree_inorder_traversal/description.md)
   - [Leaf Similar Trees](./tree/leaf_similar_trees/description.md)
+  - [Amount of Time for Binary Tree to be Infected](./tree/amount_of_time_for_binary_tree_to_be_infected/description.md)
 - [Binary Search Tree Notes](./BST/notes.md)
   Examples:
   - [Implementation](BST/implementation/description.md)
