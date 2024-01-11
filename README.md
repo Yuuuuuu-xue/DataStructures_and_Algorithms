@@ -101,6 +101,7 @@ Table of Contents:
   - [Binary Tree Inorder Traversal](./tree/binary_tree_inorder_traversal/description.md)
   - [Leaf Similar Trees](./tree/leaf_similar_trees/description.md)
   - [Amount of Time for Binary Tree to be Infected](./tree/amount_of_time_for_binary_tree_to_be_infected/description.md)
+  - [Maximum Difference Between Node and Ancestor](./tree/maximum_difference_between_node_and_ancestor/descritpion.md)
 - [Binary Search Tree Notes](./BST/notes.md)
   Examples:
   - [Implementation](BST/implementation/description.md)
