@@ -147,6 +147,7 @@ Table of Contents:
   - [Destination City](./hashing/destination_city/description.md)
   - [Redistribute Characters to Make All Strings Equal](./hashing/redistribute_characters_to_make_all_strings_equal/description.md)
   - [Largest Substring Between Two Equal Characters](./hashing/largest_substring_between_two_equal_characters/descritpion.md)
+  - [Minimum Number of Steps to Make Two Strings Anagram](./hashing/minimum_number_of_steps_to_make_two_strings_anagram/description.md)
 
 ## Sorting Algorithms
 - [Notes](./sorting/notes.md)
