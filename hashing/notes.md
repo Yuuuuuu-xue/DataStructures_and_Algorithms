@@ -22,6 +22,7 @@ Table of Contents:
     - [Redistribute Characters to Make All Strings Equal](#redistribute-characters-to-make-all-strings-equal)
     - [Largest Substring Between Two Equal Characters](#largest-substring-between-two-equal-characters)
     - [Minimum Number of Steps to Make Two Strings Anagram](#minimum-number-of-steps-to-make-two-strings-anagram)
+    - [Determine if Two Strings Are Close](#determine-if-two-strings-are-close)
 
 ## Hashing
 - **Universe of keys U**: is the set of all possible keys
@@ -61,3 +62,4 @@ For each slot, we have a linked list. So when collision occurs, we just add it t
 #### [Redistribute Characters to Make All Strings Equal](./redistribute_characters_to_make_all_strings_equal/description.md)
 #### [Largest Substring Between Two Equal Characters](./largest_substring_between_two_equal_characters/descritpion.md)
 #### [Minimum Number of Steps to Make Two Strings Anagram](./minimum_number_of_steps_to_make_two_strings_anagram/description.md)
+#### [Determine if Two Strings Are Close](./determine_if_two_strings_are_close/description.md)
