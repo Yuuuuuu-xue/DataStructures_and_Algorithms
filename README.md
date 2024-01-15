@@ -149,6 +149,7 @@ Table of Contents:
   - [Largest Substring Between Two Equal Characters](./hashing/largest_substring_between_two_equal_characters/descritpion.md)
   - [Minimum Number of Steps to Make Two Strings Anagram](./hashing/minimum_number_of_steps_to_make_two_strings_anagram/description.md)
   - [Determine if Two Strings Are Close](./hashing/determine_if_two_strings_are_close/description.md)
+  - [Find Players With Zero or One Losses](./hashing/find_players_with_zero_or_one_losses/description.md)
 
 ## Sorting Algorithms
 - [Notes](./sorting/notes.md)

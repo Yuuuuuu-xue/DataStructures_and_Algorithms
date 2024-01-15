@@ -23,6 +23,7 @@ Table of Contents:
     - [Largest Substring Between Two Equal Characters](#largest-substring-between-two-equal-characters)
     - [Minimum Number of Steps to Make Two Strings Anagram](#minimum-number-of-steps-to-make-two-strings-anagram)
     - [Determine if Two Strings Are Close](#determine-if-two-strings-are-close)
+    - [Find Players with Zero or One Losses](#find-players-with-zero-or-one-losses)
 
 ## Hashing
 - **Universe of keys U**: is the set of all possible keys
@@ -63,3 +64,4 @@ For each slot, we have a linked list. So when collision occurs, we just add it t
 #### [Largest Substring Between Two Equal Characters](./largest_substring_between_two_equal_characters/descritpion.md)
 #### [Minimum Number of Steps to Make Two Strings Anagram](./minimum_number_of_steps_to_make_two_strings_anagram/description.md)
 #### [Determine if Two Strings Are Close](./determine_if_two_strings_are_close/description.md)
+#### [Find Players with Zero or One Losses](./find_players_with_zero_or_one_losses/description.md)
