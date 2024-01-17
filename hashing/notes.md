@@ -25,6 +25,7 @@ Table of Contents:
     - [Determine if Two Strings Are Close](#determine-if-two-strings-are-close)
     - [Find Players with Zero or One Losses](#find-players-with-zero-or-one-losses)
     - [Insert Delete GetRandom O(1)](#insert-delete-getrandom-o1)
+    - [Unique Number of Occurrences](#unique-number-of-occurrences)
 
 ## Hashing
 - **Universe of keys U**: is the set of all possible keys
@@ -67,3 +68,4 @@ For each slot, we have a linked list. So when collision occurs, we just add it t
 #### [Determine if Two Strings Are Close](./determine_if_two_strings_are_close/description.md)
 #### [Find Players with Zero or One Losses](./find_players_with_zero_or_one_losses/description.md)
 #### [Insert Delete GetRandom O(1)](./insert_delete_get_random/description.md)
+#### [Unique Number of Occurrences](./unique_number_of_occurrences/description.md)
