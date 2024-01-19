@@ -32,8 +32,13 @@ public:
 
     priority_queue<pair<int, int>, vector<pair<int, int>>, Compare> pq;
 
-
+    string words = "hello,how,you";
+    stringstream  ss(words);
+    string str;
+    vector<string> results;
+    while (getline(ss, str, ',')) {
+        results.push_back(str);
+    }
   }
 
-  
 };
