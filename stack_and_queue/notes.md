@@ -11,6 +11,7 @@ Table of Contents:
     - [Longest Valid Parentheses](#longest-valid-parentheses)
     - [Constrained Subsequence Sum](#constrained-subsequence-sum)
     - [Build an Array with Stack Operations](#build-an-array-with-stack-operations)
+    - [Sum of Subarray Minimums](#sum-of-subarray-minimums)
 
 
 ## Examples:
@@ -22,3 +23,4 @@ Table of Contents:
 #### [Longest Valid Parentheses](longest_valid_parentheses/description.md)
 #### [Constrained Subsequence Sum](./constrained_subsequence_sum/description.md)
 #### [Build an Array with Stack Operations](./build_an_array_with_stack_operations/description.md)
+#### [Sum of Subarray Minimums](./sum_of_subarray_minimums/description.md)
