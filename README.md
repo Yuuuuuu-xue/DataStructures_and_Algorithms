@@ -152,6 +152,7 @@ Table of Contents:
   - [Find Players With Zero or One Losses](./hashing/find_players_with_zero_or_one_losses/description.md)
   - [Insert Delete GetRandom O(1)](./hashing/insert_delete_get_random/description.md)
   - [Unique Number of Occurrences](./hashing/unique_number_of_occurrences/description.md)
+  - [Set Mismatch](./hashing/set_mismatch/description.md)
 
 ## Sorting Algorithms
 - [Notes](./sorting/notes.md)
