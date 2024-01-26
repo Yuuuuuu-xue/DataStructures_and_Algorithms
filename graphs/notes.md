@@ -24,6 +24,7 @@ Table of Contents:
     - [Shortest Path Visiting All Nodes](#shortest-path-visiting-all-nodes)
     - [Restore the Array from Adjacent Pairs](#restore-the-array-from-adjacent-pairs)
     - [Bus Routes](#bus-routes)
+    - [Out of Boundary Paths](#out-of-boundary-paths)
 
 ## Definition
 - A **graph** is a tuple of two sets G = (V, E) where V is the set of vertices and E is the set of edges.
@@ -74,3 +75,4 @@ Table of Contents:
 #### [Shortest Path Visiting All Nodes](./shortest_path_visiting_all_nodes/description.md)
 #### [Restore the Array from Adjacent Pairs](./restore_the_array_from_adjacent_pairs/description.md)
 #### [Bus Routes](./bus_routes/description.md)
+#### [Out of Boundary Paths](./out_of_boundary_paths/description.md)

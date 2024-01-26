@@ -199,6 +199,7 @@ Table of Contents:
   - [Frog Jump](./graphs/frog_jump/description.md)
   - [Shortest Path Visiting All Nodes](./graphs/shortest_path_visiting_all_nodes/description.md)
   - [Bus Stops](./graphs/bus_routes/description.md)
+  - [Out of Boundary Paths](./graphs/out_of_boundary_paths/description.md)
 
 ## Dijkstra's Algorithm
 - [Notes](./dijkstra_algorithm/notes.md)
