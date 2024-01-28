@@ -61,6 +61,7 @@ Table of Contents:
     - [Maximum Profit in Job Scheduling](#maximum-profit-in-job-scheduling)
     - [Arithmetic Slices II - Subsequence](#arithmetic-slices-ii---subsequence)
     - [Minimum Falling Path Sum](#minimum-falling-path-sum)
+    - [Number of Submatrices That Sum to Target](#number-of-submatrices-that-sum-to-target)
 
 ## Dynamic Programming
 - A **dynamic programming algorithm** for an optimization problem is basically a recursive solution that uses **memoization** to solve repeated calls to the same subproblems.
@@ -136,3 +137,4 @@ Table of Contents:
 #### [Maximum Profit in Job Scheduling](./maximum_profit_in_job_scheduling/description.md)
 #### [Arithmetic Slices II - Subsequence](./arithmetic_slices_II_subsequence/description.md)
 #### [Minimum Falling Path Sum](./minimum_falling_path_sum/description.md)
+#### [Number of Submatrices That Sum to Target](./number_of_submatrices_that_sum_to_target/description.md)
