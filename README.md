@@ -426,6 +426,7 @@ Table of Contents:
   - [Minimum Changes To Make Alternating Binary String](./array/minimum_changes_to_make_alternating_binary_string/description.md)
   - [Number of Laser Beams in a Bank](./array/number_of_laster_beams_in_a_bank/description.md)
   - [Deteremine if String Halves Are Alike](./array/determine_if_string_halves_are_alike/description.md)
+  - [Sequential Digits](./array/sequential_digits/description.md)
 
 ## Backtracking
 - Examples:
