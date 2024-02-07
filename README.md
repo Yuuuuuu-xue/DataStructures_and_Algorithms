@@ -153,6 +153,7 @@ Table of Contents:
   - [Insert Delete GetRandom O(1)](./hashing/insert_delete_get_random/description.md)
   - [Unique Number of Occurrences](./hashing/unique_number_of_occurrences/description.md)
   - [Set Mismatch](./hashing/set_mismatch/description.md)
+  - [Sort Characters By Frequency](./hashing/sort_characters_by_frequency/description.md)
 
 ## Sorting Algorithms
 - [Notes](./sorting/notes.md)

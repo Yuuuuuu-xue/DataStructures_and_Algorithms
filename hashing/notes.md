@@ -27,6 +27,7 @@ Table of Contents:
     - [Insert Delete GetRandom O(1)](#insert-delete-getrandom-o1)
     - [Unique Number of Occurrences](#unique-number-of-occurrences)
     - [Set Mismatch](#set-mismatch)
+    - [Sort Characters By Frequency](#sort-characters-by-frequency)
 
 ## Hashing
 - **Universe of keys U**: is the set of all possible keys
@@ -71,3 +72,4 @@ For each slot, we have a linked list. So when collision occurs, we just add it t
 #### [Insert Delete GetRandom O(1)](./insert_delete_get_random/description.md)
 #### [Unique Number of Occurrences](./unique_number_of_occurrences/description.md)
 #### [Set Mismatch](./set_mismatch/description.md)
+#### [Sort Characters By Frequency](./sort_characters_by_frequency/description.md)
