@@ -311,6 +311,7 @@ Table of Contents:
   - [Minimum Falling Path Sum](./dynamic_programming/minimum_falling_path_sum/description.md)
   - [Number of Submatrices That Sum to Target](./dynamic_programming/number_of_submatrices_that_sum_to_target/description.md)
   - [Perfect Squares](./dynamic_programming/perfect_squares/description.md)
+  - [Cherry Pickup II](./dynamic_programming/cherry_pickup_II/description.md)
 
 ## Shorest Weight Path (Dijkstra Algorithm)
 - [Notes](./shortest_weight_path/notes.md)
