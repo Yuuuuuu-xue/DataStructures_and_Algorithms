@@ -430,6 +430,7 @@ Table of Contents:
   - [Number of Laser Beams in a Bank](./array/number_of_laster_beams_in_a_bank/description.md)
   - [Deteremine if String Halves Are Alike](./array/determine_if_string_halves_are_alike/description.md)
   - [Sequential Digits](./array/sequential_digits/description.md)
+  - [Majority Element](./array/majority_element/description.md)
 
 ## Backtracking
 - Examples:
