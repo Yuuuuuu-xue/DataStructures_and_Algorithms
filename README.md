@@ -431,6 +431,7 @@ Table of Contents:
   - [Deteremine if String Halves Are Alike](./array/determine_if_string_halves_are_alike/description.md)
   - [Sequential Digits](./array/sequential_digits/description.md)
   - [Majority Element](./array/majority_element/description.md)
+  - [Find First Palindromic String in the Array](./array/find_first_palindromic_string_in_the_array/description.md)
 
 ## Backtracking
 - Examples:
