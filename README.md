@@ -26,6 +26,7 @@ Table of Contents:
 - [Backtracking](#backtracking)
 - [Topological Sort](#topological-sort)
 - [Top Questions from Microsoft](#top-questions-from-microsoft)
+- [Two Pointers](#two-pointers)
 - [Neetcode.io](#neetcodeio)
     - [Arrays and Hashing](#arrays-and-hashing)
     - [Binary Search](#binary-search)
@@ -34,7 +35,7 @@ Table of Contents:
     - [Stack](#stack)
     - [Trees](#trees)
     - [Tries](#tries)
-    - [Two Pointers](#two-pointers)
+    - [Two Pointers](#two-pointers-1)
     - [Heap and Priority Queue](#heap-and-priority-queue)
     - [Backtracking](#backtracking-1)
     - [Graphs](#graphs-1)
@@ -501,6 +502,9 @@ Table of Contents:
   - [Max Chunks to Make Sorted II](./Microsoft_top_questions/max_chunks_to_make_sorted_II/description.md)
   - [Partition Array into Two Arrays to Minimize Sum Difference](./Microsoft_top_questions/partition_array_into_two_arrays_to_minimize_sum_difference/description.md)
   - [Longest Path with Different Adjacent Characters](./Microsoft_top_questions/longest_path_with_different_adjacent_characters/description.md)
+
+## Two Pointers
+- [Rearrange Array Element by Sign](./two_pointers/rearrange_array_elements_by_sign/description.md)
 
 ## Neetcode.io
 #### Arrays and Hashing
