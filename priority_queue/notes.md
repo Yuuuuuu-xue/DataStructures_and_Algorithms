@@ -19,6 +19,7 @@ Table of Contents:
     - [The k Weakest Rows in a Matrix](#the-k-weakest-rows-in-a-matrix)
     - [Number of Flowers in Full Bloom](#number-of-flowers-in-full-bloom)
     - [Seat Reservation Manager](#seat-reservation-manager)
+    - [Find Polygon With the Largest Perimeter](#find-polygon-with-the-largest-perimeter)
 
 
 ## Priority Queue ADT
@@ -55,3 +56,4 @@ Table of Contents:
 #### [The k Weakest Rows in a Matrix](./the_k_weakest_rows_in_a_matrix/description.md)
 #### [Number of Flowers in Full Bloom](./number_of_followers_in_full_bloom/description.md)
 #### [Seat Reservation Manager](./seat_reservation_manager/description.md)
+#### [Find Polygon With the Largest Perimeter](./find_polygon_with_the_largest_perimeter/description.md)

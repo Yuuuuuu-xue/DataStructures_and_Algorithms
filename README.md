@@ -129,6 +129,7 @@ Table of Contents:
   - [The k Weakest Rows in a Matrix](./priority_queue/the_k_weakest_rows_in_a_matrix/description.md)
   - [Number of Followers in Full Bloom](./priority_queue/number_of_followers_in_full_bloom/description.md)
   - [Seat Reservation Manager](./priority_queue/seat_reservation_manager/description.md)
+  - [Find Polygon With the Largest Perimeter](./priority_queue/find_polygon_with_the_largest_perimeter/description.md)
 
 ## Hashing
 - [Notes](./hashing/notes.md)
