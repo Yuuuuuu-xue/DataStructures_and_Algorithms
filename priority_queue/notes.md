@@ -20,6 +20,7 @@ Table of Contents:
     - [Number of Flowers in Full Bloom](#number-of-flowers-in-full-bloom)
     - [Seat Reservation Manager](#seat-reservation-manager)
     - [Find Polygon With the Largest Perimeter](#find-polygon-with-the-largest-perimeter)
+    - [Furthest Building You Can Reach](#furthest-building-you-can-reach)
 
 
 ## Priority Queue ADT
@@ -57,3 +58,4 @@ Table of Contents:
 #### [Number of Flowers in Full Bloom](./number_of_followers_in_full_bloom/description.md)
 #### [Seat Reservation Manager](./seat_reservation_manager/description.md)
 #### [Find Polygon With the Largest Perimeter](./find_polygon_with_the_largest_perimeter/description.md)
+#### [Furthest Building You Can Reach](./furthest_building_you_can_reach/description.md)

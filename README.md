@@ -130,6 +130,7 @@ Table of Contents:
   - [Number of Followers in Full Bloom](./priority_queue/number_of_followers_in_full_bloom/description.md)
   - [Seat Reservation Manager](./priority_queue/seat_reservation_manager/description.md)
   - [Find Polygon With the Largest Perimeter](./priority_queue/find_polygon_with_the_largest_perimeter/description.md)
+  - [Furthest Building You Can Reach](./priority_queue/furthest_building_you_can_reach/description.md)
 
 ## Hashing
 - [Notes](./hashing/notes.md)
