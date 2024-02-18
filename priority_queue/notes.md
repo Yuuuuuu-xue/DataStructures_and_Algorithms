@@ -21,6 +21,7 @@ Table of Contents:
     - [Seat Reservation Manager](#seat-reservation-manager)
     - [Find Polygon With the Largest Perimeter](#find-polygon-with-the-largest-perimeter)
     - [Furthest Building You Can Reach](#furthest-building-you-can-reach)
+    - [Meeting Rooms III](#meeting-rooms-iii)
 
 
 ## Priority Queue ADT
@@ -59,3 +60,4 @@ Table of Contents:
 #### [Seat Reservation Manager](./seat_reservation_manager/description.md)
 #### [Find Polygon With the Largest Perimeter](./find_polygon_with_the_largest_perimeter/description.md)
 #### [Furthest Building You Can Reach](./furthest_building_you_can_reach/description.md)
+#### [Meeting Rooms III](./meeting_rooms_III/description.md)

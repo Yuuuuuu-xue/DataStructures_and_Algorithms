@@ -131,6 +131,7 @@ Table of Contents:
   - [Seat Reservation Manager](./priority_queue/seat_reservation_manager/description.md)
   - [Find Polygon With the Largest Perimeter](./priority_queue/find_polygon_with_the_largest_perimeter/description.md)
   - [Furthest Building You Can Reach](./priority_queue/furthest_building_you_can_reach/description.md)
+  - [Meeting Rooms III](./priority_queue/meeting_rooms_III/description.md)
 
 ## Hashing
 - [Notes](./hashing/notes.md)
