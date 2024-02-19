@@ -24,6 +24,7 @@ Table of Contents:
 - [Linked List](#linked-list)
 - [Array](#array)
 - [Backtracking](#backtracking)
+- [Math](#math)
 - [Topological Sort](#topological-sort)
 - [Top Questions from Microsoft](#top-questions-from-microsoft)
 - [Two Pointers](#two-pointers)
@@ -447,6 +448,10 @@ Table of Contents:
   - [Palindrome Partitioning](backtracking/palindrome_partitioning/description.md)
   - [Pseudo-Palindromic Paths in a Binary Tree](./backtracking/pseudo-palindromic_paths_in_a_binary_tree/)
   - [Combinations](./backtracking/combinations/description.md)
+  
+## Math
+- Examples
+  - [Power of Two](./math/power_of_two/description.md)
 
 ## Topological Sort
 - [Notes](./topological_sort/notes.md)
