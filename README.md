@@ -343,6 +343,7 @@ Table of Contents:
   - [Sort Integers by the Number of 1 Bits](./bitmask_and_bit_manipulation/sort_integers_by_the_number_of_1_bits/description.md)
   - [Find the Original Array of Prefix XOR](./bitmask_and_bit_manipulation/find_the_original_array_of_prefix_xor/description.md)
   - [Unique Length-3 Palindromic Subsequences](./bitmask_and_bit_manipulation/unique_length_3_palindromic_subsequences/description.md)
+  - [Bitwise AND of Numbers Range](./bitmask_and_bit_manipulation/bitwise_AND_of_numbers_range/description.md)
 
 ## Fenwick Tree (Binary Indexed Tree)
 - [Notes](./fenwick_tree/notes.md)
