@@ -159,6 +159,7 @@ Table of Contents:
   - [Unique Number of Occurrences](./hashing/unique_number_of_occurrences/description.md)
   - [Set Mismatch](./hashing/set_mismatch/description.md)
   - [Sort Characters By Frequency](./hashing/sort_characters_by_frequency/description.md)
+  - [Find the Town Judge](./hashing/find_the_town_judge/description.md)
 
 ## Sorting Algorithms
 - [Notes](./sorting/notes.md)
