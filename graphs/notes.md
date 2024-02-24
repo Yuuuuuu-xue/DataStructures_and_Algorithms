@@ -25,6 +25,7 @@ Table of Contents:
     - [Restore the Array from Adjacent Pairs](#restore-the-array-from-adjacent-pairs)
     - [Bus Routes](#bus-routes)
     - [Out of Boundary Paths](#out-of-boundary-paths)
+    - [Find All People With Secret](#find-all-people-with-secret)
 
 ## Definition
 - A **graph** is a tuple of two sets G = (V, E) where V is the set of vertices and E is the set of edges.
@@ -76,3 +77,4 @@ Table of Contents:
 #### [Restore the Array from Adjacent Pairs](./restore_the_array_from_adjacent_pairs/description.md)
 #### [Bus Routes](./bus_routes/description.md)
 #### [Out of Boundary Paths](./out_of_boundary_paths/description.md)
+#### [Find All People With Secret](./find_all_people_with_secret/description.md)

@@ -209,6 +209,7 @@ Table of Contents:
   - [Shortest Path Visiting All Nodes](./graphs/shortest_path_visiting_all_nodes/description.md)
   - [Bus Stops](./graphs/bus_routes/description.md)
   - [Out of Boundary Paths](./graphs/out_of_boundary_paths/description.md)
+  - [Find All People With Secret](./graphs/find_all_people_with_secret/description.md)
 
 ## Dijkstra's Algorithm
 - [Notes](./dijkstra_algorithm/notes.md)
