@@ -105,6 +105,7 @@ Table of Contents:
   - [Amount of Time for Binary Tree to be Infected](./tree/amount_of_time_for_binary_tree_to_be_infected/description.md)
   - [Maximum Difference Between Node and Ancestor](./tree/maximum_difference_between_node_and_ancestor/descritpion.md)
   - [Find Bottom Left Tree Value](./tree/find_bottom_left_tree_value/descritpion.md)
+  - [Even Odd Tree](./tree/even_odd_tree/descritpion.md)
 - [Binary Search Tree Notes](./BST/notes.md)
   Examples:
   - [Implementation](BST/implementation/description.md)
