@@ -521,6 +521,7 @@ Table of Contents:
 ## Two Pointers
 - [Rearrange Array Element by Sign](./two_pointers/rearrange_array_elements_by_sign/description.md)
 - [Squares of a Sorted Array](./two_pointers/squares_of_a_sorted_array/description.md)
+- [Minimum Length of String After Deleting Similar Ends](./two_pointers/minimum_length_of_string_after_deleting_similar_ends/description.md)
 
 ## Neetcode.io
 #### Arrays and Hashing
