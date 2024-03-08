@@ -29,6 +29,7 @@ Table of Contents:
     - [Set Mismatch](#set-mismatch)
     - [Sort Characters By Frequency](#sort-characters-by-frequency)
     - [Find the Town Judge](#find-the-town-judge)
+    - [Count Elements With Maximum Frequency](#count-elements-with-maximum-frequency)
 
 ## Hashing
 - **Universe of keys U**: is the set of all possible keys
@@ -75,3 +76,4 @@ For each slot, we have a linked list. So when collision occurs, we just add it t
 #### [Set Mismatch](./set_mismatch/description.md)
 #### [Sort Characters By Frequency](./sort_characters_by_frequency/description.md)
 #### [Find the Town Judge](./find_the_town_judge/description.md)
+#### [Count Elements With Maximum Frequency](./count_elements_with_maximum_frequency/description.md)
