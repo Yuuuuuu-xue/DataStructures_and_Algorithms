@@ -163,6 +163,7 @@ Table of Contents:
   - [Sort Characters By Frequency](./hashing/sort_characters_by_frequency/description.md)
   - [Find the Town Judge](./hashing/find_the_town_judge/description.md)
   - [Count Elements With Maximum Frequnecy](./hashing/count_elements_with_maximum_frequency/description.md)
+  - [Intersection of Two Arrays](./hashing/intersection_of_two_arrays/description.md)
 
 ## Sorting Algorithms
 - [Notes](./sorting/notes.md)
