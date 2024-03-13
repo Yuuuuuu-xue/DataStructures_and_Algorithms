@@ -448,6 +448,7 @@ Table of Contents:
   - [Majority Element](./array/majority_element/description.md)
   - [Find First Palindromic String in the Array](./array/find_first_palindromic_string_in_the_array/description.md)
   - [Maximum Odd Binary Number](./array/maximum_odd_binary_number/description.md)
+  - [Find the Pivot Integer](./array/find_the_pivot_integer/description.md)
 
 ## Backtracking
 - Examples:
