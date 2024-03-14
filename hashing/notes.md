@@ -32,6 +32,7 @@ Table of Contents:
     - [Count Elements With Maximum Frequency](#count-elements-with-maximum-frequency)
     - [Intersection of Two Arrays](#intersection-of-two-arrays)
     - [Custom Sort String](#custom-sort-string)
+    - [Binary Subarrays With Sum](#binary-subarrays-with-sum)
 
 ## Hashing
 - **Universe of keys U**: is the set of all possible keys
@@ -81,3 +82,4 @@ For each slot, we have a linked list. So when collision occurs, we just add it t
 #### [Count Elements With Maximum Frequency](./count_elements_with_maximum_frequency/description.md)
 #### [Intersection of Two Arrays](./intersection_of_two_arrays/description.md)
 #### [Custom Sort String](./custom_sort_string/description.md)
+#### [Binary Subarrays With Sum](./binary_subarrays_with_sum/description.md)

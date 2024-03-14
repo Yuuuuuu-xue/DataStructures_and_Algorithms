@@ -165,6 +165,7 @@ Table of Contents:
   - [Count Elements With Maximum Frequnecy](./hashing/count_elements_with_maximum_frequency/description.md)
   - [Intersection of Two Arrays](./hashing/intersection_of_two_arrays/description.md)
   - [Custom Sort String](./hashing/custom_sort_string/description.md)
+  - [Binary Subarrays with Sum](./hashing/binary_subarrays_with_sum/description.md)
 
 ## Sorting Algorithms
 - [Notes](./sorting/notes.md)
