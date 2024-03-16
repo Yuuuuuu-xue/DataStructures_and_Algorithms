@@ -25,6 +25,7 @@ Table of Contents:
 - [Array](#array)
 - [Backtracking](#backtracking)
 - [Math](#math)
+- [Prefix Sum](#prefix-sum)
 - [Topological Sort](#topological-sort)
 - [Top Questions from Microsoft](#top-questions-from-microsoft)
 - [Two Pointers](#two-pointers)
@@ -464,6 +465,10 @@ Table of Contents:
 ## Math
 - Examples
   - [Power of Two](./math/power_of_two/description.md)
+
+## Prefix Sum
+- Examples
+  - [Contiguous Array](./prefix_sum/contiguous_array/description.md)
 
 ## Topological Sort
 - [Notes](./topological_sort/notes.md)
