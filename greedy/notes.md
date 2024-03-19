@@ -28,6 +28,7 @@ Table of Contents:
     - [Convert an Array Into a 2D Array With Conditions](#convert-an-array-into-a-2d-array-with-conditions)
     - [Minimum Number of Operations to Make Array Empty](#minimum-number-of-operations-to-make-array-empty)
     - [Least Number of Unique Integers after K Removals](#least-number-of-unique-integers-after-k-removals)
+    - [Minimum Number of Arrows to Burst Balloons](#minimum-number-of-arrows-to-burst-balloons)
 
 ## Greedy Algorithm
 A greedy algorithm for an optimization problem is one that makes a **locally optimal choice** (a choice that looks best at the moment) at every step hoping it leads to a **globally optimal solution**.
@@ -59,3 +60,4 @@ A problem exhibits **optimal substructure** if an optimal solution to the proble
 #### [Convert an Array Into a 2D Array With Conditions](./convert_an_array_into_a_2d_array_with_conditions/description.md)
 #### [Minimum Number of Operations to Make Array Empty](./minimum_number_of_operations_to_make_array_empty/description.md)
 #### [Least Number of Unique Integers after K Removals](./least_number_of_unique_integers_after_k_removals/description.md)
+#### [Minimum Number of Arrows to Burst Balloons](./minimum_number_of_arrows_to_burst_balloons/description.md)

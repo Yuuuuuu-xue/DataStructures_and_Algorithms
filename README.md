@@ -265,6 +265,7 @@ Table of Contents:
   - [Convert an Array Into a 2D Array With Conditions](./greedy/convert_an_array_into_a_2d_array_with_conditions/description.md)
   - [Minimum Number of Operations to Make Array Empty](./greedy/minimum_number_of_operations_to_make_array_empty/description.md)
   - [Least Number of Unique Integers after K Removals](./greedy/least_number_of_unique_integers_after_k_removals/description.md)
+  - [Minimum Number of Arrows to Burst Balloons](./greedy/minimum_number_of_arrows_to_burst_balloons/description.md)
 
 ## Dynamic Programming
 - [Notes](./dynamic_programming/notes.md)
