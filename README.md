@@ -380,6 +380,7 @@ Table of Contents:
   - [Split Linked List in Parts](./linked_list/split_linked_list_in_parts/description.md)
   - [Reverse Linked List II](./linked_list/reverse_linked_list_II/description.md)
   - [Middle of the Linked List](./linked_list/middle_of_the_linked_list/description.md)
+  - [Merge in Between Linked Lists](./linked_list/merge_in_between_linked_list/description.md)
 
 ## Array
 - Examples:

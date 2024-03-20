@@ -11,6 +11,7 @@ Table of Contents:
     - [Split Linked List in Parts3](#split-linked-list-in-parts3)
     - [Reverse Linked List II](#reverse-linked-list-ii)
     - [Middle of the Linked List](#middle-of-the-linked-list)
+    - [Merge in Between Linked Lists](#merge-in-between-linked-lists)
 
 ## Structure of Linked  List
 ```
@@ -42,3 +43,4 @@ However, **insert** and **delete** operations at the beginning or middle of the 
 #### [Split Linked List in Parts](./split_linked_list_in_parts/description.md)3
 #### [Reverse Linked List II](./reverse_linked_list_II/description.md)
 #### [Middle of the Linked List](./middle_of_the_linked_list/description.md)
+#### [Merge in Between Linked Lists](./merge_in_between_linked_list/description.md)
