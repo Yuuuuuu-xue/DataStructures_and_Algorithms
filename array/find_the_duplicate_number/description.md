@@ -69,3 +69,4 @@ def floyd(f, x0):
 
 ## Solution
 - [C++](./solution.cpp)
+- [Python](./solution.py)
