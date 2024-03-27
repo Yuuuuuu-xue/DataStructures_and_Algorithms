@@ -537,6 +537,7 @@ Table of Contents:
 - [Squares of a Sorted Array](./two_pointers/squares_of_a_sorted_array/description.md)
 - [Minimum Length of String After Deleting Similar Ends](./two_pointers/minimum_length_of_string_after_deleting_similar_ends/description.md)
 - [Minimum Common Value](./two_pointers/minimum_common_value/description.md)
+- [Subarray Product Less Than k](./two_pointers/subarray_product_less_than_k/description.md)
 
 ## Neetcode.io
 #### Arrays and Hashing
