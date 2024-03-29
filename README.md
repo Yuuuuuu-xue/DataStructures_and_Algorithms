@@ -538,6 +538,7 @@ Table of Contents:
 - [Minimum Length of String After Deleting Similar Ends](./two_pointers/minimum_length_of_string_after_deleting_similar_ends/description.md)
 - [Minimum Common Value](./two_pointers/minimum_common_value/description.md)
 - [Subarray Product Less Than k](./two_pointers/subarray_product_less_than_k/description.md)
+- [Count Subarrays Where Max Element Appears at Least k Times](./two_pointers/count_subarrays_where_max_element_appears_at_least_k_times/description.md)
 
 ## Neetcode.io
 #### Arrays and Hashing
