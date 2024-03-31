@@ -540,6 +540,7 @@ Table of Contents:
 - [Subarray Product Less Than k](./two_pointers/subarray_product_less_than_k/description.md)
 - [Count Subarrays Where Max Element Appears at Least k Times](./two_pointers/count_subarrays_where_max_element_appears_at_least_k_times/description.md)
 - [Subarrays with k Different Integers](./two_pointers/subarrays_with_k_different_integers/description.md)
+- [Count Subarrays With Fixed Bounds](./two_pointers/count_subarrays_with_fixed_bounds/description.md)
 
 ## Neetcode.io
 #### Arrays and Hashing
