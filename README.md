@@ -454,6 +454,7 @@ Table of Contents:
   - [Maximum Odd Binary Number](./array/maximum_odd_binary_number/description.md)
   - [Find the Pivot Integer](./array/find_the_pivot_integer/description.md)
   - [First Missing Positive](./array/first_missing_positive/description.md)
+  - [Length of Last Word](./array/length_of_last_word/description.md)
 
 ## Backtracking
 - Examples:
