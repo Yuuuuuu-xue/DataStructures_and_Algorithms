@@ -83,3 +83,4 @@ For each slot, we have a linked list. So when collision occurs, we just add it t
 #### [Intersection of Two Arrays](./intersection_of_two_arrays/description.md)
 #### [Custom Sort String](./custom_sort_string/description.md)
 #### [Binary Subarrays With Sum](./binary_subarrays_with_sum/description.md)
+#### [Isomorphic Strings](./isomorphic_strings/descrption.md)

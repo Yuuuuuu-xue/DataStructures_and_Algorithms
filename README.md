@@ -167,6 +167,7 @@ Table of Contents:
   - [Intersection of Two Arrays](./hashing/intersection_of_two_arrays/description.md)
   - [Custom Sort String](./hashing/custom_sort_string/description.md)
   - [Binary Subarrays with Sum](./hashing/binary_subarrays_with_sum/description.md)
+  - [Isomorphic Strings](./hashing/isomorphic_strings/descrption.md)
 
 ## Sorting Algorithms
 - [Notes](./sorting/notes.md)
