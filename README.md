@@ -466,6 +466,7 @@ Table of Contents:
   - [Palindrome Partitioning](backtracking/palindrome_partitioning/description.md)
   - [Pseudo-Palindromic Paths in a Binary Tree](./backtracking/pseudo-palindromic_paths_in_a_binary_tree/)
   - [Combinations](./backtracking/combinations/description.md)
+  - [Word Search](./backtracking/word_search/description.md)
   
 ## Math
 - Examples
