@@ -26,3 +26,4 @@ Table of Contents:
 #### [Build an Array with Stack Operations](./build_an_array_with_stack_operations/description.md)
 #### [Sum of Subarray Minimums](./sum_of_subarray_minimums/description.md)
 #### [Implement Queue using Stacks](./implement_queue_using_stacks/description.md)
+#### [Maximum Nesting Depth of the Parentheses](./maximum_nesting_depth_of_the_parentheses/description.md)
