@@ -196,6 +196,7 @@ Table of Contents:
   - [Sum of Subarray Minimums](./stack_and_queue/sum_of_subarray_minimums/description.md)
   - [Implement Queue using Stacks](./stack_and_queue/implement_queue_using_stacks/description.md)
   - [Maximum Nesting Depth of the Parentheses](./stack_and_queue/maximum_nesting_depth_of_the_parentheses/description.md)
+  - [Make the String Great](./stack_and_queue/make_the_string_great/description.md)
 
 ## Graphs
 - [Notes](./graphs/notes.md)
