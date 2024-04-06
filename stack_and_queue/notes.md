@@ -13,6 +13,7 @@ Table of Contents:
     - [Build an Array with Stack Operations](#build-an-array-with-stack-operations)
     - [Sum of Subarray Minimums](#sum-of-subarray-minimums)
     - [Implement Queue using Stacks](#implement-queue-using-stacks)
+    - [Minimum Remove to Make Valid Parentheses](#minimum-remove-to-make-valid-parentheses)
 
 
 ## Examples:
@@ -26,3 +27,4 @@ Table of Contents:
 #### [Build an Array with Stack Operations](./build_an_array_with_stack_operations/description.md)
 #### [Sum of Subarray Minimums](./sum_of_subarray_minimums/description.md)
 #### [Implement Queue using Stacks](./implement_queue_using_stacks/description.md)
+#### [Minimum Remove to Make Valid Parentheses](./minimum_remove_to_make_valid_parentheses/description.md)

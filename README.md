@@ -194,6 +194,7 @@ Table of Contents:
   - [Build an Array with Stack Operations](./stack_and_queue/build_an_array_with_stack_operations/description.md)
   - [Sum of Subarray Minimums](./stack_and_queue/sum_of_subarray_minimums/description.md)
   - [Implement Queue using Stacks](./stack_and_queue/implement_queue_using_stacks/description.md)
+  - [Minimum Remove to Make Valid Parentheses](./stack_and_queue/minimum_remove_to_make_valid_parentheses/description.md)
 
 ## Graphs
 - [Notes](./graphs/notes.md)
