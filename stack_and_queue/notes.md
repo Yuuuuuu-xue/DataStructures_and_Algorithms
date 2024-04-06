@@ -14,6 +14,8 @@ Table of Contents:
     - [Sum of Subarray Minimums](#sum-of-subarray-minimums)
     - [Implement Queue using Stacks](#implement-queue-using-stacks)
     - [Minimum Remove to Make Valid Parentheses](#minimum-remove-to-make-valid-parentheses)
+    - [Maximum Nesting Depth of the Parentheses](#maximum-nesting-depth-of-the-parentheses)
+    - [Make the String Great](#make-the-string-great)
 
 
 ## Examples:
@@ -28,3 +30,5 @@ Table of Contents:
 #### [Sum of Subarray Minimums](./sum_of_subarray_minimums/description.md)
 #### [Implement Queue using Stacks](./implement_queue_using_stacks/description.md)
 #### [Minimum Remove to Make Valid Parentheses](./minimum_remove_to_make_valid_parentheses/description.md)
+#### [Maximum Nesting Depth of the Parentheses](./maximum_nesting_depth_of_the_parentheses/description.md)
+#### [Make the String Great](./make_the_string_great/description.md)

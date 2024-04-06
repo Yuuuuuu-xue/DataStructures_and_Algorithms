@@ -167,6 +167,7 @@ Table of Contents:
   - [Intersection of Two Arrays](./hashing/intersection_of_two_arrays/description.md)
   - [Custom Sort String](./hashing/custom_sort_string/description.md)
   - [Binary Subarrays with Sum](./hashing/binary_subarrays_with_sum/description.md)
+  - [Isomorphic Strings](./hashing/isomorphic_strings/descrption.md)
 
 ## Sorting Algorithms
 - [Notes](./sorting/notes.md)
@@ -195,6 +196,8 @@ Table of Contents:
   - [Sum of Subarray Minimums](./stack_and_queue/sum_of_subarray_minimums/description.md)
   - [Implement Queue using Stacks](./stack_and_queue/implement_queue_using_stacks/description.md)
   - [Minimum Remove to Make Valid Parentheses](./stack_and_queue/minimum_remove_to_make_valid_parentheses/description.md)
+  - [Maximum Nesting Depth of the Parentheses](./stack_and_queue/maximum_nesting_depth_of_the_parentheses/description.md)
+  - [Make the String Great](./stack_and_queue/make_the_string_great/description.md)
 
 ## Graphs
 - [Notes](./graphs/notes.md)
@@ -454,6 +457,8 @@ Table of Contents:
   - [Find First Palindromic String in the Array](./array/find_first_palindromic_string_in_the_array/description.md)
   - [Maximum Odd Binary Number](./array/maximum_odd_binary_number/description.md)
   - [Find the Pivot Integer](./array/find_the_pivot_integer/description.md)
+  - [First Missing Positive](./array/first_missing_positive/description.md)
+  - [Length of Last Word](./array/length_of_last_word/description.md)
 
 ## Backtracking
 - Examples:
@@ -464,6 +469,7 @@ Table of Contents:
   - [Palindrome Partitioning](backtracking/palindrome_partitioning/description.md)
   - [Pseudo-Palindromic Paths in a Binary Tree](./backtracking/pseudo-palindromic_paths_in_a_binary_tree/)
   - [Combinations](./backtracking/combinations/description.md)
+  - [Word Search](./backtracking/word_search/description.md)
   
 ## Math
 - Examples
@@ -537,6 +543,10 @@ Table of Contents:
 - [Squares of a Sorted Array](./two_pointers/squares_of_a_sorted_array/description.md)
 - [Minimum Length of String After Deleting Similar Ends](./two_pointers/minimum_length_of_string_after_deleting_similar_ends/description.md)
 - [Minimum Common Value](./two_pointers/minimum_common_value/description.md)
+- [Subarray Product Less Than k](./two_pointers/subarray_product_less_than_k/description.md)
+- [Count Subarrays Where Max Element Appears at Least k Times](./two_pointers/count_subarrays_where_max_element_appears_at_least_k_times/description.md)
+- [Subarrays with k Different Integers](./two_pointers/subarrays_with_k_different_integers/description.md)
+- [Count Subarrays With Fixed Bounds](./two_pointers/count_subarrays_with_fixed_bounds/description.md)
 
 ## Neetcode.io
 #### Arrays and Hashing
