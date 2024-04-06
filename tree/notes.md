@@ -65,3 +65,4 @@ Table of Contents:
 #### [Maximum Difference Between Node and Ancestor](./maximum_difference_between_node_and_ancestor/descritpion.md)
 #### [Find Bottom Left Tree Value](./find_bottom_left_tree_value/descritpion.md)\
 #### [Even Odd Tree](./even_odd_tree/descritpion.md)
+#### [Count Nodes With the Highest Score]
