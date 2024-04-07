@@ -198,6 +198,7 @@ Table of Contents:
   - [Minimum Remove to Make Valid Parentheses](./stack_and_queue/minimum_remove_to_make_valid_parentheses/description.md)
   - [Maximum Nesting Depth of the Parentheses](./stack_and_queue/maximum_nesting_depth_of_the_parentheses/description.md)
   - [Make the String Great](./stack_and_queue/make_the_string_great/description.md)
+  - [Valid Parenthesis String](./stack_and_queue/valid_parenthesis_string/description.md)
 
 ## Graphs
 - [Notes](./graphs/notes.md)
