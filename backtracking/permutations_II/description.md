@@ -1,5 +1,5 @@
-# DataStructures_and_Algorithms
-Click [here](../../README.md) to main page
+## Backtracking
+Click [here](../notes.md) to go back to the notes page.
 
 ## Problem
 Given a collection of numbers, ```nums```, that might contain duplicates, return all possible unique permutations **in any order**.

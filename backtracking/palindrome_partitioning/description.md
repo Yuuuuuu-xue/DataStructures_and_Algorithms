@@ -1,5 +1,5 @@
-# DataStructures_and_Algorithms
-Click [here](../../README.md) to main page
+## Backtracking
+Click [here](../notes.md) to go back to the notes page.
 
 ## Problem
 Given a string `s`, partition `s` such that every substring of the partition is a palindrome. Return all possible palindrome partitioning of `s`.

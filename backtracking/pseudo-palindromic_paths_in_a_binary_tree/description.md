@@ -1,5 +1,5 @@
-# DataStructures_and_Algorithms
-Click [here](../../README.md) to main page
+## Backtracking
+Click [here](../notes.md) to go back to the notes page.
 
 ## Problem
 Given a binary tree where node values are digits from 1 to 9. A path is the binary tree is said to be pseudo-palindromic if at least one permutation of the node values in the path is a palindrome.

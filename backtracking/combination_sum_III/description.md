@@ -1,5 +1,5 @@
-# DataStructures_and_Algorithms
-Click [here](../../README.md) to main page
+## Backtracking
+Click [here](../notes.md) to go back to the notes page.
 
 ## Problem
 Fina all valid combinations of ```k``` numbers that sum up to ```n``` such that the following conditions are true:
