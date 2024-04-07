@@ -376,6 +376,7 @@ Table of Contents:
   - [Design Add and Search Words Data Structure](trie/design_add_and_search_words_data_structure/description.md)
   - [Implement Trie](trie/implement_trie/description.md)
   - [Design Search Autocomplete System (Premium)](trie/design_search_autocomplete_system/description.md)
+  - [Search Suggestions System](./trie/search_suggestions_system/description.md)
 
 ## Linked List 
 - [Notes](./linked_list/notes.md)

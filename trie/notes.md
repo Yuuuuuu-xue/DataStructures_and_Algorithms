@@ -43,3 +43,4 @@ So keys are
 #### [Design Add and Search Words Data Structure](design_add_and_search_words_data_structure/description.md)
 #### [Implement Trie](implement_trie/description.md)
 #### [Design Search Autocomplete System (Premium)](design_search_autocomplete_system/description.md)
+#### [Search Suggestions System](./search_suggestions_system/description.md)
