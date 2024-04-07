@@ -472,6 +472,7 @@ Table of Contents:
   - [Pseudo-Palindromic Paths in a Binary Tree](./backtracking/pseudo-palindromic_paths_in_a_binary_tree/)
   - [Combinations](./backtracking/combinations/description.md)
   - [Word Search](./backtracking/word_search/description.md)
+  - [Maximum Path Quality of a Graph](./backtracking/maximum_path_quality_of_a_graph/description.md)
   
 ## Math
 - Examples
