@@ -200,6 +200,7 @@ Table of Contents:
   - [Maximum Nesting Depth of the Parentheses](./stack_and_queue/maximum_nesting_depth_of_the_parentheses/description.md)
   - [Make the String Great](./stack_and_queue/make_the_string_great/description.md)
   - [Valid Parenthesis String](./stack_and_queue/valid_parenthesis_string/description.md)
+  - [Number of Students Unable to Eat Lunch](./stack_and_queue/number_of_students_unable_to_eat_lunch/description.md)
 
 ## Graphs
 - [Notes](./graphs/notes.md)

@@ -34,3 +34,4 @@ Table of Contents:
 #### [Maximum Nesting Depth of the Parentheses](./maximum_nesting_depth_of_the_parentheses/description.md)
 #### [Make the String Great](./make_the_string_great/description.md)
 #### [Valid Parenthesis String](./valid_parenthesis_string/description.md)
+#### [Number of Students Unable to Eat Lunch](./number_of_students_unable_to_eat_lunch/description.md)
