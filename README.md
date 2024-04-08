@@ -246,6 +246,7 @@ Table of Contents:
   - [Number of Islands](disjoint_set/number_of_islands/description.md)
   - [Satisfiability of Equality Equations](disjoint_set/satisfiability_of_equality_equations/description.md)
   - [Validate Binary Tree Nodes](./disjoint_set/validate_binary_tree_nodes/description.md)
+  - [Making a Large Island](./disjoint_set/making_a_large_island/description.md)
 
 ## Greedy Algorithm
 - [Notes](./greedy/notes.md)
