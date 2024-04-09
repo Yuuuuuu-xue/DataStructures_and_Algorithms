@@ -465,6 +465,7 @@ Table of Contents:
   - [Find the Pivot Integer](./array/find_the_pivot_integer/description.md)
   - [First Missing Positive](./array/first_missing_positive/description.md)
   - [Length of Last Word](./array/length_of_last_word/description.md)
+  - [Time Needed to Buy Tickets](./array/time_needed_to_buy_tickets/description.md)
 
 ## Backtracking
 - Examples:
