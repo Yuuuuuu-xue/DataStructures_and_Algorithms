@@ -35,3 +35,4 @@ Table of Contents:
 #### [Make the String Great](./make_the_string_great/description.md)
 #### [Valid Parenthesis String](./valid_parenthesis_string/description.md)
 #### [Number of Students Unable to Eat Lunch](./number_of_students_unable_to_eat_lunch/description.md)
+#### [Reveal Cards in Increasing Order](./reveal_cards_in_increasing_order/description.md)

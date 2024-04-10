@@ -201,6 +201,7 @@ Table of Contents:
   - [Make the String Great](./stack_and_queue/make_the_string_great/description.md)
   - [Valid Parenthesis String](./stack_and_queue/valid_parenthesis_string/description.md)
   - [Number of Students Unable to Eat Lunch](./stack_and_queue/number_of_students_unable_to_eat_lunch/description.md)
+  - [Reveal Cards in Increasing Order](./stack_and_queue/reveal_cards_in_increasing_order/description.md)
 
 ## Graphs
 - [Notes](./graphs/notes.md)
