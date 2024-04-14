@@ -66,3 +66,4 @@ Table of Contents:
 #### [Find Bottom Left Tree Value](./find_bottom_left_tree_value/descritpion.md)\
 #### [Even Odd Tree](./even_odd_tree/descritpion.md)
 #### [Count Nodes With the Highest Score]
+#### [Sum of Left Leaves](./sum_of_left_leaves/description.md)
