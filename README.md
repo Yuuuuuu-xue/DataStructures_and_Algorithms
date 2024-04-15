@@ -109,6 +109,7 @@ Table of Contents:
   - [Even Odd Tree](./tree/even_odd_tree/descritpion.md)
   - [Count Nodes with the Highest Score](./tree/count_nodes_with_the_highest_score/description.md)
   - [Sum of Left Leaves](./tree/sum_of_left_leaves/description.md)
+  - [Sum Root to Leaf Numbers](./tree/sum_root_to_leaf_numbers/description.md)
 - [Binary Search Tree Notes](./BST/notes.md)
   Examples:
   - [Implementation](BST/implementation/description.md)
