@@ -26,6 +26,10 @@ Table of Contents:
     - [Maximum Difference Between Node and Ancestor](#maximum-difference-between-node-and-ancestor)
     - [Find Bottom Left Tree Value\\](#find-bottom-left-tree-value)
     - [Even Odd Tree](#even-odd-tree)
+    - [\[Count Nodes With the Highest Score\]](#count-nodes-with-the-highest-score)
+    - [Sum of Left Leaves](#sum-of-left-leaves)
+    - [Sum Root to Leaf Numbers](#sum-root-to-leaf-numbers)
+    - [Add One Row to Tree](#add-one-row-to-tree)
 
 ## Tree
 - **height** of a tree is the length of the longest path from the root to a child
@@ -68,3 +72,4 @@ Table of Contents:
 #### [Count Nodes With the Highest Score]
 #### [Sum of Left Leaves](./sum_of_left_leaves/description.md)
 #### [Sum Root to Leaf Numbers](./sum_root_to_leaf_numbers/description.md)
+#### [Add One Row to Tree](./add_one_row_to_tree/description.md)
