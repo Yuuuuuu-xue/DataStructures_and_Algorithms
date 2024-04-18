@@ -207,6 +207,16 @@ Table of Contents:
   - [Number of Students Unable to Eat Lunch](./stack_and_queue/number_of_students_unable_to_eat_lunch/description.md)
   - [Reveal Cards in Increasing Order](./stack_and_queue/reveal_cards_in_increasing_order/description.md)
 
+## Monotonic Stack
+- [Notes](./monotonic_stack/notes.md)
+- Examples:
+  - [Next Greater Element I](./monotonic_stack/next_greater_element_i/description.md)
+  - [Next Greater Node in Linked List](./monotonic_stack/next_greater_node_in_linked_list/description.md)
+  - [Next Greater Element II](./monotonic_stack/next_greater_element_ii/description.md)
+  - [Final Prices With a Special Discount in a Shop](./monotonic_stack/final_prices_with_a_special_discount_in_a_shop/description.md)
+  - [Find the Most Competitive Subsequence](./monotonic_stack/find_the_most_competitive_subsequence/description.md)
+  - [Maximum Subarray Min-Product](./monotonic_stack/maximum_subarray_min_product/description.md)
+
 ## Graphs
 - [Notes](./graphs/notes.md)
 - Examples:
