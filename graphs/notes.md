@@ -79,3 +79,4 @@ Table of Contents:
 #### [Out of Boundary Paths](./out_of_boundary_paths/description.md)
 #### [Find All People With Secret](./find_all_people_with_secret/description.md)
 #### [Count Sub Islands](./count_sub_islands/description.md)
+#### [Island Perimeter](./island_perimeter/description.md)
