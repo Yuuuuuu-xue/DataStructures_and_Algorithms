@@ -241,6 +241,7 @@ Table of Contents:
   - [Find All People With Secret](./graphs/find_all_people_with_secret/description.md)
   - [Count Sub Islands](./graphs/count_sub_islands/description.md)
   - [Island Perimeter](./graphs/island_perimeter/description.md)
+  - [Find All Groups of Farmland](./graphs/find_all_groups_of_farmland/description.md)
 
 ## Dijkstra's Algorithm
 - [Notes](./dijkstra_algorithm/notes.md)
