@@ -483,6 +483,7 @@ Table of Contents:
   - [First Missing Positive](./array/first_missing_positive/description.md)
   - [Length of Last Word](./array/length_of_last_word/description.md)
   - [Time Needed to Buy Tickets](./array/time_needed_to_buy_tickets/description.md)
+  - [Longest Ideal Subsequence](./array/longest_ideal_subsequence/description.md)
 
 ## Backtracking
 - Examples:
