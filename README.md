@@ -484,6 +484,7 @@ Table of Contents:
   - [Length of Last Word](./array/length_of_last_word/description.md)
   - [Time Needed to Buy Tickets](./array/time_needed_to_buy_tickets/description.md)
   - [Longest Ideal Subsequence](./array/longest_ideal_subsequence/description.md)
+  - [Minimum Falling Path Sum II](./array/minimum_falling_path_sum_II/description.md)
 
 ## Backtracking
 - Examples:
