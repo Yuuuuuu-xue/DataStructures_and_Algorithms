@@ -354,6 +354,7 @@ Table of Contents:
   - [Number of Submatrices That Sum to Target](./dynamic_programming/number_of_submatrices_that_sum_to_target/description.md)
   - [Perfect Squares](./dynamic_programming/perfect_squares/description.md)
   - [Cherry Pickup II](./dynamic_programming/cherry_pickup_II/description.md)
+  - [Freedom Trail](./dynamic_programming/freedom_trail/description.md)
 
 ## Shorest Weight Path (Dijkstra Algorithm)
 - [Notes](./shortest_weight_path/notes.md)

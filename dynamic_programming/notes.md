@@ -142,3 +142,4 @@ Table of Contents:
 #### [Number of Submatrices That Sum to Target](./number_of_submatrices_that_sum_to_target/description.md)
 #### [Perfect Squares](./perfect_squares/description.md)
 #### [Cherry Pickup II](./cherry_pickup_II/description.md)
+#### [Freedom Trail](./freedom_trail/description.md)
