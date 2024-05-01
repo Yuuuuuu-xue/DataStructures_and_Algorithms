@@ -487,6 +487,7 @@ Table of Contents:
   - [Time Needed to Buy Tickets](./array/time_needed_to_buy_tickets/description.md)
   - [Longest Ideal Subsequence](./array/longest_ideal_subsequence/description.md)
   - [Minimum Falling Path Sum II](./array/minimum_falling_path_sum_II/description.md)
+  - [Reverse Prefix of Word](./array/reverse_prefix_of_word/description.md)
 
 ## Backtracking
 - Examples:
