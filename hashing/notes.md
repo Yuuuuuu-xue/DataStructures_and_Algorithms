@@ -33,6 +33,8 @@ Table of Contents:
     - [Intersection of Two Arrays](#intersection-of-two-arrays)
     - [Custom Sort String](#custom-sort-string)
     - [Binary Subarrays With Sum](#binary-subarrays-with-sum)
+    - [Isomorphic Strings](#isomorphic-strings)
+    - [Largest Positive Integer That Exists With Its Negative](#largest-positive-integer-that-exists-with-its-negative)
 
 ## Hashing
 - **Universe of keys U**: is the set of all possible keys
@@ -84,3 +86,4 @@ For each slot, we have a linked list. So when collision occurs, we just add it t
 #### [Custom Sort String](./custom_sort_string/description.md)
 #### [Binary Subarrays With Sum](./binary_subarrays_with_sum/description.md)
 #### [Isomorphic Strings](./isomorphic_strings/descrption.md)
+#### [Largest Positive Integer That Exists With Its Negative](./largest_positive_integer_that_exists_with_its_negative/description.md)

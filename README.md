@@ -11,6 +11,7 @@ Table of Contents:
 - [Hashing](#hashing)
 - [Sorting Algorithms](#sorting-algorithms)
 - [Stack and Queue](#stack-and-queue)
+- [Monotonic Stack](#monotonic-stack)
 - [Graphs](#graphs)
 - [Dijkstra's Algorithm](#dijkstras-algorithm)
 - [Minimum Spanning Tree](#minimum-spanning-tree)
@@ -173,6 +174,7 @@ Table of Contents:
   - [Custom Sort String](./hashing/custom_sort_string/description.md)
   - [Binary Subarrays with Sum](./hashing/binary_subarrays_with_sum/description.md)
   - [Isomorphic Strings](./hashing/isomorphic_strings/descrption.md)
+  - [Largest Positive Integer That Exists With Its Negative](./hashing/largest_positive_integer_that_exists_with_its_negative/description.md)
 
 ## Sorting Algorithms
 - [Notes](./sorting/notes.md)
