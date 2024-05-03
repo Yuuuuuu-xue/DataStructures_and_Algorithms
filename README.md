@@ -490,6 +490,7 @@ Table of Contents:
   - [Longest Ideal Subsequence](./array/longest_ideal_subsequence/description.md)
   - [Minimum Falling Path Sum II](./array/minimum_falling_path_sum_II/description.md)
   - [Reverse Prefix of Word](./array/reverse_prefix_of_word/description.md)
+  - [Compare Version Numbers](./array/compare_version_numbers/description.md)
 
 ## Backtracking
 - Examples:
