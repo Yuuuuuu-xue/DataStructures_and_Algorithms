@@ -580,6 +580,7 @@ Table of Contents:
 - [Count Subarrays Where Max Element Appears at Least k Times](./two_pointers/count_subarrays_where_max_element_appears_at_least_k_times/description.md)
 - [Subarrays with k Different Integers](./two_pointers/subarrays_with_k_different_integers/description.md)
 - [Count Subarrays With Fixed Bounds](./two_pointers/count_subarrays_with_fixed_bounds/description.md)
+- [Boats to Save People](./two_pointers/boats_to_save_people/description.md)
 
 ## Neetcode.io
 #### Arrays and Hashing
