@@ -44,3 +44,4 @@ However, **insert** and **delete** operations at the beginning or middle of the 
 #### [Reverse Linked List II](./reverse_linked_list_II/description.md)
 #### [Middle of the Linked List](./middle_of_the_linked_list/description.md)
 #### [Merge in Between Linked Lists](./merge_in_between_linked_list/description.md)
+#### [Delete Node in a Linked List](./delete_node_in_a_linked_list/description.md)

@@ -412,6 +412,7 @@ Table of Contents:
   - [Reverse Linked List II](./linked_list/reverse_linked_list_II/description.md)
   - [Middle of the Linked List](./linked_list/middle_of_the_linked_list/description.md)
   - [Merge in Between Linked Lists](./linked_list/merge_in_between_linked_list/description.md)
+  - [Delete Node in a Linked List](./linked_list/delete_node_in_a_linked_list/description.md)
 
 ## Array
 - Examples:
