@@ -113,6 +113,7 @@ Table of Contents:
   - [Sum Root to Leaf Numbers](./tree/sum_root_to_leaf_numbers/description.md)
   - [Add One Row to Tree](./tree/add_one_row_to_tree/description.md)
   - [Smallest String Starting from Leaf](./tree/smallest_string_starting_from_leaf/description.md)
+  = [Subtree of Another Tree](./tree/subtree_of_another_tree/description.md)
 - [Binary Search Tree Notes](./BST/notes.md)
   Examples:
   - [Implementation](BST/implementation/description.md)
