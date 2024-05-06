@@ -218,6 +218,7 @@ Table of Contents:
   - [Final Prices With a Special Discount in a Shop](./monotonic_stack/final_prices_with_a_special_discount_in_a_shop/description.md)
   - [Find the Most Competitive Subsequence](./monotonic_stack/find_the_most_competitive_subsequence/description.md)
   - [Maximum Subarray Min-Product](./monotonic_stack/maximum_subarray_min_product/description.md)
+  - [Remove Nodes From Linked List](./monotonic_stack/remove_nodes_from_linked_list/description.md)
 
 ## Graphs
 - [Notes](./graphs/notes.md)
