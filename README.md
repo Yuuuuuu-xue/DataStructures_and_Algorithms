@@ -188,6 +188,7 @@ Table of Contents:
   - [Minimize Maximum Pair Sum in Array](./sorting/minimize_maximum_pair_sum_in_array/description.md)
   - [Reduction Operations to Make the Array Elements Equal](./sorting/reduction_operations_to_make_the_array_elements_equal/description.md)
   - [Divide Array into Arrays with Max Difference](./sorting/divide_array_into_arrays_with_max_difference/description.md)
+  - [Relative Ranks](./sorting/relative_ranks/description.md)
 
 ## Stack and Queue
 - [Notes](./stack_and_queue/notes.md)
