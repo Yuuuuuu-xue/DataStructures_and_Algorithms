@@ -23,3 +23,4 @@ O(n lg n) sorting algorithms:
 - [Reduction Operations to Make the Array Elements Equal](./reduction_operations_to_make_the_array_elements_equal/description.md)
 - [Divide Array into Arrays with Max Difference](./divide_array_into_arrays_with_max_difference/description.md)
 - [Relative Ranks](./relative_ranks/description.md)
+- [Maximize Happiness of Selected Children](./maximize_happiness_of_selected_children/description.md)

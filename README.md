@@ -189,6 +189,7 @@ Table of Contents:
   - [Reduction Operations to Make the Array Elements Equal](./sorting/reduction_operations_to_make_the_array_elements_equal/description.md)
   - [Divide Array into Arrays with Max Difference](./sorting/divide_array_into_arrays_with_max_difference/description.md)
   - [Relative Ranks](./sorting/relative_ranks/description.md)
+  - [Maximize Happiness of Selected Children](./sorting/maximize_happiness_of_selected_children/description.md)
 
 ## Stack and Queue
 - [Notes](./stack_and_queue/notes.md)
