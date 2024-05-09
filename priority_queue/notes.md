@@ -61,3 +61,4 @@ Table of Contents:
 #### [Find Polygon With the Largest Perimeter](./find_polygon_with_the_largest_perimeter/description.md)
 #### [Furthest Building You Can Reach](./furthest_building_you_can_reach/description.md)
 #### [Meeting Rooms III](./meeting_rooms_III/description.md)
+#### [Maximize Happiness of Selected Children](./maximize_happiness_of_selected_children/description.md)

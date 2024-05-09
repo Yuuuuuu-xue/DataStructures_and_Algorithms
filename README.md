@@ -143,6 +143,7 @@ Table of Contents:
   - [Find Polygon With the Largest Perimeter](./priority_queue/find_polygon_with_the_largest_perimeter/description.md)
   - [Furthest Building You Can Reach](./priority_queue/furthest_building_you_can_reach/description.md)
   - [Meeting Rooms III](./priority_queue/meeting_rooms_III/description.md)
+  - [Maximize Happiness of Selected Children](./priority_queue/maximize_happiness_of_selected_children/description.md)
 
 ## Hashing
 - [Notes](./hashing/notes.md)
