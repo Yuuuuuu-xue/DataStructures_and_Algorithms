@@ -144,6 +144,7 @@ Table of Contents:
   - [Furthest Building You Can Reach](./priority_queue/furthest_building_you_can_reach/description.md)
   - [Meeting Rooms III](./priority_queue/meeting_rooms_III/description.md)
   - [Maximize Happiness of Selected Children](./priority_queue/maximize_happiness_of_selected_children/description.md)
+  - [Kth Smallest Prime Fraction](./priority_queue/kth_smallest_prime_fraction/description.md)
 
 ## Hashing
 - [Notes](./hashing/notes.md)

@@ -62,3 +62,4 @@ Table of Contents:
 #### [Furthest Building You Can Reach](./furthest_building_you_can_reach/description.md)
 #### [Meeting Rooms III](./meeting_rooms_III/description.md)
 #### [Maximize Happiness of Selected Children](./maximize_happiness_of_selected_children/description.md)
+#### [Kth Smallest Prime Fraction](./kth_smallest_prime_fraction/description.md)
