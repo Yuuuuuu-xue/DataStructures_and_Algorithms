@@ -391,6 +391,7 @@ Table of Contents:
   - [Unique Length-3 Palindromic Subsequences](./bitmask_and_bit_manipulation/unique_length_3_palindromic_subsequences/description.md)
   - [Bitwise AND of Numbers Range](./bitmask_and_bit_manipulation/bitwise_AND_of_numbers_range/description.md)
   - [Minimum Number of Operations to Make Array XOR Equal to K](./bitmask_and_bit_manipulation/minimum_number_of_operations_to_make_array_xor_equal_to_k/description.md)
+  - [Score After Flipping Matrix](./bitmask_and_bit_manipulation/score_after_flipping_matrix/description.md)
 
 ## Fenwick Tree (Binary Indexed Tree)
 - [Notes](./fenwick_tree/notes.md)
