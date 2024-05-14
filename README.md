@@ -513,6 +513,7 @@ Table of Contents:
   - [Combinations](./backtracking/combinations/description.md)
   - [Word Search](./backtracking/word_search/description.md)
   - [Maximum Path Quality of a Graph](./backtracking/maximum_path_quality_of_a_graph/description.md)
+  - [Path with Maximum Gold](./backtracking/path_with_maximum_gold/description.md)
   
 ## Math
 - Examples

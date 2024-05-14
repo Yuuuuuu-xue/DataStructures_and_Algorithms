@@ -39,3 +39,4 @@ Then `n = 4` and thus overall runtime is `O(n ^ k) = O(4 ^ k)`
 - [Pseudo-palindromic Paths in a Binary Tree](./pseudo-palindromic_paths_in_a_binary_tree/description.md)
 - [Robot Room Cleaner](./robot_room_cleaner/description.md)
 - [Word Search](./word_search/description.md)
+- [Path with Maximum Gold](./path_with_maximum_gold/description.md)
