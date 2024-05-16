@@ -24,3 +24,4 @@ O(n lg n) sorting algorithms:
 - [Divide Array into Arrays with Max Difference](./divide_array_into_arrays_with_max_difference/description.md)
 - [Relative Ranks](./relative_ranks/description.md)
 - [Maximize Happiness of Selected Children](./maximize_happiness_of_selected_children/description.md)
+- [Largest Number](./largest_number/description.md)

@@ -194,6 +194,7 @@ Table of Contents:
   - [Divide Array into Arrays with Max Difference](./sorting/divide_array_into_arrays_with_max_difference/description.md)
   - [Relative Ranks](./sorting/relative_ranks/description.md)
   - [Maximize Happiness of Selected Children](./sorting/maximize_happiness_of_selected_children/description.md)
+  - [Largest Number](./sorting/largest_number/description.md)
 
 ## Stack and Queue
 - [Notes](./stack_and_queue/notes.md)
