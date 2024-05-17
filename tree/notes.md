@@ -75,3 +75,4 @@ Table of Contents:
 #### [Add One Row to Tree](./add_one_row_to_tree/description.md)
 #### [Smallest String Starting from Leaf](./smallest_string_starting_from_leaf/description.md)
 #### [Evaluate Boolean Binary Tree](./evaluate_boolean_binary_tree/description.md)
+#### [Delete Leaves with a Given Value](./delete_leaves_with_a_given_value/description.md)

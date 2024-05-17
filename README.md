@@ -115,6 +115,7 @@ Table of Contents:
   - [Smallest String Starting from Leaf](./tree/smallest_string_starting_from_leaf/description.md)
   - [Subtree of Another Tree](./tree/subtree_of_another_tree/description.md)
   - [Evaluate Boolean Binary Tree](./tree/evaluate_boolean_binary_tree/description.md)
+  - [Delete Leaves with a Given Value](./tree/delete_leaves_with_a_given_value/description.md)
 - [Binary Search Tree Notes](./BST/notes.md)
   Examples:
   - [Implementation](BST/implementation/description.md)
