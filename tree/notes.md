@@ -76,3 +76,4 @@ Table of Contents:
 #### [Smallest String Starting from Leaf](./smallest_string_starting_from_leaf/description.md)
 #### [Evaluate Boolean Binary Tree](./evaluate_boolean_binary_tree/description.md)
 #### [Delete Leaves with a Given Value](./delete_leaves_with_a_given_value/description.md)
+#### [Distribute Coins in Binary Tree](./distribute_coins_in_binary_tree/description.md)
