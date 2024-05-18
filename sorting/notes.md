@@ -25,3 +25,4 @@ O(n lg n) sorting algorithms:
 - [Relative Ranks](./relative_ranks/description.md)
 - [Maximize Happiness of Selected Children](./maximize_happiness_of_selected_children/description.md)
 - [Largest Number](./largest_number/description.md)
+- [Smallest Range II](./smallest_range_II/description.md)

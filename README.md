@@ -197,6 +197,7 @@ Table of Contents:
   - [Relative Ranks](./sorting/relative_ranks/description.md)
   - [Maximize Happiness of Selected Children](./sorting/maximize_happiness_of_selected_children/description.md)
   - [Largest Number](./sorting/largest_number/description.md)
+  - [Smallest Range II](./sorting/smallest_range_II/description.md)
 
 ## Stack and Queue
 - [Notes](./stack_and_queue/notes.md)
@@ -255,6 +256,7 @@ Table of Contents:
   - [Count Sub Islands](./graphs/count_sub_islands/description.md)
   - [Island Perimeter](./graphs/island_perimeter/description.md)
   - [Find All Groups of Farmland](./graphs/find_all_groups_of_farmland/description.md)
+  - [Minimum Number of Vertices to Reach All Nodes](./graphs/minimum_number_of_vertices_to_reach_all_nodes/description.md)
 
 ## Dijkstra's Algorithm
 - [Notes](./dijkstra_algorithm/notes.md)
@@ -506,6 +508,7 @@ Table of Contents:
   - [Minimum Falling Path Sum II](./array/minimum_falling_path_sum_II/description.md)
   - [Reverse Prefix of Word](./array/reverse_prefix_of_word/description.md)
   - [Compare Version Numbers](./array/compare_version_numbers/description.md)
+  - [Minimum Numbers of Function Calls to Make Target Array](./array/minimum_numbers_of_function_calls_to_make_target_array/description.md)
 
 ## Backtracking
 - Examples:
