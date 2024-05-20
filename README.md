@@ -400,6 +400,7 @@ Table of Contents:
   - [Bitwise AND of Numbers Range](./bitmask_and_bit_manipulation/bitwise_AND_of_numbers_range/description.md)
   - [Minimum Number of Operations to Make Array XOR Equal to K](./bitmask_and_bit_manipulation/minimum_number_of_operations_to_make_array_xor_equal_to_k/description.md)
   - [Score After Flipping Matrix](./bitmask_and_bit_manipulation/score_after_flipping_matrix/description.md)
+  - [Sum of All Subset XOR Totals](./bitmask_and_bit_manipulation/sum_of_all_subset_xor_totals/description.md)
 
 ## Fenwick Tree (Binary Indexed Tree)
 - [Notes](./fenwick_tree/notes.md)

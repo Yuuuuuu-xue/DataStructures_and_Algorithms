@@ -107,3 +107,4 @@ return (mask & (1 << k)) != 0
 #### [Bitwise AND of Numbers Range](./bitwise_AND_of_numbers_range/description.md)
 #### [Minimum Number of Operations to Make Array XOR Equal to K](./minimum_number_of_operations_to_make_array_xor_equal_to_k/description.md)
 #### [Score After Flipping Matrix](./score_after_flipping_matrix/description.md)
+#### [Sum of All Subset XOR Totals](./sum_of_all_subset_xor_totals/description.md)
