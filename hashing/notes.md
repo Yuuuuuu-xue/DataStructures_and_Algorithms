@@ -88,3 +88,4 @@ For each slot, we have a linked list. So when collision occurs, we just add it t
 #### [Isomorphic Strings](./isomorphic_strings/descrption.md)
 #### [Largest Positive Integer That Exists With Its Negative](./largest_positive_integer_that_exists_with_its_negative/description.md)
 #### [Number of Ways Where Square of Numbers Is Equal to Product of Two Numbers](./number_of_ways_where_square_of_number_is_equal_to_product_of_two_numbers/description.md)
+#### [Make Sum Divisible by P](./make_sum_divisible_by_p/description.md)

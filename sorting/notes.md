@@ -26,3 +26,4 @@ O(n lg n) sorting algorithms:
 - [Maximize Happiness of Selected Children](./maximize_happiness_of_selected_children/description.md)
 - [Largest Number](./largest_number/description.md)
 - [Smallest Range II](./smallest_range_II/description.md)
+- [Maximum Sum Obtained of Any Permutation](./maximum_sum_obtained_of_any_permutation/description.md)

@@ -184,6 +184,7 @@ Table of Contents:
   - [Isomorphic Strings](./hashing/isomorphic_strings/descrption.md)
   - [Largest Positive Integer That Exists With Its Negative](./hashing/largest_positive_integer_that_exists_with_its_negative/description.md)
   - [Number of Ways Where Square of Number Is Equal to Product of Two Numbers](./hashing/number_of_ways_where_square_of_number_is_equal_to_product_of_two_numbers/description.md)
+  - [Make Sum Divisible by P](./hashing/make_sum_divisible_by_p/description.md)
 
 ## Sorting Algorithms
 - [Notes](./sorting/notes.md)
@@ -200,6 +201,7 @@ Table of Contents:
   - [Maximize Happiness of Selected Children](./sorting/maximize_happiness_of_selected_children/description.md)
   - [Largest Number](./sorting/largest_number/description.md)
   - [Smallest Range II](./sorting/smallest_range_II/description.md)
+  - [Maximum Sum Obtained of Any Permutation](./sorting/maximum_sum_obtained_of_any_permutation/description.md)
 
 ## Stack and Queue
 - [Notes](./stack_and_queue/notes.md)
@@ -525,6 +527,7 @@ Table of Contents:
   - [Word Search](./backtracking/word_search/description.md)
   - [Maximum Path Quality of a Graph](./backtracking/maximum_path_quality_of_a_graph/description.md)
   - [Path with Maximum Gold](./backtracking/path_with_maximum_gold/description.md)
+  - [Split a String Into the Max Number of Unique Substrings](./backtracking/split_a_string_into_the_max_number_of_unique_substrings/description.md)
   
 ## Math
 - Examples

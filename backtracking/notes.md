@@ -40,3 +40,4 @@ Then `n = 4` and thus overall runtime is `O(n ^ k) = O(4 ^ k)`
 - [Robot Room Cleaner](./robot_room_cleaner/description.md)
 - [Word Search](./word_search/description.md)
 - [Path with Maximum Gold](./path_with_maximum_gold/description.md)
+- [Split a String Into the Max Number of Unique Substrings](./split_a_string_into_the_max_number_of_unique_substrings/description.md)
