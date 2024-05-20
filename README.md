@@ -183,6 +183,7 @@ Table of Contents:
   - [Binary Subarrays with Sum](./hashing/binary_subarrays_with_sum/description.md)
   - [Isomorphic Strings](./hashing/isomorphic_strings/descrption.md)
   - [Largest Positive Integer That Exists With Its Negative](./hashing/largest_positive_integer_that_exists_with_its_negative/description.md)
+  - [Number of Ways Where Square of Number Is Equal to Product of Two Numbers](./hashing/number_of_ways_where_square_of_number_is_equal_to_product_of_two_numbers/description.md)
 
 ## Sorting Algorithms
 - [Notes](./sorting/notes.md)
@@ -602,6 +603,7 @@ Table of Contents:
 - [Subarrays with k Different Integers](./two_pointers/subarrays_with_k_different_integers/description.md)
 - [Count Subarrays With Fixed Bounds](./two_pointers/count_subarrays_with_fixed_bounds/description.md)
 - [Boats to Save People](./two_pointers/boats_to_save_people/description.md)
+- [Shortest Subarray to be Removed to Make Array Sorted](./two_pointers/shortest_subarray_to_be_removed_to_make_array_sorted/description.md)
 
 ## Neetcode.io
 #### Arrays and Hashing
