@@ -27,3 +27,4 @@ O(n lg n) sorting algorithms:
 - [Largest Number](./largest_number/description.md)
 - [Smallest Range II](./smallest_range_II/description.md)
 - [Maximum Sum Obtained of Any Permutation](./maximum_sum_obtained_of_any_permutation/description.md)
+- [The Number of Weak Characters in the Game](./the_number_of_weak_characters_in_the_game/description.md)
