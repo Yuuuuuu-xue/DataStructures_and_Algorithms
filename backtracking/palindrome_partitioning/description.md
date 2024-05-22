@@ -28,3 +28,4 @@ Notice, if we know a string `a` is a palindrome, then we may want to try partiti
 
 ## Solution
 - [C++](solution.cpp)
+- [Python](./solution.py)
