@@ -529,6 +529,7 @@ Table of Contents:
   - [Maximum Path Quality of a Graph](./backtracking/maximum_path_quality_of_a_graph/description.md)
   - [Path with Maximum Gold](./backtracking/path_with_maximum_gold/description.md)
   - [Split a String Into the Max Number of Unique Substrings](./backtracking/split_a_string_into_the_max_number_of_unique_substrings/description.md)
+  - [The Number of Beautiful Subsets](./backtracking/the_number_of_beautiful_subsets/description.md)
   
 ## Math
 - Examples
