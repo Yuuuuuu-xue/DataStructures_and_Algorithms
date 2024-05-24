@@ -530,6 +530,7 @@ Table of Contents:
   - [Path with Maximum Gold](./backtracking/path_with_maximum_gold/description.md)
   - [Split a String Into the Max Number of Unique Substrings](./backtracking/split_a_string_into_the_max_number_of_unique_substrings/description.md)
   - [The Number of Beautiful Subsets](./backtracking/the_number_of_beautiful_subsets/description.md)
+  - [Maximum Score Words Formed by Letters](./backtracking/maximum_score_words_formed_by_letters/description.md)
   
 ## Math
 - Examples
