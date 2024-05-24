@@ -203,6 +203,7 @@ Table of Contents:
   - [Smallest Range II](./sorting/smallest_range_II/description.md)
   - [Maximum Sum Obtained of Any Permutation](./sorting/maximum_sum_obtained_of_any_permutation/description.md)
   - [The Number of Weak Characters in the Game](./sorting/the_number_of_weak_characters_in_the_game/description.md)
+  - [Maximum Total Importance of Roads](./sorting/maximum_total_importance_of_roads/description.md)
 
 ## Stack and Queue
 - [Notes](./stack_and_queue/notes.md)
