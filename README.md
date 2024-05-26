@@ -377,6 +377,7 @@ Table of Contents:
   - [Perfect Squares](./dynamic_programming/perfect_squares/description.md)
   - [Cherry Pickup II](./dynamic_programming/cherry_pickup_II/description.md)
   - [Freedom Trail](./dynamic_programming/freedom_trail/description.md)
+  - [Student Attendance Record II](./dynamic_programming/student_attendance_record_II/description.md)
 
 ## Shorest Weight Path (Dijkstra Algorithm)
 - [Notes](./shortest_weight_path/notes.md)

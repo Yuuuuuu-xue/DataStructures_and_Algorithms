@@ -143,3 +143,4 @@ Table of Contents:
 #### [Perfect Squares](./perfect_squares/description.md)
 #### [Cherry Pickup II](./cherry_pickup_II/description.md)
 #### [Freedom Trail](./freedom_trail/description.md)
+#### [Student Attendance Record II](./student_attendance_record_II/description.md)
