@@ -29,6 +29,7 @@ Table of Contents:
     - [Minimum Number of Operations to Make Array Empty](#minimum-number-of-operations-to-make-array-empty)
     - [Least Number of Unique Integers after K Removals](#least-number-of-unique-integers-after-k-removals)
     - [Minimum Number of Arrows to Burst Balloons](#minimum-number-of-arrows-to-burst-balloons)
+    - [Construct Smallest Number From DI String](#construct-smallest-number-from-di-string)
 
 ## Greedy Algorithm
 A greedy algorithm for an optimization problem is one that makes a **locally optimal choice** (a choice that looks best at the moment) at every step hoping it leads to a **globally optimal solution**.
@@ -61,3 +62,4 @@ A problem exhibits **optimal substructure** if an optimal solution to the proble
 #### [Minimum Number of Operations to Make Array Empty](./minimum_number_of_operations_to_make_array_empty/description.md)
 #### [Least Number of Unique Integers after K Removals](./least_number_of_unique_integers_after_k_removals/description.md)
 #### [Minimum Number of Arrows to Burst Balloons](./minimum_number_of_arrows_to_burst_balloons/description.md)
+#### [Construct Smallest Number From DI String](./construct_smallest_number_from_DI_string/description.md)
