@@ -615,6 +615,7 @@ Table of Contents:
 - [Count Subarrays With Fixed Bounds](./two_pointers/count_subarrays_with_fixed_bounds/description.md)
 - [Boats to Save People](./two_pointers/boats_to_save_people/description.md)
 - [Shortest Subarray to be Removed to Make Array Sorted](./two_pointers/shortest_subarray_to_be_removed_to_make_array_sorted/description.md)
+- [Get Equal Substrings Within Budget](./two_pointers/get_equal_substrings_within_budget/description.md)
 
 ## Neetcode.io
 #### Arrays and Hashing
