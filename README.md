@@ -409,6 +409,7 @@ Table of Contents:
   - [Minimum Number of Operations to Make Array XOR Equal to K](./bitmask_and_bit_manipulation/minimum_number_of_operations_to_make_array_xor_equal_to_k/description.md)
   - [Score After Flipping Matrix](./bitmask_and_bit_manipulation/score_after_flipping_matrix/description.md)
   - [Sum of All Subset XOR Totals](./bitmask_and_bit_manipulation/sum_of_all_subset_xor_totals/description.md)
+  - [Count Triplets That Can Form Two Arrays of Equal XOR](./bitmask_and_bit_manipulation/count_triplets_that_can_form_two_arrays_of_equal_xor/description.md)
 
 ## Fenwick Tree (Binary Indexed Tree)
 - [Notes](./fenwick_tree/notes.md)
