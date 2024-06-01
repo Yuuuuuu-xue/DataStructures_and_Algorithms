@@ -520,6 +520,7 @@ Table of Contents:
   - [Reverse Prefix of Word](./array/reverse_prefix_of_word/description.md)
   - [Compare Version Numbers](./array/compare_version_numbers/description.md)
   - [Minimum Numbers of Function Calls to Make Target Array](./array/minimum_numbers_of_function_calls_to_make_target_array/description.md)
+  - [Score of a String](./array/score_of_a_string/description.md)
 
 ## Backtracking
 - Examples:
