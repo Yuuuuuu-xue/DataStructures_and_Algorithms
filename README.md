@@ -316,6 +316,7 @@ Table of Contents:
   - [Least Number of Unique Integers after K Removals](./greedy/least_number_of_unique_integers_after_k_removals/description.md)
   - [Minimum Number of Arrows to Burst Balloons](./greedy/minimum_number_of_arrows_to_burst_balloons/description.md)
   - [Construct Smallest Number From DI String](./greedy/construct_smallest_number_from_DI_string/description.md)
+  - [Append Characters to String to Make Subsequence](./greedy/append_characters_to_string_to_make_subsequence/description.md)
 
 ## Dynamic Programming
 - [Notes](./dynamic_programming/notes.md)
