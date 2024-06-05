@@ -186,6 +186,7 @@ Table of Contents:
   - [Number of Ways Where Square of Number Is Equal to Product of Two Numbers](./hashing/number_of_ways_where_square_of_number_is_equal_to_product_of_two_numbers/description.md)
   - [Make Sum Divisible by P](./hashing/make_sum_divisible_by_p/description.md)
   - [Longest Palindrome](./hashing/longest_palindrome/description.md)
+  - [Find Common Characters](./hashing/find_common_characters/description.md)
 
 ## Sorting Algorithms
 - [Notes](./sorting/notes.md)
