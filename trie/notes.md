@@ -44,3 +44,4 @@ So keys are
 #### [Implement Trie](implement_trie/description.md)
 #### [Design Search Autocomplete System (Premium)](design_search_autocomplete_system/description.md)
 #### [Search Suggestions System](./search_suggestions_system/description.md)
+#### [Replace Words](./replace_words/description.md)

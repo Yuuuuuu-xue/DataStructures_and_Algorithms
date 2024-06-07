@@ -430,6 +430,7 @@ Table of Contents:
   - [Implement Trie](trie/implement_trie/description.md)
   - [Design Search Autocomplete System (Premium)](trie/design_search_autocomplete_system/description.md)
   - [Search Suggestions System](./trie/search_suggestions_system/description.md)
+  - [Replace Words](./trie/replace_words/description.md)
 
 ## Linked List 
 - [Notes](./linked_list/notes.md)
