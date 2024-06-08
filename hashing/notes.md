@@ -91,3 +91,4 @@ For each slot, we have a linked list. So when collision occurs, we just add it t
 #### [Make Sum Divisible by P](./make_sum_divisible_by_p/description.md)
 #### [Longest Palindrome](./longest_palindrome/description.md)
 #### [Find Common Characters](./find_common_characters/description.md)
+#### [Continuous Subarray Sum](./continuous_subarray_sum/description.md)

@@ -187,6 +187,7 @@ Table of Contents:
   - [Make Sum Divisible by P](./hashing/make_sum_divisible_by_p/description.md)
   - [Longest Palindrome](./hashing/longest_palindrome/description.md)
   - [Find Common Characters](./hashing/find_common_characters/description.md)
+  - [Continuous Subarray Sum](./hashing/continuous_subarray_sum/description.md)
 
 ## Sorting Algorithms
 - [Notes](./sorting/notes.md)
