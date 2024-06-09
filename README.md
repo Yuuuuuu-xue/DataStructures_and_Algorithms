@@ -188,6 +188,7 @@ Table of Contents:
   - [Longest Palindrome](./hashing/longest_palindrome/description.md)
   - [Find Common Characters](./hashing/find_common_characters/description.md)
   - [Continuous Subarray Sum](./hashing/continuous_subarray_sum/description.md)
+  - [Subarray Sums Divisible by K](./hashing/subarray_sums_divisible_by_k/description.md)
 
 ## Sorting Algorithms
 - [Notes](./sorting/notes.md)
