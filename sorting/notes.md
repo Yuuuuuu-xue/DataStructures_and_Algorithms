@@ -30,3 +30,4 @@ O(n lg n) sorting algorithms:
 - [The Number of Weak Characters in the Game](./the_number_of_weak_characters_in_the_game/description.md)
 - [Maximum Total Importance of Roads](./maximum_total_importance_of_roads/description.md)
 - [Special Array With X Elements Greater Than or Equal X](./special_array_with_x_elements_greater_than_or_equal_x/description.md)
+- [Minimum Number of Moves to Seat Everyone](./minimum_number_of_moves_to_seat_everyone/description.md)
