@@ -150,6 +150,7 @@ Table of Contents:
   - [Maximize Happiness of Selected Children](./priority_queue/maximize_happiness_of_selected_children/description.md)
   - [Kth Smallest Prime Fraction](./priority_queue/kth_smallest_prime_fraction/description.md)
   - [Minimum Cost to Hire K Workers](./priority_queue/minimum_cost_to_hire_k_workers/description.md)
+  - [IPO](./priority_queue/IPO/description.md)  
 
 ## Hashing
 - [Notes](./hashing/notes.md)

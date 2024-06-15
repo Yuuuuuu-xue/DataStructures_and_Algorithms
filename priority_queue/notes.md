@@ -64,3 +64,4 @@ Table of Contents:
 #### [Maximize Happiness of Selected Children](./maximize_happiness_of_selected_children/description.md)
 #### [Kth Smallest Prime Fraction](./kth_smallest_prime_fraction/description.md)
 #### [Minimum Cost to Hire K Workers](./minimum_cost_to_hire_k_workers/description.md)
+#### [IPO](./IPO/description.md)
