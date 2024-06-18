@@ -32,3 +32,4 @@ O(n lg n) sorting algorithms:
 - [Special Array With X Elements Greater Than or Equal X](./special_array_with_x_elements_greater_than_or_equal_x/description.md)
 - [Minimum Number of Moves to Seat Everyone](./minimum_number_of_moves_to_seat_everyone/description.md)
 - [Minimum Increment to Make Array Unique](./minimum_increment_to_make_array_unique/description.md)
+- [Most Profit Assigning Work](./most_profit_assigning_work/description.md)

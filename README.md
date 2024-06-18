@@ -212,6 +212,7 @@ Table of Contents:
   - [Special Array With X Elements Greater Than or Equal X](./sorting/special_array_with_x_elements_greater_than_or_equal_x/description.md)
   - [Minimum Number of Moves to Seat Everyone](./sorting/minimum_number_of_moves_to_seat_everyone/description.md)
   - [Minimum Increment to Make Array Unique](./sorting/minimum_increment_to_make_array_unique/description.md)
+  - [Most Profit Assigning Work](./sorting/most_profit_assigning_work/description.md)
 
 ## Stack and Queue
 - [Notes](./stack_and_queue/notes.md)
