@@ -79,6 +79,7 @@ Table of Contents:
     - [Search in Rotated Sorted Array II](./divide_and_conquer/search_in_rotated_sorted_array_II/description.md)
     - [Find First and Last Position of Element in Sorted Array](./divide_and_conquer/find_first_and_last_position_of_element_in_sorted_array/description.md)
     - [Find in Mountain Array](./divide_and_conquer/find_in_mountain_array/description.md)
+    - [Minimum Number of Days to Make m Bouquets](./divide_and_conquer/minimum_number_of_days_to_make_m_bouquets/description.md)
   
 ## Tree
 - [General Notes](./tree/notes.md)

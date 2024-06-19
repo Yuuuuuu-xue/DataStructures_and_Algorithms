@@ -51,3 +51,4 @@ It applies to runtime of divide-and-conquer algorithms when subproblems all have
 #### [Search in Rotated Sorted Array II](./search_in_rotated_sorted_array_II/description.md)
 #### [Find First and Last Position of Element in Sorted Array](./find_first_and_last_position_of_element_in_sorted_array/description.md)
 #### [Find in Mountain Array](./find_in_mountain_array/description.md)
+#### [Minimum Number of Days to Make m Bouquets](./minimum_number_of_days_to_make_m_bouquets/description.md)
