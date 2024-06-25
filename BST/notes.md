@@ -22,3 +22,4 @@ Binary tree with **BST ordering**:
 #### [Find Model in a Binary Search Tree](./find_model_in_a_binary_search_tree/description.md)
 #### [Design a Food Rating System](./design_a_food_rating_system/descritpion.md)
 #### [Range Sum of BST](./range_sum_of_bst/description.md)
+#### [Binary Search Tree to Greater Sum Tree](./binary_search_tree_to_greater_sum_tree/description.md)

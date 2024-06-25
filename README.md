@@ -129,6 +129,7 @@ Table of Contents:
   - [Find Model in a Binary Search Tree](./BST/find_model_in_a_binary_search_tree/description.md)
   - [Design a Food Rating System](./BST/design_a_food_rating_system/descritpion.md)
   - [Range Sum of BST](./BST/range_sum_of_bst/description.md)
+  - [Binary Search Tree to Greater Sum Tree](./BST/binary_search_tree_to_greater_sum_tree/description.md)
 - [AVL](./AVL/notes.md) \
   Examples:
   - [Implementation](AVL/implementation/description.md)
