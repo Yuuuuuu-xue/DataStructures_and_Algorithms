@@ -30,6 +30,7 @@ Table of Contents:
     - [Island Perimeter](#island-perimeter)
     - [Find All Groups of Farmland](#find-all-groups-of-farmland)
     - [Minimum Number of Vertices to Reach All Nodes](#minimum-number-of-vertices-to-reach-all-nodes)
+    - [Find Center of Star Graph](#find-center-of-star-graph)
 
 ## Definition
 - A **graph** is a tuple of two sets G = (V, E) where V is the set of vertices and E is the set of edges.
@@ -86,3 +87,4 @@ Table of Contents:
 #### [Island Perimeter](./island_perimeter/description.md)
 #### [Find All Groups of Farmland](./find_all_groups_of_farmland/description.md)
 #### [Minimum Number of Vertices to Reach All Nodes](./minimum_number_of_vertices_to_reach_all_nodes/description.md)
+#### [Find Center of Star Graph](./find_center_of_star_graph/description.md)

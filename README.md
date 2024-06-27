@@ -747,6 +747,7 @@ Table of Contents:
 - [Redundant Connection](./neetcode.io/graphs/medium_redundant_connection/description.md)
 - [Word Ladder](./neetcode.io/graphs/hard_word_ladder/description.md)
 - [Restore the Array from Adjacent Pairs](./graphs/restore_the_array_from_adjacent_pairs/description.md)
+- [Find Center of Star Graph](./graphs/find_center_of_star_graph/description.md)
 
 #### Advanced Graphs
 - [Reconstruct Itinerary](./neetcode.io/advanced_graphs/hard_reconstruct_itinerary/description.md)
