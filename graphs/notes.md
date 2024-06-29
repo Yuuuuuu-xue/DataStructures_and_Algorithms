@@ -31,6 +31,7 @@ Table of Contents:
     - [Find All Groups of Farmland](#find-all-groups-of-farmland)
     - [Minimum Number of Vertices to Reach All Nodes](#minimum-number-of-vertices-to-reach-all-nodes)
     - [Find Center of Star Graph](#find-center-of-star-graph)
+    - [All Ancestors of a Node in a Directed Acyclic Graph](#all-ancestors-of-a-node-in-a-directed-acyclic-graph)
 
 ## Definition
 - A **graph** is a tuple of two sets G = (V, E) where V is the set of vertices and E is the set of edges.
@@ -88,3 +89,4 @@ Table of Contents:
 #### [Find All Groups of Farmland](./find_all_groups_of_farmland/description.md)
 #### [Minimum Number of Vertices to Reach All Nodes](./minimum_number_of_vertices_to_reach_all_nodes/description.md)
 #### [Find Center of Star Graph](./find_center_of_star_graph/description.md)
+#### [All Ancestors of a Node in a Directed Acyclic Graph](./all_ancestors_of_a_node_in_a_directed_acyclic_graph/description.md)

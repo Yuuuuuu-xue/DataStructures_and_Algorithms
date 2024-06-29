@@ -275,6 +275,7 @@ Table of Contents:
   - [Island Perimeter](./graphs/island_perimeter/description.md)
   - [Find All Groups of Farmland](./graphs/find_all_groups_of_farmland/description.md)
   - [Minimum Number of Vertices to Reach All Nodes](./graphs/minimum_number_of_vertices_to_reach_all_nodes/description.md)
+  - [All Ancestors of a Node in a Directed Acyclic Graph](./graphs/all_ancestors_of_a_node_in_a_directed_acyclic_graph/description.md)
 
 ## Dijkstra's Algorithm
 - [Notes](./dijkstra_algorithm/notes.md)
