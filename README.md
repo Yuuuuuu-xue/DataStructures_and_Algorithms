@@ -328,6 +328,7 @@ Table of Contents:
   - [Minimum Number of Arrows to Burst Balloons](./greedy/minimum_number_of_arrows_to_burst_balloons/description.md)
   - [Construct Smallest Number From DI String](./greedy/construct_smallest_number_from_DI_string/description.md)
   - [Append Characters to String to Make Subsequence](./greedy/append_characters_to_string_to_make_subsequence/description.md)
+  - [Minimum Difference Between Largest and Smallest Value in Three Moves](./greedy/minimum_difference_between_largest_and_smallest_value_in_three_moves/description.md)
 
 ## Dynamic Programming
 - [Notes](./dynamic_programming/notes.md)

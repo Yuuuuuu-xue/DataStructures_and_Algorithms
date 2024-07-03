@@ -64,3 +64,4 @@ A problem exhibits **optimal substructure** if an optimal solution to the proble
 #### [Minimum Number of Arrows to Burst Balloons](./minimum_number_of_arrows_to_burst_balloons/description.md)
 #### [Construct Smallest Number From DI String](./construct_smallest_number_from_DI_string/description.md)
 #### [Append Characters to String to Make Subsequence](./append_characters_to_string_to_make_subsequence/description.md)
+#### [Minimum Difference Between Largest and Smallest Value in Three Moves](./minimum_difference_between_largest_and_smallest_value_in_three_moves/description.md)
