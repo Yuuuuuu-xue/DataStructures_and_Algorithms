@@ -275,6 +275,7 @@ Table of Contents:
   - [Island Perimeter](./graphs/island_perimeter/description.md)
   - [Find All Groups of Farmland](./graphs/find_all_groups_of_farmland/description.md)
   - [Minimum Number of Vertices to Reach All Nodes](./graphs/minimum_number_of_vertices_to_reach_all_nodes/description.md)
+  - [All Ancestors of a Node in a Directed Acyclic Graph](./graphs/all_ancestors_of_a_node_in_a_directed_acyclic_graph/description.md)
 
 ## Dijkstra's Algorithm
 - [Notes](./dijkstra_algorithm/notes.md)
@@ -748,6 +749,7 @@ Table of Contents:
 - [Redundant Connection](./neetcode.io/graphs/medium_redundant_connection/description.md)
 - [Word Ladder](./neetcode.io/graphs/hard_word_ladder/description.md)
 - [Restore the Array from Adjacent Pairs](./graphs/restore_the_array_from_adjacent_pairs/description.md)
+- [Find Center of Star Graph](./graphs/find_center_of_star_graph/description.md)
 
 #### Advanced Graphs
 - [Reconstruct Itinerary](./neetcode.io/advanced_graphs/hard_reconstruct_itinerary/description.md)
