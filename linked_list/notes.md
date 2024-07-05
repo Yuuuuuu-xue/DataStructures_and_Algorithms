@@ -46,3 +46,4 @@ However, **insert** and **delete** operations at the beginning or middle of the 
 #### [Merge in Between Linked Lists](./merge_in_between_linked_list/description.md)
 #### [Delete Node in a Linked List](./delete_node_in_a_linked_list/description.md)
 #### [Double a Number Represented as a Linked List](./double_a_number_represented_as_a_linked_list/description.md)
+#### [Merge Nodes in Between Zeros](./merge_nodes_in_between_zeros/description.md)

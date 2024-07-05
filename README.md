@@ -455,6 +455,7 @@ Table of Contents:
   - [Merge in Between Linked Lists](./linked_list/merge_in_between_linked_list/description.md)
   - [Delete Node in a Linked List](./linked_list/delete_node_in_a_linked_list/description.md)
   - [Double a Number Represented as a Linked List](./linked_list/double_a_number_represented_as_a_linked_list/description.md)
+  - [Merge Nodes in Between Zeros](./linked_list/merge_nodes_in_between_zeros/description.md)
 
 ## Array
 - Examples:
