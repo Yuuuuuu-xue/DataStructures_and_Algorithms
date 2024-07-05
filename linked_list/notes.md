@@ -47,3 +47,4 @@ However, **insert** and **delete** operations at the beginning or middle of the 
 #### [Delete Node in a Linked List](./delete_node_in_a_linked_list/description.md)
 #### [Double a Number Represented as a Linked List](./double_a_number_represented_as_a_linked_list/description.md)
 #### [Merge Nodes in Between Zeros](./merge_nodes_in_between_zeros/description.md)
+#### [Find the Minimum and Maximum Number of Nodes Between Critical Points](./find_the_minimum_and_maximum_number_of_nodes_between_critical_points/description.md)

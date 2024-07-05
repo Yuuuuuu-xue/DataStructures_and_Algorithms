@@ -456,6 +456,7 @@ Table of Contents:
   - [Delete Node in a Linked List](./linked_list/delete_node_in_a_linked_list/description.md)
   - [Double a Number Represented as a Linked List](./linked_list/double_a_number_represented_as_a_linked_list/description.md)
   - [Merge Nodes in Between Zeros](./linked_list/merge_nodes_in_between_zeros/description.md)
+  - [Find the Minimum and Maximum Number of Nodes Between Critical Points](./linked_list/find_the_minimum_and_maximum_number_of_nodes_between_critical_points/description.md)
 
 ## Array
 - Examples:
