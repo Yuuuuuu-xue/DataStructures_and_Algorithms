@@ -540,6 +540,7 @@ Table of Contents:
   - [Score of a String](./array/score_of_a_string/description.md)
   - [Relative Sort Array](./array/relative_sort_array/description.md)
   - [Pass the Pillow](./array/pass_the_pillow/description.md)
+  - [Water Bottles](./array/water_bottles/description.md)
 
 ## Backtracking
 - Examples:
