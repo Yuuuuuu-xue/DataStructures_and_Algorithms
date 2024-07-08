@@ -541,6 +541,7 @@ Table of Contents:
   - [Relative Sort Array](./array/relative_sort_array/description.md)
   - [Pass the Pillow](./array/pass_the_pillow/description.md)
   - [Water Bottles](./array/water_bottles/description.md)
+  - [Find the Winner of the Circular Game](./array/find_the_winner_of_the_circular_game/description.md)
 
 ## Backtracking
 - Examples:
