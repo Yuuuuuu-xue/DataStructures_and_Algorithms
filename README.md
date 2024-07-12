@@ -331,6 +331,7 @@ Table of Contents:
   - [Construct Smallest Number From DI String](./greedy/construct_smallest_number_from_DI_string/description.md)
   - [Append Characters to String to Make Subsequence](./greedy/append_characters_to_string_to_make_subsequence/description.md)
   - [Minimum Difference Between Largest and Smallest Value in Three Moves](./greedy/minimum_difference_between_largest_and_smallest_value_in_three_moves/description.md)
+  - [Maximum Score From Removing Substrings](./greedy/maximum_score_from_removing_substrings/description.md)
 
 ## Dynamic Programming
 - [Notes](./dynamic_programming/notes.md)

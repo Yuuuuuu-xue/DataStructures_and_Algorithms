@@ -65,3 +65,4 @@ A problem exhibits **optimal substructure** if an optimal solution to the proble
 #### [Construct Smallest Number From DI String](./construct_smallest_number_from_DI_string/description.md)
 #### [Append Characters to String to Make Subsequence](./append_characters_to_string_to_make_subsequence/description.md)
 #### [Minimum Difference Between Largest and Smallest Value in Three Moves](./minimum_difference_between_largest_and_smallest_value_in_three_moves/description.md)
+#### [Maximum Score From Removing Substrings](./maximum_score_from_removing_substrings/description.md)
