@@ -238,6 +238,7 @@ Table of Contents:
   - [Number of Students Unable to Eat Lunch](./stack_and_queue/number_of_students_unable_to_eat_lunch/description.md)
   - [Reveal Cards in Increasing Order](./stack_and_queue/reveal_cards_in_increasing_order/description.md)
   - [Reverse Substrings Between Pair of Parentheses](./stack_and_queue/reverse_substrings_between_each_pair_of_parentheses/description.md)
+  - [Robot Collisions](./stack_and_queue/robot_collisions/description.md)
 
 ## Monotonic Stack
 - [Notes](./monotonic_stack/notes.md)
