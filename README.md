@@ -194,6 +194,7 @@ Table of Contents:
   - [Continuous Subarray Sum](./hashing/continuous_subarray_sum/description.md)
   - [Subarray Sums Divisible by K](./hashing/subarray_sums_divisible_by_k/description.md)
   - [Number of Atoms](./hashing/number_of_atoms/description.md)
+  - [Create Binary Tree From Descriptions](./hashing/create_binary_tree_from_descriptions/description.md)
 
 ## Sorting Algorithms
 - [Notes](./sorting/notes.md)
