@@ -280,6 +280,7 @@ Table of Contents:
   - [Find All Groups of Farmland](./graphs/find_all_groups_of_farmland/description.md)
   - [Minimum Number of Vertices to Reach All Nodes](./graphs/minimum_number_of_vertices_to_reach_all_nodes/description.md)
   - [All Ancestors of a Node in a Directed Acyclic Graph](./graphs/all_ancestors_of_a_node_in_a_directed_acyclic_graph/description.md)
+  - [Step-By-Step Directions From a Binary Tree Node to Another](./graphs/step_by_step_directions_from_a_binary_tree_node_to_another/description.md)
 
 ## Dijkstra's Algorithm
 - [Notes](./dijkstra_algorithm/notes.md)
