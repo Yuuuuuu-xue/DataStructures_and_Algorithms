@@ -78,3 +78,4 @@ Table of Contents:
 #### [Delete Leaves with a Given Value](./delete_leaves_with_a_given_value/description.md)
 #### [Distribute Coins in Binary Tree](./distribute_coins_in_binary_tree/description.md)
 #### [Find the Maximum Sum of Node Values](./find_the_maximum_sum_of_node_values/description.md)
+#### [Delete Nodes And Return Forest](./delete_nodes_and_return_forest/description.md)
