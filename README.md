@@ -550,6 +550,7 @@ Table of Contents:
   - [Water Bottles](./array/water_bottles/description.md)
   - [Find the Winner of the Circular Game](./array/find_the_winner_of_the_circular_game/description.md)
   - [Average Waiting Time](./array/average_waiting_time/description.md)
+  - [Lucky Numbers in a Matrix](./array/lucky_numbers_in_a_matrix/description.md)
 
 ## Backtracking
 - Examples:
