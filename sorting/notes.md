@@ -33,3 +33,4 @@ O(n lg n) sorting algorithms:
 - [Minimum Number of Moves to Seat Everyone](./minimum_number_of_moves_to_seat_everyone/description.md)
 - [Minimum Increment to Make Array Unique](./minimum_increment_to_make_array_unique/description.md)
 - [Most Profit Assigning Work](./most_profit_assigning_work/description.md)
+- [Sort the People](./sort_the_people/description.md)

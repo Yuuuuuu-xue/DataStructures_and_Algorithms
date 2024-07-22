@@ -219,6 +219,7 @@ Table of Contents:
   - [Minimum Number of Moves to Seat Everyone](./sorting/minimum_number_of_moves_to_seat_everyone/description.md)
   - [Minimum Increment to Make Array Unique](./sorting/minimum_increment_to_make_array_unique/description.md)
   - [Most Profit Assigning Work](./sorting/most_profit_assigning_work/description.md)
+  - [Sort the People](./sorting/sort_the_people/description.md)
 
 ## Stack and Queue
 - [Notes](./stack_and_queue/notes.md)
