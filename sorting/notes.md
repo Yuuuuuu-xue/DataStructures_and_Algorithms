@@ -34,3 +34,4 @@ O(n lg n) sorting algorithms:
 - [Minimum Increment to Make Array Unique](./minimum_increment_to_make_array_unique/description.md)
 - [Most Profit Assigning Work](./most_profit_assigning_work/description.md)
 - [Sort the People](./sort_the_people/description.md)
+- [Sort Array by Increasing Frequency](./sort_array_by_increasing_frequency/description.md)
