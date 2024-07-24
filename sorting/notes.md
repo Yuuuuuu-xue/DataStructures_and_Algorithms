@@ -35,3 +35,4 @@ O(n lg n) sorting algorithms:
 - [Most Profit Assigning Work](./most_profit_assigning_work/description.md)
 - [Sort the People](./sort_the_people/description.md)
 - [Sort Array by Increasing Frequency](./sort_array_by_increasing_frequency/description.md)
+- [Sort the Jumbled Numbers](./sort_the_jumbled_numbers/description.md)
