@@ -293,6 +293,11 @@ Table of Contents:
   - [Path with Minimum Effort](./dijkstra_algorithm/path_with_minimum_effort/description.md)
   - [Find the Safest Path in a Grid](./dijkstra_algorithm/find_the_safest_path_in_a_grid/description.md)
 
+## Floyd Warshall's Algorithm
+- [Notes](./floyd_warshall_algorithm/notes.md)
+- Examples:
+  - [Find the City With the Smallest Number of Neighbors at a Threshold Distance](./floyd_warshall_algorithm/find_the_city_with_the_smallest_number_of_neighbors_at_a_threshold_distance/description.md)
+
 ## Minimum Spanning Tree
 - [Notes](./minimum_spanning_tree/notes.md)
 - Examples: 
