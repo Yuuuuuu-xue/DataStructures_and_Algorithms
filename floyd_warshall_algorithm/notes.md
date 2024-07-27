@@ -33,3 +33,4 @@ For k from 1 to |V|:
 
 ## Example
 - [Find the City With the Smallest Number of Neighbors at a Threshold Distance](./find_the_city_with_the_smallest_number_of_neighbors_at_a_threshold_distance/description.md)
+- [Minimum Cost to Convert String I](./minimum_cost_to_convert_string_i/description.md)

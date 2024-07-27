@@ -297,6 +297,7 @@ Table of Contents:
 - [Notes](./floyd_warshall_algorithm/notes.md)
 - Examples:
   - [Find the City With the Smallest Number of Neighbors at a Threshold Distance](./floyd_warshall_algorithm/find_the_city_with_the_smallest_number_of_neighbors_at_a_threshold_distance/description.md)
+  - [Minimum Cost to Convert String I](./floyd_warshall_algorithm/minimum_cost_to_convert_string_i/description.md)
 
 ## Minimum Spanning Tree
 - [Notes](./minimum_spanning_tree/notes.md)
