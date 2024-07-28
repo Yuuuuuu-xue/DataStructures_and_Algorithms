@@ -91,3 +91,4 @@ Table of Contents:
 #### [Find Center of Star Graph](./find_center_of_star_graph/description.md)
 #### [All Ancestors of a Node in a Directed Acyclic Graph](./all_ancestors_of_a_node_in_a_directed_acyclic_graph/description.md)
 #### [Step-By-Step Directions From a Binary Tree Node to Another](./step_by_step_directions_from_a_binary_tree_node_to_another/description.md)
+#### [Second Minimum Time to Reach Destination](./second_minimum_time_to_reach_destination/description.md)
