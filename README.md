@@ -562,6 +562,7 @@ Table of Contents:
   - [Average Waiting Time](./array/average_waiting_time/description.md)
   - [Lucky Numbers in a Matrix](./array/lucky_numbers_in_a_matrix/description.md)
   - [Find Valid Matrix Given Row and Column Sums](./array/find_valid_matrix_given_row_and_column_sums/description.md)
+  - [Count Number of Teams](./array/count_number_of_teams/description.md)
 
 ## Backtracking
 - Examples:
