@@ -662,6 +662,7 @@ Table of Contents:
 - [Get Equal Substrings Within Budget](./two_pointers/get_equal_substrings_within_budget/description.md)
 - [Maximum Number of Robots Within Budget](./two_pointers/maximum_number_of_robots_within_budget/description.md)
 - [Count Number of Nice Subarrays](./two_pointers/count_number_of_nice_subarrays/description.md)
+- [Minimum Swaps to Group All 1's Together II](./two_pointers/minimum_swaps_to_group_all_1s_together_ii/description.md)
 
 ## Neetcode.io
 #### Arrays and Hashing
