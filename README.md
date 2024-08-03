@@ -196,6 +196,7 @@ Table of Contents:
   - [Subarray Sums Divisible by K](./hashing/subarray_sums_divisible_by_k/description.md)
   - [Number of Atoms](./hashing/number_of_atoms/description.md)
   - [Create Binary Tree From Descriptions](./hashing/create_binary_tree_from_descriptions/description.md)
+  - [Make Two Arrays Equal by Reversing Subarrays](./hashing/make_two_arrays_equal_by_reversing_subarrays/description.md)
 
 ## Sorting Algorithms
 - [Notes](./sorting/notes.md)
