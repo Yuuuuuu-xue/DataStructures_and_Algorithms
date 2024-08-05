@@ -96,3 +96,4 @@ For each slot, we have a linked list. So when collision occurs, we just add it t
 #### [Number of Atoms](./number_of_atoms/description.md)
 #### [Create Binary Tree From Descriptions](./create_binary_tree_from_descriptions/description.md)
 #### [Make Two Arrays Equal by Reversing Subarrays](./make_two_arrays_equal_by_reversing_subarrays/description.md)
+#### [Kth Distinct String in an Array](./kth_distinct_string_in_an_array/description.md)
