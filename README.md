@@ -81,6 +81,7 @@ Table of Contents:
     - [Find in Mountain Array](./divide_and_conquer/find_in_mountain_array/description.md)
     - [Minimum Number of Days to Make m Bouquets](./divide_and_conquer/minimum_number_of_days_to_make_m_bouquets/description.md)
     - [Magnetic Force Between Two Balls](./divide_and_conquer/magnetic_force_between_two_balls/description.md)
+    - [Find Kth Smallest Pair Distance](./divide_and_conquer/find_kth_smallest_pair_distance/description.md)
   
 ## Tree
 - [General Notes](./tree/notes.md)
