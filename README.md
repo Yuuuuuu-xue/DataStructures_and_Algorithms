@@ -156,6 +156,7 @@ Table of Contents:
   - [Kth Smallest Prime Fraction](./priority_queue/kth_smallest_prime_fraction/description.md)
   - [Minimum Cost to Hire K Workers](./priority_queue/minimum_cost_to_hire_k_workers/description.md)
   - [IPO](./priority_queue/IPO/description.md)  
+  - [Ugly Number II](./priority_queue/ugly_number_II/description.md)
 
 ## Hashing
 - [Notes](./hashing/notes.md)

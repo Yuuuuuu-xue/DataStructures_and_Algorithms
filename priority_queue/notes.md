@@ -65,3 +65,4 @@ Table of Contents:
 #### [Kth Smallest Prime Fraction](./kth_smallest_prime_fraction/description.md)
 #### [Minimum Cost to Hire K Workers](./minimum_cost_to_hire_k_workers/description.md)
 #### [IPO](./IPO/description.md)
+#### [Ugly Number II](./ugly_number_II/description.md)
