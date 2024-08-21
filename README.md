@@ -416,6 +416,7 @@ Table of Contents:
   - [Cherry Pickup II](./dynamic_programming/cherry_pickup_II/description.md)
   - [Freedom Trail](./dynamic_programming/freedom_trail/description.md)
   - [Student Attendance Record II](./dynamic_programming/student_attendance_record_II/description.md)
+  - [Strange Printer](./dynamic_programming/strange_printer/description.md)
 
 ## Shorest Weight Path (Dijkstra Algorithm)
 - [Notes](./shortest_weight_path/notes.md)
