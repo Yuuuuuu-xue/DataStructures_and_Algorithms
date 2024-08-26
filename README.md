@@ -122,6 +122,8 @@ Table of Contents:
   - [Distribute Coins in Binary Tree](./tree/distribute_coins_in_binary_tree/description.md)
   - [Find the Maximum Sum of Node Values](./tree/find_the_maximum_sum_of_node_values/description.md)
   - [Delete Nodes And Return Forest](./tree/delete_nodes_and_return_forest/description.md)
+  - [Binary Tree Postorder Traversal](./tree/binary_tree_postorder_traversal/description.md)
+  - [N-ary Tree Postorder Traversal](./tree/n-ary_tree_postorder_traversal/description.md)
 - [Binary Search Tree Notes](./BST/notes.md)
   Examples:
   - [Implementation](BST/implementation/description.md)

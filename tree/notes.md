@@ -79,3 +79,5 @@ Table of Contents:
 #### [Distribute Coins in Binary Tree](./distribute_coins_in_binary_tree/description.md)
 #### [Find the Maximum Sum of Node Values](./find_the_maximum_sum_of_node_values/description.md)
 #### [Delete Nodes And Return Forest](./delete_nodes_and_return_forest/description.md)
+#### [Binary Tree Postorder Traversal](./binary_tree_postorder_traversal/description.md)
+#### [N-ary Tree Postorder Traversal](./n-ary_tree_postorder_traversal/description.md)
