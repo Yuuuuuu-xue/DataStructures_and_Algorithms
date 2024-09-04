@@ -576,6 +576,7 @@ Table of Contents:
   - [Lemonade Change](./array/lemonade_change/description.md)
   - [Find the Student that Will Replace the Chalk](./array/find_the_student_that_will_replace_the_chalk/description.md)
   - [Sum of Digits of String After Convert](./array/sum_of_digits_of_string_after_convert/description.md)
+  - [Walking Robot Simulation](./array/walking_robot_simulation/description.md)
 
 ## Backtracking
 - Examples:
