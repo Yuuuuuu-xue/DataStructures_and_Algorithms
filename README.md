@@ -228,6 +228,7 @@ Table of Contents:
   - [Sort the People](./sorting/sort_the_people/description.md)
   - [Sort Array by Increasing Frequency](./sorting/sort_array_by_increasing_frequency/description.md)
   - [Sort the Jumbled Numbers](./sorting/sort_the_jumbled_numbers/description.md)
+  - [Minimum Time Difference](./sorting/minimum_time_difference/description.md)
 
 ## Stack and Queue
 - [Notes](./stack_and_queue/notes.md)
@@ -577,6 +578,7 @@ Table of Contents:
   - [Find the Student that Will Replace the Chalk](./array/find_the_student_that_will_replace_the_chalk/description.md)
   - [Sum of Digits of String After Convert](./array/sum_of_digits_of_string_after_convert/description.md)
   - [Walking Robot Simulation](./array/walking_robot_simulation/description.md)
+  - [Shortest Palindrome](./array/shortest_palindrome/description.md)
 
 ## Backtracking
 - Examples:

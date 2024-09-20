@@ -36,3 +36,4 @@ O(n lg n) sorting algorithms:
 - [Sort the People](./sort_the_people/description.md)
 - [Sort Array by Increasing Frequency](./sort_array_by_increasing_frequency/description.md)
 - [Sort the Jumbled Numbers](./sort_the_jumbled_numbers/description.md)
+- [Minimum Time Difference](./minimum_time_difference/description.md)
