@@ -579,6 +579,7 @@ Table of Contents:
   - [Sum of Digits of String After Convert](./array/sum_of_digits_of_string_after_convert/description.md)
   - [Walking Robot Simulation](./array/walking_robot_simulation/description.md)
   - [Shortest Palindrome](./array/shortest_palindrome/description.md)
+  - [Lexicographical Numbers](./array/lexicographical_numbers/description.md)
 
 ## Backtracking
 - Examples:
