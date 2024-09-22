@@ -580,6 +580,7 @@ Table of Contents:
   - [Walking Robot Simulation](./array/walking_robot_simulation/description.md)
   - [Shortest Palindrome](./array/shortest_palindrome/description.md)
   - [Lexicographical Numbers](./array/lexicographical_numbers/description.md)
+  - [Kth Smallest in Lexicographical Order](./array/kth_smallest_in_lexicographical_order/description.md)
 
 ## Backtracking
 - Examples:
