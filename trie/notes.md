@@ -45,3 +45,4 @@ So keys are
 #### [Design Search Autocomplete System (Premium)](design_search_autocomplete_system/description.md)
 #### [Search Suggestions System](./search_suggestions_system/description.md)
 #### [Replace Words](./replace_words/description.md)
+#### [Find the Length of the Longest Common Prefix](./find_the_length_of_the_longest_common_prefix/description.md)

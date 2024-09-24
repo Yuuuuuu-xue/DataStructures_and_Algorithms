@@ -469,6 +469,7 @@ Table of Contents:
   - [Design Search Autocomplete System (Premium)](trie/design_search_autocomplete_system/description.md)
   - [Search Suggestions System](./trie/search_suggestions_system/description.md)
   - [Replace Words](./trie/replace_words/description.md)
+  - [Find the Length of the Longest Common Prefix](./trie/find_the_length_of_the_longest_common_prefix/description.md)
 
 ## Linked List 
 - [Notes](./linked_list/notes.md)
