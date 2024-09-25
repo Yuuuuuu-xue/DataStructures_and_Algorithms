@@ -46,3 +46,4 @@ So keys are
 #### [Search Suggestions System](./search_suggestions_system/description.md)
 #### [Replace Words](./replace_words/description.md)
 #### [Find the Length of the Longest Common Prefix](./find_the_length_of_the_longest_common_prefix/description.md)
+#### [Sum of Prefix Scores of Strings](./sum_of_prefix_scores_of_strings/description.md)

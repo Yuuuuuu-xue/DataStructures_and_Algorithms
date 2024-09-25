@@ -470,6 +470,7 @@ Table of Contents:
   - [Search Suggestions System](./trie/search_suggestions_system/description.md)
   - [Replace Words](./trie/replace_words/description.md)
   - [Find the Length of the Longest Common Prefix](./trie/find_the_length_of_the_longest_common_prefix/description.md)
+  - [Sum of Prefix Scores of Strings](./trie/sum_of_prefix_scores_of_strings/description.md)
 
 ## Linked List 
 - [Notes](./linked_list/notes.md)
