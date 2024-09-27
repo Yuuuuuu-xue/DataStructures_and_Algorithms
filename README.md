@@ -583,6 +583,7 @@ Table of Contents:
   - [Shortest Palindrome](./array/shortest_palindrome/description.md)
   - [Lexicographical Numbers](./array/lexicographical_numbers/description.md)
   - [Kth Smallest in Lexicographical Order](./array/kth_smallest_in_lexicographical_order/description.md)
+  - [My Calendar II](./array/my_calendar_II/description.md)
 
 ## Backtracking
 - Examples:
