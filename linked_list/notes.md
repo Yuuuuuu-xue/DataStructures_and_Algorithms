@@ -49,3 +49,4 @@ However, **insert** and **delete** operations at the beginning or middle of the 
 #### [Merge Nodes in Between Zeros](./merge_nodes_in_between_zeros/description.md)
 #### [Find the Minimum and Maximum Number of Nodes Between Critical Points](./find_the_minimum_and_maximum_number_of_nodes_between_critical_points/description.md)
 #### [Design Circular Deque](./design_circular_deque/description.md)
+#### [All O`one Data Structure](./all_O_one_data_structure/description.md)
