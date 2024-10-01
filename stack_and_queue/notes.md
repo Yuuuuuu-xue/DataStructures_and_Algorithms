@@ -38,3 +38,4 @@ Table of Contents:
 #### [Reveal Cards in Increasing Order](./reveal_cards_in_increasing_order/description.md)
 #### [Reverse Substrings Between Each Pair of Parentheses](./reverse_substrings_between_each_pair_of_parentheses/description.md)
 #### [Robot Collisions](./robot_collisions/description.md)
+#### [Design a Stack with Increment Operation](./design_a_stack_with_increment_operation/description.md)

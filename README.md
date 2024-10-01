@@ -252,6 +252,7 @@ Table of Contents:
   - [Reveal Cards in Increasing Order](./stack_and_queue/reveal_cards_in_increasing_order/description.md)
   - [Reverse Substrings Between Pair of Parentheses](./stack_and_queue/reverse_substrings_between_each_pair_of_parentheses/description.md)
   - [Robot Collisions](./stack_and_queue/robot_collisions/description.md)
+  - [Design a Stack with Increment Operation](./stack_and_queue/design_a_stack_with_increment_operation/description.md)
 
 ## Monotonic Stack
 - [Notes](./monotonic_stack/notes.md)
@@ -586,6 +587,7 @@ Table of Contents:
   - [Lexicographical Numbers](./array/lexicographical_numbers/description.md)
   - [Kth Smallest in Lexicographical Order](./array/kth_smallest_in_lexicographical_order/description.md)
   - [My Calendar II](./array/my_calendar_II/description.md)
+  - [Check if Array Pairs are Divisible by K](./array/check_if_array_pairs_are_divisible_by_k/description.md)
 
 ## Backtracking
 - Examples:
