@@ -37,3 +37,4 @@ O(n lg n) sorting algorithms:
 - [Sort Array by Increasing Frequency](./sort_array_by_increasing_frequency/description.md)
 - [Sort the Jumbled Numbers](./sort_the_jumbled_numbers/description.md)
 - [Minimum Time Difference](./minimum_time_difference/description.md)
+- [Rank Transform of an Array](./rank_transform_of_an_array/description.md)

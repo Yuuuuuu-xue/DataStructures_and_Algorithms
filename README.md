@@ -229,6 +229,7 @@ Table of Contents:
   - [Sort Array by Increasing Frequency](./sorting/sort_array_by_increasing_frequency/description.md)
   - [Sort the Jumbled Numbers](./sorting/sort_the_jumbled_numbers/description.md)
   - [Minimum Time Difference](./sorting/minimum_time_difference/description.md)
+  - [Rank Transform of an Array](./sorting/rank_transform_of_an_array/description.md)
 
 ## Stack and Queue
 - [Notes](./stack_and_queue/notes.md)
