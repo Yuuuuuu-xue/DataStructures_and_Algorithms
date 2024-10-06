@@ -590,6 +590,7 @@ Table of Contents:
   - [Kth Smallest in Lexicographical Order](./array/kth_smallest_in_lexicographical_order/description.md)
   - [My Calendar II](./array/my_calendar_II/description.md)
   - [Check if Array Pairs are Divisible by K](./array/check_if_array_pairs_are_divisible_by_k/description.md)
+  - [Sentence Similarity III](./array/sentence_similarity_III/description.md)
 
 ## Backtracking
 - Examples:
