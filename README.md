@@ -255,6 +255,7 @@ Table of Contents:
   - [Reverse Substrings Between Pair of Parentheses](./stack_and_queue/reverse_substrings_between_each_pair_of_parentheses/description.md)
   - [Robot Collisions](./stack_and_queue/robot_collisions/description.md)
   - [Design a Stack with Increment Operation](./stack_and_queue/design_a_stack_with_increment_operation/description.md)
+  - [Minimum String Length After Removing Substrings](./stack_and_queue/minimum_string_length_after_removing_substrings/description.md)
 
 ## Monotonic Stack
 - [Notes](./monotonic_stack/notes.md)

@@ -39,3 +39,4 @@ Table of Contents:
 #### [Reverse Substrings Between Each Pair of Parentheses](./reverse_substrings_between_each_pair_of_parentheses/description.md)
 #### [Robot Collisions](./robot_collisions/description.md)
 #### [Design a Stack with Increment Operation](./design_a_stack_with_increment_operation/description.md)
+#### [Minimum String Length After Removing Substrings](./minimum_string_length_after_removing_substrings/description.md)
