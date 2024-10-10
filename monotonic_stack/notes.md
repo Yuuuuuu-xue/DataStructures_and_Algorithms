@@ -25,3 +25,4 @@ If we need to calculate both `nextSmaller` or `prevSmaller` arrays, we can do it
 #### [Find the Most Competitive Subsequence](./find_the_most_competitive_subsequence/description.md)
 #### [Maximum Subarray Min Product](./maximum_subarray_min_product/description.md)
 #### [Remove Nodess From Linked List](./remove_nodes_from_linked_list/description.md)
+#### [Maximum Width Ramp](./maximum_width_ramp/description.md)
