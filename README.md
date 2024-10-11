@@ -159,6 +159,7 @@ Table of Contents:
   - [Minimum Cost to Hire K Workers](./priority_queue/minimum_cost_to_hire_k_workers/description.md)
   - [IPO](./priority_queue/IPO/description.md)  
   - [Ugly Number II](./priority_queue/ugly_number_II/description.md)
+  - [The Number of the Smallest Unoccupied Chair](./priority_queue/the_number_of_the_smallest_unoccupied_chair/description.md)
 
 ## Hashing
 - [Notes](./hashing/notes.md)

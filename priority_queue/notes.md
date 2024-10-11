@@ -66,3 +66,4 @@ Table of Contents:
 #### [Minimum Cost to Hire K Workers](./minimum_cost_to_hire_k_workers/description.md)
 #### [IPO](./IPO/description.md)
 #### [Ugly Number II](./ugly_number_II/description.md)
+#### [The Number of the Smallest Unoccupied Chair](./the_number_of_the_smallest_unoccupied_chair/description.md)
