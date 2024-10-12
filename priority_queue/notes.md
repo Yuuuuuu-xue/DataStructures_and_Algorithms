@@ -67,3 +67,4 @@ Table of Contents:
 #### [IPO](./IPO/description.md)
 #### [Ugly Number II](./ugly_number_II/description.md)
 #### [The Number of the Smallest Unoccupied Chair](./the_number_of_the_smallest_unoccupied_chair/description.md)
+#### [Divide Intervals Into Minimum Number of Groups](./divide_intervals_into_minimum_number_of_groups/description.md)
