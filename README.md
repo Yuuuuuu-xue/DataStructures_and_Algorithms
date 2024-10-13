@@ -161,6 +161,7 @@ Table of Contents:
   - [Ugly Number II](./priority_queue/ugly_number_II/description.md)
   - [The Number of the Smallest Unoccupied Chair](./priority_queue/the_number_of_the_smallest_unoccupied_chair/description.md)
   - [Divide Intervals Into Minimum Number of Groups](./priority_queue/divide_intervals_into_minimum_number_of_groups/description.md)
+  - [Smallest Range Covering Elements From K Lists](./priority_queue/smallest_range_covering_elements_from_k_lists/description.md)
 
 ## Hashing
 - [Notes](./hashing/notes.md)
