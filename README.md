@@ -162,6 +162,7 @@ Table of Contents:
   - [The Number of the Smallest Unoccupied Chair](./priority_queue/the_number_of_the_smallest_unoccupied_chair/description.md)
   - [Divide Intervals Into Minimum Number of Groups](./priority_queue/divide_intervals_into_minimum_number_of_groups/description.md)
   - [Smallest Range Covering Elements From K Lists](./priority_queue/smallest_range_covering_elements_from_k_lists/description.md)
+  - [Maximal Score After Applying K Operations](./priority_queue/maximal_score_after_applying_k_operations/description.md)
 
 ## Hashing
 - [Notes](./hashing/notes.md)

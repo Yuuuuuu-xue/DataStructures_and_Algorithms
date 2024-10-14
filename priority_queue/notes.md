@@ -69,3 +69,4 @@ Table of Contents:
 #### [The Number of the Smallest Unoccupied Chair](./the_number_of_the_smallest_unoccupied_chair/description.md)
 #### [Divide Intervals Into Minimum Number of Groups](./divide_intervals_into_minimum_number_of_groups/description.md)
 #### [Smallest Range Covering Elements From K Lists](./smallest_range_covering_elements_from_k_lists/description.md)
+#### [Maximal Score After Applying K Operations](./maximal_score_after_applying_k_operations/description.md)
