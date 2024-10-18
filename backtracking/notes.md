@@ -44,3 +44,4 @@ Then `n = 4` and thus overall runtime is `O(n ^ k) = O(4 ^ k)`
 - [The Number of Beautiful Subsets](./the_number_of_beautiful_subsets/description.md)
 - [Maxium Score Words Formed by Letters](./maximum_score_words_formed_by_letters/description.md)
 - [Word Break II](./word_break_II/description.md)
+- [Count Number of Maximum Bitwise or Subsets](./count_number_of_maximum_bitwise_or_subsets/description.md)

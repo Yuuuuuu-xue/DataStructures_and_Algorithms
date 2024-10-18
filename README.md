@@ -163,6 +163,7 @@ Table of Contents:
   - [Divide Intervals Into Minimum Number of Groups](./priority_queue/divide_intervals_into_minimum_number_of_groups/description.md)
   - [Smallest Range Covering Elements From K Lists](./priority_queue/smallest_range_covering_elements_from_k_lists/description.md)
   - [Maximal Score After Applying K Operations](./priority_queue/maximal_score_after_applying_k_operations/description.md)
+  - [Maximum Swap](./priority_queue/maximum_swap/description.md)
 
 ## Hashing
 - [Notes](./hashing/notes.md)
@@ -615,6 +616,7 @@ Table of Contents:
   - [The Number of Beautiful Subsets](./backtracking/the_number_of_beautiful_subsets/description.md)
   - [Maximum Score Words Formed by Letters](./backtracking/maximum_score_words_formed_by_letters/description.md)
   - [Word Break II](./backtracking/word_break_II/description.md)
+  - [Count Number of Maximum Bitwise or Subsets](./backtracking/count_number_of_maximum_bitwise_or_subsets/description.md)
   
 ## Math
 - Examples
