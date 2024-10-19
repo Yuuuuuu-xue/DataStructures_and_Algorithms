@@ -638,6 +638,28 @@ Table of Contents:
   - [Parallel Courses](topological_sort/parallel_courses/description.md)
   - [Parallel Courses III](./topological_sort/parallel_courses_III/description.md)
 
+## Two Pointers
+- [Rearrange Array Element by Sign](./two_pointers/rearrange_array_elements_by_sign/description.md)
+- [Squares of a Sorted Array](./two_pointers/squares_of_a_sorted_array/description.md)
+- [Minimum Length of String After Deleting Similar Ends](./two_pointers/minimum_length_of_string_after_deleting_similar_ends/description.md)
+- [Minimum Common Value](./two_pointers/minimum_common_value/description.md)
+- [Subarray Product Less Than k](./two_pointers/subarray_product_less_than_k/description.md)
+- [Count Subarrays Where Max Element Appears at Least k Times](./two_pointers/count_subarrays_where_max_element_appears_at_least_k_times/description.md)
+- [Subarrays with k Different Integers](./two_pointers/subarrays_with_k_different_integers/description.md)
+- [Count Subarrays With Fixed Bounds](./two_pointers/count_subarrays_with_fixed_bounds/description.md)
+- [Boats to Save People](./two_pointers/boats_to_save_people/description.md)
+- [Shortest Subarray to be Removed to Make Array Sorted](./two_pointers/shortest_subarray_to_be_removed_to_make_array_sorted/description.md)
+- [Get Equal Substrings Within Budget](./two_pointers/get_equal_substrings_within_budget/description.md)
+- [Maximum Number of Robots Within Budget](./two_pointers/maximum_number_of_robots_within_budget/description.md)
+- [Count Number of Nice Subarrays](./two_pointers/count_number_of_nice_subarrays/description.md)
+- [Minimum Swaps to Group All 1's Together II](./two_pointers/minimum_swaps_to_group_all_1s_together_ii/description.md)
+- [Separate Black and White Balls](./two_pointers/separate_black_and_white_balls/description.md)
+
+## Recursion
+- [Notes](./recursion/notes.md)
+- Examples:
+  - [Find Kth Bit in Nth Binary String](./recursion/find_kth_bit_in_nth_binary_string/description.md)
+
 ## Top Questions from Microsoft
 - Easy Level Examples
   - [Two Sum](./Microsoft_top_questions/two_sum/description.md)
@@ -684,23 +706,6 @@ Table of Contents:
   - [Max Chunks to Make Sorted II](./Microsoft_top_questions/max_chunks_to_make_sorted_II/description.md)
   - [Partition Array into Two Arrays to Minimize Sum Difference](./Microsoft_top_questions/partition_array_into_two_arrays_to_minimize_sum_difference/description.md)
   - [Longest Path with Different Adjacent Characters](./Microsoft_top_questions/longest_path_with_different_adjacent_characters/description.md)
-
-## Two Pointers
-- [Rearrange Array Element by Sign](./two_pointers/rearrange_array_elements_by_sign/description.md)
-- [Squares of a Sorted Array](./two_pointers/squares_of_a_sorted_array/description.md)
-- [Minimum Length of String After Deleting Similar Ends](./two_pointers/minimum_length_of_string_after_deleting_similar_ends/description.md)
-- [Minimum Common Value](./two_pointers/minimum_common_value/description.md)
-- [Subarray Product Less Than k](./two_pointers/subarray_product_less_than_k/description.md)
-- [Count Subarrays Where Max Element Appears at Least k Times](./two_pointers/count_subarrays_where_max_element_appears_at_least_k_times/description.md)
-- [Subarrays with k Different Integers](./two_pointers/subarrays_with_k_different_integers/description.md)
-- [Count Subarrays With Fixed Bounds](./two_pointers/count_subarrays_with_fixed_bounds/description.md)
-- [Boats to Save People](./two_pointers/boats_to_save_people/description.md)
-- [Shortest Subarray to be Removed to Make Array Sorted](./two_pointers/shortest_subarray_to_be_removed_to_make_array_sorted/description.md)
-- [Get Equal Substrings Within Budget](./two_pointers/get_equal_substrings_within_budget/description.md)
-- [Maximum Number of Robots Within Budget](./two_pointers/maximum_number_of_robots_within_budget/description.md)
-- [Count Number of Nice Subarrays](./two_pointers/count_number_of_nice_subarrays/description.md)
-- [Minimum Swaps to Group All 1's Together II](./two_pointers/minimum_swaps_to_group_all_1s_together_ii/description.md)
-- [Separate Black and White Balls](./two_pointers/separate_black_and_white_balls/description.md)
 
 ## Neetcode.io
 #### Arrays and Hashing
