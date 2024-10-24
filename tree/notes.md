@@ -83,3 +83,4 @@ Table of Contents:
 #### [N-ary Tree Postorder Traversal](./n-ary_tree_postorder_traversal/description.md)
 #### [Kth Largest Sum in a Binary Tree](./kth_largest_sum_in_a_binary_tree/description.md)
 #### [Cousins in Binary Tree II](./cousins_in_binary_tree_ii/description.md)
+#### [Flip Equilvalent Binary Trees](./flip_equivalent_binary_trees/description.md)

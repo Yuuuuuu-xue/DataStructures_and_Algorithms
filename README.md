@@ -126,6 +126,7 @@ Table of Contents:
   - [N-ary Tree Postorder Traversal](./tree/n-ary_tree_postorder_traversal/description.md)
   - [Kth Largest Sum in a Binary Tree](./tree/kth_largest_sum_in_a_binary_tree/description.md)
   - [Cousins in Binary Tree II](./tree/cousins_in_binary_tree_ii/description.md)
+  - [Flip Equilvalent Binary Trees](./tree/flip_equivalent_binary_trees/description.md)
 - [Binary Search Tree Notes](./BST/notes.md)
   Examples:
   - [Implementation](BST/implementation/description.md)
