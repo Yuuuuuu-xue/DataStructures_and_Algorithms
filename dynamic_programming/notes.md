@@ -145,3 +145,4 @@ Table of Contents:
 #### [Freedom Trail](./freedom_trail/description.md)
 #### [Student Attendance Record II](./student_attendance_record_II/description.md)
 #### [Strange Printer](./strange_printer/description.md)
+#### [Minimum Total Distance Traveled](./minimum_total_distance_traveled/description.md)
