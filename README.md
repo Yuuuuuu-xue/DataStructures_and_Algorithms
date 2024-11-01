@@ -605,6 +605,7 @@ Table of Contents:
   - [Minimum Number of Swaps to Make the String Balanced](./array/minimum_number_of_swaps_to_make_the_string_balanced/description.md)
   - [Minimum Add to Make Parentheses Valid](./array/minimum_add_to_make_parentheses_valid/description.md)
   - [Longest Square Streak in an Array](./array/longest_square_streak_in_an_array/description.md)
+  - [Delete Characters to Make Fancy String](./array/delete_characters_to_make_fancy_string/description.md)
 
 ## Backtracking
 - Examples:
