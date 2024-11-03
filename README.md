@@ -607,6 +607,7 @@ Table of Contents:
   - [Longest Square Streak in an Array](./array/longest_square_streak_in_an_array/description.md)
   - [Delete Characters to Make Fancy String](./array/delete_characters_to_make_fancy_string/description.md)
   - [Circular Sentence](./array/circular_sentence/description.md)
+  - [Rotate String](./array/rotate_string/description.md)
 
 ## Backtracking
 - Examples:
