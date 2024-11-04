@@ -608,6 +608,7 @@ Table of Contents:
   - [Delete Characters to Make Fancy String](./array/delete_characters_to_make_fancy_string/description.md)
   - [Circular Sentence](./array/circular_sentence/description.md)
   - [Rotate String](./array/rotate_string/description.md)
+  - [String Compression III](./array/string_compression_III/description.md)
 
 ## Backtracking
 - Examples:
