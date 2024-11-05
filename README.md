@@ -368,6 +368,7 @@ Table of Contents:
   - [Minimum Difference Between Largest and Smallest Value in Three Moves](./greedy/minimum_difference_between_largest_and_smallest_value_in_three_moves/description.md)
   - [Maximum Score From Removing Substrings](./greedy/maximum_score_from_removing_substrings/description.md)
   - [Minimum Number of Pushes to Type Word II](./greedy/minimum_number_of_pushes_to_type_word_ii/description.md)
+  - [Minimum Number of Changes to Make Binary String Beautiful](./greedy/minimum_number_of_changes_to_make_binary_string_beautiful/description.md)
 
 ## Dynamic Programming
 - [Notes](./dynamic_programming/notes.md)
