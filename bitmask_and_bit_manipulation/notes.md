@@ -111,3 +111,4 @@ return (mask & (1 << k)) != 0
 #### [Count Triplets That Can Form Two Arrays of Equal XOR](./count_triplets_that_can_form_two_arrays_of_equal_xor/description.md)
 #### [Find if Array Can Be Sorted](./find_if_array_can_be_sorted/description.md)
 #### [Largest Combination With Bitwise AND Greater Than Zero](./largest_combination_with_bitwise_and_greater_than_zero/description.md)
+#### [Maximum XOR for Each Query](./maximum_xor_for_each_query/description.md)
