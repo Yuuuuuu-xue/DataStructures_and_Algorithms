@@ -112,3 +112,4 @@ return (mask & (1 << k)) != 0
 #### [Find if Array Can Be Sorted](./find_if_array_can_be_sorted/description.md)
 #### [Largest Combination With Bitwise AND Greater Than Zero](./largest_combination_with_bitwise_and_greater_than_zero/description.md)
 #### [Maximum XOR for Each Query](./maximum_xor_for_each_query/description.md)
+#### [Shortest Subarray With OR at Least K II](./shortest_subarray_with_or_at_least_k_ii/description.md)

@@ -68,3 +68,4 @@ A problem exhibits **optimal substructure** if an optimal solution to the proble
 #### [Maximum Score From Removing Substrings](./maximum_score_from_removing_substrings/description.md)
 #### [Minimum Number of Pushes to Type Word II](./minimum_number_of_pushes_to_type_word_ii/description.md)
 #### [Minimum Number of Changes to Make Binary String Beautiful](./minimum_number_of_changes_to_make_binary_string_beautiful/description.md)
+#### [Prime Subtraction Operation](./prime_subtraction_operation/description.md)

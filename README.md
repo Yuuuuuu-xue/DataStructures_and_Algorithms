@@ -369,6 +369,7 @@ Table of Contents:
   - [Maximum Score From Removing Substrings](./greedy/maximum_score_from_removing_substrings/description.md)
   - [Minimum Number of Pushes to Type Word II](./greedy/minimum_number_of_pushes_to_type_word_ii/description.md)
   - [Minimum Number of Changes to Make Binary String Beautiful](./greedy/minimum_number_of_changes_to_make_binary_string_beautiful/description.md)
+  - [Prime Subtraction Operation](./greedy/prime_subtraction_operation/description.md)
 
 ## Dynamic Programming
 - [Notes](./dynamic_programming/notes.md)
@@ -468,6 +469,7 @@ Table of Contents:
   - [Find if Array Can Be Sorted](./bitmask_and_bit_manipulation/find_if_array_can_be_sorted/description.md)
   - [Largest Combination With Bitwise AND Greater Than Zero](./bitmask_and_bit_manipulation/largest_combination_with_bitwise_and_greater_than_zero/description.md)
   - [Maximum XOR for Each Query](./bitmask_and_bit_manipulation/maximum_xor_for_each_query/description.md)
+  - [Shortest Subarray With OR at Least K II](./bitmask_and_bit_manipulation/shortest_subarray_with_or_at_least_k_ii/description.md)
 
 ## Fenwick Tree (Binary Indexed Tree)
 - [Notes](./fenwick_tree/notes.md)
