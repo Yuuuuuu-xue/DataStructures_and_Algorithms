@@ -239,6 +239,7 @@ Table of Contents:
   - [Minimum Time Difference](./sorting/minimum_time_difference/description.md)
   - [Rank Transform of an Array](./sorting/rank_transform_of_an_array/description.md)
   - [Divide Players Into Teams of Equal Skill](./sorting/divide_player_into_teams_of_equal_skill/description.md)
+  - [Most Beautiful Item for Each Query](./sorting/most_beautiful_item_for_each_query/description.md)
 
 ## Stack and Queue
 - [Notes](./stack_and_queue/notes.md)
