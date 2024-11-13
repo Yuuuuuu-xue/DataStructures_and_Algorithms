@@ -40,3 +40,4 @@ O(n lg n) sorting algorithms:
 - [Rank Transform of an Array](./rank_transform_of_an_array/description.md)
 - [Divide Players Into Teams of Equal SKill](./divide_player_into_teams_of_equal_skill/description.md)
 - [Most Beautiful Item for Each Query](./most_beautiful_item_for_each_query/description.md)
+- [Count the Number of Fair Pairs](./count_the_number_of_fair_pairs/description.md)
