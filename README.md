@@ -674,6 +674,7 @@ Table of Contents:
 - [Minimum Swaps to Group All 1's Together II](./two_pointers/minimum_swaps_to_group_all_1s_together_ii/description.md)
 - [Separate Black and White Balls](./two_pointers/separate_black_and_white_balls/description.md)
 - [Maximum Sum of Distinct Subarrays With Length K](./two_pointers/maximum_sum_of_distinct_subarrays_with_length_k/description.md)
+- [Take K of Each Character From Left and Right](./two_pointers/take_k_of_each_character_from_left_and_right/description.md)
 
 ## Recursion
 - [Notes](./recursion/notes.md)
