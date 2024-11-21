@@ -618,6 +618,7 @@ Table of Contents:
   - [Circular Sentence](./array/circular_sentence/description.md)
   - [Rotate String](./array/rotate_string/description.md)
   - [String Compression III](./array/string_compression_III/description.md)
+  - [Count Unguarded Cells in the Grid](./array/count_unguarded_cells_in_the_grid/description.md)
 
 ## Backtracking
 - Examples:
