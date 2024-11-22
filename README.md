@@ -211,6 +211,7 @@ Table of Contents:
   - [Create Binary Tree From Descriptions](./hashing/create_binary_tree_from_descriptions/description.md)
   - [Make Two Arrays Equal by Reversing Subarrays](./hashing/make_two_arrays_equal_by_reversing_subarrays/description.md)
   - [Kth Distinct String in an Array](./hashing/kth_distinct_string_in_an_array/description.md)
+  - [Flip Columns For Maximum Number of Equal Rows](./hashing/flip_columns_for_maximum_number_of_equal_rows/description.md)
 
 ## Sorting Algorithms
 - [Notes](./sorting/notes.md)
