@@ -621,6 +621,7 @@ Table of Contents:
   - [String Compression III](./array/string_compression_III/description.md)
   - [Count Unguarded Cells in the Grid](./array/count_unguarded_cells_in_the_grid/description.md)
   - [Rotating the Box](./array/rotating_the_box/description.md)
+  - [Maximum Matrix Sum](./array/maximum_matrix_sum/description.md)
 
 ## Backtracking
 - Examples:
