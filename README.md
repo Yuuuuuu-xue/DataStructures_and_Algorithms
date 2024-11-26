@@ -311,6 +311,7 @@ Table of Contents:
   - [Second Minimum Time to Reach Destination](./graphs/second_minimum_time_to_reach_destination/description.md)
   - [Most Stones Removed with Same Row or Column](./graphs/most_stones_removed_with_same_row_or_column/description.md)
   - [Sliding Puzzle](./graphs/sliding_puzzle/description.md)
+  - [Find Champion II](./graphs/find_champion_II/description.md)
 
 ## Dijkstra's Algorithm
 - [Notes](./dijkstra_algorithm/notes.md)
