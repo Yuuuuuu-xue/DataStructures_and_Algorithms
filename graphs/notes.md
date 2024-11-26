@@ -94,3 +94,4 @@ Table of Contents:
 #### [Second Minimum Time to Reach Destination](./second_minimum_time_to_reach_destination/description.md)
 #### [Most Stones Removed with Same Row or Column](./most_stones_removed_with_same_row_or_column/description.md)
 #### [Sliding Puzzle](./sliding_puzzle/description.md)
+#### [Find Champion II](./find_champion_II/description.md)
