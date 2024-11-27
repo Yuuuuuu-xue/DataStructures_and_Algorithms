@@ -95,3 +95,4 @@ Table of Contents:
 #### [Most Stones Removed with Same Row or Column](./most_stones_removed_with_same_row_or_column/description.md)
 #### [Sliding Puzzle](./sliding_puzzle/description.md)
 #### [Find Champion II](./find_champion_II/description.md)
+#### [Shortest Distance After Road ADdition Queries I](./shortest_distance_after_road_addition_queries_i/description.md)
