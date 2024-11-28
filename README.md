@@ -313,6 +313,7 @@ Table of Contents:
   - [Sliding Puzzle](./graphs/sliding_puzzle/description.md)
   - [Find Champion II](./graphs/find_champion_II/description.md)
   - [Shortest Distance After Road Addition Queries I](./graphs/shortest_distance_after_road_addition_queries_i/description.md)
+  - [Minimum Obstacle Removal to Reach Corner](./graphs/minimum_obstacle_removal_to_reach_corner/description.md)
 
 ## Dijkstra's Algorithm
 - [Notes](./dijkstra_algorithm/notes.md)
