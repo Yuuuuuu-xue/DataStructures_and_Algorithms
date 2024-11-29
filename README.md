@@ -321,6 +321,7 @@ Table of Contents:
   - [Minimum Costs to Make At Least One Valid Path](dijkstra_algorithm/minimum_costs_to_make_at_least_one_valid_path_in_a_grid/description.md)
   - [Path with Minimum Effort](./dijkstra_algorithm/path_with_minimum_effort/description.md)
   - [Find the Safest Path in a Grid](./dijkstra_algorithm/find_the_safest_path_in_a_grid/description.md)
+  - [Minimum Time to Visit a Cell in a Grid](./dijkstra_algorithm/minimum_time_to_visit_a_cell_in_a_grid/description.md)
 
 ## Floyd Warshall's Algorithm
 - [Notes](./floyd_warshall_algorithm/notes.md)
