@@ -97,3 +97,4 @@ Table of Contents:
 #### [Find Champion II](./find_champion_II/description.md)
 #### [Shortest Distance After Road ADdition Queries I](./shortest_distance_after_road_addition_queries_i/description.md)
 #### [Minimum Obstacle Removal to Reach Corner](./minimum_obstacle_removal_to_reach_corner/description.md)
+#### [Valid Arrangement of Pairs](./valid_arrangement_of_pairs/description.md)
