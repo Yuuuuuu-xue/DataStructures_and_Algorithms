@@ -628,6 +628,7 @@ Table of Contents:
   - [Count Unguarded Cells in the Grid](./array/count_unguarded_cells_in_the_grid/description.md)
   - [Rotating the Box](./array/rotating_the_box/description.md)
   - [Maximum Matrix Sum](./array/maximum_matrix_sum/description.md)
+  - [Check If a Word Occurs As a Prefix of Any Word in a Sentence](./array/check_if_a_word_occurs_as_a_prefix_of_any_word_in_a_sentence/description.md)
 
 ## Backtracking
 - Examples:
