@@ -687,6 +687,7 @@ Table of Contents:
 - [Maximum Sum of Distinct Subarrays With Length K](./two_pointers/maximum_sum_of_distinct_subarrays_with_length_k/description.md)
 - [Take K of Each Character From Left and Right](./two_pointers/take_k_of_each_character_from_left_and_right/description.md)
 - [Adding Spaces to a String](./two_pointers/adding_spaces_to_a_string/description.md)
+- [Make String a Subsequence Using Cyclic Increments](./two_pointers/make_string_a_subsequence_using_cyclic_increments/description.md)
 
 ## Recursion
 - [Notes](./recursion/notes.md)
