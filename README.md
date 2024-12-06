@@ -629,6 +629,7 @@ Table of Contents:
   - [Rotating the Box](./array/rotating_the_box/description.md)
   - [Maximum Matrix Sum](./array/maximum_matrix_sum/description.md)
   - [Check If a Word Occurs As a Prefix of Any Word in a Sentence](./array/check_if_a_word_occurs_as_a_prefix_of_any_word_in_a_sentence/description.md)
+  - [Maximum Number of Integers to Choose From a Range I](./array/maximum_number_of_integers_to_choose_from_a_range_i/description.md)
 
 ## Backtracking
 - Examples:
