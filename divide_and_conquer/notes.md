@@ -55,3 +55,4 @@ It applies to runtime of divide-and-conquer algorithms when subproblems all have
 #### [Magnetic Force Between Two Balls](./magnetic_force_between_two_balls/description.md)
 #### [Find Kth Smallest Pair Distance](./find_kth_smallest_pair_distance/description.md)
 #### [Minimized Maximum of Products Distributed to Any Store](./minimized_maximum_of_products_distributed_to_any_store/description.md)
+#### [Minimum Limit of Balls in a Bag](./minimum_limit_of_balls_in_a_bag/description.md)

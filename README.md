@@ -83,6 +83,7 @@ Table of Contents:
     - [Magnetic Force Between Two Balls](./divide_and_conquer/magnetic_force_between_two_balls/description.md)
     - [Find Kth Smallest Pair Distance](./divide_and_conquer/find_kth_smallest_pair_distance/description.md)
     - [Minimized Maximum of Products Distributed to Any Store](./divide_and_conquer/minimized_maximum_of_products_distributed_to_any_store/description.md)
+    - [Minimum Limit of Balls in a Bag](./divide_and_conquer/minimum_limit_of_balls_in_a_bag/description.md)
   
 ## Tree
 - [General Notes](./tree/notes.md)
