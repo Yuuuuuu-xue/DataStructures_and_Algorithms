@@ -169,6 +169,7 @@ Table of Contents:
   - [Smallest Range Covering Elements From K Lists](./priority_queue/smallest_range_covering_elements_from_k_lists/description.md)
   - [Maximal Score After Applying K Operations](./priority_queue/maximal_score_after_applying_k_operations/description.md)
   - [Maximum Swap](./priority_queue/maximum_swap/description.md)
+  - [Two Best Non-Overlapping Events](./priority_queue/two_best_non_overlapping_events/description.md)
 
 ## Hashing
 - [Notes](./hashing/notes.md)

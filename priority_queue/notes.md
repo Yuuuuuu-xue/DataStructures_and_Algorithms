@@ -71,3 +71,4 @@ Table of Contents:
 #### [Smallest Range Covering Elements From K Lists](./smallest_range_covering_elements_from_k_lists/description.md)
 #### [Maximal Score After Applying K Operations](./maximal_score_after_applying_k_operations/description.md)
 #### [Maximum Swap](./maximum_swap/description.md)
+#### [Two Best Non-Overlapping Events](./two_best_non_overlapping_events/description.md)
