@@ -694,6 +694,7 @@ Table of Contents:
 - [Adding Spaces to a String](./two_pointers/adding_spaces_to_a_string/description.md)
 - [Make String a Subsequence Using Cyclic Increments](./two_pointers/make_string_a_subsequence_using_cyclic_increments/description.md)
 - [Move Pieces to Obtain a String](./two_pointers/move_pieces_to_obtain_a_string/description.md)
+- [Maximum Beauty of an Array After Applying Operation](./two_pointers/maximum_beauty_of_an_array_after_applying_operation/description.md)
 
 ## Recursion
 - [Notes](./recursion/notes.md)
