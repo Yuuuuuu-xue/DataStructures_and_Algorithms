@@ -171,6 +171,7 @@ Table of Contents:
   - [Maximal Score After Applying K Operations](./priority_queue/maximal_score_after_applying_k_operations/description.md)
   - [Maximum Swap](./priority_queue/maximum_swap/description.md)
   - [Two Best Non-Overlapping Events](./priority_queue/two_best_non_overlapping_events/description.md)
+  - [Take Gifts From the Richest Pile](./priority_queue/take_gifts_from_the_richest_pile/description.md)
 
 ## Hashing
 - [Notes](./hashing/notes.md)

@@ -72,3 +72,4 @@ Table of Contents:
 #### [Maximal Score After Applying K Operations](./maximal_score_after_applying_k_operations/description.md)
 #### [Maximum Swap](./maximum_swap/description.md)
 #### [Two Best Non-Overlapping Events](./two_best_non_overlapping_events/description.md)
+#### [Take Gifts From the Richest Pile](./take_gifts_from_the_richest_pile/description.md)
