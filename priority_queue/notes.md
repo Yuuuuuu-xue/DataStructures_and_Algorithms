@@ -73,3 +73,4 @@ Table of Contents:
 #### [Maximum Swap](./maximum_swap/description.md)
 #### [Two Best Non-Overlapping Events](./two_best_non_overlapping_events/description.md)
 #### [Take Gifts From the Richest Pile](./take_gifts_from_the_richest_pile/description.md)
+#### [Find Score of an Array After Marking All Elements](./find_score_of_an_array_after_marking_all_elements/description.md)
