@@ -69,3 +69,4 @@ A problem exhibits **optimal substructure** if an optimal solution to the proble
 #### [Minimum Number of Pushes to Type Word II](./minimum_number_of_pushes_to_type_word_ii/description.md)
 #### [Minimum Number of Changes to Make Binary String Beautiful](./minimum_number_of_changes_to_make_binary_string_beautiful/description.md)
 #### [Prime Subtraction Operation](./prime_subtraction_operation/description.md)
+#### [Construct String With Repeat Limit](./construct_string_with_repeat_limit/description.md)
