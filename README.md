@@ -387,6 +387,7 @@ Table of Contents:
   - [Minimum Number of Changes to Make Binary String Beautiful](./greedy/minimum_number_of_changes_to_make_binary_string_beautiful/description.md)
   - [Prime Subtraction Operation](./greedy/prime_subtraction_operation/description.md)
   - [Construct String With Repeat Limit](./greedy/construct_string_with_repeat_limit/description.md)
+  - [Max Chunks to Make Sorted](./greedy/max_chunks_to_make_sorted/description.md)
 
 ## Dynamic Programming
 - [Notes](./dynamic_programming/notes.md)
