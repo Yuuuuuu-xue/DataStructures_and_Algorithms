@@ -322,6 +322,7 @@ Table of Contents:
   - [Minimum Obstacle Removal to Reach Corner](./graphs/minimum_obstacle_removal_to_reach_corner/description.md)
   - [Valid Arrangement of Pairs](./graphs/valid_arrangement_of_pairs/description.md)
   - [Reverse Odd Levels of Binary Tree](./graphs/reverse_odd_levels_of_binary_tree/description.md)
+  - [Maximum Number of K-Divisible Components](./graphs/maximum_number_of_k_divisible_components/description.md)
 
 ## Dijkstra's Algorithm
 - [Notes](./dijkstra_algorithm/notes.md)
