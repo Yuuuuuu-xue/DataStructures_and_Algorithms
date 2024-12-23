@@ -100,3 +100,4 @@ Table of Contents:
 #### [Valid Arrangement of Pairs](./valid_arrangement_of_pairs/description.md)
 #### [Reverse Odd Levels of Binary Tree](./reverse_odd_levels_of_binary_tree/description.md)
 #### [Maximum Number of K-Divisible Components](./maximum_number_of_k_divisible_components/description.md)
+#### [Minimum Number of Operations to Sort a Binary Tree by Level](./minimum_number_of_operations_to_sort_a_binary_tree_by_level/description.md)
