@@ -660,6 +660,7 @@ Table of Contents:
   - [Maximum Score Words Formed by Letters](./backtracking/maximum_score_words_formed_by_letters/description.md)
   - [Word Break II](./backtracking/word_break_II/description.md)
   - [Count Number of Maximum Bitwise or Subsets](./backtracking/count_number_of_maximum_bitwise_or_subsets/description.md)
+  - [Generate Parentheses](./backtracking/generate_parentheses/description.md)
   
 ## Math
 - Examples
