@@ -324,6 +324,7 @@ Table of Contents:
   - [Reverse Odd Levels of Binary Tree](./graphs/reverse_odd_levels_of_binary_tree/description.md)
   - [Maximum Number of K-Divisible Components](./graphs/maximum_number_of_k_divisible_components/description.md)
   - [Minimum Number of Operations to Sort a Binary Tree by Level](./graphs/minimum_number_of_operations_to_sort_a_binary_tree_by_level/description.md)
+  - [Find Minimum Diameter After Merging Two Trees](./graphs/find_minimum_diameter_after_merging_two_trees/description.md)
 
 ## Dijkstra's Algorithm
 - [Notes](./dijkstra_algorithm/notes.md)
