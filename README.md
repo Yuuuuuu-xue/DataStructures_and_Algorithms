@@ -644,6 +644,7 @@ Table of Contents:
   - [Check If a Word Occurs As a Prefix of Any Word in a Sentence](./array/check_if_a_word_occurs_as_a_prefix_of_any_word_in_a_sentence/description.md)
   - [Maximum Number of Integers to Choose From a Range I](./array/maximum_number_of_integers_to_choose_from_a_range_i/description.md)
   - [Special Array II](./array/special_array_ii/description.md)
+  - [Best Sightseeing Pair](./array/best_sightseeing_pair/description.md)
 
 ## Backtracking
 - Examples:
