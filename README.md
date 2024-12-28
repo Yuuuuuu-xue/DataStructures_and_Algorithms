@@ -707,6 +707,7 @@ Table of Contents:
 - [Make String a Subsequence Using Cyclic Increments](./two_pointers/make_string_a_subsequence_using_cyclic_increments/description.md)
 - [Move Pieces to Obtain a String](./two_pointers/move_pieces_to_obtain_a_string/description.md)
 - [Maximum Beauty of an Array After Applying Operation](./two_pointers/maximum_beauty_of_an_array_after_applying_operation/description.md)
+- [Maximum Sum of 3 Non-Overlapping Subarrays](./two_pointers/maximum_sum_of_3_non_overlapping_subarrays/description.md)
 
 ## Recursion
 - [Notes](./recursion/notes.md)
@@ -944,3 +945,6 @@ Table of Contents:
 - [Missing Number](./neetcode.io/bits_manipulation/missing_number/description.md)
 - [Sum of Two Integers](./neetcode.io/bits_manipulation/sum_of_two_integers/description.md)
 - [Reverse Integer](./neetcode.io/bits_manipulation/reverse_integer/description.md)
+
+## Good Problems For Review
+- [Maximum Sum of 3 Non-Overlapping Subarrays](./two_pointers/maximum_sum_of_3_non_overlapping_subarrays/description.md)
