@@ -459,6 +459,7 @@ Table of Contents:
   - [Student Attendance Record II](./dynamic_programming/student_attendance_record_II/description.md)
   - [Strange Printer](./dynamic_programming/strange_printer/description.md)
   - [Minimum Total Distance Traveled](./dynamic_programming/minimum_total_distance_traveled/description.md)
+  - [Number of Ways to Form a Target String Given a Dictionary](./dynamic_programming/number_of_ways_to_form_a_target_string_given_a_dictionary/description.md)
 
 ## Shorest Weight Path (Dijkstra Algorithm)
 - [Notes](./shortest_weight_path/notes.md)
@@ -948,3 +949,4 @@ Table of Contents:
 
 ## Good Problems For Review
 - [Maximum Sum of 3 Non-Overlapping Subarrays](./two_pointers/maximum_sum_of_3_non_overlapping_subarrays/description.md)
+- [Number of Ways to Form a Target String Given a Dictionary](./dynamic_programming/number_of_ways_to_form_a_target_string_given_a_dictionary/description.md)

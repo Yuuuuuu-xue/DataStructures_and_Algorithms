@@ -146,3 +146,4 @@ Table of Contents:
 #### [Student Attendance Record II](./student_attendance_record_II/description.md)
 #### [Strange Printer](./strange_printer/description.md)
 #### [Minimum Total Distance Traveled](./minimum_total_distance_traveled/description.md)
+#### [Number of Ways to Form a Target String Given a Dictionary](./number_of_ways_to_form_a_target_string_given_a_dictionary/description.md)
