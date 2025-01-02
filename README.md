@@ -647,6 +647,7 @@ Table of Contents:
   - [Maximum Number of Integers to Choose From a Range I](./array/maximum_number_of_integers_to_choose_from_a_range_i/description.md)
   - [Special Array II](./array/special_array_ii/description.md)
   - [Best Sightseeing Pair](./array/best_sightseeing_pair/description.md)
+  - [Count Vowel Strings in Ranges](./array/count_vowel_strings_in_ranges/description.md)
 
 ## Backtracking
 - Examples:
