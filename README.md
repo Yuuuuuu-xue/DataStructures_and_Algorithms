@@ -648,6 +648,7 @@ Table of Contents:
   - [Special Array II](./array/special_array_ii/description.md)
   - [Best Sightseeing Pair](./array/best_sightseeing_pair/description.md)
   - [Count Vowel Strings in Ranges](./array/count_vowel_strings_in_ranges/description.md)
+  - [Number of Ways to Split Array](./array/number_of_ways_to_split_array/description.md)
 
 ## Backtracking
 - Examples:
