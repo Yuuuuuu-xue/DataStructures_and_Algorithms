@@ -649,6 +649,7 @@ Table of Contents:
   - [Best Sightseeing Pair](./array/best_sightseeing_pair/description.md)
   - [Count Vowel Strings in Ranges](./array/count_vowel_strings_in_ranges/description.md)
   - [Number of Ways to Split Array](./array/number_of_ways_to_split_array/description.md)
+  - [Minimum Number of Operations to Move All Balls to Each Box](./array/minimum_number_of_operations_to_move_all_balls_to_each_box/description.md)
 
 ## Backtracking
 - Examples:
@@ -953,3 +954,4 @@ Table of Contents:
 ## Good Problems For Review
 - [Maximum Sum of 3 Non-Overlapping Subarrays](./two_pointers/maximum_sum_of_3_non_overlapping_subarrays/description.md)
 - [Number of Ways to Form a Target String Given a Dictionary](./dynamic_programming/number_of_ways_to_form_a_target_string_given_a_dictionary/description.md)
+- [Minimum Number of Operations to Move All Balls to Each Box](./array/minimum_number_of_operations_to_move_all_balls_to_each_box/description.md)
