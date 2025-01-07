@@ -249,6 +249,7 @@ Table of Contents:
   - [Divide Players Into Teams of Equal Skill](./sorting/divide_player_into_teams_of_equal_skill/description.md)
   - [Most Beautiful Item for Each Query](./sorting/most_beautiful_item_for_each_query/description.md)
   - [Count the Number of Fair Pairs](./sorting/count_the_number_of_fair_pairs/description.md)
+  - [String Matching in an Array](./sorting/string_matching_in_an_array/description.md)
 
 ## Stack and Queue
 - [Notes](./stack_and_queue/notes.md)
