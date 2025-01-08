@@ -517,6 +517,7 @@ Table of Contents:
   - [Find the Length of the Longest Common Prefix](./trie/find_the_length_of_the_longest_common_prefix/description.md)
   - [Sum of Prefix Scores of Strings](./trie/sum_of_prefix_scores_of_strings/description.md)
   - [Remove Sub Folders from the FileSystem](./trie/remove_sub_folders_from_the_filesystem/description.md)
+  - [Count Prefix and Suffix Pairs I](./trie/count_prefix_and_suffix_pairs_i/description.md)
 
 ## Linked List 
 - [Notes](./linked_list/notes.md)
@@ -956,3 +957,4 @@ Table of Contents:
 - [Maximum Sum of 3 Non-Overlapping Subarrays](./two_pointers/maximum_sum_of_3_non_overlapping_subarrays/description.md)
 - [Number of Ways to Form a Target String Given a Dictionary](./dynamic_programming/number_of_ways_to_form_a_target_string_given_a_dictionary/description.md)
 - [Minimum Number of Operations to Move All Balls to Each Box](./array/minimum_number_of_operations_to_move_all_balls_to_each_box/description.md)
+- [Count Prefix and Suffix Pairs I](./trie/count_prefix_and_suffix_pairs_i/description.md)
