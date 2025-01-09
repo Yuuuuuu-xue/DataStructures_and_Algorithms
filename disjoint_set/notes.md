@@ -22,3 +22,4 @@ We have the following operations:
 #### [Satisfiability of Equality Equations](./satisfiability_of_equality_equations/description.md)
 #### [Validate Binary Tree Nodes](./validate_binary_tree_nodes/description.md)
 #### [Making a Large Island](./making_a_large_island/description.md)
+#### [Longest Consecutive Sequence](./longest_consecutive_sequence/description.md)
