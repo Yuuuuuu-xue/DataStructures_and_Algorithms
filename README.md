@@ -518,6 +518,7 @@ Table of Contents:
   - [Sum of Prefix Scores of Strings](./trie/sum_of_prefix_scores_of_strings/description.md)
   - [Remove Sub Folders from the FileSystem](./trie/remove_sub_folders_from_the_filesystem/description.md)
   - [Count Prefix and Suffix Pairs I](./trie/count_prefix_and_suffix_pairs_i/description.md)
+  - [Counting Words With a Given Prefix](./trie/counting_words_with_a_given_prefix/description.md)
 
 ## Linked List 
 - [Notes](./linked_list/notes.md)
