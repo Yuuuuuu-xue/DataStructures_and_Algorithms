@@ -654,6 +654,7 @@ Table of Contents:
   - [Count Vowel Strings in Ranges](./array/count_vowel_strings_in_ranges/description.md)
   - [Number of Ways to Split Array](./array/number_of_ways_to_split_array/description.md)
   - [Minimum Number of Operations to Move All Balls to Each Box](./array/minimum_number_of_operations_to_move_all_balls_to_each_box/description.md)
+  - [Word Subsets](./array/word_subsets/description.md)
 
 ## Backtracking
 - Examples:
@@ -960,3 +961,4 @@ Table of Contents:
 - [Number of Ways to Form a Target String Given a Dictionary](./dynamic_programming/number_of_ways_to_form_a_target_string_given_a_dictionary/description.md)
 - [Minimum Number of Operations to Move All Balls to Each Box](./array/minimum_number_of_operations_to_move_all_balls_to_each_box/description.md)
 - [Count Prefix and Suffix Pairs I](./trie/count_prefix_and_suffix_pairs_i/description.md)
+- [Longest Consecutive Sequence](./disjoint_set/longest_consecutive_sequence/description.md)
