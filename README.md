@@ -655,6 +655,7 @@ Table of Contents:
   - [Number of Ways to Split Array](./array/number_of_ways_to_split_array/description.md)
   - [Minimum Number of Operations to Move All Balls to Each Box](./array/minimum_number_of_operations_to_move_all_balls_to_each_box/description.md)
   - [Word Subsets](./array/word_subsets/description.md)
+  - [Construct K Palindrome Strings](./array/construct_k_palindrome_strings/description.md)
 
 ## Backtracking
 - Examples:
