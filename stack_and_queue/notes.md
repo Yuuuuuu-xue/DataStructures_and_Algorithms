@@ -40,3 +40,4 @@ Table of Contents:
 #### [Robot Collisions](./robot_collisions/description.md)
 #### [Design a Stack with Increment Operation](./design_a_stack_with_increment_operation/description.md)
 #### [Minimum String Length After Removing Substrings](./minimum_string_length_after_removing_substrings/description.md)
+#### [Check if a Parentheses String Can Be Valid](./check_if_a_parentheses_string_can_be_valid/description.md)
