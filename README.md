@@ -657,6 +657,7 @@ Table of Contents:
   - [Minimum Number of Operations to Move All Balls to Each Box](./array/minimum_number_of_operations_to_move_all_balls_to_each_box/description.md)
   - [Word Subsets](./array/word_subsets/description.md)
   - [Construct K Palindrome Strings](./array/construct_k_palindrome_strings/description.md)
+  - [Minimum Length of String After Operations](./array/minimum_length_of_string_after_operations/description.md)
 
 ## Backtracking
 - Examples:
