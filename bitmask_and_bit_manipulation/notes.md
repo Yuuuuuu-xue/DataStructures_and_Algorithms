@@ -113,3 +113,4 @@ return (mask & (1 << k)) != 0
 #### [Largest Combination With Bitwise AND Greater Than Zero](./largest_combination_with_bitwise_and_greater_than_zero/description.md)
 #### [Maximum XOR for Each Query](./maximum_xor_for_each_query/description.md)
 #### [Shortest Subarray With OR at Least K II](./shortest_subarray_with_or_at_least_k_ii/description.md)
+#### [Minimize XOR](./minimize_xor/description.md)
