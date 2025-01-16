@@ -114,3 +114,4 @@ return (mask & (1 << k)) != 0
 #### [Maximum XOR for Each Query](./maximum_xor_for_each_query/description.md)
 #### [Shortest Subarray With OR at Least K II](./shortest_subarray_with_or_at_least_k_ii/description.md)
 #### [Minimize XOR](./minimize_xor/description.md)
+#### [Bitwise XOR of All Pairings](./bitwise_xor_of_all_pairings/description.md)
