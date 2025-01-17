@@ -501,6 +501,7 @@ Table of Contents:
   - [Shortest Subarray With OR at Least K II](./bitmask_and_bit_manipulation/shortest_subarray_with_or_at_least_k_ii/description.md)
   - [Minimize XOR](./bitmask_and_bit_manipulation/minimize_xor/description.md)
   - [Bitwise XCOR of All Pairings](./bitmask_and_bit_manipulation/bitwise_xor_of_all_pairings/description.md)
+  - [Neighboring Bitwise XOR](./bitmask_and_bit_manipulation/neighboring_bitwise_xor/description.md)
 
 ## Fenwick Tree (Binary Indexed Tree)
 - [Notes](./fenwick_tree/notes.md)
