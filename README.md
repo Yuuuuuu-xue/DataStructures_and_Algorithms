@@ -663,6 +663,7 @@ Table of Contents:
   - [Word Subsets](./array/word_subsets/description.md)
   - [Construct K Palindrome Strings](./array/construct_k_palindrome_strings/description.md)
   - [Minimum Length of String After Operations](./array/minimum_length_of_string_after_operations/description.md)
+  - [Grid Game](./array/grid_game/description.md)
 
 ## Backtracking
 - Examples:
@@ -970,3 +971,4 @@ Table of Contents:
 - [Minimum Number of Operations to Move All Balls to Each Box](./array/minimum_number_of_operations_to_move_all_balls_to_each_box/description.md)
 - [Count Prefix and Suffix Pairs I](./trie/count_prefix_and_suffix_pairs_i/description.md)
 - [Longest Consecutive Sequence](./disjoint_set/longest_consecutive_sequence/description.md)
+- [Grid Game](./array/grid_game/description.md)
