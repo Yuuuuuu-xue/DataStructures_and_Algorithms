@@ -103,3 +103,4 @@ Table of Contents:
 #### [Minimum Number of Operations to Sort a Binary Tree by Level](./minimum_number_of_operations_to_sort_a_binary_tree_by_level/description.md)
 #### [Find Minimum Diameter After Merging Two Trees](./find_minimum_diameter_after_merging_two_trees/description.md)
 #### [Find Largest Value in Each Tree Row](./find_largest_value_in_each_tree_row/description.md)
+#### [Map of Highest Peak](./map_of_highest_peak/description.md)
