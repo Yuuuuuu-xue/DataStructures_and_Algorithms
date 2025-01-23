@@ -362,6 +362,7 @@ Table of Contents:
   - [Validate Binary Tree Nodes](./disjoint_set/validate_binary_tree_nodes/description.md)
   - [Making a Large Island](./disjoint_set/making_a_large_island/description.md)
   - [Longest Consecutive Sequence](./disjoint_set/longest_consecutive_sequence/description.md)
+  - [Count Servers that Communicate](./disjoint_set/count_servers_that_communicate/description.md)
 
 ## Greedy Algorithm
 - [Notes](./greedy/notes.md)
@@ -973,3 +974,4 @@ Table of Contents:
 - [Count Prefix and Suffix Pairs I](./trie/count_prefix_and_suffix_pairs_i/description.md)
 - [Longest Consecutive Sequence](./disjoint_set/longest_consecutive_sequence/description.md)
 - [Grid Game](./array/grid_game/description.md)
+- [Count Servers that Communicate](./disjoint_set/count_servers_that_communicate/description.md)
