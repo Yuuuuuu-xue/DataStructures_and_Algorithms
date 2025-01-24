@@ -705,6 +705,7 @@ Table of Contents:
   - [Longest Increasing Path in a Matrix](topological_sort/longest_increasing_path_in_a_matrix/description.md)
   - [Parallel Courses](topological_sort/parallel_courses/description.md)
   - [Parallel Courses III](./topological_sort/parallel_courses_III/description.md)
+  - [Find Eventual Safe States](./topological_sort/find_eventual_safe_states/description.md)
 
 ## Two Pointers
 - [Rearrange Array Element by Sign](./two_pointers/rearrange_array_elements_by_sign/description.md)
@@ -975,3 +976,4 @@ Table of Contents:
 - [Longest Consecutive Sequence](./disjoint_set/longest_consecutive_sequence/description.md)
 - [Grid Game](./array/grid_game/description.md)
 - [Count Servers that Communicate](./disjoint_set/count_servers_that_communicate/description.md)
+- [Find Eventual Safe States](./topological_sort/find_eventual_safe_states/description.md)
