@@ -42,3 +42,4 @@ O(n lg n) sorting algorithms:
 - [Most Beautiful Item for Each Query](./most_beautiful_item_for_each_query/description.md)
 - [Count the Number of Fair Pairs](./count_the_number_of_fair_pairs/description.md)
 - [String Matching in an Array](./string_matching_in_an_array/description.md)
+- [Make Lexicographically Smallest Array by Swapping Elements](./make_lexicographically_smallest_array_by_swapping_elements/description.md)
