@@ -707,6 +707,7 @@ Table of Contents:
   - [Parallel Courses](topological_sort/parallel_courses/description.md)
   - [Parallel Courses III](./topological_sort/parallel_courses_III/description.md)
   - [Find Eventual Safe States](./topological_sort/find_eventual_safe_states/description.md)
+  - [Maximum Employees to Be Invitied to a Meeting](./topological_sort/maximum_employees_to_be_invited_to_a_meeting/description.md)
 
 ## Two Pointers
 - [Rearrange Array Element by Sign](./two_pointers/rearrange_array_elements_by_sign/description.md)
@@ -978,3 +979,4 @@ Table of Contents:
 - [Grid Game](./array/grid_game/description.md)
 - [Count Servers that Communicate](./disjoint_set/count_servers_that_communicate/description.md)
 - [Find Eventual Safe States](./topological_sort/find_eventual_safe_states/description.md)
+- [Maximum Employees to Be Invited to a Meeting](./topological_sort/maximum_employees_to_be_invited_to_a_meeting/description.md)

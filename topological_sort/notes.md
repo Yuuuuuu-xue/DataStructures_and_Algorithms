@@ -28,3 +28,4 @@ A topological sort is a graph traversal in which each node `v` is visited only a
 #### [Alien Dictionary](alien_dictionary/description.md)
 #### [Parallel Courses III](./parallel_courses_III/description.md)
 #### [Find Eventual Safe States](./find_eventual_safe_states/description.md)
+#### [Maximum Employees to Be Invited to a Meeting](./maximum_employees_to_be_invited_to_a_meeting/description.md)
