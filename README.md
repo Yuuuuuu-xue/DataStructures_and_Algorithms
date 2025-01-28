@@ -364,6 +364,7 @@ Table of Contents:
   - [Making a Large Island](./disjoint_set/making_a_large_island/description.md)
   - [Longest Consecutive Sequence](./disjoint_set/longest_consecutive_sequence/description.md)
   - [Count Servers that Communicate](./disjoint_set/count_servers_that_communicate/description.md)
+  - [Maximum Number of Fish in a Grid](./disjoint_set/maximum_number_of_fish_in_a_grid/description.md)
 
 ## Greedy Algorithm
 - [Notes](./greedy/notes.md)
@@ -980,3 +981,4 @@ Table of Contents:
 - [Count Servers that Communicate](./disjoint_set/count_servers_that_communicate/description.md)
 - [Find Eventual Safe States](./topological_sort/find_eventual_safe_states/description.md)
 - [Maximum Employees to Be Invited to a Meeting](./topological_sort/maximum_employees_to_be_invited_to_a_meeting/description.md)
+- [Maximum Number of Fish in a Grid](./disjoint_set/maximum_number_of_fish_in_a_grid/description.md)

@@ -24,3 +24,4 @@ We have the following operations:
 #### [Making a Large Island](./making_a_large_island/description.md)
 #### [Longest Consecutive Sequence](./longest_consecutive_sequence/description.md)
 #### [Count Servers that Communicate](./count_servers_that_communicate/description.md)
+#### [Maximum Number of Fish in a Grid](./maximum_number_of_fish_in_a_grid/description.md)
