@@ -332,6 +332,7 @@ Table of Contents:
   - [Find Minimum Diameter After Merging Two Trees](./graphs/find_minimum_diameter_after_merging_two_trees/description.md)
   - [Find Largest Value in Each Tree Row](./graphs/find_largest_value_in_each_tree_row/description.md)
   - [Map of Highest Peak](./graphs/map_of_highest_peak/description.md)
+  - [Divide Nodes Into the Maximum Number of Groups](./graphs/divide_nodes_into_the_maximum_number_of_groups/description.md)
 
 ## Dijkstra's Algorithm
 - [Notes](./dijkstra_algorithm/notes.md)

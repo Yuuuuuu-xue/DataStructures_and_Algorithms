@@ -104,3 +104,4 @@ Table of Contents:
 #### [Find Minimum Diameter After Merging Two Trees](./find_minimum_diameter_after_merging_two_trees/description.md)
 #### [Find Largest Value in Each Tree Row](./find_largest_value_in_each_tree_row/description.md)
 #### [Map of Highest Peak](./map_of_highest_peak/description.md)
+#### [Divide Nodes Into the Maximum Number of Groups](./divide_nodes_into_the_maximum_number_of_groups/description.md)
