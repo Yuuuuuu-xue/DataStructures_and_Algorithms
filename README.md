@@ -670,6 +670,7 @@ Table of Contents:
   - [Minimum Length of String After Operations](./array/minimum_length_of_string_after_operations/description.md)
   - [Grid Game](./array/grid_game/description.md)
   - [Special Array I](./array/special_array_i/description.md)
+  - [Check if Array Is Sorted and Rotated](./array/check_if_array_is_sorted_and_rotated/description.md)
 
 ## Backtracking
 - Examples:
