@@ -671,6 +671,7 @@ Table of Contents:
   - [Grid Game](./array/grid_game/description.md)
   - [Special Array I](./array/special_array_i/description.md)
   - [Check if Array Is Sorted and Rotated](./array/check_if_array_is_sorted_and_rotated/description.md)
+  - [Longest Strictly Increasing or Strictly Decreasing Subarray](./array/longest_strictly_increasing_or_strictly_decreasing_subarray/description.md)
 
 ## Backtracking
 - Examples:
