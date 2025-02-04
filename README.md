@@ -672,6 +672,7 @@ Table of Contents:
   - [Special Array I](./array/special_array_i/description.md)
   - [Check if Array Is Sorted and Rotated](./array/check_if_array_is_sorted_and_rotated/description.md)
   - [Longest Strictly Increasing or Strictly Decreasing Subarray](./array/longest_strictly_increasing_or_strictly_decreasing_subarray/description.md)
+  - [Maximum Ascending Subarray Sum](./array/maximum_ascending_subarray_sum/description.md)
 
 ## Backtracking
 - Examples:
