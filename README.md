@@ -673,6 +673,7 @@ Table of Contents:
   - [Check if Array Is Sorted and Rotated](./array/check_if_array_is_sorted_and_rotated/description.md)
   - [Longest Strictly Increasing or Strictly Decreasing Subarray](./array/longest_strictly_increasing_or_strictly_decreasing_subarray/description.md)
   - [Maximum Ascending Subarray Sum](./array/maximum_ascending_subarray_sum/description.md)
+  - [Check if One String Swap Can Make Strings Equal](./array/check_if_one_string_swap_can_make_strings_equal/description.md)
 
 ## Backtracking
 - Examples:
