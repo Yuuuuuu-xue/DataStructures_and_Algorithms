@@ -100,3 +100,4 @@ For each slot, we have a linked list. So when collision occurs, we just add it t
 #### [Flip Columns For Maximum Number of Equal Rows](./flip_columns_for_maximum_number_of_equal_rows/description.md)
 #### [Find the Prefix Common Array of Two Arrays](./find_the_prefix_common_array_of_two_arrays/description.md)
 #### [First Completely Painted Row or Column](./first_completely_painted_row_or_column/description.md)
+#### [Tuple with Same Product](./tuple_with_same_product/description.md)
