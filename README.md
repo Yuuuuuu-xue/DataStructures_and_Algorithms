@@ -174,6 +174,7 @@ Table of Contents:
   - [Take Gifts From the Richest Pile](./priority_queue/take_gifts_from_the_richest_pile/description.md)
   - [Find Score of an Array After Marking All Elements](./priority_queue/find_score_of_an_array_after_marking_all_elements/description.md)
   - [Final Array State After K Multiplication Operations I](./priority_queue/final_array_state_after_k_multiplication_operations_i/description.md)
+  - [Design a Number Container System](./priority_queue/design_a_number_container_system/description.md)
 
 ## Hashing
 - [Notes](./hashing/notes.md)
