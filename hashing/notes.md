@@ -101,3 +101,4 @@ For each slot, we have a linked list. So when collision occurs, we just add it t
 #### [Find the Prefix Common Array of Two Arrays](./find_the_prefix_common_array_of_two_arrays/description.md)
 #### [First Completely Painted Row or Column](./first_completely_painted_row_or_column/description.md)
 #### [Tuple with Same Product](./tuple_with_same_product/description.md)
+#### [Find the Number of Distinct Colors Among the Balls](./find_the_number_of_distinct_colors_among_the_balls/description.md)

@@ -222,6 +222,7 @@ Table of Contents:
   - [Find the Prefix Common Array of Two Arrays](./hashing/find_the_prefix_common_array_of_two_arrays/description.md)
   - [First Completely Painted Row or Column](./hashing/first_completely_painted_row_or_column/description.md)
   - [Tuple with Same Product](./hashing/tuple_with_same_product/description.md)
+  - [Find the Number of Distinct Colors Among the Balls](./hashing/find_the_number_of_distinct_colors_among_the_balls/description.md)
 
 ## Sorting Algorithms
 - [Notes](./sorting/notes.md)
