@@ -282,6 +282,7 @@ Table of Contents:
   - [Design a Stack with Increment Operation](./stack_and_queue/design_a_stack_with_increment_operation/description.md)
   - [Minimum String Length After Removing Substrings](./stack_and_queue/minimum_string_length_after_removing_substrings/description.md)
   - [Check if a Parentheses String Can Be Valid](./stack_and_queue/check_if_a_parentheses_string_can_be_valid/description.md)
+  - [Clear Digits](./stack_and_queue/clear_digits/description.md)
 
 ## Monotonic Stack
 - [Notes](./monotonic_stack/notes.md)
