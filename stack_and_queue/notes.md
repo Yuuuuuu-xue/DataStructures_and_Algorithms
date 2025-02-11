@@ -42,3 +42,4 @@ Table of Contents:
 #### [Minimum String Length After Removing Substrings](./minimum_string_length_after_removing_substrings/description.md)
 #### [Check if a Parentheses String Can Be Valid](./check_if_a_parentheses_string_can_be_valid/description.md)
 #### [Clear Digits](./clear_digits/description.md)
+#### [Remove All Occurrences of a Substring](./remove_all_occurrences_of_a_substring/description.md)
