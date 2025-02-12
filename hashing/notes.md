@@ -102,3 +102,4 @@ For each slot, we have a linked list. So when collision occurs, we just add it t
 #### [First Completely Painted Row or Column](./first_completely_painted_row_or_column/description.md)
 #### [Tuple with Same Product](./tuple_with_same_product/description.md)
 #### [Find the Number of Distinct Colors Among the Balls](./find_the_number_of_distinct_colors_among_the_balls/description.md)
+#### [Max Sum of a Pair With Equal Sum of Digits](./max_sum_of_a_pair_with_equal_sum_of_digits/description.md)

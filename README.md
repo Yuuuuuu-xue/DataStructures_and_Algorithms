@@ -223,6 +223,7 @@ Table of Contents:
   - [First Completely Painted Row or Column](./hashing/first_completely_painted_row_or_column/description.md)
   - [Tuple with Same Product](./hashing/tuple_with_same_product/description.md)
   - [Find the Number of Distinct Colors Among the Balls](./hashing/find_the_number_of_distinct_colors_among_the_balls/description.md)
+  - [Max Sum of a Pair With Equal Sum of Digits](./hashing/max_sum_of_a_pair_with_equal_sum_of_digits/description.md)
 
 ## Sorting Algorithms
 - [Notes](./sorting/notes.md)
