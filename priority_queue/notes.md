@@ -76,3 +76,4 @@ Table of Contents:
 #### [Find Score of an Array After Marking All Elements](./find_score_of_an_array_after_marking_all_elements/description.md)
 #### [Final Array State After K Multiplication Operations I](./final_array_state_after_k_multiplication_operations_i/description.md)
 #### [Design a Number Container System](./design_a_number_container_system/description.md)
+#### [Minimum Operations to Exceed Threshold Value II](./minimum_operations_to_exceed_threshold_value_II/description.md)

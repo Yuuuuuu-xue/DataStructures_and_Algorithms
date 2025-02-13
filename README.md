@@ -175,6 +175,7 @@ Table of Contents:
   - [Find Score of an Array After Marking All Elements](./priority_queue/find_score_of_an_array_after_marking_all_elements/description.md)
   - [Final Array State After K Multiplication Operations I](./priority_queue/final_array_state_after_k_multiplication_operations_i/description.md)
   - [Design a Number Container System](./priority_queue/design_a_number_container_system/description.md)
+  - [Minimum Operations to Exceed Threshold Value II](./priority_queue/minimum_operations_to_exceed_threshold_value_II/description.md)
 
 ## Hashing
 - [Notes](./hashing/notes.md)
