@@ -701,6 +701,7 @@ Table of Contents:
   - [Word Break II](./backtracking/word_break_II/description.md)
   - [Count Number of Maximum Bitwise or Subsets](./backtracking/count_number_of_maximum_bitwise_or_subsets/description.md)
   - [Generate Parentheses](./backtracking/generate_parentheses/description.md)
+  - [Constuct the Lexicographically Largest Valid Sequence](./backtracking/construct_the_lexicographically_largest_valid_sequence/description.md)
   
 ## Math
 - Examples
@@ -996,3 +997,4 @@ Table of Contents:
 - [Find Eventual Safe States](./topological_sort/find_eventual_safe_states/description.md)
 - [Maximum Employees to Be Invited to a Meeting](./topological_sort/maximum_employees_to_be_invited_to_a_meeting/description.md)
 - [Maximum Number of Fish in a Grid](./disjoint_set/maximum_number_of_fish_in_a_grid/description.md)
+- [Construct the Lexicographically Largest Valid Sequence](./backtracking/construct_the_lexicographically_largest_valid_sequence/description.md)
