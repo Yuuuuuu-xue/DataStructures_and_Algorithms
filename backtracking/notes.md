@@ -47,3 +47,4 @@ Then `n = 4` and thus overall runtime is `O(n ^ k) = O(4 ^ k)`
 - [Count Number of Maximum Bitwise or Subsets](./count_number_of_maximum_bitwise_or_subsets/description.md)
 - [Generate Parentheses](./generate_parentheses/description.md)
 - [Construct the Lexicographically Largest Valid Sequence](./construct_the_lexicographically_largest_valid_sequence/description.md)
+- [Letter Tile Possibilities](./letter_tile_possibilities/description.md)

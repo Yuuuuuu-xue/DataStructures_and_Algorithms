@@ -702,6 +702,7 @@ Table of Contents:
   - [Count Number of Maximum Bitwise or Subsets](./backtracking/count_number_of_maximum_bitwise_or_subsets/description.md)
   - [Generate Parentheses](./backtracking/generate_parentheses/description.md)
   - [Constuct the Lexicographically Largest Valid Sequence](./backtracking/construct_the_lexicographically_largest_valid_sequence/description.md)
+  - [Letter Tile Possibilities](./backtracking/letter_tile_possibilities/description.md)
   
 ## Math
 - Examples
