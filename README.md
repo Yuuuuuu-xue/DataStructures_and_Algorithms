@@ -703,6 +703,7 @@ Table of Contents:
   - [Generate Parentheses](./backtracking/generate_parentheses/description.md)
   - [Constuct the Lexicographically Largest Valid Sequence](./backtracking/construct_the_lexicographically_largest_valid_sequence/description.md)
   - [Letter Tile Possibilities](./backtracking/letter_tile_possibilities/description.md)
+  - [The k-th Lexicographical String of All Happy Strings of Length n](./backtracking/the_kth_lexicographical_string_of_all_happy_strings_of_length_n/description.md)
   
 ## Math
 - Examples
