@@ -286,6 +286,7 @@ Table of Contents:
   - [Check if a Parentheses String Can Be Valid](./stack_and_queue/check_if_a_parentheses_string_can_be_valid/description.md)
   - [Clear Digits](./stack_and_queue/clear_digits/description.md)
   - [Remove All Occurrences of a Substring](./stack_and_queue/remove_all_occurrences_of_a_substring/description.md)
+  - [Recover a Tree From Preorder Traversal](./stack_and_queue/recover_a_tree_from_preorder_traversal/description.md)
 
 ## Monotonic Stack
 - [Notes](./monotonic_stack/notes.md)
