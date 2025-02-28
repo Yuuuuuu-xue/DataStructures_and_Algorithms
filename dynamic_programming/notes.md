@@ -148,3 +148,4 @@ Table of Contents:
 #### [Minimum Total Distance Traveled](./minimum_total_distance_traveled/description.md)
 #### [Number of Ways to Form a Target String Given a Dictionary](./number_of_ways_to_form_a_target_string_given_a_dictionary/description.md)
 #### [Count Ways To Build Good Strings](./count_ways_to_build_good_strings/description.md)
+#### [Shortest Common Supersequence](./shortest_common_supersequence/description.md)
