@@ -684,6 +684,7 @@ Table of Contents:
   - [Maximum Ascending Subarray Sum](./array/maximum_ascending_subarray_sum/description.md)
   - [Check if One String Swap Can Make Strings Equal](./array/check_if_one_string_swap_can_make_strings_equal/description.md)
   - [Product of the Last K Numbers](./array/product_of_the_last_k_numbers/description.md)
+  - [Apply Operations to an Array](./array/apply_operations_to_an_array/description.md)
 
 ## Backtracking
 - Examples:
