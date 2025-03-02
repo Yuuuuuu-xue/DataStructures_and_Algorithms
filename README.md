@@ -753,6 +753,7 @@ Table of Contents:
 - [Move Pieces to Obtain a String](./two_pointers/move_pieces_to_obtain_a_string/description.md)
 - [Maximum Beauty of an Array After Applying Operation](./two_pointers/maximum_beauty_of_an_array_after_applying_operation/description.md)
 - [Maximum Sum of 3 Non-Overlapping Subarrays](./two_pointers/maximum_sum_of_3_non_overlapping_subarrays/description.md)
+- [Merge Two 2D Arrays by Summing Values](./two_pointers/merge_two_2d_arrays_by_summing_values/description.md)
 
 ## Recursion
 - [Notes](./recursion/notes.md)
