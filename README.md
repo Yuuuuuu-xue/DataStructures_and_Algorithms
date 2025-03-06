@@ -686,6 +686,7 @@ Table of Contents:
   - [Product of the Last K Numbers](./array/product_of_the_last_k_numbers/description.md)
   - [Apply Operations to an Array](./array/apply_operations_to_an_array/description.md)
   - [Partition Array According to Given Pivot](./array/partition_array_according_to_given_pivot/description.md)
+  - [Find Missing and Repeated Values](./array/find_missing_and_repeated_values/description.md)
 
 ## Backtracking
 - Examples:
