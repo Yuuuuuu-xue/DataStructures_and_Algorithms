@@ -757,6 +757,7 @@ Table of Contents:
 - [Maximum Sum of 3 Non-Overlapping Subarrays](./two_pointers/maximum_sum_of_3_non_overlapping_subarrays/description.md)
 - [Merge Two 2D Arrays by Summing Values](./two_pointers/merge_two_2d_arrays_by_summing_values/description.md)
 - [Alternating Groups II](./two_pointers/alternating_groups_ii/description.md)
+- [Count of Substrings Containing Every Vowel and K Consonants II](./two_pointers/count_of_substrings_containing_every_vowel_and_k_consonants_ii/description.md)
 
 ## Recursion
 - [Notes](./recursion/notes.md)
