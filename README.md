@@ -758,6 +758,8 @@ Table of Contents:
 - [Merge Two 2D Arrays by Summing Values](./two_pointers/merge_two_2d_arrays_by_summing_values/description.md)
 - [Alternating Groups II](./two_pointers/alternating_groups_ii/description.md)
 - [Count of Substrings Containing Every Vowel and K Consonants II](./two_pointers/count_of_substrings_containing_every_vowel_and_k_consonants_ii/description.md)
+- [Number of Substrings Containing All Three Characters](./two_pointers/number_of_substrings_containing_all_three_characters/description.md)
+
 
 ## Recursion
 - [Notes](./recursion/notes.md)
@@ -1008,3 +1010,4 @@ Table of Contents:
 - [Maximum Employees to Be Invited to a Meeting](./topological_sort/maximum_employees_to_be_invited_to_a_meeting/description.md)
 - [Maximum Number of Fish in a Grid](./disjoint_set/maximum_number_of_fish_in_a_grid/description.md)
 - [Construct the Lexicographically Largest Valid Sequence](./backtracking/construct_the_lexicographically_largest_valid_sequence/description.md)
+- [Number of Substrings Containing All Three Characters](./two_pointers/number_of_substrings_containing_all_three_characters/description.md)
