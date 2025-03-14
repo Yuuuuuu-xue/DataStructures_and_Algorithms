@@ -58,3 +58,4 @@ It applies to runtime of divide-and-conquer algorithms when subproblems all have
 #### [Minimum Limit of Balls in a Bag](./minimum_limit_of_balls_in_a_bag/description.md)
 #### [Find Longest Special Substring That Occurs Thrice I](./find_longest_special_substring_that_occurs_thrice_i/description.md)
 #### [Zero Array Transformation II](./zero_array_transformation_ii/description.md)
+#### [Maximum Candies Allocated to K Children](./maximum_candies_allocated_to_k_children/description.md)
