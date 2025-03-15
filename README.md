@@ -87,6 +87,7 @@ Table of Contents:
     - [Find Longest Special Substring That Occurs Thrice I](./divide_and_conquer/find_longest_special_substring_that_occurs_thrice_i/description.md)
     - [Zero Array Transformation II](./divide_and_conquer/zero_array_transformation_ii/description.md)
     - [Maximum Candies Allocated to K Children](./divide_and_conquer/maximum_candies_allocated_to_k_children/description.md)
+    - [House Robber IV](./divide_and_conquer/house_robber_iv/description.md)
   
 ## Tree
 - [General Notes](./tree/notes.md)
