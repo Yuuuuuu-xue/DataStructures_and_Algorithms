@@ -60,3 +60,4 @@ It applies to runtime of divide-and-conquer algorithms when subproblems all have
 #### [Zero Array Transformation II](./zero_array_transformation_ii/description.md)
 #### [Maximum Candies Allocated to K Children](./maximum_candies_allocated_to_k_children/description.md)
 #### [House Robber IV](./house_robber_iv/description.md)
+#### [Minimum Time to Repair Cars](./minimum_time_to_repair_cars/description.md)
