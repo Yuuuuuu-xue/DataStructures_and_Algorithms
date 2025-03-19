@@ -71,3 +71,4 @@ A problem exhibits **optimal substructure** if an optimal solution to the proble
 #### [Prime Subtraction Operation](./prime_subtraction_operation/description.md)
 #### [Construct String With Repeat Limit](./construct_string_with_repeat_limit/description.md)
 #### [Max Chunks to Make Sorted](./max_chunks_to_make_sorted/description.md)
+#### [Minimum Operations to Make Binary Array Elements Equal to One I](./minimum_operations_to_make_binary_array_elements_equal_to_one_i/description.md)
