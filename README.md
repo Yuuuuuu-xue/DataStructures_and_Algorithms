@@ -736,6 +736,7 @@ Table of Contents:
   - [Parallel Courses III](./topological_sort/parallel_courses_III/description.md)
   - [Find Eventual Safe States](./topological_sort/find_eventual_safe_states/description.md)
   - [Maximum Employees to Be Invitied to a Meeting](./topological_sort/maximum_employees_to_be_invited_to_a_meeting/description.md)
+  - [Find All Possible Recipes from Given Supplies](./topological_sort/find_all_possible_recipes_from_given_supplies/description.md)
 
 ## Two Pointers
 - [Rearrange Array Element by Sign](./two_pointers/rearrange_array_elements_by_sign/description.md)
