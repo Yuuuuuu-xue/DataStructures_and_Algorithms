@@ -378,6 +378,7 @@ Table of Contents:
   - [Longest Consecutive Sequence](./disjoint_set/longest_consecutive_sequence/description.md)
   - [Count Servers that Communicate](./disjoint_set/count_servers_that_communicate/description.md)
   - [Maximum Number of Fish in a Grid](./disjoint_set/maximum_number_of_fish_in_a_grid/description.md)
+  - [Count the Number of Complete Components](./disjoint_set/count_the_number_of_complete_components/description.md)
 
 ## Greedy Algorithm
 - [Notes](./greedy/notes.md)
@@ -1018,3 +1019,4 @@ Table of Contents:
 - [Maximum Number of Fish in a Grid](./disjoint_set/maximum_number_of_fish_in_a_grid/description.md)
 - [Construct the Lexicographically Largest Valid Sequence](./backtracking/construct_the_lexicographically_largest_valid_sequence/description.md)
 - [Number of Substrings Containing All Three Characters](./two_pointers/number_of_substrings_containing_all_three_characters/description.md)
+- [Count the Number of Complete Components](./disjoint_set/count_the_number_of_complete_components/description.md)
