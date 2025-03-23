@@ -44,3 +44,4 @@ Everything before the while loop is initializing the priority queue, we loop ove
 #### [Path with Minimum Effort](./path_with_minimum_effort/description.md)
 #### [Find the Safest Path in a Grid](./find_the_safest_path_in_a_grid/description.md)
 #### [Minimum Time to Visit a Cell in a Grid](./minimum_time_to_visit_a_cell_in_a_grid/description.md)
+#### [Number of Ways to Arrive at Destination](./number_of_ways_to_arrive_at_destination/description.md)

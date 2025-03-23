@@ -353,6 +353,7 @@ Table of Contents:
   - [Path with Minimum Effort](./dijkstra_algorithm/path_with_minimum_effort/description.md)
   - [Find the Safest Path in a Grid](./dijkstra_algorithm/find_the_safest_path_in_a_grid/description.md)
   - [Minimum Time to Visit a Cell in a Grid](./dijkstra_algorithm/minimum_time_to_visit_a_cell_in_a_grid/description.md)
+  - [Number of Ways to Arrive at Destination](./dijkstra_algorithm/number_of_ways_to_arrive_at_destination/description.md)
 
 ## Floyd Warshall's Algorithm
 - [Notes](./floyd_warshall_algorithm/notes.md)
