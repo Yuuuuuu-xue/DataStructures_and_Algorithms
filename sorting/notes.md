@@ -43,3 +43,4 @@ O(n lg n) sorting algorithms:
 - [Count the Number of Fair Pairs](./count_the_number_of_fair_pairs/description.md)
 - [String Matching in an Array](./string_matching_in_an_array/description.md)
 - [Make Lexicographically Smallest Array by Swapping Elements](./make_lexicographically_smallest_array_by_swapping_elements/description.md)
+- [Minimum Operations to Make a Uni-Value Grid](./minimum_operations_to_make_a_uni_value_grid/description.md)
