@@ -697,6 +697,7 @@ Table of Contents:
   - [Partition Array According to Given Pivot](./array/partition_array_according_to_given_pivot/description.md)
   - [Find Missing and Repeated Values](./array/find_missing_and_repeated_values/description.md)
   - [Count Days Without Meetings](./array/count_days_without_meetings/description.md)
+  - [Minimum Index of a Valid Split](./array/minimum_index_of_a_valid_split/description.md)
 
 ## Backtracking
 - Examples:
