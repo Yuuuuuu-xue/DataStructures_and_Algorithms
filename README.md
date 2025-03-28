@@ -346,6 +346,7 @@ Table of Contents:
   - [Find Largest Value in Each Tree Row](./graphs/find_largest_value_in_each_tree_row/description.md)
   - [Map of Highest Peak](./graphs/map_of_highest_peak/description.md)
   - [Divide Nodes Into the Maximum Number of Groups](./graphs/divide_nodes_into_the_maximum_number_of_groups/description.md)
+  - [Maximum Number of Points From Grid Queries](./graphs/maximum_number_of_points_from_grid_queries/description.md)
 
 ## Dijkstra's Algorithm
 - [Notes](./dijkstra_algorithm/notes.md)
@@ -1025,3 +1026,4 @@ Table of Contents:
 - [Construct the Lexicographically Largest Valid Sequence](./backtracking/construct_the_lexicographically_largest_valid_sequence/description.md)
 - [Number of Substrings Containing All Three Characters](./two_pointers/number_of_substrings_containing_all_three_characters/description.md)
 - [Count the Number of Complete Components](./disjoint_set/count_the_number_of_complete_components/description.md)
+- [Maximum Number of Points From Grid Queries](./graphs/maximum_number_of_points_from_grid_queries/description.md)

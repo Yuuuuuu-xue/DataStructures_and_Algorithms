@@ -105,3 +105,4 @@ Table of Contents:
 #### [Find Largest Value in Each Tree Row](./find_largest_value_in_each_tree_row/description.md)
 #### [Map of Highest Peak](./map_of_highest_peak/description.md)
 #### [Divide Nodes Into the Maximum Number of Groups](./divide_nodes_into_the_maximum_number_of_groups/description.md)
+#### [Maximum Number of Points From Grid Queries](./maximum_number_of_points_from_grid_queries/description.md)
