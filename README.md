@@ -700,6 +700,7 @@ Table of Contents:
   - [Find Missing and Repeated Values](./array/find_missing_and_repeated_values/description.md)
   - [Count Days Without Meetings](./array/count_days_without_meetings/description.md)
   - [Minimum Index of a Valid Split](./array/minimum_index_of_a_valid_split/description.md)
+  - [Maximum Value of an Ordered Triplet I](./array/maximum_value_of_an_ordered_triplet_i/description.md)
 
 ## Backtracking
 - Examples:
