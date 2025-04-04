@@ -106,3 +106,4 @@ Table of Contents:
 #### [Map of Highest Peak](./map_of_highest_peak/description.md)
 #### [Divide Nodes Into the Maximum Number of Groups](./divide_nodes_into_the_maximum_number_of_groups/description.md)
 #### [Maximum Number of Points From Grid Queries](./maximum_number_of_points_from_grid_queries/description.md)
+#### [Lowest Common Ancestor of Deepest Leaves](./lowest_common_ancestor_of_deepest_leaves/description.md)
