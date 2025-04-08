@@ -229,6 +229,7 @@ Table of Contents:
   - [Tuple with Same Product](./hashing/tuple_with_same_product/description.md)
   - [Find the Number of Distinct Colors Among the Balls](./hashing/find_the_number_of_distinct_colors_among_the_balls/description.md)
   - [Max Sum of a Pair With Equal Sum of Digits](./hashing/max_sum_of_a_pair_with_equal_sum_of_digits/description.md)
+  - [Minimum Number of Operations to Make Elements in Array Distinct](./hashing/minimum_number_of_operations_to_make_elements_in_array_distinct/description.md)
 
 ## Sorting Algorithms
 - [Notes](./sorting/notes.md)
