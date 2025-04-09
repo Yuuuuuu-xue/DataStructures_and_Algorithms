@@ -703,6 +703,7 @@ Table of Contents:
   - [Count Days Without Meetings](./array/count_days_without_meetings/description.md)
   - [Minimum Index of a Valid Split](./array/minimum_index_of_a_valid_split/description.md)
   - [Maximum Value of an Ordered Triplet I](./array/maximum_value_of_an_ordered_triplet_i/description.md)
+  - [Minimum Operations to Make Array Values Equal to K](./array/minimum_operations_to_make_array_values_equal_to_k/description.md)
 
 ## Backtracking
 - Examples:
