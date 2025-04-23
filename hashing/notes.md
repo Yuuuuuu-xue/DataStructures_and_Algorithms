@@ -105,3 +105,4 @@ For each slot, we have a linked list. So when collision occurs, we just add it t
 #### [Max Sum of a Pair With Equal Sum of Digits](./max_sum_of_a_pair_with_equal_sum_of_digits/description.md)
 #### [Minimum Number of Operations to Make Elements in Array Distinct](./minimum_number_of_operations_to_make_elements_in_array_distinct/description.md)
 #### [Rabbits in Forest](./rabbits_in_forest/description.md)
+#### [Count Largest Group](./count_largest_group/description.md)

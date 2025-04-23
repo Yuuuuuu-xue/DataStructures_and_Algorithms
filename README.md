@@ -231,6 +231,7 @@ Table of Contents:
   - [Max Sum of a Pair With Equal Sum of Digits](./hashing/max_sum_of_a_pair_with_equal_sum_of_digits/description.md)
   - [Minimum Number of Operations to Make Elements in Array Distinct](./hashing/minimum_number_of_operations_to_make_elements_in_array_distinct/description.md)
   - [Rabbits in Forest](./hashing/rabbits_in_forest/description.md)
+  - [Count Largest Group](./hashing/count_largest_group/description.md)
 
 ## Sorting Algorithms
 - [Notes](./sorting/notes.md)
