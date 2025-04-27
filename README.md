@@ -708,6 +708,7 @@ Table of Contents:
   - [Minimum Operations to Make Array Values Equal to K](./array/minimum_operations_to_make_array_values_equal_to_k/description.md)
   - [Count Symmetric Integers](./array/count_symmetric_integers/description.md)
   - [Count and Say](./array/count_and_say/description.md)
+  - [Count Subarrays of Length Three With a Condition](./array/count_subarrays_of_length_three_with_a_condition/description.md)
 
 ## Backtracking
 - Examples:
