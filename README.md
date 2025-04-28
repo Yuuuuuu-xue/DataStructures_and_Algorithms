@@ -784,6 +784,7 @@ Table of Contents:
 - [Number of Substrings Containing All Three Characters](./two_pointers/number_of_substrings_containing_all_three_characters/description.md)
 - [Longest Nice Subarray](./two_pointers/longest_nice_subarray/description.md)
 - [Count Complete Subarrays in an Array](./two_pointers/count_complete_subarrays_in_an_array/description.md)
+- [Count Subarrays With Score Less Than K](./two_pointers/count_subarrays_with_score_less_than_k/description.md)
 
 ## Recursion
 - [Notes](./recursion/notes.md)
@@ -1037,3 +1038,4 @@ Table of Contents:
 - [Number of Substrings Containing All Three Characters](./two_pointers/number_of_substrings_containing_all_three_characters/description.md)
 - [Count the Number of Complete Components](./disjoint_set/count_the_number_of_complete_components/description.md)
 - [Maximum Number of Points From Grid Queries](./graphs/maximum_number_of_points_from_grid_queries/description.md)
+- [Count Subarrays With Score Less Than K](./two_pointers/count_subarrays_with_score_less_than_k/description.md)
