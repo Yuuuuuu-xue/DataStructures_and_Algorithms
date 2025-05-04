@@ -106,3 +106,4 @@ For each slot, we have a linked list. So when collision occurs, we just add it t
 #### [Minimum Number of Operations to Make Elements in Array Distinct](./minimum_number_of_operations_to_make_elements_in_array_distinct/description.md)
 #### [Rabbits in Forest](./rabbits_in_forest/description.md)
 #### [Count Largest Group](./count_largest_group/description.md)
+#### [Number of Equivalent Domino Pairs](./number_of_equivalent_domino_pairs/description.md)

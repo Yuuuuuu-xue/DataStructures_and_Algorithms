@@ -233,6 +233,7 @@ Table of Contents:
   - [Minimum Number of Operations to Make Elements in Array Distinct](./hashing/minimum_number_of_operations_to_make_elements_in_array_distinct/description.md)
   - [Rabbits in Forest](./hashing/rabbits_in_forest/description.md)
   - [Count Largest Group](./hashing/count_largest_group/description.md)
+  - [Number of Equilvalent Domino Pairs](./hashing/number_of_equivalent_domino_pairs/description.md)
 
 ## Sorting Algorithms
 - [Notes](./sorting/notes.md)
