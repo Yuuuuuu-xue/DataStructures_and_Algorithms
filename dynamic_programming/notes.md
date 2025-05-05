@@ -150,3 +150,4 @@ Table of Contents:
 #### [Count Ways To Build Good Strings](./count_ways_to_build_good_strings/description.md)
 #### [Shortest Common Supersequence](./shortest_common_supersequence/description.md)
 #### [Solving Questions With Brainpower](./solving_questions_with_brainpower/description.md)
+#### [Domino and Tromino Tiling](./domino_and_tromino_tiling/description.md)

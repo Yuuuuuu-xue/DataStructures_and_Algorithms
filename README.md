@@ -497,6 +497,7 @@ Table of Contents:
   - [Count Ways To Build Good Strings](./dynamic_programming/count_ways_to_build_good_strings/description.md)
   - [Shortest Common Supersequence](./dynamic_programming/shortest_common_supersequence/description.md)
   - [Solving Questions With Brainpower](./dynamic_programming/solving_questions_with_brainpower/description.md)
+  - [Domino and Tromino Tiling](./dynamic_programming/domino_and_tromino_tiling/description.md)
 
 ## Shorest Weight Path (Dijkstra Algorithm)
 - [Notes](./shortest_weight_path/notes.md)
