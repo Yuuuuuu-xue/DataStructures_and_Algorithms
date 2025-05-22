@@ -181,6 +181,7 @@ Table of Contents:
   - [Final Array State After K Multiplication Operations I](./priority_queue/final_array_state_after_k_multiplication_operations_i/description.md)
   - [Design a Number Container System](./priority_queue/design_a_number_container_system/description.md)
   - [Minimum Operations to Exceed Threshold Value II](./priority_queue/minimum_operations_to_exceed_threshold_value_II/description.md)
+  - [Zero Array Transformation III](./priority_queue/zero_array_transformation_iii/description.md)
 
 ## Hashing
 - [Notes](./hashing/notes.md)
@@ -1047,3 +1048,4 @@ Table of Contents:
 - [Maximum Number of Points From Grid Queries](./graphs/maximum_number_of_points_from_grid_queries/description.md)
 - [Count Subarrays With Score Less Than K](./two_pointers/count_subarrays_with_score_less_than_k/description.md)
 - [Maximum Number of Tasks You Can Assign](./divide_and_conquer/maximum_number_of_tasks_you_can_assign/description.md)
+- [Zero Array Transformation III](./priority_queue/zero_array_transformation_iii/description.md)
