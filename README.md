@@ -235,6 +235,7 @@ Table of Contents:
   - [Rabbits in Forest](./hashing/rabbits_in_forest/description.md)
   - [Count Largest Group](./hashing/count_largest_group/description.md)
   - [Number of Equilvalent Domino Pairs](./hashing/number_of_equivalent_domino_pairs/description.md)
+  - [Longest Palindrome by Concatenating Two Letter Words](./hashing/longest_palindrome_by_concatenating_two_letter_words/description.md)
 
 ## Sorting Algorithms
 - [Notes](./sorting/notes.md)

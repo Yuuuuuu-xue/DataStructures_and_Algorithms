@@ -107,3 +107,4 @@ For each slot, we have a linked list. So when collision occurs, we just add it t
 #### [Rabbits in Forest](./rabbits_in_forest/description.md)
 #### [Count Largest Group](./count_largest_group/description.md)
 #### [Number of Equivalent Domino Pairs](./number_of_equivalent_domino_pairs/description.md)
+#### [Longest Palindrome by Concatenating Two Letter Words](./longest_palindrome_by_concatenating_two_letter_words/description.md)
