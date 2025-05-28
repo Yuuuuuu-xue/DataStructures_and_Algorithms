@@ -355,6 +355,7 @@ Table of Contents:
   - [Divide Nodes Into the Maximum Number of Groups](./graphs/divide_nodes_into_the_maximum_number_of_groups/description.md)
   - [Maximum Number of Points From Grid Queries](./graphs/maximum_number_of_points_from_grid_queries/description.md)
   - [Lowest Common Ancestor of Deepest Leaves](./graphs/lowest_common_ancestor_of_deepest_leaves/description.md)
+  - [Maximize the Number of Target Nodes After Connecting Trees I](./graphs/maximize_the_number_of_target_nodes_after_connecting_trees_i/description.md)
 
 ## Dijkstra's Algorithm
 - [Notes](./dijkstra_algorithm/notes.md)
