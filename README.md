@@ -359,6 +359,7 @@ Table of Contents:
   - [Maximize the Number of Target Nodes After Connecting Trees II](./graphs/maximize_the_number_of_target_nodes_after_connecting_trees_ii/description.md)
   - [Find Closest Node to Given Two Nodes](./graphs/find_closest_node_to_given_two_nodes/description.md)
   - [Snakes and Ladders](./graphs/snakes_and_ladders/description.md)
+  - [Maximum Candies You Can Get from Boxes](./graphs/maximum_candies_you_can_get_from_boxes/description.md)
 
 ## Dijkstra's Algorithm
 - [Notes](./dijkstra_algorithm/notes.md)
