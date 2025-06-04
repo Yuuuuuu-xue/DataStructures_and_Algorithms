@@ -723,6 +723,7 @@ Table of Contents:
   - [Count and Say](./array/count_and_say/description.md)
   - [Count Subarrays of Length Three With a Condition](./array/count_subarrays_of_length_three_with_a_condition/description.md)
   - [Minimum Domino Rotations For Equal Row](./array/minimum_domino_rotations_for_equal_row/description.md)
+  - [Find the Lexicographically Largest String From the Box I](./array/find_the_lexicographically_largest_string_from_the_box_i/description.md)
 
 ## Backtracking
 - Examples:
