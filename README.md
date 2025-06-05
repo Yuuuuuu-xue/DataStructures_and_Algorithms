@@ -397,6 +397,7 @@ Table of Contents:
   - [Count Servers that Communicate](./disjoint_set/count_servers_that_communicate/description.md)
   - [Maximum Number of Fish in a Grid](./disjoint_set/maximum_number_of_fish_in_a_grid/description.md)
   - [Count the Number of Complete Components](./disjoint_set/count_the_number_of_complete_components/description.md)
+  - [Lexicographically Smallest Equilvalent String](./disjoint_set/lexicographically_smallest_equivalent_string/description.md)
 
 ## Greedy Algorithm
 - [Notes](./greedy/notes.md)

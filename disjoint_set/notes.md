@@ -26,3 +26,4 @@ We have the following operations:
 #### [Count Servers that Communicate](./count_servers_that_communicate/description.md)
 #### [Maximum Number of Fish in a Grid](./maximum_number_of_fish_in_a_grid/description.md)
 #### [Count the Number of Complete Components](./count_the_number_of_complete_components/description.md)
+#### [Lexicographically Smallest Equilvalent String](./lexicographically_smallest_equivalent_string/description.md)
