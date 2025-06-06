@@ -74,3 +74,4 @@ A problem exhibits **optimal substructure** if an optimal solution to the proble
 #### [Minimum Operations to Make Binary Array Elements Equal to One I](./minimum_operations_to_make_binary_array_elements_equal_to_one_i/description.md)
 #### [Check if Grid can be Cut into Sections](./check_if_grid_can_be_cut_into_sections/description.md)
 #### [Minimum Equal Sum of Two Arrays After Replacing Zeros](./minimum_equal_sum_of_two_arrays_after_replacing_zeros/description.md)
+#### [Using a Robot to Print the Lexicographically Smallest String](./using_a_robot_to_print_the_lexicographically_smallest_string/description.md)
