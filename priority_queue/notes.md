@@ -78,3 +78,4 @@ Table of Contents:
 #### [Design a Number Container System](./design_a_number_container_system/description.md)
 #### [Minimum Operations to Exceed Threshold Value II](./minimum_operations_to_exceed_threshold_value_II/description.md)
 #### [Zero Array Transformation III](./zero_array_transformation_iii/description.md)
+#### [Lexicographically Minimum String After Removing Stars](./lexicographically_minimum_string_after_removing_stars/description.md)

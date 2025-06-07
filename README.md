@@ -182,6 +182,7 @@ Table of Contents:
   - [Design a Number Container System](./priority_queue/design_a_number_container_system/description.md)
   - [Minimum Operations to Exceed Threshold Value II](./priority_queue/minimum_operations_to_exceed_threshold_value_II/description.md)
   - [Zero Array Transformation III](./priority_queue/zero_array_transformation_iii/description.md)
+  - [Lexicographically Minimum String After Removing Stars](./priority_queue/lexicographically_minimum_string_after_removing_stars/description.md)
 
 ## Hashing
 - [Notes](./hashing/notes.md)
