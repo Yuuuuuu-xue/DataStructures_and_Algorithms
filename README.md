@@ -237,6 +237,7 @@ Table of Contents:
   - [Count Largest Group](./hashing/count_largest_group/description.md)
   - [Number of Equilvalent Domino Pairs](./hashing/number_of_equivalent_domino_pairs/description.md)
   - [Longest Palindrome by Concatenating Two Letter Words](./hashing/longest_palindrome_by_concatenating_two_letter_words/description.md)
+  - [Maximum Difference Between Even and Odd Frequency I](./hashing/maximum_difference_between_even_and_odd_frequency_i/description.md)
 
 ## Sorting Algorithms
 - [Notes](./sorting/notes.md)
