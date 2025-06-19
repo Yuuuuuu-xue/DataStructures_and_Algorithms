@@ -272,6 +272,7 @@ Table of Contents:
   - [String Matching in an Array](./sorting/string_matching_in_an_array/description.md)
   - [Make Lexicographically Smallest Array by Swapping Elements](./sorting/make_lexicographically_smallest_array_by_swapping_elements/description.md)
   - [Minimum Operations to Make a Uni-Value Grid](./sorting/minimum_operations_to_make_a_uni_value_grid/description.md)
+  - [Partition Array Such That Maximum Difference Is K](./sorting/partition_array_such_that_maximum_difference_is_k/description.md)
 
 ## Stack and Queue
 - [Notes](./stack_and_queue/notes.md)
