@@ -730,6 +730,7 @@ Table of Contents:
   - [Minimum Domino Rotations For Equal Row](./array/minimum_domino_rotations_for_equal_row/description.md)
   - [Find the Lexicographically Largest String From the Box I](./array/find_the_lexicographically_largest_string_from_the_box_i/description.md)
   - [Max Difference You Can Get From Changing an Integer](./array/max_difference_you_can_get_from_changing_an_integer/description.md)
+  - [Maximum Manhattan Distance After K Changes](./array/maximum_manhattan_distance_after_k_changes/description.md)
 
 ## Backtracking
 - Examples:
