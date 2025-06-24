@@ -732,6 +732,7 @@ Table of Contents:
   - [Max Difference You Can Get From Changing an Integer](./array/max_difference_you_can_get_from_changing_an_integer/description.md)
   - [Maximum Manhattan Distance After K Changes](./array/maximum_manhattan_distance_after_k_changes/description.md)
   - [Minimum Deletions to Make String K-Special](./array/minimum_deletions_to_make_string_k_special/description.md)
+  - [Find All K-Distant Indices in an Array](./array/find_all_k_distant_indices_in_an_array/description.md)
 
 ## Backtracking
 - Examples:
