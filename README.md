@@ -733,6 +733,7 @@ Table of Contents:
   - [Maximum Manhattan Distance After K Changes](./array/maximum_manhattan_distance_after_k_changes/description.md)
   - [Minimum Deletions to Make String K-Special](./array/minimum_deletions_to_make_string_k_special/description.md)
   - [Find All K-Distant Indices in an Array](./array/find_all_k_distant_indices_in_an_array/description.md)
+  - [Find the Original Typed String I](./array/find_the_original_typed_string_i/description.md)
 
 ## Backtracking
 - Examples:
