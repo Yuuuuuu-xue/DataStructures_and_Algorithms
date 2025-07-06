@@ -109,3 +109,4 @@ For each slot, we have a linked list. So when collision occurs, we just add it t
 #### [Number of Equivalent Domino Pairs](./number_of_equivalent_domino_pairs/description.md)
 #### [Longest Palindrome by Concatenating Two Letter Words](./longest_palindrome_by_concatenating_two_letter_words/description.md)
 #### [Maximum Difference Between Even and Odd Frequency I](./maximum_difference_between_even_and_odd_frequency_i/description.md)
+#### [Finding Pairs With a Certain Sum](./finding_pairs_with_a_certain_sum/description.md)
