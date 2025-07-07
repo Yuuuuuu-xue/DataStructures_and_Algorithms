@@ -443,6 +443,7 @@ Table of Contents:
   - [Check if Grid can be Cut into Sections](./greedy/check_if_grid_can_be_cut_into_sections/description.md)
   - [Minimum Equal Sum of Two Arrays After Replacing Zeros](./greedy/minimum_equal_sum_of_two_arrays_after_replacing_zeros/description.md)
   - [Using a Robot to Print the Lexicographically Smallest String](./greedy/using_a_robot_to_print_the_lexicographically_smallest_string/description.md)
+  - [Maximum Number of Events That Can Be Attended](./greedy/maximum_number_of_events_that_can_be_attended/description.md)
 
 ## Dynamic Programming
 - [Notes](./dynamic_programming/notes.md)
