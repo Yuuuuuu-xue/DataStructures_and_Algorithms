@@ -151,3 +151,4 @@ Table of Contents:
 #### [Shortest Common Supersequence](./shortest_common_supersequence/description.md)
 #### [Solving Questions With Brainpower](./solving_questions_with_brainpower/description.md)
 #### [Domino and Tromino Tiling](./domino_and_tromino_tiling/description.md)
+#### [Maximum Number of Events That Can Be Attended II](./maximum_number_of_events_that_can_be_attended_ii/description.md)

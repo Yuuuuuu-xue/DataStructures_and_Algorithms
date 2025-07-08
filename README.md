@@ -515,6 +515,7 @@ Table of Contents:
   - [Shortest Common Supersequence](./dynamic_programming/shortest_common_supersequence/description.md)
   - [Solving Questions With Brainpower](./dynamic_programming/solving_questions_with_brainpower/description.md)
   - [Domino and Tromino Tiling](./dynamic_programming/domino_and_tromino_tiling/description.md)
+  - [Maximum Number of Events That Can Be Attended II](./dynamic_programming/maximum_number_of_events_that_can_be_attended_ii/description.md)
 
 ## Shorest Weight Path (Dijkstra Algorithm)
 - [Notes](./shortest_weight_path/notes.md)
@@ -1068,3 +1069,4 @@ Table of Contents:
 - [Count Subarrays With Score Less Than K](./two_pointers/count_subarrays_with_score_less_than_k/description.md)
 - [Maximum Number of Tasks You Can Assign](./divide_and_conquer/maximum_number_of_tasks_you_can_assign/description.md)
 - [Zero Array Transformation III](./priority_queue/zero_array_transformation_iii/description.md)
+- [Maximum Number of Events That Can Be Attended II](./dynamic_programming/maximum_number_of_events_that_can_be_attended_ii/description.md)
