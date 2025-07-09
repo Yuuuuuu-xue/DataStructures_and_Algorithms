@@ -813,6 +813,7 @@ Table of Contents:
 - [Longest Nice Subarray](./two_pointers/longest_nice_subarray/description.md)
 - [Count Complete Subarrays in an Array](./two_pointers/count_complete_subarrays_in_an_array/description.md)
 - [Count Subarrays With Score Less Than K](./two_pointers/count_subarrays_with_score_less_than_k/description.md)
+- [Reschedule Meetings for Maximum Free Time I](./two_pointers/reschedule_meetings_for_maximum_free_time_i/description.md)
 
 ## Recursion
 - [Notes](./recursion/notes.md)
