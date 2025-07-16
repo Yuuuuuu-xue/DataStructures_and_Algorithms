@@ -737,6 +737,7 @@ Table of Contents:
   - [Minimum Deletions to Make String K-Special](./array/minimum_deletions_to_make_string_k_special/description.md)
   - [Find All K-Distant Indices in an Array](./array/find_all_k_distant_indices_in_an_array/description.md)
   - [Find the Original Typed String I](./array/find_the_original_typed_string_i/description.md)
+  - [Find the Maximum Length of Valid Subsequence I](./array/find_the_maximum_length_of_valid_subsequence_i/description.md)
 
 ## Backtracking
 - Examples:
