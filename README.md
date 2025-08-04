@@ -816,6 +816,7 @@ Table of Contents:
 - [Count Complete Subarrays in an Array](./two_pointers/count_complete_subarrays_in_an_array/description.md)
 - [Count Subarrays With Score Less Than K](./two_pointers/count_subarrays_with_score_less_than_k/description.md)
 - [Reschedule Meetings for Maximum Free Time I](./two_pointers/reschedule_meetings_for_maximum_free_time_i/description.md)
+- [Fruit Into Baskets](./two_pointers/fruit_into_baskets/description.md)
 
 ## Recursion
 - [Notes](./recursion/notes.md)
