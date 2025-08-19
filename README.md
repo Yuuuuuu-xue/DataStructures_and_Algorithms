@@ -740,6 +740,7 @@ Table of Contents:
   - [Find the Original Typed String I](./array/find_the_original_typed_string_i/description.md)
   - [Find the Maximum Length of Valid Subsequence I](./array/find_the_maximum_length_of_valid_subsequence_i/description.md)
   - [Range Product Queries of Powers](./array/range_product_queries_of_powers/description.md)
+  - [Number of Zero-Filled Subarrays](./array/number_of_zero_filled_subarrays/description.md)
 
 ## Backtracking
 - Examples:
