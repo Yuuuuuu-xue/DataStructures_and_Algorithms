@@ -820,6 +820,7 @@ Table of Contents:
 - [Count Subarrays With Score Less Than K](./two_pointers/count_subarrays_with_score_less_than_k/description.md)
 - [Reschedule Meetings for Maximum Free Time I](./two_pointers/reschedule_meetings_for_maximum_free_time_i/description.md)
 - [Fruit Into Baskets](./two_pointers/fruit_into_baskets/description.md)
+- [Longest Subarray of 1's After Deleting One Element](./two_pointers/longest_subarray_of_1s_after_deleting_one_element/description.md)
 
 ## Recursion
 - [Notes](./recursion/notes.md)
