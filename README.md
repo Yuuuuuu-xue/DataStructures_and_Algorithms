@@ -743,6 +743,7 @@ Table of Contents:
   - [Range Product Queries of Powers](./array/range_product_queries_of_powers/description.md)
   - [Number of Zero-Filled Subarrays](./array/number_of_zero_filled_subarrays/description.md)
   - [Find the Minimum Area to Cover All Ones I](./array/find_the_minimum_area_to_cover_all_ones_i/description.md)
+  - [Smallest Missing Non-negative Integer After Operations](./array/smallest_missing_non_negative_integer_after_operations/description.md)
 
 ## Backtracking
 - Examples:
