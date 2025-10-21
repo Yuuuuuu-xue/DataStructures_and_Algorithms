@@ -824,6 +824,7 @@ Table of Contents:
 - [Reschedule Meetings for Maximum Free Time I](./two_pointers/reschedule_meetings_for_maximum_free_time_i/description.md)
 - [Fruit Into Baskets](./two_pointers/fruit_into_baskets/description.md)
 - [Longest Subarray of 1's After Deleting One Element](./two_pointers/longest_subarray_of_1s_after_deleting_one_element/description.md)
+- [Maximum Frequency of an Element After Performing Operations I](./two_pointers/maximum_frequency_of_an_element_after_performing_operations_i/description.md)
 
 ## Recursion
 - [Notes](./recursion/notes.md)
