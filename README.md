@@ -184,6 +184,7 @@ Table of Contents:
   - [Minimum Operations to Exceed Threshold Value II](./priority_queue/minimum_operations_to_exceed_threshold_value_II/description.md)
   - [Zero Array Transformation III](./priority_queue/zero_array_transformation_iii/description.md)
   - [Lexicographically Minimum String After Removing Stars](./priority_queue/lexicographically_minimum_string_after_removing_stars/description.md)
+  - [Find X-Sum of All K-Long Subarrays I](./priority_queue/find_x_sum_of_all_k_long_subarrays_i/description.md)
 
 ## Hashing
 - [Notes](./hashing/notes.md)
