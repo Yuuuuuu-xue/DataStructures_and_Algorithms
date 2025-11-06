@@ -405,6 +405,7 @@ Table of Contents:
   - [Maximum Number of Fish in a Grid](./disjoint_set/maximum_number_of_fish_in_a_grid/description.md)
   - [Count the Number of Complete Components](./disjoint_set/count_the_number_of_complete_components/description.md)
   - [Lexicographically Smallest Equilvalent String](./disjoint_set/lexicographically_smallest_equivalent_string/description.md)
+  - [Power Grid Maintenance](./disjoint_set/power_grid_maintenance/description.md)
 
 ## Greedy Algorithm
 - [Notes](./greedy/notes.md)
