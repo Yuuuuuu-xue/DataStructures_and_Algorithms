@@ -63,3 +63,4 @@ It applies to runtime of divide-and-conquer algorithms when subproblems all have
 #### [Minimum Time to Repair Cars](./minimum_time_to_repair_cars/description.md)
 #### [Maximum Number of Tasks You Can Assign](./maximum_number_of_tasks_you_can_assign/description.md)
 #### [Adjacent Increasing Subarrays Detection II](./adjacent_increasing_subarrays_detection_ii/description.md)
+#### [Maximize the Minimum Powered City](./maximize_the_minimum_powered_city/description.md)

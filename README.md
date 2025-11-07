@@ -91,6 +91,7 @@ Table of Contents:
     - [Minimum Time to Repair Cars](./divide_and_conquer/minimum_time_to_repair_cars/description.md)
     - [Maximum Number of Tasks You Can Assign](./divide_and_conquer/maximum_number_of_tasks_you_can_assign/description.md)
     - [Adjacent Increasing Subarrays Detection II](./divide_and_conquer/adjacent_increasing_subarrays_detection_ii/description.md)
+    - [Maximize the Minimum Powered City](./divide_and_conquer/maximize_the_minimum_powered_city/description.md)
   
 ## Tree
 - [General Notes](./tree/notes.md)
