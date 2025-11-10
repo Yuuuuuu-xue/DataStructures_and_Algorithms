@@ -1085,3 +1085,5 @@ Table of Contents:
 - [Maximum Number of Tasks You Can Assign](./divide_and_conquer/maximum_number_of_tasks_you_can_assign/description.md)
 - [Zero Array Transformation III](./priority_queue/zero_array_transformation_iii/description.md)
 - [Maximum Number of Events That Can Be Attended II](./dynamic_programming/maximum_number_of_events_that_can_be_attended_ii/description.md)
+- [Power Grid Maintenance](./disjoint_set/power_grid_maintenance/description.md)
+- [Maximize the Minimum Powered City](./divide_and_conquer/maximize_the_minimum_powered_city/description.md)
