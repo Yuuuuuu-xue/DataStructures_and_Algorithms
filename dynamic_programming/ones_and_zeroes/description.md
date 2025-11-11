@@ -27,3 +27,4 @@ We will use dynamic programming to solve this problem, similar idea to the knaps
 
 ## Solution
 - [Java Solution](ones_and_zeroes.java)
+- [Python](./solution.py)
