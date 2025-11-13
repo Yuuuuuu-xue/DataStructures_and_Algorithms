@@ -318,6 +318,7 @@ Table of Contents:
   - [Find the Most Competitive Subsequence](./monotonic_stack/find_the_most_competitive_subsequence/description.md)
   - [Maximum Subarray Min-Product](./monotonic_stack/maximum_subarray_min_product/description.md)
   - [Remove Nodes From Linked List](./monotonic_stack/remove_nodes_from_linked_list/description.md)
+  - [Daily Temperatures](./monotonic_stack/daily_temperatures/description.md)
 
 ## Graphs
 - [Notes](./graphs/notes.md)
@@ -1090,3 +1091,4 @@ Table of Contents:
 - [Power Grid Maintenance](./disjoint_set/power_grid_maintenance/description.md)
 - [Maximize the Minimum Powered City](./divide_and_conquer/maximize_the_minimum_powered_city/description.md)
 - [Exclusive Time of Functions](./stack_and_queue/exclusive_time_of_functions/description.md)
+- [Daily Temperatures](./monotonic_stack/daily_temperatures/description.md)

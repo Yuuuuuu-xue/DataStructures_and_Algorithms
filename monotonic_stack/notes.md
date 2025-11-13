@@ -27,3 +27,4 @@ If we need to calculate both `nextSmaller` or `prevSmaller` arrays, we can do it
 #### [Remove Nodess From Linked List](./remove_nodes_from_linked_list/description.md)
 #### [Maximum Width Ramp](./maximum_width_ramp/description.md)
 #### [Minimum Operations to Convert All Elements to Zero](./minimum_operations_to_convert_all_elements_to_zero/description.md)
+#### [Daily Temperatures](./daily_temperatures/description.md)
