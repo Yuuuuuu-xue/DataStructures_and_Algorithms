@@ -44,3 +44,4 @@ Table of Contents:
 #### [Clear Digits](./clear_digits/description.md)
 #### [Remove All Occurrences of a Substring](./remove_all_occurrences_of_a_substring/description.md)
 #### [Recover a Tree From Preorder Traversal](./recover_a_tree_from_preorder_traversal/description.md)
+#### [Exclusive Time of Functions](./exclusive_time_of_functions/description.md)

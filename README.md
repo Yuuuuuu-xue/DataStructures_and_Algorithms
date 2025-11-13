@@ -306,6 +306,7 @@ Table of Contents:
   - [Clear Digits](./stack_and_queue/clear_digits/description.md)
   - [Remove All Occurrences of a Substring](./stack_and_queue/remove_all_occurrences_of_a_substring/description.md)
   - [Recover a Tree From Preorder Traversal](./stack_and_queue/recover_a_tree_from_preorder_traversal/description.md)
+  - [Exclusive Time of Functions](./stack_and_queue/exclusive_time_of_functions/description.md)
 
 ## Monotonic Stack
 - [Notes](./monotonic_stack/notes.md)
@@ -1088,3 +1089,4 @@ Table of Contents:
 - [Maximum Number of Events That Can Be Attended II](./dynamic_programming/maximum_number_of_events_that_can_be_attended_ii/description.md)
 - [Power Grid Maintenance](./disjoint_set/power_grid_maintenance/description.md)
 - [Maximize the Minimum Powered City](./divide_and_conquer/maximize_the_minimum_powered_city/description.md)
+- [Exclusive Time of Functions](./stack_and_queue/exclusive_time_of_functions/description.md)
