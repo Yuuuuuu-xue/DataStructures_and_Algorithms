@@ -748,6 +748,7 @@ Table of Contents:
   - [Number of Zero-Filled Subarrays](./array/number_of_zero_filled_subarrays/description.md)
   - [Find the Minimum Area to Cover All Ones I](./array/find_the_minimum_area_to_cover_all_ones_i/description.md)
   - [Smallest Missing Non-negative Integer After Operations](./array/smallest_missing_non_negative_integer_after_operations/description.md)
+  - [Maximum Number of Operations to Move Ones to the End](./array/maximum_number_of_operations_to_move_ones_to_the_end/description.md)
 
 ## Backtracking
 - Examples:
