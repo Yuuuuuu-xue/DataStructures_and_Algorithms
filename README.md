@@ -92,6 +92,7 @@ Table of Contents:
     - [Maximum Number of Tasks You Can Assign](./divide_and_conquer/maximum_number_of_tasks_you_can_assign/description.md)
     - [Adjacent Increasing Subarrays Detection II](./divide_and_conquer/adjacent_increasing_subarrays_detection_ii/description.md)
     - [Maximize the Minimum Powered City](./divide_and_conquer/maximize_the_minimum_powered_city/description.md)
+    - [Repeated String Match](./divide_and_conquer/repeated_string_match/description.md)
   
 ## Tree
 - [General Notes](./tree/notes.md)
@@ -1097,3 +1098,4 @@ Table of Contents:
 - [Daily Temperatures](./monotonic_stack/daily_temperatures/description.md)
 - [Find K Pairs with Smallest Sums](./priority_queue/find_k_pairs_with_smallest_sums/description.md)
 - [Construct Target Array With Multiple Sums](./priority_queue/construct_target_array_with_multiple_sums/description.md)
+- [Repeated String Match](./divide_and_conquer/repeated_string_match/description.md)

@@ -64,3 +64,4 @@ It applies to runtime of divide-and-conquer algorithms when subproblems all have
 #### [Maximum Number of Tasks You Can Assign](./maximum_number_of_tasks_you_can_assign/description.md)
 #### [Adjacent Increasing Subarrays Detection II](./adjacent_increasing_subarrays_detection_ii/description.md)
 #### [Maximize the Minimum Powered City](./maximize_the_minimum_powered_city/description.md)
+#### [Repeated String Match](./repeated_string_match/description.md)
