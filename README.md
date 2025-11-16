@@ -189,6 +189,7 @@ Table of Contents:
   - [Find X-Sum of All K-Long Subarrays I](./priority_queue/find_x_sum_of_all_k_long_subarrays_i/description.md)
   - [Find K Pairs with Smallest Sums](./priority_queue/find_k_pairs_with_smallest_sums/description.md)
   - [Construct Target Array With Multiple Sums](./priority_queue/construct_target_array_with_multiple_sums/description.md)
+  - [Maximum Number of Eaten Apples](./priority_queue/maximum_number_of_eaten_apples/description.md)
 
 ## Hashing
 - [Notes](./hashing/notes.md)
@@ -1099,3 +1100,4 @@ Table of Contents:
 - [Find K Pairs with Smallest Sums](./priority_queue/find_k_pairs_with_smallest_sums/description.md)
 - [Construct Target Array With Multiple Sums](./priority_queue/construct_target_array_with_multiple_sums/description.md)
 - [Repeated String Match](./divide_and_conquer/repeated_string_match/description.md)
+- [Maximum Number of Eaten Apples](./priority_queue/maximum_number_of_eaten_apples/description.md)
