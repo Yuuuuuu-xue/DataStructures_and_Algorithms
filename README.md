@@ -187,6 +187,7 @@ Table of Contents:
   - [Lexicographically Minimum String After Removing Stars](./priority_queue/lexicographically_minimum_string_after_removing_stars/description.md)
   - [Find X-Sum of All K-Long Subarrays I](./priority_queue/find_x_sum_of_all_k_long_subarrays_i/description.md)
   - [Find K Pairs with Smallest Sums](./priority_queue/find_k_pairs_with_smallest_sums/description.md)
+  - [Construct Target Array With Multiple Sums](./priority_queue/construct_target_array_with_multiple_sums/description.md)
 
 ## Hashing
 - [Notes](./hashing/notes.md)
@@ -1095,3 +1096,4 @@ Table of Contents:
 - [Exclusive Time of Functions](./stack_and_queue/exclusive_time_of_functions/description.md)
 - [Daily Temperatures](./monotonic_stack/daily_temperatures/description.md)
 - [Find K Pairs with Smallest Sums](./priority_queue/find_k_pairs_with_smallest_sums/description.md)
+- [Construct Target Array With Multiple Sums](./priority_queue/construct_target_array_with_multiple_sums/description.md)

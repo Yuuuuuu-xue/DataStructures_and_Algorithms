@@ -81,3 +81,4 @@ Table of Contents:
 #### [Lexicographically Minimum String After Removing Stars](./lexicographically_minimum_string_after_removing_stars/description.md)
 #### [Find X-Sum of All K-Long Subarrays I](./find_x_sum_of_all_k_long_subarrays_i/description.md)
 #### [Find K Pairs with Smallest Sums](./find_k_pairs_with_smallest_sums/description.md)
+#### [Construct Target Array With Multiple Sums](./construct_target_array_with_multiple_sums/description.md)
