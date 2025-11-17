@@ -65,3 +65,4 @@ Suppose we insert another word `app`, notice the tree will not change but how do
 
 ## Solution
 - [C++](./solution.cpp)
+- [Python](./solution.py)
