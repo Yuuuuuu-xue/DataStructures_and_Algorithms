@@ -790,6 +790,7 @@ Table of Contents:
   - [Contiguous Array](./prefix_sum/contiguous_array/description.md)
   - [Make Sum Divisible by P](./prefix_sum/make_sum_divisible_by_p/description.md)
   - [Ways to Make a Fair Array](./prefix_sum/wakys_to_make_a_fair_array/description.md)
+  - [Continuous Subarray Sum](./prefix_sum/continuous_subarray_sum/description.md)
 
 ## Topological Sort
 - [Notes](./topological_sort/notes.md)
