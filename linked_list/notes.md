@@ -50,3 +50,4 @@ However, **insert** and **delete** operations at the beginning or middle of the 
 #### [Find the Minimum and Maximum Number of Nodes Between Critical Points](./find_the_minimum_and_maximum_number_of_nodes_between_critical_points/description.md)
 #### [Design Circular Deque](./design_circular_deque/description.md)
 #### [All O`one Data Structure](./all_O_one_data_structure/description.md)
+#### [Copy List with Random Pointer](./copy_list_with_random_pointer/description.md)

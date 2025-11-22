@@ -606,6 +606,7 @@ Table of Contents:
   - [Find the Minimum and Maximum Number of Nodes Between Critical Points](./linked_list/find_the_minimum_and_maximum_number_of_nodes_between_critical_points/description.md)
   - [Design Circular Deque](./linked_list/design_circular_deque/description.md)
   - [All O`one Data Structure](./linked_list/all_O_one_data_structure/description.md)
+  - [Copy List with Random Pointer](./linked_list/copy_list_with_random_pointer/description.md)
 
 ## Array
 - Examples:
