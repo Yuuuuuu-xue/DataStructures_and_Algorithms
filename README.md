@@ -787,6 +787,7 @@ Table of Contents:
 ## Prefix Sum
 - Examples
   - [Contiguous Array](./prefix_sum/contiguous_array/description.md)
+  - [Make Sum Divisible by P](./prefix_sum/make_sum_divisible_by_p/description.md)
 
 ## Topological Sort
 - [Notes](./topological_sort/notes.md)
