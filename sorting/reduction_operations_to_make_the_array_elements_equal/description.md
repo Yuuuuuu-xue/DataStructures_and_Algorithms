@@ -42,3 +42,4 @@ Let's sort the input array. Then we start with the largest element and let `c` b
 
 ## Solution
 - [C++](solution.cpp)
+- [Python](./solution.py)
