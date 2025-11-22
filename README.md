@@ -788,6 +788,7 @@ Table of Contents:
 - Examples
   - [Contiguous Array](./prefix_sum/contiguous_array/description.md)
   - [Make Sum Divisible by P](./prefix_sum/make_sum_divisible_by_p/description.md)
+  - [Ways to Make a Fair Array](./prefix_sum/wakys_to_make_a_fair_array/description.md)
 
 ## Topological Sort
 - [Notes](./topological_sort/notes.md)
@@ -1104,3 +1105,4 @@ Table of Contents:
 - [Construct Target Array With Multiple Sums](./priority_queue/construct_target_array_with_multiple_sums/description.md)
 - [Repeated String Match](./divide_and_conquer/repeated_string_match/description.md)
 - [Maximum Number of Eaten Apples](./priority_queue/maximum_number_of_eaten_apples/description.md)
+- [Ways to Make a Fair Array](./prefix_sum/wakys_to_make_a_fair_array/description.md)
