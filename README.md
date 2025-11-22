@@ -607,6 +607,7 @@ Table of Contents:
   - [Design Circular Deque](./linked_list/design_circular_deque/description.md)
   - [All O`one Data Structure](./linked_list/all_O_one_data_structure/description.md)
   - [Copy List with Random Pointer](./linked_list/copy_list_with_random_pointer/description.md)
+  - [Next Greater Node In Linked List](./linked_list/next_greater_node_in_linked_list/description.md)
 
 ## Array
 - Examples:
@@ -1106,3 +1107,4 @@ Table of Contents:
 - [Repeated String Match](./divide_and_conquer/repeated_string_match/description.md)
 - [Maximum Number of Eaten Apples](./priority_queue/maximum_number_of_eaten_apples/description.md)
 - [Ways to Make a Fair Array](./prefix_sum/wakys_to_make_a_fair_array/description.md)
+- [Next Greater Node in Linked List](./linked_list/next_greater_node_in_linked_list/description.md)
