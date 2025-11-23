@@ -529,6 +529,7 @@ Table of Contents:
   - [Solving Questions With Brainpower](./dynamic_programming/solving_questions_with_brainpower/description.md)
   - [Domino and Tromino Tiling](./dynamic_programming/domino_and_tromino_tiling/description.md)
   - [Maximum Number of Events That Can Be Attended II](./dynamic_programming/maximum_number_of_events_that_can_be_attended_ii/description.md)
+  - [Greatest Sum Divisible by Three](./dynamic_programming/greatest_sum_divisible_by_three/description.md)
 
 ## Shorest Weight Path (Dijkstra Algorithm)
 - [Notes](./shortest_weight_path/notes.md)
