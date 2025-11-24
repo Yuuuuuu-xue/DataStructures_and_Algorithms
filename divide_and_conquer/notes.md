@@ -65,3 +65,4 @@ It applies to runtime of divide-and-conquer algorithms when subproblems all have
 #### [Adjacent Increasing Subarrays Detection II](./adjacent_increasing_subarrays_detection_ii/description.md)
 #### [Maximize the Minimum Powered City](./maximize_the_minimum_powered_city/description.md)
 #### [Repeated String Match](./repeated_string_match/description.md)
+#### [Peak Index in a Mountain Array](./peak_index_in_a_mountain_array/description.md)

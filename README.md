@@ -93,6 +93,7 @@ Table of Contents:
     - [Adjacent Increasing Subarrays Detection II](./divide_and_conquer/adjacent_increasing_subarrays_detection_ii/description.md)
     - [Maximize the Minimum Powered City](./divide_and_conquer/maximize_the_minimum_powered_city/description.md)
     - [Repeated String Match](./divide_and_conquer/repeated_string_match/description.md)
+    - [Peak Index in a Mountain Array](./divide_and_conquer/peak_index_in_a_mountain_array/description.md)
   
 ## Tree
 - [General Notes](./tree/notes.md)
