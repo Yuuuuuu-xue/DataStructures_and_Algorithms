@@ -83,3 +83,4 @@ Table of Contents:
 #### [Find K Pairs with Smallest Sums](./find_k_pairs_with_smallest_sums/description.md)
 #### [Construct Target Array With Multiple Sums](./construct_target_array_with_multiple_sums/description.md)
 #### [Maximum Number of Eaten Apples](./maximum_number_of_eaten_apples/description.md)
+#### [Kth Largest Element in an Array](./kth_largest_element_in_an_array/description.md)
