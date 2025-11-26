@@ -533,6 +533,7 @@ Table of Contents:
   - [Domino and Tromino Tiling](./dynamic_programming/domino_and_tromino_tiling/description.md)
   - [Maximum Number of Events That Can Be Attended II](./dynamic_programming/maximum_number_of_events_that_can_be_attended_ii/description.md)
   - [Greatest Sum Divisible by Three](./dynamic_programming/greatest_sum_divisible_by_three/description.md)
+  - [Paths in Matrix Whose Sum is Divisible by K](./dynamic_programming/paths_in_matrix_whose_sum_is_divisible_by_k/description.md)
 
 ## Shorest Weight Path (Dijkstra Algorithm)
 - [Notes](./shortest_weight_path/notes.md)
@@ -1114,3 +1115,4 @@ Table of Contents:
 - [Maximum Number of Eaten Apples](./priority_queue/maximum_number_of_eaten_apples/description.md)
 - [Ways to Make a Fair Array](./prefix_sum/wakys_to_make_a_fair_array/description.md)
 - [Next Greater Node in Linked List](./linked_list/next_greater_node_in_linked_list/description.md)
+- [Paths in Matrix Whose Sum is Divsible by K](./dynamic_programming/paths_in_matrix_whose_sum_is_divisible_by_k/description.md)

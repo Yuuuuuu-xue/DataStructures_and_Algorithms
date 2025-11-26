@@ -153,3 +153,4 @@ Table of Contents:
 #### [Domino and Tromino Tiling](./domino_and_tromino_tiling/description.md)
 #### [Maximum Number of Events That Can Be Attended II](./maximum_number_of_events_that_can_be_attended_ii/description.md)
 #### [Greatest Sum Divisible by Three](./greatest_sum_divisible_by_three/description.md)
+#### [Paths in Matrix Whose Sum is Divisible by K](./paths_in_matrix_whose_sum_is_divisible_by_k/description.md)
