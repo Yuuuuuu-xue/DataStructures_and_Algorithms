@@ -94,6 +94,7 @@ Table of Contents:
     - [Maximize the Minimum Powered City](./divide_and_conquer/maximize_the_minimum_powered_city/description.md)
     - [Repeated String Match](./divide_and_conquer/repeated_string_match/description.md)
     - [Peak Index in a Mountain Array](./divide_and_conquer/peak_index_in_a_mountain_array/description.md)
+    - [Maximum Running Time of N Computers](./divide_and_conquer/maximum_running_time_of_n_computers/description.md)
   
 ## Tree
 - [General Notes](./tree/notes.md)
