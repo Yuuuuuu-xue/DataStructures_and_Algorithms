@@ -249,6 +249,7 @@ Table of Contents:
   - [Longest Palindrome by Concatenating Two Letter Words](./hashing/longest_palindrome_by_concatenating_two_letter_words/description.md)
   - [Maximum Difference Between Even and Odd Frequency I](./hashing/maximum_difference_between_even_and_odd_frequency_i/description.md)
   - [Finding Pairs With a Certain Sum](./hashing/finding_pairs_with_a_certain_sum/description.md)
+  - [Count Number of Trapezoids I](./hashing/count_number_of_trapezoids_i/description.md)
 
 ## Sorting Algorithms
 - [Notes](./sorting/notes.md)
