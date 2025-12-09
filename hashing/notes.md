@@ -111,3 +111,4 @@ For each slot, we have a linked list. So when collision occurs, we just add it t
 #### [Maximum Difference Between Even and Odd Frequency I](./maximum_difference_between_even_and_odd_frequency_i/description.md)
 #### [Finding Pairs With a Certain Sum](./finding_pairs_with_a_certain_sum/description.md)
 #### [Count Number of Trapezoids I](./count_number_of_trapezoids_i/description.md)
+#### [Count Special Triplets](./count_special_triplets/description.md)
