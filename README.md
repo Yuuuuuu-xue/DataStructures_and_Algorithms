@@ -1121,3 +1121,5 @@ Table of Contents:
 - [Ways to Make a Fair Array](./prefix_sum/wakys_to_make_a_fair_array/description.md)
 - [Next Greater Node in Linked List](./linked_list/next_greater_node_in_linked_list/description.md)
 - [Paths in Matrix Whose Sum is Divsible by K](./dynamic_programming/paths_in_matrix_whose_sum_is_divisible_by_k/description.md)
+- [Construct Binary Tree from Inorder and Postorder Traversal](./tree/construct_binary_tree_from_inorder_and_postorder_traversal/description.md)
+- [Count Mentions Per User](./sorting/count_mentions_per_user/description.md)
