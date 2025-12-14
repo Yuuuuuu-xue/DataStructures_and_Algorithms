@@ -47,3 +47,4 @@ O(n lg n) sorting algorithms:
 - [Partition Array Such That Maximum Difference Is K](./partition_array_such_that_maximum_difference_is_k/description.md)
 - [Merge Intervals](./merge_intervals/description.md)
 - [Count Mentions Per User](./count_mentions_per_user/description.md)
+- [Find Right Interval](./find_right_interval/description.md)

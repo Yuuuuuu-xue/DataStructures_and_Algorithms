@@ -290,6 +290,7 @@ Table of Contents:
   - [Partition Array Such That Maximum Difference Is K](./sorting/partition_array_such_that_maximum_difference_is_k/description.md)
   - [Merge Intervals](./sorting/merge_intervals/description.md)
   - [Count Mentions Per User](./sorting/count_mentions_per_user/description.md)
+  - [Find Right Interval](./sorting/find_right_interval/description.md)
 
 ## Stack and Queue
 - [Notes](./stack_and_queue/notes.md)
