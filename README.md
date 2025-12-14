@@ -95,6 +95,7 @@ Table of Contents:
     - [Repeated String Match](./divide_and_conquer/repeated_string_match/description.md)
     - [Peak Index in a Mountain Array](./divide_and_conquer/peak_index_in_a_mountain_array/description.md)
     - [Maximum Running Time of N Computers](./divide_and_conquer/maximum_running_time_of_n_computers/description.md)
+    - [Reverse Pairs](./divide_and_conquer/reverse_pairs/description.md)
   
 ## Tree
 - [General Notes](./tree/notes.md)
@@ -1123,3 +1124,4 @@ Table of Contents:
 - [Paths in Matrix Whose Sum is Divsible by K](./dynamic_programming/paths_in_matrix_whose_sum_is_divisible_by_k/description.md)
 - [Construct Binary Tree from Inorder and Postorder Traversal](./tree/construct_binary_tree_from_inorder_and_postorder_traversal/description.md)
 - [Count Mentions Per User](./sorting/count_mentions_per_user/description.md)
+- [Reverse Pairs](./divide_and_conquer/reverse_pairs/description.md)

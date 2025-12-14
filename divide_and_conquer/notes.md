@@ -67,3 +67,4 @@ It applies to runtime of divide-and-conquer algorithms when subproblems all have
 #### [Repeated String Match](./repeated_string_match/description.md)
 #### [Peak Index in a Mountain Array](./peak_index_in_a_mountain_array/description.md)
 #### [Maximum Running Time of N Computers](./maximum_running_time_of_n_computers/description.md)
+#### [Reverse Pairs](./reverse_pairs/description.md)
