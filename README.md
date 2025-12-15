@@ -855,6 +855,7 @@ Table of Contents:
 - [Longest Subarray of 1's After Deleting One Element](./two_pointers/longest_subarray_of_1s_after_deleting_one_element/description.md)
 - [Maximum Frequency of an Element After Performing Operations I](./two_pointers/maximum_frequency_of_an_element_after_performing_operations_i/description.md)
 - [Number of Substrings With Only 1s](./two_pointers/number_of_substrings_with_only_1s/description.md)
+- [Number of Smooth Descent Periods of a Stock](./two_pointers/number_of_smooth_descent_periods_of_a_stock/description.md)
 
 ## Recursion
 - [Notes](./recursion/notes.md)
