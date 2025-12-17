@@ -541,6 +541,7 @@ Table of Contents:
   - [Maximum Number of Events That Can Be Attended II](./dynamic_programming/maximum_number_of_events_that_can_be_attended_ii/description.md)
   - [Greatest Sum Divisible by Three](./dynamic_programming/greatest_sum_divisible_by_three/description.md)
   - [Paths in Matrix Whose Sum is Divisible by K](./dynamic_programming/paths_in_matrix_whose_sum_is_divisible_by_k/description.md)
+  - [Best Time to Buy and Sell Stock V](./dynamic_programming/best_time_to_buy_and_sell_stock_v/description.md)
 
 ## Shorest Weight Path (Dijkstra Algorithm)
 - [Notes](./shortest_weight_path/notes.md)
@@ -1127,3 +1128,4 @@ Table of Contents:
 - [Construct Binary Tree from Inorder and Postorder Traversal](./tree/construct_binary_tree_from_inorder_and_postorder_traversal/description.md)
 - [Count Mentions Per User](./sorting/count_mentions_per_user/description.md)
 - [Reverse Pairs](./divide_and_conquer/reverse_pairs/description.md)
+- [Best Time to Buy and Sell Stock V](./dynamic_programming/best_time_to_buy_and_sell_stock_v/description.md)
