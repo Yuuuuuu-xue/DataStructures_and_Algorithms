@@ -857,6 +857,7 @@ Table of Contents:
 - [Maximum Frequency of an Element After Performing Operations I](./two_pointers/maximum_frequency_of_an_element_after_performing_operations_i/description.md)
 - [Number of Substrings With Only 1s](./two_pointers/number_of_substrings_with_only_1s/description.md)
 - [Number of Smooth Descent Periods of a Stock](./two_pointers/number_of_smooth_descent_periods_of_a_stock/description.md)
+- [Best Time to Buy and Sell Stock using Stategy](./two_pointers/best_time_to_buy_and_sell_stock_using_strategy/description.md)
 
 ## Recursion
 - [Notes](./recursion/notes.md)
@@ -1129,3 +1130,4 @@ Table of Contents:
 - [Count Mentions Per User](./sorting/count_mentions_per_user/description.md)
 - [Reverse Pairs](./divide_and_conquer/reverse_pairs/description.md)
 - [Best Time to Buy and Sell Stock V](./dynamic_programming/best_time_to_buy_and_sell_stock_v/description.md)
+- [Best Time to Buy and Sell Stock using Strategy](./two_pointers/best_time_to_buy_and_sell_stock_using_strategy/description.md)
