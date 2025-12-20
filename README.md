@@ -859,6 +859,7 @@ Table of Contents:
 - [Number of Substrings With Only 1s](./two_pointers/number_of_substrings_with_only_1s/description.md)
 - [Number of Smooth Descent Periods of a Stock](./two_pointers/number_of_smooth_descent_periods_of_a_stock/description.md)
 - [Best Time to Buy and Sell Stock using Stategy](./two_pointers/best_time_to_buy_and_sell_stock_using_strategy/description.md)
+- [3Sum Closest](./two_pointers/3sum_closest/description.md)
 
 ## Recursion
 - [Notes](./recursion/notes.md)
@@ -1132,3 +1133,4 @@ Table of Contents:
 - [Reverse Pairs](./divide_and_conquer/reverse_pairs/description.md)
 - [Best Time to Buy and Sell Stock V](./dynamic_programming/best_time_to_buy_and_sell_stock_v/description.md)
 - [Best Time to Buy and Sell Stock using Strategy](./two_pointers/best_time_to_buy_and_sell_stock_using_strategy/description.md)
+- [3Sum Closest](./two_pointers/3sum_closest/description.md)
