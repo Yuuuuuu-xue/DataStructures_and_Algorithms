@@ -195,6 +195,7 @@ Table of Contents:
   - [Construct Target Array With Multiple Sums](./priority_queue/construct_target_array_with_multiple_sums/description.md)
   - [Maximum Number of Eaten Apples](./priority_queue/maximum_number_of_eaten_apples/description.md)
   - [Kth Largest Element in an Array](./priority_queue/kth_largest_element_in_an_array/description.md)
+  - [Merge K Sorted Lists](./priority_queue/merge_k_sorted_lists/description.md)
 
 ## Hashing
 - [Notes](./hashing/notes.md)
