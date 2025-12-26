@@ -97,3 +97,5 @@ def rolling_hash(s: str, window_size: int, base: int = 26, mod: int = 10**9 + 7)
 
 
 ## Examples
+#### [Shortest Palindrome](./shortest_palindrome/description.md)
+#### [Longest Happy Prefix](./longest_happy_prefix/description.md)
