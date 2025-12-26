@@ -868,6 +868,11 @@ Table of Contents:
   - [Find Kth Bit in Nth Binary String](./recursion/find_kth_bit_in_nth_binary_string/description.md)
   - [Parsing a Boolean Expression](./recursion/parsing_a_boolean_expression/description.md)
 
+## Rolling Hash
+- [Notes](./rolling_hash/notes.md)
+- Examples:
+  - [Shortest Palindrome](./rolling_hash/shortest_palindrome/description.md)
+
 ## Top Questions from Microsoft
 - Easy Level Examples
   - [Two Sum](./Microsoft_top_questions/two_sum/description.md)
