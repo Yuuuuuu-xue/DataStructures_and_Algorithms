@@ -873,6 +873,7 @@ Table of Contents:
 - Examples:
   - [Shortest Palindrome](./rolling_hash/shortest_palindrome/description.md)
   - [Longest Happy Prefix](./rolling_hash/longest_happy_prefix/description.md)
+  - [Sum of Scores of Built Strings](./rolling_hash/sum_of_scores_of_built_strings/description.md)
 
 ## Top Questions from Microsoft
 - Easy Level Examples
@@ -1142,3 +1143,4 @@ Table of Contents:
 - [Best Time to Buy and Sell Stock using Strategy](./two_pointers/best_time_to_buy_and_sell_stock_using_strategy/description.md)
 - [3Sum Closest](./two_pointers/3sum_closest/description.md)
 - [Longest Happy Prefix](./rolling_hash/longest_happy_prefix/description.md)
+- [Sum of Scores of Built Strings](./rolling_hash/sum_of_scores_of_built_strings/description.md)

@@ -76,6 +76,7 @@ def rolling_hash(s: str, window_size: int, base: int = 26, mod: int = 10**9 + 7)
 ## Prefix and Suffix
 - forward_hash = (forward_hash * hash_base + self.val(current_char)) % mod_value
 - reverse_hash = (reverse_hash + self.val(current_char) * power_value) % mod_value
+- substring hash = `hash(s[i:j]) = (vals[j] - valus[i] * power[j - i]) % mod`
 
 
 ## Complexity Analysis
@@ -99,3 +100,4 @@ def rolling_hash(s: str, window_size: int, base: int = 26, mod: int = 10**9 + 7)
 ## Examples
 #### [Shortest Palindrome](./shortest_palindrome/description.md)
 #### [Longest Happy Prefix](./longest_happy_prefix/description.md)
+#### [Sum of Scores of Built Strings](./sum_of_scores_of_built_strings/description.md)
