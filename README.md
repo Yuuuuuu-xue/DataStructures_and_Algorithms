@@ -96,6 +96,7 @@ Table of Contents:
     - [Peak Index in a Mountain Array](./divide_and_conquer/peak_index_in_a_mountain_array/description.md)
     - [Maximum Running Time of N Computers](./divide_and_conquer/maximum_running_time_of_n_computers/description.md)
     - [Reverse Pairs](./divide_and_conquer/reverse_pairs/description.md)
+    - [Last Day Where You Can Still Cross](./divide_and_conquer/last_day_where_you_can_still_cross/description.md)
   
 ## Tree
 - [General Notes](./tree/notes.md)
