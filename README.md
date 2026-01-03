@@ -1023,6 +1023,7 @@ Table of Contents:
 - [Palindrome Partitioning](./backtracking/palindrome_partitioning/description.md)
 - [Letter Combinations of a Phone Number](./backtracking/letter_combinations_of_a_phone_number/description.md)
 - [N Queens](./array/n_queens/description.md)
+- [Restore IP Addresses](./backtracking/restore_ip_addresses/description.md)
 
 #### Graphs
 - [Number of Islands](./disjoint_set/number_of_islands/description.md)
@@ -1147,3 +1148,4 @@ Table of Contents:
 - [3Sum Closest](./two_pointers/3sum_closest/description.md)
 - [Longest Happy Prefix](./rolling_hash/longest_happy_prefix/description.md)
 - [Sum of Scores of Built Strings](./rolling_hash/sum_of_scores_of_built_strings/description.md)
+- [Restore IP Addresses](./backtracking/restore_ip_addresses/description.md)
