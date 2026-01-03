@@ -869,6 +869,7 @@ Table of Contents:
 - Examples:
   - [Find Kth Bit in Nth Binary String](./recursion/find_kth_bit_in_nth_binary_string/description.md)
   - [Parsing a Boolean Expression](./recursion/parsing_a_boolean_expression/description.md)
+  - [Decode String](./recursion/decode_string/description.md)
 
 ## Rolling Hash
 - [Notes](./rolling_hash/notes.md)
