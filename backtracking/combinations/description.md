@@ -30,3 +30,4 @@ When we push `x` to `curr`, after recursive call, we will backtrack and pop `x` 
 
 ## Solution
 - [C++](solution.cpp)
+- [Python](./solution.py)
