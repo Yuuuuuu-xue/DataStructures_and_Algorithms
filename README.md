@@ -863,6 +863,7 @@ Table of Contents:
 - [Best Time to Buy and Sell Stock using Stategy](./two_pointers/best_time_to_buy_and_sell_stock_using_strategy/description.md)
 - [3Sum Closest](./two_pointers/3sum_closest/description.md)
 - [Longest Repeating Character Replacement](./two_pointers/longest_repeating_character_replacement/description.md)
+- [Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](./two_pointers/number_of_subarrays_of_size_k_and_average_greater_than_or_equal_to_threshold/description.md)
 
 ## Recursion
 - [Notes](./recursion/notes.md)
