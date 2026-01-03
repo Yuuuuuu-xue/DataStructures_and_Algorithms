@@ -864,6 +864,7 @@ Table of Contents:
 - [3Sum Closest](./two_pointers/3sum_closest/description.md)
 - [Longest Repeating Character Replacement](./two_pointers/longest_repeating_character_replacement/description.md)
 - [Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](./two_pointers/number_of_subarrays_of_size_k_and_average_greater_than_or_equal_to_threshold/description.md)
+- [Grumpy Bookstore Owner](./two_pointers/grumpy_bookstore_owner/description.md)
 
 ## Recursion
 - [Notes](./recursion/notes.md)
