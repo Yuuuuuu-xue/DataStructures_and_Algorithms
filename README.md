@@ -625,6 +625,7 @@ Table of Contents:
   - [Copy List with Random Pointer](./linked_list/copy_list_with_random_pointer/description.md)
   - [Next Greater Node In Linked List](./linked_list/next_greater_node_in_linked_list/description.md)
   - [Insertion Sort List](./linked_list/insertion_sort_list/description.md)
+  - [Reorder List](./linked_list/reorder_list/description.md)
 
 ## Array
 - Examples:
