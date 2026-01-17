@@ -113,3 +113,4 @@ Table of Contents:
 #### [Snakes and Ladders](./snakes_and_ladders/description.md)
 #### [Maximum Candies You Can Get from Boxes](./maximum_candies_you_can_get_from_boxes/description.md)
 #### [Delete Duplicate Folders in System](./delete_duplicate_folders_in_system/description.md)
+#### [All Paths from Source to Target](./all_paths_from_source_to_target/description.md)

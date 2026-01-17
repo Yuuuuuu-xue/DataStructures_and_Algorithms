@@ -387,6 +387,7 @@ Table of Contents:
   - [Snakes and Ladders](./graphs/snakes_and_ladders/description.md)
   - [Maximum Candies You Can Get from Boxes](./graphs/maximum_candies_you_can_get_from_boxes/description.md)
   - [Delete Duplicate Folders in System](./graphs/delete_duplicate_folders_in_system/description.md)
+  - [All Paths from Source to Target](./graphs/all_paths_from_source_to_target/description.md)
 
 ## Dijkstra's Algorithm
 - [Notes](./dijkstra_algorithm/notes.md)
